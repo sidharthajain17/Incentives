@@ -46,7 +46,8 @@ README.md          dashboard: coverage and last refresh dates
 CHANGELOG.md       dated log of every change
 
 framework/         how we think
-  decode-template.md        common format for every policy
+  decode-template.md        inward format: how a policy is written into the library
+  output-templates.md       outward format: what Sid receives, and in what order
   instrument-library.md     standard list of incentive instruments
   idea-levers.md            the thinking moves run on every mandate
   intake-questions.md       questions to ask at the start of a mandate
