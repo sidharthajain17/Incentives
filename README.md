@@ -8,7 +8,7 @@ Rules: see CLAUDE.md. Claude maintains everything here.
 | Area | Status |
 |---|---|
 | Rulebook (CLAUDE.md) | Version 1 saved, open for Sid's review |
-| Framework files | Not started. Next: decode template, section by section with Sid |
+| Framework files | Decode template saved, open for Sid's review. Still to do: instrument library, idea levers, intake questions, value bridge method, state selection criteria |
 | Central ministries | Not started |
 | Regional schemes | Not started |
 | States | Not started. Gujarat material to be moved in first |
@@ -18,6 +18,6 @@ Rules: see CLAUDE.md. Claude maintains everything here.
 | Watch list | Not started |
 
 ## Next steps
-1. Sid reviews CLAUDE.md
-2. Decode template agreed section by section
-3. Gujarat moved in as first state
+1. Sid reviews CLAUDE.md and `framework/decode-template.md`
+2. Remaining framework files, starting with the instrument library and the value bridge method
+3. Gujarat moved in as first state, decoded against the template
