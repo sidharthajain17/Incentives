@@ -536,10 +536,11 @@ Available to Mega and Ultra Mega projects in thrust and selected thrust sectors,
 
 ### Still to decode
 
-1. The policy document itself, 44 pages, held in `source-documents/` — SCALE Committee, MSME, startup, research and development, service sector, Project THRIVE relocation, green industrial parks
-2. The MSME scheme Resolution of 25 September 2026 — not yet obtained
-3. Gujarat state sectoral policies, now known to be **mutually exclusive** with this scheme, which makes the comparison a real decision
-4. The payment record, from Demand No. 49, Major head 2852, Minor head 800, Sub head 36
+1. The policy document itself, 44 pages, held in `source-documents/` — SCALE Committee, research and development centres, service sector, Project THRIVE relocation, green industrial parks
+2. Gujarat state sectoral policies, now known to be **mutually exclusive** with this scheme, which makes the comparison a real decision
+3. The payment record, from Demand No. 49, Major head 2852, Minor head 800, Sub head 36
+
+**MSME is out of scope.** The practice is large conglomerates, multinationals and public sector undertakings, so the Large, Mega and Ultra Mega track governs. MSME provisions are recorded only where they bear on a large-unit question, and the MSME scheme Resolution of 25 September 2026 is not being obtained.
 
 ### Intake questions this decode suggests
 

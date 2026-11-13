@@ -36,10 +36,13 @@ Rules: see CLAUDE.md. Claude maintains everything here.
 | **≈ 8 March 2027** | Six-month window to elect the previous Aatmanirbhar scheme instead. Final and irrevocable |
 | **4 October 2027** | Hard backstop for commencing production under the previous scheme |
 
+## Scope note
+
+**MSME is out of scope for this library.** Sid's practice is large conglomerates, multinationals and public sector undertakings, so the Large, Mega and Ultra Mega track is what matters. MSME provisions are recorded only where they bear on a large-unit question. The MSME scheme Government Resolution of 25 September 2026 is not being obtained.
+
 ## Next steps
-1. Decode the Gujarat policy document itself, held in `source-documents/` — SCALE Committee, MSME, startup, R&D, service sector, Project THRIVE
-2. Obtain and decode the MSME scheme Government Resolution of 25 September 2026
-3. Gujarat state sectoral policies — now known to be **mutually exclusive** with the general scheme, so the comparison is a real decision
-4. Gujarat payment record from Demand No. 49, Major head 2852, Minor head 800, Sub head 36
-5. Central overlay and the stacking rules against the 16 thrust sectors
-6. Watch list started, so sunset dates and pending notifications are tracked
+1. Decode the Gujarat policy document itself, held in `source-documents/` — SCALE Committee, service sector, Project THRIVE relocation, green industrial parks, R&D centres
+2. Gujarat state sectoral policies — now known to be **mutually exclusive** with the general scheme, so the comparison is a real decision rather than an addition
+3. Gujarat payment record from Demand No. 49, Major head 2852, Minor head 800, Sub head 36
+4. Central overlay and the stacking rules against the 16 thrust sectors
+5. Watch list started, so sunset dates and pending notifications are tracked
