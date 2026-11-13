@@ -1,64 +1,67 @@
 # Gujarat: sources
 
-Every source used for the Gujarat decodes, with date accessed and what it was used for.
+Every source used for the Gujarat decodes, with what it supplied.
 
-Rulebook position: legal and regulatory positions rest only on government sources. Professional-firm material is recorded here where it has been used as a stand-in, and is tagged as such so that it is replaced rather than relied on.
+Rulebook position: legal and regulatory positions rest only on government sources.
+
+**Status: the primary documents are now held in the repository.** Gujarat publishes its policy on the Industries Commissionerate site and its Government Resolutions nowhere reliably — the Industries and Mines Department's own Government Resolutions page still lists 2015-era resolutions, and the Investor Facilitation Portal does not carry the 2026 policy at all. Both government sites also block automated access. The documents were therefore downloaded manually and committed here. **This is the pattern to expect on other states, and the reason the repository now holds source documents rather than links alone.**
 
 ---
 
-## Government sources — reachable
+## Primary documents held in the repository
 
-| Source | URL | Date accessed | Used for |
+`states/gujarat/source-documents/`
+
+| File | Document | Reference | Status |
 |---|---|---|---|
-| Gujarat Information Department, press release on the Industrial Policy 2026 | https://gujaratinformation.gujarat.gov.in/PressReleaseDetailsL/?id=44172&DepId=36&DistrictId=35&LanguageId=1 | 13 Nov 2026 | Confirms the policy exists, its name, and that it was announced by the Chief Minister and Deputy Chief Minister. Page is robots-disallowed to automated fetch; confirmed through search indexing only. |
-| Department of Science and Technology, Gujarat — Policies | https://dst.gujarat.gov.in/Home/Policies | 13 Nov 2026 | Confirms Viksit Gujarat Data Center Policy 2026-29 and Science Technology and Innovation Policy 2026-31 exist and are hosted. Source for the state sectoral layer. |
-| Investor Facilitation Portal, Government Policies | https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/government_policies.jsp?pagedisp=static | 13 Nov 2026 | Full list of 2020 and 2015 policy schemes. Confirms VGIP 2026 is **not yet listed** on the portal. |
-| MSME Commissionerate, Gujarat — Policies | https://msmec.gujarat.gov.in/policies | 13 Nov 2026 | Confirms 2020 policy and its taluka list are hosted; VGIP 2026 not yet listed. |
-| Gujarat Development Programme 2026-27, Budget Publication No. 35 | https://gad.gujarat.gov.in/personnel/images/pdf/dp-eng-26-27.pdf | 13 Nov 2026 | State industrial standing: first among states in industrial output and fixed capital, second in net value added, per Annual Survey of Industries 2023-24. |
-| **Press Information Bureau, Government of India** | https://www.pib.gov.in/PressReleasePage.aspx?PRID=2274075&reg=22&lang=1 | 13 Nov 2026 | **Confirms the announcement date of 15 June 2026; that 21 key sectors were identified; and that the Industries Commissioner is Shri P. Swaroop.** Resolved the disputed sector count. |
-| Gujarat Economics and Statistics, list of talukas | https://gujecostat.gujarat.gov.in/uploads/mediafiles/list%20of%20taluka%20eng.pdf | 13 Nov 2026 | Official taluka names and district mapping, for checking the Annexure-A classification. |
+| `gr-large-mega-ultra-mega-2026-09-08.pdf` | Scheme for assistance to Large, Mega and Ultra Mega Industries under VGIP 2026, with Annexure-A thrust sectors and indicative sub-sectors | IMD/WRT/e-file/9/2026/2320/I, approved 8 Sept 2026 | **Read in full.** Source for the whole of the decode |
+| `gr-taluka-classification-2026-09-08.pdf` | Classification of talukas into Category A and Category B, Annexure-A, 268 talukas across 34 districts | IMD/HMR/e-file/9/2026/2211/I, approved 8 Sept 2026 04:19 | **Read in full.** Source for the siting analysis |
+| `viksit-gujarat-industrial-policy-2026.pdf` | The policy document itself, 44 pages | Announced 15 June 2026 | **Held, not yet read in full.** Contains the MSME, startup, R&D, service-sector, SCALE Committee, Project THRIVE and green industrial park provisions |
 
-## Government sources — the route to the primary documents
+Both Resolutions are signed by Yogina J. Patel, Under Secretary, Industries and Mines Department, and approved by the Additional Chief Secretary, Industries and Mines Department. The taluka Resolution records Finance Department concurrence by note of 10 August 2026.
 
-**iNDEXTb (Industrial Extension Bureau), Government of Gujarat — https://indextb.com**
+### Still to obtain
 
-This is the government host that carries the Viksit Gujarat Industrial Policy 2026 documents, and it is the route to use for verification. It blocks automated fetching but opens normally in a browser.
-
-| Document | Where on iNDEXTb | Date |
+| Document | Reference | Why it matters |
 |---|---|---|
-| Viksit Gujarat Industrial Policy 2026 | Government Policy repository, https://indextb.com/policy | Listed |
-| Scheme for assistance to Large, Mega and Ultra Mega Industries | Latest Updates | 9 Sept 2026 |
-| Classification (category) of talukas for incentive schemes | Latest Updates. Direct file: https://indextb.com/files/2026/9/fca7995b-2974-4182-b6ba-664e70ba23de_Taluka%20classification%20GR%202026.pdf | 9 Sept 2026 |
-| Science, Technology and Innovation Policy of Gujarat 2026-2031 | Government Policy repository | Listed |
+| Scheme for assistance to MSMEs | IMD/WRT/e-file/9/2026/2630/CH, 25 Sept 2026 | The MSME slabs, support schemes and claim mechanics |
+| Implementation guidelines | To be issued by the Industries Commissioner under para 18(7) | Likely to carry the expansion threshold test and claim procedure |
+| Gujarat state sectoral policies | Various | Now known to be **mutually exclusive** with this scheme, so the comparison is a real decision |
 
-The indexed text of the taluka classification GR has been read and corroborates the Category A / Category B split and its direction. The GR records that the reclassification was undertaken because of the new policy and because new talukas had been created in the state.
+---
 
-## Government sources — identified but not reachable in this session
+## Government sources reached online
 
-| Source | URL | Position |
-|---|---|---|
-| Viksit Gujarat Industrial Policy 2026, policy document | https://ic.gujarat.gov.in/documents/Viksit-Gujarat-Industrial-Policy2026_new.pdf | **Primary source. Not fetchable from this session.** This is the document the decode must be read against. |
-| Industries Commissionerate, Industrial Policy page | https://ic.gujarat.gov.in/industrial-policy.aspx | Robots-disallowed to automated fetch. Still listed the 2020 policy as current at last indexing. |
-| GR: Scheme for assistance to Large, Mega and Ultra Mega Industries, 8 Sept 2026 | Industries and Mines Department | Not located on a government host. |
-| GR: Taluka classification into Category A and Category B, 8 Sept 2026 | Industries and Mines Department | Not located on a government host. **Highest-value missing document.** |
-| GR: MSME assistance scheme, 25 Sept 2026 | Industries and Mines Department | Not located on a government host. |
+| Source | URL | Date accessed | Supplied |
+|---|---|---|---|
+| Press Information Bureau | https://www.pib.gov.in/PressReleasePage.aspx?PRID=2274075&reg=22&lang=1 | 13 Nov 2026 | Announcement date of 15 June 2026; 21 sectors identified; Industries Commissioner Shri P. Swaroop |
+| Gujarat Development Programme 2026-27, Budget Publication No. 35 | https://gad.gujarat.gov.in/personnel/images/pdf/dp-eng-26-27.pdf | 13 Nov 2026 | State industrial standing: first in industrial output and fixed capital, second in net value added, per ASI 2023-24 |
+| Industries Commissionerate | https://ic.gujarat.gov.in/ | 13 Nov 2026 | Officials: Industries Commissioner Shri Swaroop P, IAS; Minister of Industry Shri Harsh Rameshkumar Sanghvi. Policy page still lists the 2020 policy, Aatmanirbhar Gujarat Scheme 2022 and Gujarat Textile Policy 2024. Blocks automated access |
+| Industries Commissionerate, state government contacts | https://ic.gujarat.gov.in/state-gov-contact.aspx | 13 Nov 2026 | Principal Secretary, Industries and Mines: Mr M K Das, IAS. **Conflicts with a separate listing of Shri Kamal Dayani, IAS as Additional Chief Secretary — unresolved** |
+| Industries and Mines Department | https://imd.gujarat.gov.in/ and http://www.imd-gujarat.gov.in/policy | 13 Nov 2026 | Confirms the department's own Government Resolutions and policy pages are not maintained — latest entries are 2015-16 |
+| Investor Facilitation Portal | https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/government_policies.jsp?pagedisp=static | 13 Nov 2026 | Full list of 2020 and 2015 schemes. Confirms VGIP 2026 is **not listed** |
+| Department of Science and Technology, policies | https://dst.gujarat.gov.in/Home/Policies | 13 Nov 2026 | Viksit Gujarat Data Center Policy 2026-29 and Science Technology and Innovation Policy 2026-31 are hosted here. Source for the state sectoral layer |
+| Gujarat Economics and Statistics, taluka list | https://gujecostat.gujarat.gov.in/uploads/mediafiles/list%20of%20taluka%20eng.pdf | 13 Nov 2026 | Official taluka names and district mapping |
+| iNDEXTb, Industrial Extension Bureau | https://indextb.com | 13 Nov 2026 | Carries the Resolutions under Latest Updates. Blocks automated access but opens in a browser. Useful fallback host |
 
-## Stand-in sources used, to be replaced
+---
 
-Used because the government copies could not be reached. Everything drawn from these is tagged `interpretation` or `inferred` in the decode.
+## Market evidence, tagged as practice not law
 
-| Source | URL | Date accessed | What it supplied | Weight |
-|---|---|---|---|---|
-| Reproduction of the GR of 8 Sept 2026 | https://www.adaptassociates.com/docs/viksit-gujarat-industrial-policy-2026-large-mega-ultra-mega-gr.pdf | 13 Nov 2026 | Resolution number and date, operative period, size definitions, eligible investment inclusions and exclusions, ceilings and annual caps, EPF, stamp duty, procedure, clawback, committee structure. **Closest thing to the primary document found.** Source notes its own scanned tables were partly illegible. | Highest of the stand-ins |
-| Dhruva Advisors regulatory alert, 23 June 2026 | https://www.dhruvaadvisors.com/wp-content/uploads/2026/06/Viksit-Gujarat-Industrial-Policy-2026.pdf | 13 Nov 2026 | The 16 thrust sectors with sub-categories, the 5 selected thrust sectors, enterprise classification, R&D centre incentives, list of changes from 2020, SCALE Committee reference | Used for the thrust list |
-| Rödl & Partner, decoding the new industrial policy | https://www.roedl.com/en/insights/viksit-gujarat-decoding-new-industrial-policy-2026/ | 13 Nov 2026 | Component rates per tier, four strategic pillars, taluka categorisation direction, MSME rates | Cross-check on component rates |
-| EY India, Incentive insights podcast on VGIP 2026 | https://www.ey.com/en_in/media/podcasts/india-state-incentives/2026/07/decoding-viksit-gujarat-industrial-policy-2026 | 13 Nov 2026 | Confirms 16 thrust and 5 selected thrust sectors; R&D capital subsidy up to INR 250 Cr | Cross-check on sector counts |
+| Source | Supplied |
+|---|---|
+| Industries and Mines Department statement, October 2026, reported | Final eligibility certificates for 25 units, about INR 3,903 Cr of investment, 8,178 expected jobs, 22 units still under the Industrial Policy 2015; committee chaired by the Deputy Chief Minister |
+| Gujarat budget 2026-27, reported | Total outlay INR 4,08,053 Cr, surplus about INR 974 Cr, capital expenditure up 17.5%; Industries and Mines Department allocation INR 13,941.74 Cr, 3.42%, ranked 9th |
 
-**Conflicts between stand-in sources, unresolved:** the number of thrust sectors is reported variously as 11, 16 and "21+". Component sub-caps differ between reproductions. Both are on the verification list in the decode, Section 10.
+Professional-firm material was used in the first draft of this decode while the Resolutions were unavailable. **It has now been superseded throughout and is no longer relied upon.** Where it differed from the Resolution it was wrong on the taluka classification of Vagra, Morbi, Mundra and Anjar, and on the number of thrust sectors.
+
+---
 
 ## Still to gather
 
-- Gujarat payment and disbursement record under the 2015 and 2020 policies — state budget documents, assembly questions and answers, CAG reports
-- Gujarat state sectoral policies: electric vehicle, electronics, semiconductor, global capability centre, renewable energy, textiles, tourism
-- GIDC land allotment rates and process
-- Customised packages granted under earlier policies, for the deal database
+- Payment record: **Demand No. 49, Major head 2852 Industries, Minor head 800 Other expenditure, Sub head 36 Assistance to Large Industries** — the budget line is named in the Resolution, so provision and spend can be pulled from the Demands for Grants
+- Pending and arrear incentive claims — state assembly questions and answers
+- CAG findings on incentive administration in Gujarat
+- Gujarat state sectoral policies: electric vehicle, electronics, semiconductor, data centre, global capability centre, renewable energy, textiles, tourism
+- GIDC land allotment rates and process; whether the 6% government land lease provision of the 2020 policy carries forward
+- Customised packages granted under earlier policies, for `deals/`

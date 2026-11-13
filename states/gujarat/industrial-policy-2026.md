@@ -1,10 +1,6 @@
 # Viksit Gujarat Industrial Policy 2026
 
-> **Sourcing position, read first.** The Industries Commissionerate website blocks automated access and its policy page still lists the 2020 policy. The Investor Facilitation Portal and the MSME Commissionerate portal both list only the 2020 and 2015 policies.
->
-> **Two government sources have been reached and have confirmed material facts:** a Press Information Bureau release, which confirms the policy's announcement date of 15 June 2026, the Industries Commissioner, and that 21 key sectors were identified; and **iNDEXTb (indextb.com), the Gujarat government's own Industrial Extension Bureau, which hosts the Government Resolutions themselves.** iNDEXTb also blocks automated fetching, but the indexed text of the taluka classification Government Resolution has corroborated the taluka split and its direction.
->
-> Most figures below still rest on professional-firm reproductions, and are tagged accordingly. **iNDEXTb is the government host to go to for the primary documents** — see Section 10.
+> **Sourcing: verified.** This decode has been read against the Government Resolution itself, held in the repository at `states/gujarat/source-documents/`. The scheme Government Resolution for Large, Mega and Ultra Mega Industries and the taluka classification Government Resolution, both of 8 September 2026, have been read in full and every figure below comes from them. The policy document itself (44 pages) is also held but has not yet been read in full; the MSME, startup, research and development and service-sector provisions it contains are therefore still to be decoded, and are marked as such.
 
 ---
 
@@ -19,48 +15,52 @@ state:                 Gujarat
 authority:             Industries and Mines Department, Government of Gujarat;
                        administered by the Industries Commissionerate, Gandhinagar
 instrument:            policy document, operationalised by government resolutions
-document_ladder:       portal live (policy announced 15 June 2026; Large/Mega/Ultra
-                       Mega scheme GR and taluka classification GR both 8 Sept 2026;
-                       MSME scheme GR 25 Sept 2026; all hosted on iNDEXTb)
+document_ladder:       portal live. Policy announced 15 June 2026. Scheme GR for
+                       Large/Mega/Ultra Mega (IMD/WRT/e-file/9/2026/2320/I) and
+                       taluka classification GR (IMD/HMR/e-file/9/2026/2211/I) both
+                       approved 8 Sept 2026. MSME scheme GR 25 Sept 2026.
 tier:                  full
 
 # --- The three clocks ---
 policy_valid_from:     2026-06-01
 policy_valid_to:       2031-05-31
-application_window:    Registration before date of commencement of commercial
-                       production (DoCP), or within three months of the GR, whichever
-                       is later. Provisional eligibility certificate within three
-                       months of DoCP. Final eligibility certificate within three
-                       months of the end of the investment period; late filing
-                       accepted up to one year with proportionate reduction, not
-                       at all thereafter.
-benefit_tenure:        8 years (Large), 10 years (Large general, Mega), 12 years
-                       (Ultra Mega), running from DoCP
+application_window:    Registration before DoCP or three months from issue of the GR,
+                       whichever is later, and in any case before the last date of the
+                       operative period. Three months from 8 Sept 2026 = 8 Dec 2026.
+                       PEC within three months of DoCP, of registration certificate, or
+                       of the GR, whichever is later. FEC within three months of the end
+                       of the investment period; delayed filing accepted up to one year
+                       with proportionate reduction; refused beyond one year.
+benefit_tenure:        8 years (Large thrust and Large selected thrust), 10 years
+                       (Large general, Mega), 12 years (Ultra Mega), from DoCP
 
 # --- Money envelope ---
-outlay:                No scheme-level cap identified. Stated investment ambition of
-                       about INR 10 lakh crore over the policy period is a target for
-                       investment attracted, not a subsidy outlay.
-rationing:             budget at payout (open-ended entitlement, annual per-unit
-                       ceilings, state budget line at disbursement)
-utilisation:           unknown (policy too new; first claims not yet due)
+outlay:                No scheme cap. Open-ended entitlement met from the sanctioned
+                       grant of the financial year under Demand No. 49, Major head 2852
+                       Industries, Minor head 800 Other expenditure, Sub head 36
+                       Assistance to Large Industries.
+rationing:             budget at payout, plus binding per-unit annual ceilings in both
+                       percentage and absolute rupee terms, with no carry forward
+utilisation:           unknown (no claim cycle has yet completed)
 
 # --- Classification ---
 instruments:           capex | factor cost | tax reimbursement | land and infrastructure
 project_types:         new unit | expansion | diversification
+                       (modernisation, renovation, rehabilitation and rationalisation
+                       are expressly NOT eligible)
 size_classes:          MSME | large | mega | ultra mega
-sectors:               16 thrust sectors and 5 selected thrust sectors; general
-                       manufacturing eligible at the lowest slab
+sectors:               16 listed thrust sectors with indicative sub-sectors, plus a
+                       residual clause; 5 selected thrust sectors; general manufacturing
+                       eligible at the lowest slab
 status:                live
 
 # --- Provenance ---
-sources:               see states/gujarat/sources.md
+sources:               Government Resolutions held at states/gujarat/source-documents/;
+                       see states/gujarat/sources.md
 last_amended:          MSME scheme GR of 25 September 2026
 last_reviewed:         2026-11-13
-certainty:             interpretation (government copy not yet read)
+certainty:             fact (read against the Government Resolution)
 ```
-
-**Depth tier:** full.
 
 ---
 
@@ -68,51 +68,57 @@ certainty:             interpretation (government copy not yet read)
 
 ### A. What it is and where it came from
 
-The Viksit Gujarat Industrial Policy 2026 is Gujarat's general state industrial policy, announced in June 2026 by the Chief Minister and the Deputy Chief Minister (who also holds the Industries portfolio) under the framing "Viksit Gujarat to Viksit Bharat @ 2047". *(interpretation)*
+The Viksit Gujarat Industrial Policy 2026 is Gujarat's general state industrial policy, announced on 15 June 2026 under the framing "Viksit Gujarat se Viksit Bharat". *(fact — PIB release; the phrase appears in the preamble to the scheme Resolution)*
 
-It replaces the Gujarat Industrial Policy 2020, which ran 7 August 2020 to 7 August 2025, and the Aatmanirbhar Gujarat Schemes 2022 issued under it. *(interpretation)*
+The policy document states intent. The money rules sit in Government Resolutions of the Industries and Mines Department:
 
-The document ladder matters here and is unusually clean. The policy document is a statement of intent. The money rules sit in three Government Resolutions of the Industries and Mines Department:
-
-| Document | Date | What it carries |
+| Document | Reference | Approved |
 |---|---|---|
-| Scheme for assistance to Large, Mega and Ultra Mega Industries | 8 Sept 2026 | All slabs, ceilings, eligible investment definition, claim mechanics, clawback |
-| Taluka classification into Category A and Category B | 8 Sept 2026 | Which of the state's talukas sit in the higher slab |
-| MSME assistance scheme | 25 Sept 2026 | MSME slabs and support schemes |
+| Scheme for assistance to Large, Mega and Ultra Mega Industries | IMD/WRT/e-file/9/2026/2320/I | 8 Sept 2026 |
+| Classification of talukas into Category A and Category B | IMD/HMR/e-file/9/2026/2211/I | 8 Sept 2026, 04:19 |
+| Scheme for assistance to MSMEs | IMD/WRT/e-file/9/2026/2630/CH | 25 Sept 2026 |
 
-A government resolution is an executive order of the department. It is easier for the state to amend than a gazetted notification, which is relevant to how much weight a stability argument carries in a negotiated package. *(interpretation)*
+Both 8 September Resolutions were approved by the Additional Chief Secretary, Industries and Mines Department, and signed by Yogina J. Patel, Under Secretary. The taluka Resolution records the concurrence of the Finance Department by note of 10 August 2026. *(fact)*
 
-**Election of policy.** A unit that commenced commercial production before 1 June 2026 is governed exclusively by the earlier scheme and cannot opt in. Other units may elect between the earlier scheme and VGIP 2026 within six months of the GR, and the election is final. *(interpretation — the six-month clock and its start date need checking against the government copy, because it determines a live deadline around March 2027)*
+A government resolution is an executive order of the department, easier for the state to amend than a gazetted notification. That bears directly on how much weight a stability argument carries in a negotiated package. *(interpretation)*
 
-### B. The three clocks
+### B. Election between the old scheme and this one
 
-| Clock | Position |
+This is a live deadline and is set out precisely in para 4A of the scheme Resolution. *(fact)*
+
+| Position | Rule |
 |---|---|
-| Policy validity | 1 June 2026 to 31 May 2031. The test is commencement of commercial production inside this window, not the date of application. |
-| Application window | Registration before DoCP or within three months of the GR, whichever is later. A separate registration deadline of 8 December 2026 has been reported for projects already in production. *(evolving — verify)* |
-| Benefit tenure | 8 years (Large thrust and Large selected thrust), 10 years (Large general, Mega), 12 years (Ultra Mega), from DoCP |
+| Commenced commercial production **before** 1 June 2026 | Eligible **only** under the previous scheme. Cannot opt in. |
+| Not commenced before 1 June 2026 | May apply under either the previous scheme or this one |
+| To choose the previous scheme | Must apply and exercise the option **within six months of the issue of the GR**, so by approximately **8 March 2027** |
+| Effect of the option | **Final and irrevocable.** No change of option will be entertained. |
+| After six months | All applications considered only under this scheme |
+| Hard backstop | **No undertaking may avail the previous scheme unless commercial production commences on or before 4 October 2027** |
 
-There is a fourth clock that the template does not name but which decides eligible spend: the **investment period**, being the window after DoCP during which capital expenditure still counts.
+The "previous scheme" means the Aatmanirbhar Gujarat Scheme for Assistance to Large Industries and Thrust Sector (Resolution MIS-102022-1271(2)-I of 5 October 2022) and the Aatmanirbhar Gujarat Scheme for Assistance to Mega Industries (Resolution MIS-102022-1271(3)-I of 5 October 2022). *(fact)*
 
-| Project size | Investment period after DoCP |
+### C. The three clocks, plus the fourth
+
+**Registration deadline.** Registration is mandatory for all undertakings. The application must be made before the date of commencement of commercial production, or **three months from the issue of the GR, whichever is later** — and in any case before the last date of the operative period. Three months from 8 September 2026 is **8 December 2026**. *(fact — para 8.2)*
+
+**Investment period.** Capital expenditure continues to count after production begins, on a sliding scale by project size. Assets acquired and paid for from **1 January 2026** count. *(fact — para 3.2)*
+
+| Gross fixed capital investment | Extended investment period from DoCP |
 |---|---|
 | Up to INR 1,000 Cr | 18 months |
 | Up to INR 10,000 Cr | 24 months |
-| Up to INR 1 lakh Cr | 36 months |
-| Above INR 1 lakh Cr | 48 months |
+| Up to INR 1,00,000 Cr | 36 months |
+| Above INR 1,00,000 Cr | 48 months |
 
-Assets acquired and paid for from 1 January 2026 count, which back-dates eligibility five months before the policy start. *(interpretation)*
+**Date of commencement of commercial production** is the date of the **first commercial sale bill** of the products the project was set up for. For an expansion or diversification, it is the first commercial sale bill of the products made by that expansion or diversification. *(fact — para 1.19)*
 
-### C. Where the money comes from and how it runs out
+### D. Where the money comes from
 
-No fixed pot has been identified. This follows the normal state pattern: the policy creates an open-ended entitlement for anyone who qualifies, and rations at payout through the annual budget line of the Industries and Mines Department.
+No scheme-level cap. Expenditure is met from the sanctioned grant of the financial year under **Demand No. 49, Major head 2852 Industries, Minor head 800 Other expenditure, Sub head 36 Assistance to Large Industries.** *(fact)*
 
-The rationing is made explicit in the scheme design through two separate caps that bite before the headline ceiling does:
+This is the budget line to track for the payment-record question. It is named in the Resolution itself, so the actual provision and spend can be pulled from the Demands for Grants year by year.
 
-1. A **percentage annual ceiling** (2.0% to 6.5% of eligible investment per year depending on tier)
-2. An **absolute annual ceiling** in rupees (INR 150 Cr, 300 Cr, 750 Cr or 1,250 Cr by size class)
-
-Unused annual amounts cannot be carried forward. *(interpretation)* This is the single most important commercial feature of the policy and is dealt with in Section 4D and Section 9.
+Rationing happens at two levels: the annual state budget provision, and the per-unit annual ceilings in Section 4D below, which bind far harder.
 
 ---
 
@@ -120,41 +126,33 @@ Unused annual amounts cannot be carried forward. *(interpretation)* This is the 
 
 ### A. The problem being solved
 
-Gujarat is not competing from weakness. It holds first position among states in industrial output and fixed capital and second in net value added. *(market view — from state budget documents)* The competition the policy answers is Tamil Nadu, Maharashtra, Karnataka, Andhra Pradesh and increasingly Uttar Pradesh and Madhya Pradesh, all of which have refreshed their industrial and sectoral packages, and several of which outbid Gujarat on headline percentage.
+Gujarat is first among states in industrial output and fixed capital and second in net value added. *(fact — Annual Survey of Industries 2023-24)* It is not bidding from weakness, and the policy shows it: headline ceilings sit below what several competing states offer.
 
-Two gaps are visible in the design:
+Three gaps are visible in the design, and each is addressed by a specific instrument:
 
-**Employment intensity.** Gujarat's industrial base is chemicals, petrochemicals, pharmaceuticals and textiles: capital-intensive, not labour-intensive. Jobs per rupee invested are low. The five selected thrust sectors sitting at the top slab (sports goods, toys, footwear, robots, drones) are not sectors in which Gujarat has depth. They are labour-intensive or emerging-technology sectors, placed at 50% to buy a base the state does not currently have. *(interpretation)*
+**Employment intensity.** Gujarat's base is chemicals, petrochemicals, pharmaceuticals and textiles — capital-intensive, with low jobs per rupee. The five selected thrust sectors placed at the top 50% band (sports goods, toys, footwear, robots, drones) are not sectors in which Gujarat has depth. They are labour-intensive or emerging-technology sectors, bought at a premium. *(interpretation)*
 
-**Intra-state spread.** The taluka Category A and Category B split, reported as 130 and 138 talukas, pushes investment away from the Ahmedabad–Vadodara–Surat–Rajkot corridor into less developed talukas by paying a materially higher slab there. *(interpretation — the direction of the A/B split needs verifying, because it is counter-intuitive against other states and getting it backwards would invert every siting recommendation)*
+**Intra-state spread.** The taluka split pays a materially higher band in less developed talukas, and the established corridor sits on the lower band. Section 3 sets this out; it is the most consequential feature of the policy.
 
-### B. What behaviour is being bought
+**Attracting units from other states.** The High Power Committee's role expressly includes "facilitate relocation of industries from other States". *(fact — para 13)* Gujarat is actively in the business of taking projects off competing states, and has put that at Chief Minister level.
 
-Reading the instrument design backwards tells you what the state wants:
+### B. What the design tells you the state is buying
 
-- **Capital subsidy as the dominant component** says the state is buying the asset being built, not the output. The entitlement is anchored to eligible fixed capital investment throughout.
-- **Land excluded from eligible investment** says the state will not pay for land appreciation, and will instead deal with land separately through GIDC allotment and stamp duty reimbursement.
-- **Independent power plants excluded, captive power included** says the state wants power built for the unit, not merchant generation dressed as industry.
-- **Employment thresholds attached only to Mega and Ultra Mega** says jobs are the price of the top slab, not of entry.
-- **A domicile condition on managerial and supervisory staff** says local employment is a continuing condition and not a one-time test.
+Reading the instruments backwards:
 
-### C. Who owns it in government and how strong the backing is
+- **Land excluded from eligible investment entirely** — the state will not pay for land, and handles it separately through GIDC allotment and stamp duty reimbursement.
+- **Captive power eligible, independent power plant including renewable expressly excluded** — the state subsidises generation built for the unit, not merchant generation presented as industry. *(fact — para 1.16(XI))*
+- **Modernisation, renovation, rehabilitation and rationalisation expressly ineligible** *(fact — para 18(4))* — the state is buying new capacity, not the upkeep of old capacity. This is a narrower project-character test than most state policies and is easy to miss.
+- **Worker housing, hospitals, schools, creches, feeder roads and worker transport all count as eligible project infrastructure** *(fact — para 1.15D)* — social infrastructure around the plant is being actively subsidised.
+- **Employment thresholds only at Mega and Ultra Mega** — jobs are the price of the top bands, not of entry.
 
-The Industries and Mines Department owns it. The Industries portfolio sits with the Deputy Chief Minister, which is a higher political placement than in most states and is itself a signal of backing. *(interpretation)*
+### C. Who owns it and how strong the backing is
 
-The sanctioning structure is tiered by investment size, with the top tier chaired by the Industries Minister, and a High Power Committee chaired by the Chief Minister sitting above it for customised packages. A CM-chaired committee with an express mandate to decide matters not covered by the GR is a strong indicator that the published policy is a floor. *(interpretation)*
+The Industries portfolio sits with the Deputy Chief Minister. The sanctioning ladder runs from the Industries Commissioner up to a committee chaired by the Industries Minister, with a High Power Committee chaired by the Chief Minister above that. The composition is set out in Section 5. *(fact — paras 12 and 13)*
 
-Gujarat has run successive industrial policies in 2015, 2020 and now 2026 without materially interrupting entitlements across the transition. *(market view)*
+The High Power Committee's residual clause is the strongest signal in the document: **"Any matter not expressly provided for herein, or any matter pertaining to the overall industrial development and strengthening of the State's industrial ecosystem, shall be referred to the High Power Committee for consideration. The High Power Committee shall examine and decide such matter, and its decision shall be final and binding."** *(fact — para 13)*
 
-### D. What this tells us in practice
-
-Where wording is unclear, the officer reads it against purpose. Three purposes to argue from:
-
-1. **Investment attracted** is the headline the state is measured on. Arguments that increase committed capital expenditure land well.
-2. **Employment**, specifically direct jobs and local domicile, is the stated price of the higher slabs.
-3. **Thrust sector alignment** is the state's own sectoral agenda. A project that can honestly be positioned inside a thrust sector sub-category is arguing with the policy, not against it.
-
-For a project that fits none of these, the natural route is the customised package rather than a strained reading of the slab tables.
+A Chief-Minister-chaired body with express authority over anything the Resolution does not cover means the published policy is a floor for a project large enough to reach that room.
 
 ---
 
@@ -162,131 +160,127 @@ For a project that fits none of these, the natural route is the customised packa
 
 ### Entity
 
-A new industrial undertaking, or an existing one carrying out a qualifying expansion or diversification. No requirement for a fresh special purpose vehicle has been identified, and no requirement that the claimant be an Indian company. *(interpretation — to verify)*
+A new industrial undertaking, or an existing one undertaking expansion or diversification, commencing commercial production during the operative period. *(fact — para 2.1)*
 
-Large status is evidenced through an Industrial Entrepreneur Memorandum filed or amended, MCA21 project registration, or another central licence. The Industrial Entrepreneur Memorandum is the filing a large manufacturer makes with the central Department for Promotion of Industry and Internal Trade recording what it intends to make and at what capacity.
+**Two hard restrictions that shape structuring:**
 
-**Maximum of two incentive availments during the operative period.** *(interpretation)* This is a material constraint on phasing strategy and is picked up in Section 10.
+1. **An undertaking that has availed any incentive for the same gross fixed capital investment under any scheme of the State Government or any State agency is not eligible, unless specifically provided.** *(fact — para 2.2)*
+2. **An undertaking may avail incentives a maximum of two times during the operative period of the policy, whether the projects are new, expansion or diversification.** *(fact — para 2.4)*
 
-### Product or activity
+**The Industrial Complex provision is the structuring lever.** Where an industrial unit sets up multiple projects at a single location and **maintains separate books of account with separately identifiable fixed capital investment**, those projects may apply separately and are treated as individual units for calculating the incentive. Existing common utilities are not counted in eligible investment. *(fact — para 1.8)*
 
-Three tiers, and the tier decides everything:
+Read together: the two-availment limit applies to the undertaking, but genuinely separate projects with separate books at one location can be treated as separate units. The boundary between these two provisions is where unit-design work sits, and it needs care.
 
-**Selected thrust sectors (5)** — the top slab, 50% / 45%, available to MSME, Large, Mega and Ultra Mega alike:
+### Product or activity — the thrust sector list
 
-Sports goods and equipment · Toys · Footwear · Robots · Drones
+The Resolution's Annexure-A lists **16 thrust sectors with indicative sub-sectors**, plus a residual entry. Three features matter more than the list itself:
 
-**Thrust sectors (16)**:
+- The sub-sectors are **indicative, not exhaustive**
+- Entry 17 is **"any other sectors as decided from time to time by the Committee specified in para 12(a)"** — so a sector not listed can be brought in by the Industries Commissioner's committee
+- **"In case of any dispute in the indicative sub-sectors, the committee mentioned at para 12(a) shall decide by considering HSN code and opinion of sector experts"**
 
-| # | Thrust sector | Sub-categories identified |
+*(all fact — Annexure-A)*
+
+That resolves the eligibility question that normally generates the most dispute: the test is not a closed tariff schedule, it is a committee decision informed by HSN classification. There is room to argue a product in, and a route to do it.
+
+| # | Thrust sector | Indicative sub-sectors, as listed |
 |---|---|---|
-| 1 | Green energy ecosystem | Green hydrogen and green ammonia, electrolysers, renewable energy equipment, battery storage, fuel cells |
-| 2 | Mobility | Auto and auto components, aviation-related manufacturing, space-related manufacturing |
-| 3 | Capital equipment | Electrical machinery, industrial machinery, telecom equipment |
-| 4 | Textiles and apparels | Textiles, technical textiles, apparel, garments |
-| 5 | Critical minerals and metals | Critical mineral extraction, processing and refining; metals and minerals; ceramics |
-| 6 | Sustainability | Municipal solid and liquid waste recycling equipment manufacturing |
-| 7 | Chemicals | Chemicals |
-| 8 | Agro processing | Agro and food processing |
-| 9 | Healthcare | Bulk drugs, active pharmaceutical ingredients, key starting materials, medical devices, pharmaceuticals |
-| 10 | Semiconductor ancillaries | Ultra-high-purity chemicals and gases, and similar |
-| 11 | Nuclear power equipment | Including small modular reactors |
-| 12 | Vehicle scrapping facilities | — |
-| 13 | Electronics waste recycling units | — |
-| 14 | Textile waste recycling units | — |
-| 15 | Shipping container manufacturing | — |
-| 16 | Heavy earth moving equipment | Cranes, tunnel boring machines, excavators |
+| 1 | Green Energy Ecosystem | Green hydrogen and green ammonia; renewable energy equipment and parts for hydropower, wind, solar, geothermal and ocean energy; battery storage; fuel cells |
+| 2 | Mobility | Electric vehicles, auto and auto components |
+| 3 | Capital Equipment | Electrical machinery and equipment; **wires and cables**; industrial machinery; telecom-related machinery; **electrolysers**; manufacturing of all kinds of machinery and equipment |
+| 4 | **Metals and Minerals** | Manufacture, processing and recycling of ferrous and non-ferrous metals and metal products — plate, sheet, bar, angles, wire and rods, sheet or plate metal parts; critical mineral processing, refining and extraction; ceramics, refractories, clay articles, tableware, kitchenware; glass including solar glass; **mica, bauxite, granite, marble, cement, magnets** |
+| 5 | Textiles and Apparels | Textile value chain, technical textile, apparel, garment, made-ups |
+| 6 | Sustainability | Municipal and industrial solid and liquid waste recycling equipment; green technology equipment; energy-efficient equipment and machinery; wastewater and effluent treatment equipment; sewage treatment plant; all types of recycling plant |
+| 7 | Agro Processing | Agro and food processing, dairy, food grain, vegetable and fruit, oilseed and edible oil, spices, organic and health foods, ready-to-eat and ready-to-cook |
+| 8 | Chemicals* | Chemicals and petrochemicals, specialty chemicals, agrochemicals, dyes and pigments, bulk and fine chemicals, polymers, rubber and plastics, green and sustainable chemicals, fluorochemicals and advanced materials, industrial gases, water treatment chemicals, electronic chemicals, adhesives and sealants, paints, coatings and resins, surfactants and home care |
+| 9 | Healthcare* | Medical devices, diagnostic instruments, APIs, bulk drugs, KSMs, surgical equipment, vaccines, medical consumables, PPE, implants and prosthetics, orthopaedic, dental, ophthalmic, wearable and digital health hardware, medical electronics, biomedical sensors, AI-enabled medical devices, nanotechnology drug delivery, point-of-care diagnostics, robotic surgical systems, pharmaceuticals |
+| 10 | Ancillary Units to Semicon Industries | Ultra-high-purity chemicals and gases, silicon wafer manufacturing, AI-enabled manufacturing solutions, semiconductor chemicals and specialty gases, photoresists and electronic materials, semiconductor manufacturing equipment and components, ultra-pure water systems, **PCB manufacturing**, IC assembly, automation and material handling, industrial sensors and control systems, ESD protection products |
+| 11 | Nuclear Power Equipment, including SMR | Nuclear reactor components, nuclear steam supply systems, reactor pressure vessels, radiation detection and monitoring, nuclear electrical systems and switchgear, nuclear waste treatment and disposal, shielding and radiation protection, robotics for nuclear inspection, **small modular reactor components**, Generation III+ and IV reactor systems |
+| 12 | Vehicle Scrapping Facilities | Industrial vehicle shredders, cutting and shearing machines, baling machines, magnetic and eddy current separators, optical sorting, AI-based material identification, density separation, heavy mechanical equipment, specialised battery and hazardous waste handling |
+| 13 | Electronics Waste Recycling Units | E-waste shredding, PCB recycling, e-waste dismantling, integrated e-waste recycling plant, electrostatic separation, optical and AI-based sorting, lithium-ion battery recycling, PCB gold recovery, cable stripping, transformer and motor recycling, display panel recycling, metallurgical recovery systems for gold, copper and rare metals |
+| 14 | Textile Waste Recycling Units | Machinery for textile waste shredding, fabric cutting and opening, fibre opening and teasing, garnetting, textile waste sorting, cotton and polyester fibre recycling, blended fabric separation, mechanical fibre recovery, regenerated fibre processing, microfibre recovery, fibre-to-yarn reprocessing |
+| 15 | Shipping Container Manufacturing | Standard dry cargo, high cube, reefer, tank, open top, flat rack and bulk cargo containers |
+| 16 | Heavy Earth Moving Equipment | Cranes, tunnel boring machines, crawler and wheeled excavators, bulldozers, wheel loaders, backhoe loaders, motor graders, off-highway and mining dump trucks, skid steer loaders, trenchers, surface miners |
+| 17 | Residual | Any other sector as decided from time to time by the committee under para 12(a) |
 
-*(interpretation throughout — the count is itself disputed in the professional commentary, with 11, 16 and "21+" all reported. The 16-sector list above is the most detailed and internally consistent version found, and matches the list described in Anthropic-independent commentary from two separate firms. It must still be read against the government annexure, because thrust classification is the difference between a 20% and a 35% ceiling.)*
+**\* Condition precedent.** Chemical and pharmaceutical units under entries 8 and 9 must have a **captive effluent treatment plant, or access to a common effluent treatment plant**. *(fact)*
 
-**General sectors** — everything else manufacturing, at 20% / 15%, and only at Large size. Mega and Ultra Mega status is available only in thrust sectors, so a general-sector project cannot reach the higher slabs however large it is. *(interpretation — commercially significant and on the verification list)*
+**Selected thrust sectors (5):** Sports goods and equipment · Toys · Footwear · Robots · Drones. These carry the top band at every size class. *(fact)*
 
-No negative list has been identified. *(to verify)*
+**General sectors.** Everything else manufacturing, at 20% / 15%, at Large size only.
 
-### Project character
+### The ₹1,000 crore fall-back — important and widely missed
 
-New unit, or qualifying expansion or diversification of an existing one. The threshold test for what makes an expansion "qualifying" has not been identified and is on the verification list. In the 2020 policy this was expressed as a percentage increase in gross fixed capital investment, and the same approach is likely. *(interpretation)*
+The Resolution deals expressly with a large project that misses the Mega employment test:
 
-### Investment threshold and what counts as investment
+- Investment above INR 1,000 Cr that fails the Mega or Ultra Mega employment criteria **and** is not in a thrust sector falls back to **Large General** — 20% / 15%. *(fact — para 4B(v))*
+- Investment above INR 1,000 Cr that fails the employment criteria **but is** in a thrust sector falls back to **Large Thrust** — 35% / 25%. *(fact — para 4C(v))*
+- Investment above INR 1,000 Cr in a **selected thrust** sector failing the employment criteria falls back to **Large Selected Thrust** — 50% / 45%. *(fact — para 4F(v))*
 
-Two different investment concepts run through the scheme and conflating them is the most common error:
+So Mega and Ultra Mega status genuinely is confined to thrust sectors, and the employment thresholds are real gates rather than formalities. A ₹15,000 crore general-sector project is capped at 20% of eligible investment. **The jobs are what buy the higher band, not the capital.**
 
-| Concept | What it does |
-|---|---|
-| **Gross fixed capital investment (GFCI)** | Decides eligibility and size class, and sets the investment period |
-| **Eligible fixed capital investment (EFCI)** | The base on which the subsidy is actually calculated |
-
-GFCI is the bigger number. EFCI is the one that pays.
-
-**Size thresholds** (on plant and machinery or equipment, except where stated):
+### Size thresholds
 
 | Class | Threshold | Employment condition |
 |---|---|---|
-| Micro | Up to INR 2.5 Cr | — |
+| Micro | Up to INR 2.5 Cr in plant and machinery | — |
 | Small | Above INR 2.5 Cr to INR 25 Cr | — |
 | Medium | Above INR 25 Cr to INR 125 Cr | — |
-| Large | Minimum INR 125 Cr | — |
-| Mega | Minimum INR 1,000 Cr GFCI, thrust sector | 250 direct jobs, plus 50 per additional INR 200 Cr |
-| Ultra Mega | Minimum INR 10,000 Cr GFCI, thrust sector | 3,000 direct jobs, plus 500 per additional INR 5,000 Cr |
+| Large | Evidenced by IEM filed or amended, MCA21 project registration or other central licence | — |
+| Mega | Minimum INR 1,000 Cr gross fixed capital investment, thrust sector | 250 direct jobs, plus 50 per additional INR 200 Cr |
+| Ultra Mega | Minimum INR 10,000 Cr gross fixed capital investment, thrust sector | 3,000 direct jobs, plus 500 per additional INR 5,000 Cr |
 
-The employment escalator is easy to miss and compounds badly on very large projects. An INR 20,000 Cr Ultra Mega project carries 3,000 + (10,000/5,000 × 500) = 4,000 direct jobs, not 3,000. *(interpretation)*
+The employment escalator compounds. A INR 20,000 Cr Ultra Mega project carries 4,000 direct jobs, not 3,000.
 
-**Eligible fixed capital investment — what is in and what is out:**
+### Eligible fixed capital investment
 
-| In | Out |
+Two concepts run through the scheme and conflating them is the common error. **Gross fixed capital investment** decides eligibility, size class and the investment period. **Eligible fixed capital investment** is the base the subsidy is calculated on, and is smaller.
+
+Final eligibility is set at the **lower** of gross fixed capital investment actually made, the cost certified in a Project Completion Certificate from the bank or financial institution, or the Asset Verification report from the Industries Commissionerate. For a self-financed project, the lower of a Statutory Auditor, Chartered Accountant, Chartered Engineer or Company Secretary certificate and the Asset Verification report. *(fact — para 2.3)*
+
+**Counted in:**
+
+| Head | Detail |
 |---|---|
-| New buildings, at the lower of actual cost or the Roads and Buildings Schedule of Rates | **Land** |
-| Other construction | Working capital |
-| Plant and machinery | Goodwill, royalty |
-| Captive power plant | Preliminary and pre-operative expenses |
-| Pollution control equipment | Second-hand, leased or rented machinery |
-| Technology acquisition, capped at 10% of plant and machinery | Capitalised interest |
-| Project infrastructure: 100% inside the premises, 20% outside | Rented buildings, except GIDC premises |
-| | **Independent power plants** |
+| New buildings | At the lower of actual cost or the Schedule of Rates |
+| Plant and machinery | Including captive power generation within the premises; vehicles used only within the premises and material handling equipment used within them; **plant for desalination of sea water or purification of water**; pollution control plant including effluent and hazardous waste facilities |
+| Technology, design, drawings, patents | Limited to **10% of the EFCI in plant and machinery** |
+| Diesel generating sets | Only up to **50% of connected electric load or 25 MW, whichever is less** |
+| Project infrastructure | Worker residential colony, dormitory, hospital, school, sports facilities, rest rooms, creche; feeder road to the nearest approach road; dedicated pipelines for water, gas and raw material; non-refundable deposit to the electricity company for transmission from the nearest sub-station; digitisation of communication network and telecom cabling; bank or post office building provided free of charge, at Schedule of Rates; training centre and skill development centre; transport facilities such as buses for workers. **100% if within the project premises, 20% if outside.** |
 
-Term loan amounts count only to the extent disbursed within the investment period. Loans from non-banking financial companies do not qualify. *(interpretation)*
+**Excluded:** land and land development cost; working capital; goodwill; royalty; preliminary and pre-operative expenses; second-hand, leased or rented plant and machinery, Indian or imported; capitalised interest; power generation plant except captive within the premises; rented or leased building except GIDC; design, drawing, consultancy, supervision and third-party inspection fees without technology acquisition; **independent power plant including renewable energy**. *(fact — para 1.16)*
 
-Two of these exclusions do most of the damage to the headline number. **Land out** removes typically 10% to 20% of project cost for a greenfield unit. **Buildings capped at the Schedule of Rates** replaces actual construction cost with a government rate card that normally sits below it. Both are quantified in Section 9.
+**Term loan.** Loans from RBI-recognised financial institutions and banks, and **external commercial borrowings sanctioned by overseas institutions**, qualify. Government financial institutions such as NDDB, GSFS, HUDCO, REC and PFC qualify, and the committee may admit others. **Only the amount actually disbursed within the eligible investment period counts. Loans from non-banking financial companies do not qualify.** *(fact — para 1.17)*
 
-### Location (state only)
+### Location
 
-**This section was the largest gap in the first draft of this decode and is now substantially answered. The answer is counter-intuitive and changes siting advice.**
+Set out in Section 3 of `profile.md` in full. The Resolution of 8 September 2026 classifies **268 talukas into Category A (130) and Category B (138)** across 34 districts, replacing the three-category classification of 251 talukas under the 2020 policy. Category A is the less industrially developed set and carries the higher band. *(fact — taluka GR, Annexure-A, read in full)*
 
-A companion GR of 8 September 2026 classifies all **268 talukas across 34 districts** into **Category A (130 talukas, higher slab)** and **Category B (138 talukas, lower slab)**. Category A is the less industrially developed set.
-
-**Almost every established industrial destination in Gujarat sits in Category B, on the lower slab:**
+**The commercially important finding: every established industrial destination in Gujarat is Category B, with two exceptions.**
 
 | Destination | Taluka, district | Category |
 |---|---|---|
-| **Dholera SIR** | Dholera, Ahmedabad | **A — higher slab** |
-| Dahej / PCPIR | Vagra, Bharuch | B |
-| Ankleshwar | Ankleshwar, Bharuch | B |
-| Jhagadia | Jhagadia, Bharuch | B |
-| Sanand | Sanand, Ahmedabad | B |
-| Mundra | Mundra, Kachchh | B |
-| Anjar, Gandhidham | Kachchh | B |
-| Morbi ceramic cluster | Morbi, Wankaner, Tankara, Halvad | B |
-| Ahmedabad, Surat, Vadodara, Rajkot, Bhuj cities | — | B |
-| Tribal belt — Netrang, Dediapada, Sagbara, Garudeshwar, Tilakwada | Bharuch, Narmada | **A** |
-| Rapar, Nakhatrana, Lakhpat, Mandvi | Kachchh | **A** |
-| Dhandhuka, Detroj-Rampura | Ahmedabad | **A** |
-| Maliya | Morbi | **A** |
+| **Dholera SIR** | Dholera, Ahmedabad | **A** |
+| **Becharaji** (Maruti Suzuki, Mandal-Becharaji SIR) | Becharaji, Mehsana | **A** |
+| Dahej, PCPIR | Vagra, Bharuch | B |
+| Ankleshwar, Jhagadia, Bharuch, Hansot, Valia, Jambusar, Amod | Bharuch | B |
+| Sanand | Ahmedabad | B |
+| Mandal | Ahmedabad | B |
+| Hazira | Chorasi, Surat | B |
+| Halol | Panch Mahals | B |
+| Vapi, Valsad, Pardi, Umbergaon | Valsad | B |
+| Savli, Padra, Vadodara, Karjan, Vaghodia, Dabhoi | Vadodara | B |
+| Mundra, Anjar, Gandhidham, Bhuj, Bhachau, Abdasa | Kachchh | B |
+| Morbi, Wankaner, Tankara, Halvad | Morbi | B |
+| Ahmedabad City, Surat City, Rajkot | — | B |
 
-*(interpretation — compiled from three independent reproductions of Annexure-A that agree with each other and with the text visible in the government-hosted copy at iNDEXTb. One further source disagreed, placing Vagra, Morbi, Mundra and Anjar in Category A; it conflicts with the government text and is not followed. Confirm against the full Annexure for any specific site.)*
+Category A is largely the tribal belt (Netrang, Dediapada, Sagbara, Garudeshwar, Tilakwada, Umarpada, Kaprada, Dharampur), inland Kachchh (Rapar, Nakhatrana, Lakhpat, Mandvi), Saurashtra interior and the Dangs.
 
-**Why this matters more than the headline rate.** The A/B gap is 5 to 10 percentage points of eligible investment with no change to the project — on INR 5,000 Cr of eligible investment, INR 250 Cr to INR 500 Cr. A client who assumes Dahej or Sanand carries the top band because they are Gujarat's flagship addresses will plan on the wrong number.
-
-**The strategic read.** Gujarat has deliberately priced its established corridor *below* its undeveloped talukas, because the corridor does not need a subsidy to attract investment. The differential is the instrument being used to populate **Dholera** and the tribal belt. For a greenfield project with real locational freedom, Dholera is the only destination combining the top band with serviced industrial infrastructure. For a project tied to the chemical corridor or the Kutch ports, Category B is the price of being there, and the argument moves to the customised package. *(interpretation)*
-
-The INR 2 versus INR 1 power tariff differential rides on the same split, which compounds the Dholera advantage for an electricity-intensive project.
-
-### Size class
-
-See the table above. Size class changes the rate, the tenure, the absolute annual cap and the sanctioning authority.
+**The Mandal-Becharaji point is worth isolating.** Mandal taluka sits in Ahmedabad district and is Category B. Becharaji taluka sits in Mehsana district and is Category A. The Mandal-Becharaji Special Investment Region straddles both. **Plot selection within the same special investment region changes the incentive band by 5 to 10 percentage points of eligible investment.** *(interpretation, on verified taluka facts)*
 
 ### Timing
 
-Spend from 1 January 2026 counts. Production must commence between 1 June 2026 and 31 May 2031. The election between the old and new scheme is available only to units not in production before 1 June 2026, must be made within six months of the GR, and is final.
+Assets acquired and paid for from 1 January 2026 count. Commercial production must commence between 1 June 2026 and 31 May 2031.
 
 ---
 
@@ -294,188 +288,196 @@ Spend from 1 January 2026 counts. Production must commence between 1 June 2026 a
 
 ### A. The instruments
 
-| Instrument | How it pays | When cash arrives |
-|---|---|---|
-| Capital subsidy | Percentage of eligible fixed capital investment, in equal annual instalments | After commissioning, spread across the tenure |
-| Interest subsidy | 7% on term loan, unit must bear at least 2% itself | Through the loan tenure |
-| Power tariff support | INR 2 per unit (Category A) or INR 1 per unit (Category B) | Through the operating life |
-| EPF reimbursement | Employer's statutory contribution | Monthly through the period |
-| Stamp duty and registration reimbursement | 100%, Ultra Mega and selected thrust only | One-off, claim within three months of DoCP |
-| Electricity duty exemption | Exemption under the Gujarat Electricity Duty Act, 1958 | Through the operating life |
+Three components, chosen by the unit in any one or any combination, inside an overall ceiling and an annual ceiling. *(fact)*
 
-The distinctive design feature is **"Choose Your Incentive"**: the unit selects its own mix of capital subsidy, interest subsidy and power tariff support, rather than receiving a fixed package. Each component carries its own sub-cap, and the mix must sit inside the combined ceiling and the annual ceiling.
+| Instrument | Mechanics |
+|---|---|
+| Capital subsidy | Percentage of eligible fixed capital investment, disbursed in **equal annual instalments** from DoCP, only after commercial production |
+| Interest subsidy | 7% on the term loan in every tier. Unit must bear **a minimum 2%** itself. Only on interest levied by the financial institution — penal interest and other charges excluded. Suspended for any period the unit is in default |
+| Power tariff | INR 2 per unit (Category A) or INR 1 per unit (Category B) |
+| EPF reimbursement | 100% of employer's statutory contribution, capped at INR 1,800 per month (male), INR 2,500 (female), INR 3,000 (specially abled) |
+| Stamp duty and registration | 100% reimbursement, Ultra Mega and selected thrust sectors only |
+| Electricity duty | Exemption under the Gujarat Electricity Duty Act 1958 |
 
-This is genuinely useful and is the policy's best feature from a CFO's point of view. A power-heavy project can weight toward power tariff support; a highly leveraged project can weight toward interest subsidy; an equity-funded project can take capital subsidy. *(interpretation)*
+### B. The full slab table — verified
 
-Note what is **not** here: there is no state GST reimbursement instrument. Gujarat has moved away from the net state GST refund model that several competing states still run. This changes the whole shape of the value calculation and is dealt with in Section 5.
+All figures are percentages of eligible fixed capital investment. *(fact — paras 4B to 4H, read against the Resolution)*
 
-### B. Each instrument on its own line
+| Tier | Ceiling A | Ceiling B | Capital subsidy A / B | Interest cap A / B | Power cap A / B | Tenure | Annual cap A / B | Absolute annual cap | EPF period |
+|---|---|---|---|---|---|---|---|---|---|
+| Large — general | 20% | 15% | 15% / 10% | 15% / 10% | 15% / 10% | 10 yrs | 2.0% / 1.5% | INR 150 Cr | 10 yrs |
+| Large — thrust | 35% | 25% | 25% / 15% | 20% / 15% | 20% / 15% | 8 yrs | 4.5% / 3.5% | INR 300 Cr | 8 yrs |
+| Mega — thrust | 35% | 30% | 25% / 20% | 25% / 20% | 25% / 20% | 10 yrs | 3.5% / 3.0% | INR 750 Cr | 10 yrs |
+| Ultra Mega — thrust | 40% | 35% | 30% / 25% | 25% / 20% | 25% / 20% | 12 yrs | 3.5% / 3.0% | INR 1,250 Cr | 10 yrs |
+| Large — selected thrust | 50% | 45% | 35% / 30% | 20% / 20% | 20% / 20% | 8 yrs | 6.5% / 6.0% | INR 300 Cr | 10 yrs |
+| Mega — selected thrust | 50% | 45% | 35% / 30% | 20% / 20% | 20% / 20% | 10 yrs | 5.0% / 4.5% | INR 750 Cr | 10 yrs |
+| Ultra Mega — selected thrust | 50% | 45% | 35% / 30% | 20% / 20% | 20% / 20% | 12 yrs | 4.5% / 4.0% | INR 1,250 Cr | 10 yrs |
 
-Combined ceiling / capital subsidy / interest subsidy cap / power tariff cap, as percentages of eligible fixed capital investment. Category A / Category B.
+Interest subsidy is 7% per annum in every tier; the percentages above are the cap on how much of the ceiling that component may consume. Power tariff is INR 2 per unit in Category A and INR 1 in Category B throughout.
 
-| Tier | Ceiling A | Ceiling B | Capital subsidy A | Capital subsidy B | Interest cap A | Power cap A | Tenure | Annual % cap A/B | Absolute annual cap | Certainty |
-|---|---|---|---|---|---|---|---|---|---|---|
-| MSME | 45% | 35% | 35% | 25% | 10% | 25% | — | — | — | inferred |
-| Large, general | 20% | 15% | 15% | 10% | 15% | 15% | 10 yrs | 2.0% / 1.5% | INR 150 Cr | inferred |
-| Large, thrust | 35% | 25% | 25% | 15% | 20% | 20% | 8 yrs | 4.5% / 3.5% | INR 300 Cr | inferred |
-| Mega, thrust | 35% | 30% | 25% | 20% | 25% | 25% | 10 yrs | 3.5% / 3.0% | INR 750 Cr | inferred |
-| Ultra Mega, thrust | 40% | 35% | 30% | 25% | 20% | 25% | 12 yrs | 3.5% / 3.0% | INR 1,250 Cr | inferred |
-| Large, selected thrust | 50% | 45% | 35% | 30% | 20% | 20% | 8 yrs | 6.5% / 6.0% | INR 300 Cr | inferred |
-| Mega, selected thrust | 50% | 45% | 35% | 30% | 20% | 20% | 10 yrs | 5.0% / 4.5% | INR 750 Cr | inferred |
-| Ultra Mega, selected thrust | 50% | 45% | 35% | 30% | 20% | 20% | 12 yrs | 4.5% / 4.0% | INR 1,250 Cr | inferred |
-
-Interest subsidy is 7% per annum across all tiers, with the cap above expressed as a percentage of eligible investment. Power tariff support is INR 2 per unit in Category A and INR 1 per unit in Category B.
-
-**Every cell in this table is marked inferred.** Two independent reproductions of the GR were compared and agree on the ceilings and the annual caps. They diverge on some component sub-caps, and one reproduction notes the source tables were partly illegible. Do not quote these figures to a client before reading the government copy.
+Note the **EPF period does not track the incentive tenure**: Ultra Mega runs 12 years of incentive but 10 years of EPF; Large thrust runs 8 and 8; Large selected thrust runs 8 years of incentive but 10 years of EPF.
 
 ### C. The overall ceiling
 
-The components sit inside the combined ceiling; they do not add. A Mega thrust unit in Category A faces a 35% combined ceiling whether it takes it all as capital subsidy or splits it three ways.
+Components sit inside the ceiling and do not add. Separately, **total incentives from state and central government schemes must not exceed eligible fixed capital investment.** *(fact — para 18(3))*
 
-Separately, **state and central incentives combined cannot exceed eligible fixed capital investment**. *(interpretation)* This is a stacking cap and is picked up in Section 7.
+### D. The annual ceiling — where large projects lose most
 
-### D. The annual ceiling
+Two caps run in parallel, and **carry forward of incentive lost to the annual ceiling is expressly not allowed** in every tier. *(fact)*
 
-This is where headline and reality part company, and it deserves to be read twice.
+Worked on an Ultra Mega thrust project in Category A: ceiling 40%, annual cap 3.5%, absolute cap INR 1,250 Cr, over 12 years.
 
-Take an Ultra Mega thrust unit in Category A. Combined ceiling 40% of eligible investment, over 12 years. But the annual ceiling is 3.5% of eligible investment, and 3.5% × 12 = 42%. So the annual percentage cap just about accommodates the headline — on that constraint alone.
+| Eligible investment | 3.5% per year | Binding cap | Drawable over 12 yrs | Entitlement at 40% | Effective rate |
+|---|---|---|---|---|---|
+| INR 20,000 Cr | INR 700 Cr | Percentage | INR 8,000 Cr | INR 8,000 Cr | 40.0% |
+| INR 35,700 Cr | INR 1,250 Cr | Crossover | INR 15,000 Cr | INR 14,280 Cr | 40.0% |
+| INR 50,000 Cr | INR 1,750 Cr | **Absolute** | INR 15,000 Cr | INR 20,000 Cr | **30.0%** |
+| INR 75,000 Cr | INR 2,625 Cr | **Absolute** | INR 15,000 Cr | INR 30,000 Cr | **20.0%** |
 
-Now apply the absolute cap. INR 1,250 Cr per year. On a project with INR 25,000 Cr of eligible investment, 3.5% is INR 875 Cr, so the percentage cap binds. On a project with INR 50,000 Cr of eligible investment, 3.5% is INR 1,750 Cr, but the absolute cap holds it to INR 1,250 Cr. The entitlement at 40% would be INR 20,000 Cr; what can actually be drawn in 12 years is INR 15,000 Cr. **The headline 40% becomes an effective 30%, purely from the absolute annual cap, before any other haircut.**
+**The absolute annual cap begins to bind above roughly INR 35,700 Cr of eligible investment, and the effective rate falls away steeply above it.** The shortfall is lost, not deferred. For a project of that scale the customised package route is not an optimisation, it is the answer.
 
-And unused annual amounts cannot be carried forward, so the shortfall is lost rather than deferred. *(interpretation)*
+### E. Power — the trade-off that is easy to miss
 
-The crossover point is worth committing to memory: the absolute annual cap starts binding on an Ultra Mega project once eligible investment exceeds roughly **INR 35,700 Cr** (INR 1,250 Cr ÷ 3.5%). Below that, the percentage cap governs. Above it, every additional rupee of eligible investment earns a lower effective rate.
+Three provisions in para 6C interact and need reading together. *(fact)*
 
-### E. Power and land specifics
+1. Power drawn from a **DISCOM or from renewable power through open access** qualifies for the power tariff subsidy
+2. **Power consumed from the unit's own captive power plant does NOT qualify for the power tariff subsidy**
+3. Captive power plant capital cost **is** eligible investment; independent power plant including renewable **is not**
 
-**Power.** Power tariff support of INR 2 or INR 1 per unit is a direct operating subsidy and, for an electricity-intensive project, often the most valuable of the three components in present-value terms because it arrives through the operating life rather than waiting on claim cycles. Captive power plant cost is eligible investment; independent power plant cost is not. Electricity duty exemption runs alongside under the 1958 Act. Connected load thresholds have not been identified. *(to verify)*
+**So there is a real choice to model on any power-intensive project.** Build captive, and the capital cost enters the subsidy base but the electricity consumed earns nothing. Draw from the grid or from renewable open access, and every unit consumed earns INR 2 (Category A) or INR 1 (Category B), subject to the component cap. For a project with high and sustained consumption, the second route can be worth considerably more — and the renewable open access limb means it need not mean buying expensive grid power.
 
-**Land.** Land cost is excluded from eligible investment. Land is instead dealt with through GIDC allotment, and through 100% stamp duty and registration reimbursement for Ultra Mega and selected thrust units, claimable within three months of DoCP. The three-month claim window on stamp duty is short and easy to miss on a project where land is acquired years before production starts. *(interpretation)*
+For an expansion or diversification, power tariff subsidy applies **only to additional consumption**, and a **sub-meter must be installed**. *(fact)*
+
+### F. Land
+
+Land cost is excluded from eligible investment. Stamp duty and registration charges paid to the Government of Gujarat **or GIDC** are reimbursed at 100% for Ultra Mega units and for selected thrust sectors, with four conditions: the reimbursed amount is not added to eligible investment; reimbursement only after commercial production starts; only on land purchased or leased **during the eligible investment period**; and **application within three months of DoCP**, failing which it is lost. *(fact)*
+
+### G. Selected thrust sectors — the additional package
+
+Beyond the 50% / 45% ceiling, units in the five selected thrust sectors also receive: *(fact — para 5)*
+
+| Support | Rate | Cap | Claim window |
+|---|---|---|---|
+| Intellectual property — patent, design, copyright, trademark, GI | 75% of expenses | INR 1 Cr, claimable multiple times | 3 months from publication or notification |
+| Technology acquisition from a recognised institution, including royalty for the first two years | 75% | INR 5 Cr | 3 months from signing the agreement |
+| International certification | 100% of fees | INR 5 Cr | 3 months from issue of certificate; renewals not eligible |
+| Training of manpower, in India or abroad, first 12 months | Actual | INR 15,000 per employee per month; **Gujarat-domiciled trainees only**; claimable once | 3 months from completion of training |
+| Creative design studio, in-house or standalone | 50% | INR 50 Cr; building cost capped at 20% of EFCI | 3 months from commencement |
+
+All of these run from expenditure incurred on or after 1 January 2026. Every one carries a three-month claim window.
 
 ---
 
 ## Section 5. How the money actually reaches the claimant
 
-### The trigger
-
-Commencement of commercial production. This single date sets the benefit tenure, starts the investment period, and starts the three-month clocks on the provisional eligibility certificate and on the stamp duty claim.
-
-### The state GST pool
-
-**Not applicable.** VGIP 2026 as decoded contains no state GST reimbursement instrument. *(interpretation — and a significant finding, so it is on the verification list)*
-
-This is a real structural difference from states that still run net state GST refund models. The commercial consequence cuts both ways:
-
-- An **export-heavy or inter-state-heavy** project is *better off* in Gujarat than in a state-GST-linked regime, because its state GST pool would have been small and the Gujarat entitlement does not depend on one.
-- A **large intra-state domestic seller** loses the instrument that would have paid it best elsewhere, and must take its value through capital subsidy instead.
-
-This is the sharpest cross-state comparison point in the policy and should be carried into any state selection matrix.
-
 ### The process
 
-1. **Registration** — before DoCP, or within three months of the GR, whichever is later
-2. **Provisional eligibility certificate** — apply within three months of DoCP; covers up to 40% of eligible investment
-3. **Final eligibility certificate** — apply within three months of the end of the investment period; late filing accepted up to one year with proportionate reduction; refused thereafter
-4. **Claims** — submitted quarterly to the Industries Commissioner
+| Stage | Rule |
+|---|---|
+| **Registration** | Mandatory. Before DoCP or three months from the GR (8 Dec 2026), whichever is later, and before the end of the operative period. Documents: registration of the undertaking and IEM; documents of legal possession of land, or GIDC possession letter; Consent to Establish from GPCB; Detailed Project Report; term loan sanction letter |
+| **Provisional Eligibility Certificate** | Within three months of DoCP, of the registration certificate, or of the GR, whichever is later. Issued by the Industries Commissioner on a Chartered Accountant and Chartered Engineer certificate. **Limited to 40% of eligible fixed capital investment** |
+| **Final Eligibility Certificate** | Within three months of the end of the investment period. The Industries Commissioner constitutes an **Asset Verification team**; final entitlement is calculated on its report |
+| **Delayed FEC** | Beyond three months but within one year: accepted as delayed submission, with **incentive period and quantum reduced proportionately**. Beyond one year: not entertained |
+| **Claims** | Every three months to the Industries Commissioner, in the prescribed form |
 
-The provisional certificate covering only up to 40% of eligible investment means a project cannot draw against its full entitlement until the final certificate issues, which on a large project with a 36 or 48-month investment period is years after production starts. *(interpretation)*
+If the applicant fails to provide requisite documents within the prescribed time limit the application is liable to rejection, and **"no claim, representation, or challenge shall be maintainable against such decision"**. *(fact — para 10.6)*
 
-The proportionate reduction for late final-certificate filing is an unusual and investor-friendly provision. Most states refuse outright. *(interpretation)*
+### State GST
 
-### Document triangulation
+**There is no state GST reimbursement instrument in this scheme.** Gujarat moved from net VAT and then net SGST reimbursement to capital subsidy under the 2020 policy, and the 2026 scheme continues that. *(fact — confirmed by the absence across the full Resolution)*
 
-Capacity in the Industrial Entrepreneur Memorandum, pollution control board consents, factory licence, sanctioned power load, and chartered accountant and engineer certificates must agree. Gujarat-specific failure points have not yet been gathered and should be added after the first mandate.
+Units under the 2015 policy still hold and still receive net SGST-linked incentives, which is why state announcements in 2026 still refer to SGST-linked assistance. *(market view)*
 
-The known pressure point in this policy is the **Schedule of Rates valuation of buildings**. Where actual construction cost exceeds the Roads and Buildings Schedule of Rates, the engineer's certificate and the audited fixed asset register will not agree with the eligible investment computation, and the difference has to be explained rather than discovered at claim stage.
+The commercial consequence is a genuine point of difference against states still running reimbursement models. An export-heavy or inter-state-heavy project is better off here; a large intra-state seller loses the instrument that would pay it best elsewhere.
 
 ### Who sanctions
 
-Tiered by investment size:
+*(fact — para 12)*
 
-| Investment | Authority |
-|---|---|
-| Up to INR 1,000 Cr | Committee, composition to be verified |
-| INR 1,000 Cr to INR 10,000 Cr | Committee, composition to be verified |
-| Above INR 10,000 Cr | Committee chaired by the Industries Minister |
-| Customised packages, Mega and Ultra Mega in thrust and selected thrust | High Power Committee chaired by the Chief Minister |
+| Investment | Chair | Composition |
+|---|---|---|
+| Up to INR 1,000 Cr | **Industries Commissioner** | DS/JS Industries and Mines; Financial Advisor Finance; DS/JS Energy and Petrochemicals; Additional Commissioner of Labour; Senior Engineer GPCB; **2 industry association representatives**; Additional/Joint Commissioner of Industries as Member Secretary |
+| INR 1,000 Cr to INR 10,000 Cr | **ACS/PS Industries and Mines** | ACS/PS Energy and Petrochemicals; Secretary (Expenditure) Finance; Labour Commissioner; Chairman or Member Secretary GPCB; 2 industry association representatives; Industries Commissioner |
+| Above INR 10,000 Cr, **and interpretation of the Resolution** | **Minister (Industries)** | ACS/PS Industries and Mines; ACS/PS Energy; Secretary (Expenditure) Finance; Labour Commissioner; GPCB; 2 industry association representatives; Industries Commissioner as Member Secretary |
 
-A **SCALE Committee** is referred to in the policy. Its mandate and composition have not been identified. *(to verify)*
+**High Power Committee, chaired by the Chief Minister**, with the Deputy Chief Minister or Minister (Industries), Minister (Finance), Chief Secretary, and the ACS/PS of Industries and Mines, Finance, Revenue, Environment and Forest, Energy and Petrochemicals, and Labour and Employment, with the Industries Commissioner as Member Secretary.
+
+Its stated role: sanction customised packages for Mega and Ultra Mega in thrust and selected thrust sectors; resolve interdepartmental issues; **facilitate relocation of industries from other States**; monitor projects; remove difficulties in implementation. Plus the residual clause in Section 2C above.
+
+Note the presence of **two industry association representatives on every sanctioning committee**. That is an access point worth understanding.
+
+**Interpretation disputes** go to the Minister-chaired committee under para 12(c), and its decision is **final and binding**. *(fact — para 16)*
 
 ### The reality
 
-**Unknown, and this is the most important gap in the decode.** The policy is too new for any claim cycle to have completed. Gujarat's payment record under the 2015 and 2020 policies has not yet been gathered and needs to come from state budget documents, assembly answers and CAG reports. Entitlement and actual payment are different things, and this library records them separately.
+**Still unquantified.** No claim cycle under this scheme has completed. The budget head is now known — Demand No. 49, Major head 2852, Minor head 800, Sub head 36 — so the provision and actual spend can be pulled from the Demands for Grants. That is the next step on the certainty question.
 
-What can be said now: Gujarat runs a revenue-surplus budget and has a long record of honouring industrial commitments across changes of government. *(market view)* That is a reasonable prior, not evidence.
+Evidence that the machinery runs: in October 2026 the state approved final eligibility certificates for 25 units covering about INR 3,903 Cr of investment, 22 of them still under the Industrial Policy 2015. *(market view)* An entitlement in Gujarat is a ten-year relationship.
 
 ---
 
 ## Section 6. Conditions and clawback
 
-**Local employment.** At least **85% of the overall workforce** and at least **60% of managerial and supervisory staff** must be Gujarat-domiciled, as a continuing condition for the whole incentive period. *(interpretation — the 85% figure was illegible in the GR reproduction but is corroborated from two directions: the MSME scheme as reported in October 2026, and the identical 85% / 60% test in the 2015 policy scheme. Gujarat has run this condition for over a decade, so it is a settled feature rather than a new one.)*
+*(all fact — para 18)*
 
-For a project importing specialist or expatriate technical staff, the 85% overall test is the binding constraint, not the 60% managerial one. Worth modelling against the hiring plan before commissioning, because it is tested continuously with 18% clawback behind it.
+**Local employment.** At least **85% of the total number of employees in all categories** must be domiciled in Gujarat, and at least **60% of those employed in managerial and supervisory capacity**. This is a continuing condition.
 
-**Continuous production** is required through the incentive period, with relief for events beyond management's control.
+**GPCB certificate** must be submitted to the Industries Commissioner and kept applicable.
 
-**Clawback.** On breach, incentives already disbursed are recoverable with interest at **18% per annum**, and undisbursed amounts are forfeited. 18% is a punitive rate and makes the continuing conditions worth monitoring actively rather than annually.
+**Continuous production** till expiry of the eligible incentive period. The sanctioning authority may condone a period of discontinuation for reasons beyond the control of management, after verification.
 
-**Change events.** The treatment of merger, demerger, slump sale and lease of the unit, and whether the entitlement transfers with the business, has not been identified. *(to verify — this is the provision that decides whether an incentive survives a transaction, and it is the most commercially important unknown in this section.)*
+**Clawback.** On breach of any condition, incentives disbursed are **recoverable as an arrear of land revenue, with interest at 18% per annum from the date of first availment**, and undisbursed amounts are forfeited. Recovery as an arrear of land revenue is a powerful mechanism and runs from first availment, not from the breach.
 
-**Stability.** No stability clause has been identified. The instrument is a government resolution, which the department can amend. For a project relying on a 12-year entitlement, a stability commitment is something to seek in the customised package rather than to assume. *(interpretation)*
+**Modernisation, renovation, rehabilitation and rationalisation by an existing undertaking are not eligible.**
+
+**Change of product.** The undertaking may add new products or change products using existing plant and machinery, with or without modification, during the availment period, **subject to approval of the Sanctioning Authority**. *(fact — para 14)*
+
+**Other state schemes are mutually exclusive.** An enterprise eligible under this scheme or any other **sector-specific State Government scheme may opt for either**. If it is availing incentives for the same component under another state scheme, it is not eligible under this one, unless specifically provided. *(fact — para 15)*
+
+**Central schemes stack**, subject only to the total state and central incentives not exceeding eligible fixed capital investment.
+
+**EPF.** "New Employee" means a person who **did not have a Universal Account Number before joining** and who joins during the incentive period. For an expansion or diversification, only the incremental employee count beyond the pre-existing count. Reimbursement is the lower of 100% of employer's statutory contribution actually paid and 12% of basic plus dearness allowance. Quarterly, on payment receipts. Not available for any period in which EPF reimbursement is availed under a central or state scheme. *(fact — para 6D)*
+
+The Universal Account Number test is restrictive and is easy to miss when modelling: it excludes anyone who has previously been in formal EPF-covered employment.
+
+**No stability clause** appears in the Resolution. The instrument is a government resolution, amendable by the department, and the Government reserves a right of periodic review of the scheme. *(fact — para 17)* For a project relying on a 12-year entitlement, a stability commitment is something to seek in the customised package.
+
+**Change of ownership.** The Resolution does not address merger, demerger, slump sale or transferability of the entitlement. **This remains the largest open question in the decode** and would fall to the Minister-chaired interpretation committee under para 12(c), or to the High Power Committee under its residual clause.
 
 ---
 
 ## Section 7. Tax interaction
 
-Scope note: this section covers only what changes the value or eligibility of the incentive itself.
-
-**GST on the incentive.** A capital subsidy paid by a state government to an industrial unit is ordinarily a subsidy given by a government and so excluded from the value of supply, rather than consideration for a supply made to the government. The position for the power tariff component, which is a reimbursement linked to consumption, and for EPF reimbursement, warrants its own look. The policy documents do not address GST treatment. *(interpretation)*
+**GST on the incentive.** A capital subsidy paid by a state government to an industrial unit is ordinarily a subsidy given by a government and so outside the value of supply, rather than consideration for a supply made to the government. The position for the power tariff component, which is a consumption-linked reimbursement, and for EPF reimbursement, warrants its own look. The Resolution does not address GST treatment. *(interpretation)*
 
 **State GST pool.** Not applicable. See Section 5.
 
-**Stacking across the five layers.** The one rule identified is the overall cap: **state and central incentives combined cannot exceed eligible fixed capital investment**. *(interpretation)*
+**Stacking, now verified:**
 
-This is a generous rule as stacking caps go, because it permits substantial combination before it bites. A thrust-sector project at a 35% state ceiling has material headroom for a central scheme on top. Whether any central scheme is itself conditioned against state support is a separate question answered in the central decode, not here.
+| Combination | Position |
+|---|---|
+| This scheme **plus a central scheme** | **Permitted**, capped so that total state and central incentives do not exceed eligible fixed capital investment |
+| This scheme **plus another Gujarat sector-specific scheme** | **Choose one.** Not eligible under this scheme if availing incentives for the same component under another state scheme |
+| This scheme plus the previous Aatmanirbhar scheme for the same GFCI | Not permitted |
+| Interest subsidy also drawn from the Government of India | State subsidy limited so the unit still bears at least 2% of interest after offsetting the central subsidy |
+| EPF reimbursement also drawn from a central or state scheme | Not eligible under this scheme for that period |
 
-Specific interactions still to be mapped, and the reason the sectoral and central layers are the next build:
+The choose-one rule against Gujarat's own sectoral policies is the significant one, and it makes the state sectoral layer a genuine decision rather than an add-on. It is the reason the sectoral decode is the next build.
 
-- Green energy ecosystem projects against the National Green Hydrogen Mission
-- Semiconductor ancillaries against India Semiconductor Mission and the Electronics Component Manufacturing Scheme
-- Mobility against the automotive and advanced chemistry cell production-linked incentive schemes
-- Critical minerals and metals against the National Critical Mineral Mission
-- Whether the Gujarat state sectoral policies (electric vehicle, electronics, data centre, semiconductor, global capability centre, renewable energy) are alternatives to VGIP 2026 or additional to it
-
-**Flag and refer.** Customs, foreign trade policy, special economic zone status and bonded manufacturing would change the answer for an export-oriented project and are outside this library. A unit inside a special economic zone will need its state incentive eligibility checked separately, as state policies commonly treat such units differently.
+**Flag and refer.** Customs, foreign trade policy, special economic zone status and bonded manufacturing would change the answer for an export-oriented project and sit outside this library.
 
 ---
 
-## Section 8. What the policy does not say
+## Section 8. What the Resolution does not say
 
-Stated as questions, because these are what to put to the department or to carry into the package.
+Most of what was open in the first draft is now closed. What remains:
 
-**1. ~~Which way does the taluka split run?~~ Answered.** Category A is the less developed set and carries the higher slab. Confirmed against the government-hosted Government Resolution text. See Section 3.
-
-**2. ~~Where do the major industrial locations sit?~~ Substantially answered.** Dahej, Ankleshwar, Jhagadia, Sanand, Mundra, Anjar, Gandhidham and Morbi are all Category B. Dholera is Category A. Still to read: Halol, Hazira, Vapi, Savli, Padra, and the specific GIDC estates on any live site list.
-
-**3. ~~Is the thrust sector list 11, 16, or 21?~~ Resolved.** A PIB release quoting the Industries Commissioner states that **21 key sectors** were identified, which reconciles to 16 thrust plus 5 selected thrust. The 11-sector count in one commentary is wrong. The sub-category detail within each of the 16 still needs reading against the annexure, because that is where a specific product is found or not found.
-
-**4. Is the thrust test applied at unit level or product level?** A unit making both a thrust product and a general product needs to know whether it classifies as a whole or apportions. The policy as decoded does not say. This is where most incentive litigation starts.
-
-**5. Can a general-sector project reach Mega status?** The thresholds as read make Mega and Ultra Mega available only in thrust sectors. If so, a INR 15,000 Cr general-sector project is capped at the Large general slab of 20%. That is a large commercial consequence resting on a reading.
-
-**6. What makes an expansion "qualifying"?** No threshold test identified.
-
-**7. What does "maximum two availments" mean?** Two separate projects? Two claims? This governs whether phasing a project into separate units is available as a structuring move, which is one of the main levers on a large investment.
-
-**8. Does the entitlement survive a merger, demerger or slump sale?** Not identified. Decides whether the incentive is an asset in a transaction.
-
-**9. What is the SCALE Committee?** Referred to, not explained.
-
-**10. Is there really no state GST instrument?** A significant absence, and absences are worth confirming rather than assuming.
-
-**11. When exactly does the six-month election clock expire?** Six months from the GR of 8 September 2026 gives roughly 8 March 2027. For any client with a project commissioning around now, this is a live and irreversible deadline.
-
-**12. Is there a negative list?** None identified.
+1. **Does the entitlement survive a merger, demerger or slump sale?** Not addressed anywhere in the Resolution. Determines whether an entitlement is a transferable asset. The largest remaining gap.
+2. **How do the two-availment limit (para 2.4) and the Industrial Complex provision (para 1.8) interact?** Separate projects at one location with separate books may apply separately — but the undertaking may only avail twice. Whether a genuine industrial complex of four projects can draw four entitlements, or two, is unresolved on the face of the text.
+3. **Is the thrust test applied at unit level or product level** where a unit makes both a thrust and a general product? The HSN-based committee determination gives a route, but not a rule.
+4. **What constitutes a qualifying expansion or diversification?** No threshold test appears in the Resolution. Likely to sit in the implementation guidelines the Industries Commissioner is empowered to issue under para 18(7).
+5. **What is the SCALE Committee?** Referred to in the policy document, not in this Resolution. To be read from the policy document.
+6. **The MSME, startup, research and development and service-sector provisions** sit in the policy document and the MSME Resolution of 25 September 2026, neither yet decoded.
 
 ---
 
@@ -483,103 +485,99 @@ Stated as questions, because these are what to put to the department or to carry
 
 ### From headline to real
 
-Take a thrust-sector Mega project in a Category A taluka. Headline 35%.
+Thrust-sector Mega project, Category A taluka, 35% headline.
 
 | Step | Effect | Running rate on project cost |
 |---|---|---|
-| Headline combined ceiling | 35% of eligible investment | 35% |
-| Less land, excluded, say 15% of project cost | Base shrinks to 85% of project cost | 29.8% |
-| Less buildings written to Schedule of Rates rather than actual, say 5% of project cost lost | Base shrinks to about 80% | 28.0% |
-| Less pre-operative, capitalised interest, other exclusions, say 5% | Base shrinks to about 75% | 26.3% |
-| Annual ceiling 3.5% over 10 years = 35%, so no further loss at this size | No cut | 26.3% |
-| Time value over a 10-year draw at 10% discount | Roughly 40% of nominal value lost | **about 16%** |
-| Certainty discount, to be set once the payment record is gathered | Not yet quantified | — |
+| Headline combined ceiling | 35% of eligible investment | 35.0% |
+| Land excluded — assume 15% of project cost | Base falls to 85% | 29.8% |
+| Buildings at Schedule of Rates not actual — assume 5% | Base falls to about 80% | 28.0% |
+| Pre-operative, capitalised interest, consultancy without technology acquisition — assume 5% | Base falls to about 75% | 26.3% |
+| Annual ceiling 3.5% over 10 years = 35% | No further loss at this size | 26.3% |
+| Present value of a 10-year draw at 10% | About 40% of nominal value lost | **≈16%** |
+| Certainty discount | Not yet quantified | — |
 
-**So a 35% headline is worth roughly 26% of project cost in nominal rupees and roughly 16% in present value, before any discount for payment risk.** *(interpretation — assumptions stated, to be replaced with the value bridge method and real project figures on a mandate.)*
-
-The two largest haircuts are the exclusion of land and the time value of a 10 to 12-year draw. Neither is negotiable through better drafting; both are changed only through the customised package route or through project design.
-
-For an Ultra Mega project above roughly INR 35,700 Cr of eligible investment, add the absolute annual cap effect from Section 4D, which is the largest single haircut in the policy and the one most often missed.
+*(interpretation — assumptions stated; replace with project figures on a mandate)*
 
 ### Which project profiles this suits
 
 | Profile | Fit | Why |
 |---|---|---|
-| Power-heavy in a thrust sector | **Strong** | Power tariff component at INR 2 per unit arrives through operating life, not claim cycles, and can be weighted up under Choose Your Incentive |
-| Export-heavy or inter-state-heavy | **Strong** | No state GST instrument to miss out on; entitlement is capex-anchored |
-| Labour-intensive in a selected thrust sector | **Very strong** | 50% ceiling, highest in the policy, available at any size class including MSME |
-| Highly leveraged | **Good** | 7% interest subsidy can be weighted up, though the unit must bear 2% itself |
-| Very large, above about INR 35,700 Cr | **Weakens** | Absolute annual cap erodes the effective rate as size rises; the customised package route becomes the real answer |
-| Large intra-state domestic seller | **Weaker than elsewhere** | Loses the state GST instrument that competing states still offer |
-| General sector, any size | **Weak** | Capped at 20% / 15%, and apparently blocked from Mega status |
-| Land-heavy | **Weak** | Land excluded from eligible investment entirely |
+| Labour-intensive in a selected thrust sector | **Very strong** | 50% / 45% at any size, no employment gate, plus the IP, technology, certification, training and design studio package |
+| Power-intensive drawing from grid or renewable open access | **Strong** | INR 2 per unit through operating life, up to 20-25% of eligible investment; arrives faster than capital subsidy |
+| Thrust-sector project clearing the Mega jobs test | **Strong** | 35% / 30%, and the customised package route opens |
+| Export-heavy or inter-state-heavy | **Strong** | No state GST instrument to forgo; entitlement is capex-anchored |
+| Project able to site in Dholera or Becharaji | **Strong** | The only major destinations on the higher band |
+| Highly leveraged with bank or ECB funding | **Good** | 7% interest subsidy, ECB eligible; unit bears 2% |
+| Above about INR 35,700 Cr eligible investment | **Weakens sharply** | Absolute annual cap erodes the effective rate; go to the customised package |
+| Thrust-sector project above INR 1,000 Cr missing the jobs test | **Weakens** | Falls back to Large Thrust at 35% / 25%, not Mega |
+| Power-intensive running on captive generation | **Weakens** | Captive capex is eligible but captive consumption earns no tariff subsidy |
+| General sector, any size | **Weak** | Capped at 20% / 15%; Mega status unreachable |
+| Modernisation or rationalisation of an existing unit | **Not eligible** | Expressly excluded |
+| Land-heavy | **Weak** | Land excluded entirely |
 
-### The customised package route (state only)
+### The customised package route
 
-**Available, and it is the real answer on any large project.** A High Power Committee chaired by the Chief Minister can set customised packages for Mega and Ultra Mega projects in thrust and selected thrust sectors, resolve interdepartmental issues, and decide matters not covered by the GR.
+Available to Mega and Ultra Mega projects in thrust and selected thrust sectors, from the High Power Committee chaired by the Chief Minister, which also has express authority over any matter the Resolution does not cover, and an express mandate to facilitate relocation from other states.
 
-That last limb is the valuable one. A committee empowered to decide what the GR does not cover can address the gaps in Section 8 directly, rather than leaving them to an officer's reading.
-
-**The published policy is therefore the floor, not the ceiling, for any project above INR 1,000 Cr in a thrust sector.** What to take into that room, and what Gujarat has granted before, needs the deal database, which is the next build after the sectoral layer.
+**For any project above INR 1,000 Cr in a thrust sector, the published slabs are the floor.** What to take into that room, and what Gujarat has granted before, needs the deal database.
 
 ---
 
 ## Section 10. What we do with this
 
-### Verification list, in priority order
+### Immediate, time-critical
 
-These are read against the government copy before any of this is used with a client.
+| Deadline | What |
+|---|---|
+| **8 December 2026** | Registration deadline for any unit already in commercial production that wants into this scheme. Roughly three weeks away |
+| **≈ 8 March 2027** | Six-month window to elect the previous Aatmanirbhar scheme instead. Final and irrevocable |
+| **4 October 2027** | Hard backstop — no unit may avail the previous scheme unless commercial production commences on or before this date |
 
-| # | What to verify | Why it matters | Status |
-|---|---|---|---|
-| 1 | The component rate tables, paras 4B to 4H of the GR of 8 Sept 2026 | Every cell in Section 4B is inferred; two reproductions diverge on sub-caps | **Open — now top priority** |
-| 2 | Change-of-ownership and transferability provisions | Decides whether the incentive survives a transaction | Open |
-| 3 | Whether Mega status is open to general sectors | Would cap large general-sector projects at 20% | Open |
-| 4 | The six-month election deadline and its start date | Live, irreversible, around March 2027 | Open |
-| 5 | Absence of any state GST instrument | Structural; drives cross-state comparison | Open |
-| 6 | Meaning of "maximum two availments" | Governs phasing strategy | Open |
-| 7 | Unit-level versus product-level thrust test | Where litigation starts | Open |
-| 8 | Thrust sector sub-categories within the 16 | Whether a specific product is found or not found | Open |
-| 9 | Taluka category for Halol, Hazira, Vapi, Savli, Padra | Remaining gaps on the industrial map | Open |
-| 10 | Taluka A/B direction and the major destinations | Inverts siting advice | **Closed** — Section 3 |
-| 11 | Sector count: 16 thrust + 5 selected = 21 | 20% versus 35% ceiling | **Closed** — PIB release |
-| 12 | Overall workforce domicile percentage | Continuing condition with 18% clawback | **Closed** — 85% overall, 60% managerial |
+### Still to decode
 
-**Where to get the primary documents.** The route is **iNDEXTb (indextb.com), the Gujarat government's Industrial Extension Bureau**, which hosts the Government Resolutions under "Latest Updates" and "Government Policy": the Large, Mega and Ultra Mega scheme GR, the taluka classification GR, the MSME scheme GR, and the policy document itself. The site blocks automated fetching but opens normally in a browser. The Industries Commissionerate copy of the policy sits at `ic.gujarat.gov.in/documents/Viksit-Gujarat-Industrial-Policy2026_new.pdf`.
+1. The policy document itself, 44 pages, held in `source-documents/` — SCALE Committee, MSME, startup, research and development, service sector, Project THRIVE relocation, green industrial parks
+2. The MSME scheme Resolution of 25 September 2026 — not yet obtained
+3. Gujarat state sectoral policies, now known to be **mutually exclusive** with this scheme, which makes the comparison a real decision
+4. The payment record, from Demand No. 49, Major head 2852, Minor head 800, Sub head 36
 
 ### Intake questions this decode suggests
 
-1. Which taluka is the site in, and has the category been confirmed against the list?
-2. Does the product sit in a thrust sub-category, a selected thrust sector, or neither, and is that at unit or product level?
-3. Gross fixed capital investment and eligible fixed capital investment, computed separately. What share is land?
-4. Is construction cost above or below the Roads and Buildings Schedule of Rates?
-5. Electricity consumption in units per year, to value the power tariff component against the capital subsidy.
-6. Debt quantum, tenure and rate, to value the interest subsidy component.
-7. Expected date of commencement of commercial production, against the 31 May 2031 outer limit.
-8. Is there an existing unit in Gujarat already under the 2020 policy or the Aatmanirbhar schemes, and is the six-month election live?
-9. Sales mix, intra-state, inter-state and export. Less critical here than elsewhere given no state GST instrument, but needed for the cross-state comparison.
-10. Is the project above INR 1,000 Cr in a thrust sector, which opens the customised package route?
+1. Which taluka is the site in, and has it been checked against Annexure-A? Dholera and Becharaji are the only major Category A destinations.
+2. Does the product sit in one of the 16 thrust sectors or the 5 selected thrust sectors? If marginal, what is the HSN code, since the committee decides disputes on HSN.
+3. Is the project new, expansion or diversification? Modernisation and rationalisation are not eligible at all.
+4. If above INR 1,000 Cr, does it clear the Mega employment test of 250 direct jobs plus 50 per further INR 200 Cr? If not, it falls back to Large.
+5. Gross fixed capital investment and eligible fixed capital investment, computed separately. What share is land?
+6. Is the project power-intensive, and is power to come from captive generation or from grid or renewable open access? This is a real trade-off.
+7. What proportion of the workforce will be Gujarat-domiciled? The test is 85% overall and 60% managerial, continuously.
+8. How many employees will be genuinely new to formal employment, without an existing Universal Account Number? This drives the EPF value.
+9. Is the term loan from a bank, a government financial institution or an ECB? NBFC lending does not qualify.
+10. Is there an existing unit under the 2020 policy or the Aatmanirbhar schemes, and is the March 2027 election live?
+11. Is any Gujarat sector-specific scheme also in play? They are mutually exclusive, so this is a choice.
+12. Is the project above INR 1,000 Cr in a thrust sector, opening the customised package route?
 
 ### Watch list entries
 
-To be added to `watch/pipeline.md`:
-
-- Six-month election deadline under the GR of 8 September 2026, approximately March 2027
-- Registration deadline reported as 8 December 2026 for projects already in production *(verify)*
-- Further GRs expected: sector-specific schemes, industrial park and logistics park assistance, environmental infrastructure, relocation incentives
-- First disbursement data under VGIP 2026, not expected before 2028
+- 8 December 2026 registration deadline
+- Approximately 8 March 2027 election deadline; 4 October 2027 previous-scheme production backstop
+- Implementation guidelines to be issued by the Industries Commissioner under para 18(7)
+- Establishment of the Project Implementation Unit under para 18(8)
+- Committee decisions under para 12(a) adding sectors under residual entry 17 of Annexure-A
+- Demand No. 49 provision and spend, each budget cycle
 - Policy sunset 31 May 2031
 
 ### Candidate plays
 
-Three to write into `plays/` once the component tables are verified:
+**Play 1 — Selected thrust at any scale.** The five selected thrust sectors carry 50% / 45% at every size class with no employment gate, plus a support package worth up to INR 50 Cr on a design studio alone. Unusual, and worth testing against any client with a labour-intensive or robotics line under consideration.
 
-**Play 1 — Selected thrust at MSME scale.** The five selected thrust sectors carry the 50% ceiling at *any* size class, including MSME. A small or medium unit in toys, footwear, sports goods, robots or drones gets the highest ceiling in the policy without any employment threshold. Unusual, and worth testing against any client with a labour-intensive line it has been considering.
+**Play 2 — Grid or renewable open access over captive, on power-intensive projects.** Captive capital cost is eligible investment but captive consumption earns no power tariff subsidy, while renewable power through open access earns the full INR 2 per unit. On a high-consumption project the open-access route can be worth more than the captive capex allowance. Needs a present-value comparison per project, and that comparison is a reusable tool.
 
-**Play 2 — Size the project to the annual cap.** Because the absolute annual cap bites above roughly INR 35,700 Cr of eligible investment on Ultra Mega, and unused annual entitlement cannot be carried forward, a single very large project earns a lower effective rate than the same capital expenditure structured to stay under the crossover. Whether that is achievable turns on the "maximum two availments" rule and on anti-splitting provisions, both unverified. Commercial substance is the guardrail: phases must be genuinely separate projects.
+**Play 3 — Plot selection inside Mandal-Becharaji.** The special investment region straddles the A/B boundary: Becharaji taluka is Category A, Mandal taluka is Category B. Same region, two bands, 5 to 10 points of eligible investment apart.
 
-**Play 3 — Weight the mix to power on an electricity-intensive project.** Choose Your Incentive allows the mix to be set by the unit. For a metals, chemicals or data-centre-adjacent project, the power tariff component at INR 2 per unit through the operating life can be worth more in present value than the same ceiling taken as capital subsidy spread over a 10 to 12-year claim cycle. Needs a present-value comparison per project, and that comparison is a reusable tool worth building.
+**Play 4 — Industrial complex design against the two-availment limit.** Para 1.8 permits separate projects at one location with separate books and separately identifiable fixed capital investment to be treated as individual units; para 2.4 limits the undertaking to two availments. The interaction is unresolved and is worth a clarification before it is worth a structure. Commercial substance is the guardrail.
+
+**Play 5 — Argue a product into a thrust sector.** The sub-sectors are indicative, disputes are decided on HSN code and sector-expert opinion, and entry 17 lets the Industries Commissioner's committee add sectors. A product that looks marginal is an argument to be made, not a door that is closed.
 
 ---
 
-*Prepared 13 November 2026. Certainty: interpretation throughout, pending verification against the government copy.*
+*Prepared 13 November 2026, read against the Government Resolutions held in `source-documents/`.*

@@ -21,15 +21,25 @@ Rules: see CLAUDE.md. Claude maintains everything here.
 
 | File | Covers | Certainty position |
 |---|---|---|
-| `states/gujarat/industrial-policy-2026.md` | Viksit Gujarat Industrial Policy 2026, operative 1 June 2026 to 31 May 2031, with the Large, Mega and Ultra Mega scheme Government Resolution of 8 September 2026 | Taluka classification, sector count and employment conditions verified against government sources. **Incentive rate tables remain inferred** and are to be closed from the iNDEXTb copy before any client use |
-| `states/gujarat/profile.md` | Institutions, sanctioning ladder, officials, budget capacity, payment record, land and power | Mixed, tagged line by line. Payment record not yet quantified, so certainty of payment is carried at medium, inferred |
-| `states/gujarat/sources.md` | Source register, including the government sources reached and those identified but not reachable | — |
+| `states/gujarat/industrial-policy-2026.md` | Viksit Gujarat Industrial Policy 2026, operative 1 June 2026 to 31 May 2031, decoded against the Large, Mega and Ultra Mega scheme Government Resolution of 8 September 2026 | **Verified.** Read against the Government Resolution itself. Slabs, eligible investment, conditions, clawback, committees and the thrust sector annexure are all fact |
+| `states/gujarat/profile.md` | Institutions, sanctioning ladder, officials, budget capacity, payment record, land and power | Mixed, tagged line by line. Payment record not yet quantified, so certainty of payment is carried at medium |
+| `states/gujarat/sources.md` | Source register | — |
+| `states/gujarat/source-documents/` | **The primary documents themselves** — the policy document and both Government Resolutions of 8 September 2026 | Held in the repository |
 
-**Where to get Gujarat primary documents:** iNDEXTb, the Gujarat government's Industrial Extension Bureau, at indextb.com. It hosts the policy document and all three Government Resolutions under "Latest Updates" and "Government Policy". It blocks automated fetching but opens normally in a browser.
+**Why source documents are held here.** Gujarat publishes its policy on the Industries Commissionerate site and its Government Resolutions nowhere reliably: the Industries and Mines Department's own Government Resolutions page still lists 2015-era entries, and the Investor Facilitation Portal does not carry the 2026 policy at all. Both sites also block automated access. The documents were downloaded manually and committed. Expect the same on other states — store the source document wherever the government host is unreliable, keep links alone only where it is not.
+
+## Live deadlines
+
+| Date | What |
+|---|---|
+| **8 December 2026** | Gujarat registration deadline for units already in commercial production |
+| **≈ 8 March 2027** | Six-month window to elect the previous Aatmanirbhar scheme instead. Final and irrevocable |
+| **4 October 2027** | Hard backstop for commencing production under the previous scheme |
 
 ## Next steps
-1. Close the Gujarat incentive rate tables from the iNDEXTb copy of the Government Resolution
-2. Gujarat state sectoral policies: electric vehicle, electronics, semiconductor, data centre, global capability centre, renewable energy
-3. Gujarat payment record quantified from the Demands for Grants, assembly answers and CAG reports
-4. Central overlay and the stacking rules against the 16 thrust sectors
-5. Watch list started, so sunset dates and pending notifications are tracked
+1. Decode the Gujarat policy document itself, held in `source-documents/` — SCALE Committee, MSME, startup, R&D, service sector, Project THRIVE
+2. Obtain and decode the MSME scheme Government Resolution of 25 September 2026
+3. Gujarat state sectoral policies — now known to be **mutually exclusive** with the general scheme, so the comparison is a real decision
+4. Gujarat payment record from Demand No. 49, Major head 2852, Minor head 800, Sub head 36
+5. Central overlay and the stacking rules against the 16 thrust sectors
+6. Watch list started, so sunset dates and pending notifications are tracked
