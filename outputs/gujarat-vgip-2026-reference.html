@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Viksit Gujarat Industrial Policy 2026 — Practitioner Reference</title>
+<style>
+:root{
+  --ink:#16202b; --ink2:#475c70; --ink3:#6b7f91; --line:#dde4ea; --line2:#eef2f5;
+  --bg:#f4f6f8; --card:#fff;
+  --a:#0a5c8f; --a2:#e9f1f7; --a3:#c9dfed;
+  --gold:#8a6100; --goldbg:#fdf6e6;
+  --green:#15694a; --greenbg:#e7f4ee;
+  --red:#9d1f1f; --redbg:#fdecec;
+}
+*{box-sizing:border-box}
+body{margin:0;padding:0;background:var(--bg);color:var(--ink);
+  font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+  -webkit-text-size-adjust:100%}
+.wrap{max-width:1120px;margin:0 auto;padding:26px 22px 60px}
+
+/* masthead */
+.mast{border-bottom:3px solid var(--a);padding-bottom:16px;margin-bottom:24px}
+.eyebrow{font-size:11.5px;text-transform:uppercase;letter-spacing:1.4px;color:var(--a);
+         font-weight:700;margin-bottom:7px}
+h1{font-size:30px;line-height:1.2;margin:0 0 9px;letter-spacing:-.4px;font-weight:700}
+.standfirst{font-size:16.5px;color:var(--ink2);max-width:780px;margin:0 0 14px;line-height:1.6}
+.meta{font-size:12.5px;color:var(--ink3);line-height:1.75}
+.meta b{color:var(--ink2)}
+
+/* contents */
+.toc{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px 20px;margin-bottom:30px}
+.toc h4{margin:0 0 11px;font-size:11.5px;text-transform:uppercase;letter-spacing:1.2px;color:var(--a)}
+.toc ol{margin:0;padding-left:0;list-style:none;
+        columns:2;column-gap:34px;font-size:13.5px;line-height:1.95}
+@media(max-width:640px){.toc ol{columns:1}}
+.toc li{counter-increment:toc;break-inside:avoid}
+.toc li::before{content:counter(toc) ". ";color:var(--a);font-weight:700;
+                font-variant-numeric:tabular-nums}
+.toc ol{counter-reset:toc}
+.toc li.done{color:var(--ink)}
+.toc li.pend{color:var(--ink3)}
+.toc .mk{font-size:10.5px;font-weight:700;letter-spacing:.4px;text-transform:uppercase;
+         margin-left:5px;color:var(--ink3)}
+
+/* sections */
+section{margin-bottom:40px}
+.sechd{display:flex;align-items:baseline;gap:13px;margin-bottom:5px;
+       border-bottom:2px solid var(--a);padding-bottom:8px}
+.sechd .num{font-size:12px;font-weight:800;color:#fff;background:var(--a);
+            padding:3px 9px;border-radius:4px;letter-spacing:.5px;flex:0 0 auto}
+.sechd h2{font-size:19px;margin:0;letter-spacing:-.2px;font-weight:700}
+.intro{font-size:15.5px;color:var(--ink2);max-width:840px;margin:14px 0 18px}
+p{margin:0 0 13px}
+h3{font-size:15.5px;margin:26px 0 10px;font-weight:700;color:var(--a)}
+
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px 20px;margin-bottom:16px}
+.card p:last-child{margin-bottom:0}
+.flag{border-left:5px solid var(--gold);background:var(--goldbg);border-color:#f0e0b8}
+.flag h3{margin:0 0 8px;color:var(--gold);font-size:14px;text-transform:uppercase;letter-spacing:.7px}
+
+/* architecture diagram */
+.arch{display:grid;gap:12px;margin:4px 0 6px}
+.arch .top{background:var(--a);color:#fff;border-radius:9px;padding:14px 17px}
+.arch .top .k{font-size:11px;text-transform:uppercase;letter-spacing:1.1px;opacity:.82;margin-bottom:4px}
+.arch .top .v{font-size:17px;font-weight:700}
+.arch .top .d{font-size:13px;opacity:.9;margin-top:5px}
+.arrow{text-align:center;color:var(--a3);font-size:19px;line-height:.8;margin:-3px 0}
+.arch .row{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+@media(max-width:760px){.arch .row{grid-template-columns:1fr}}
+.gr{background:var(--card);border:1px solid var(--line);border-top:4px solid var(--a);
+    border-radius:9px;padding:13px 15px}
+.gr.off{border-top-color:var(--ink3);opacity:.72}
+.gr .k{font-size:10.5px;text-transform:uppercase;letter-spacing:.8px;color:var(--a);
+       font-weight:700;margin-bottom:5px}
+.gr.off .k{color:var(--ink3)}
+.gr .v{font-size:14px;font-weight:600;line-height:1.45;margin-bottom:6px}
+.gr .ref{font-size:11.5px;color:var(--ink3);font-family:ui-monospace,Menlo,monospace;
+         line-height:1.5;word-break:break-all}
+
+/* clocks */
+.clockgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(252px,1fr));gap:13px}
+.clk{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:15px 17px}
+.clk .n{display:inline-block;font-size:10.5px;font-weight:800;color:#fff;background:var(--a);
+        width:19px;height:19px;line-height:19px;text-align:center;border-radius:50%;margin-right:7px}
+.clk .ttl{font-size:14.5px;font-weight:700;display:inline}
+.clk .ans{font-size:15px;font-weight:700;color:var(--a);margin:9px 0 7px}
+.clk .exp{font-size:13.5px;color:var(--ink2);line-height:1.6}
+
+/* timeline */
+.tlwrap{margin:20px 0 6px}
+.tlbar{position:relative;height:40px;border-radius:7px;
+       background:linear-gradient(90deg,#0a5c8f 0%,#3f8ab5 55%,#6aa6c8 100%);color:#fff}
+.tlbar .l,.tlbar .r{position:absolute;top:11px;font-size:13px;font-weight:700}
+.tlbar .l{left:14px}.tlbar .r{right:14px}
+.tlbar .mid{position:absolute;top:12px;left:0;right:0;text-align:center;
+            font-size:11.5px;letter-spacing:1.3px;text-transform:uppercase;opacity:.85}
+.tlticks{display:flex;justify-content:space-between;margin-top:9px;font-size:12px;color:var(--ink3)}
+.tlticks span{flex:1}
+.tlticks span:nth-child(2){text-align:center}
+.tlticks span:last-child{text-align:right}
+
+/* deadlines */
+.dgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(248px,1fr));gap:13px}
+.dl{border-radius:10px;padding:15px 17px;border:1px solid}
+.dl.urgent{background:var(--redbg);border-color:#f2c8c8}
+.dl.soon{background:var(--goldbg);border-color:#f0e0b8}
+.dl .when{font-size:20px;font-weight:800;font-variant-numeric:tabular-nums;line-height:1.15;margin-bottom:3px}
+.dl.urgent .when{color:var(--red)}
+.dl.soon .when{color:var(--gold)}
+.dl .away{font-size:11px;text-transform:uppercase;letter-spacing:.8px;font-weight:700;
+          margin-bottom:9px;opacity:.78}
+.dl .what{font-size:13.5px;line-height:1.6}
+.dl .what b{display:block;margin-bottom:3px}
+
+/* tables */
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid var(--line);
+        border-radius:9px;background:#fff;margin-bottom:6px}
+table{border-collapse:collapse;width:100%;font-size:13.5px;min-width:560px}
+th,td{padding:10px 13px;text-align:left;border-bottom:1px solid var(--line2);vertical-align:top}
+th{background:#edf3f7;font-size:11px;text-transform:uppercase;letter-spacing:.7px;
+   color:var(--a);white-space:nowrap;font-weight:700}
+tbody tr:last-child td{border-bottom:none}
+.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.rowlab{font-weight:600;white-space:nowrap}
+caption{caption-side:bottom;text-align:left;padding:10px 13px;font-size:12.5px;
+        color:var(--ink3);line-height:1.6}
+
+.tag{display:inline-block;font-size:10px;font-weight:800;padding:2px 7px;border-radius:9px;
+     text-transform:uppercase;letter-spacing:.6px;white-space:nowrap;vertical-align:middle}
+.t-f{background:var(--greenbg);color:var(--green)}
+.t-i{background:#eceffc;color:#3740a0}
+.t-m{background:#f4ebfc;color:#6a36a5}
+.gloss{color:var(--ink3);font-style:italic}
+.ref{font-family:ui-monospace,Menlo,monospace;font-size:12px;color:var(--ink3)}
+
+.pagemark{margin-top:36px;padding:15px 19px;background:var(--a2);border:1px solid var(--a3);
+          border-radius:9px;font-size:13.5px;color:var(--ink2)}
+.pagemark b{color:var(--a)}
+.foot{margin-top:34px;padding-top:15px;border-top:1px solid var(--line);
+      font-size:12px;color:var(--ink3);line-height:1.8}
+a{color:var(--a)}
+
+/* decision tree */
+.tree{margin:4px 0 8px}
+.tnode{border-left:3px solid var(--a);padding:11px 0 11px 16px;margin:0 0 7px 5px}
+.tnode .q{font-weight:700;font-size:15px;margin-bottom:5px}
+.tnode .o{font-size:14px;color:var(--ink2);line-height:1.62}
+.pill{display:inline-block;color:#fff;font-size:11.5px;font-weight:800;padding:2px 9px;
+      border-radius:11px;white-space:nowrap;background:var(--a)}
+.pill.hi{background:var(--green)}.pill.lo{background:#7b8c99}
+/* split */
+.two{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:16px}
+@media(max-width:720px){.two{grid-template-columns:1fr}}
+.pan{border:1px solid var(--line);border-radius:10px;padding:14px 17px;background:#fff}
+.pan.g{background:var(--greenbg);border-color:#bcdfcd}
+.pan.r{background:var(--redbg);border-color:#f2c8c8}
+.pan h4{margin:0 0 9px;font-size:13px;text-transform:uppercase;letter-spacing:.8px}
+.pan.g h4{color:var(--green)}.pan.r h4{color:var(--red)}
+.pan ul{margin:0;padding-left:18px;font-size:14px;line-height:1.68}
+.pan li{margin-bottom:5px}
+/* decay */
+.drow{display:flex;align-items:center;gap:11px;margin-bottom:8px}
+.drow .lab{flex:0 0 118px;text-align:right;font-size:13px;font-variant-numeric:tabular-nums}
+.drow .bar{flex:1;height:24px;background:#e9edf1;border-radius:5px;overflow:hidden}
+.drow .fill{height:100%;background:linear-gradient(90deg,#0a5c8f,#4e9bc4)}
+.drow .fill.lo{background:linear-gradient(90deg,#9d1f1f,#cf6a6a)}
+.drow .val{flex:0 0 56px;font-weight:800;font-size:14px;font-variant-numeric:tabular-nums}
+.kv{display:grid;grid-template-columns:repeat(auto-fit,minmax(192px,1fr));gap:11px;margin-bottom:14px}
+.kvi{border:1px solid var(--line);border-radius:9px;padding:12px 14px;background:#fff}
+.kvi b{display:block;font-size:10.5px;text-transform:uppercase;letter-spacing:.8px;color:var(--a);margin-bottom:5px}
+.kvi .big{font-size:21px;font-weight:800;font-variant-numeric:tabular-nums;line-height:1.15}
+.kvi .sm{font-size:12.5px;color:var(--ink3);margin-top:3px}
+.ok-c{color:var(--green);font-weight:700}
+.bad-c{color:var(--red);font-weight:700}
+.hl{background:#fdf6e6 !important}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<div class="mast">
+  <div class="eyebrow">Gujarat · State industrial policy · Practitioner reference</div>
+  <h1>Viksit Gujarat Industrial Policy 2026</h1>
+  <div class="standfirst">Gujarat's general industrial incentive framework, running from 1 June 2026 to 31 May 2031. It offers between 15% and 50% of a project's recognised capital cost, in a mix the investor chooses, and it decides most of that outcome on two things: what the unit makes, and which taluka it stands in.</div>
+  <div class="meta">
+    Decoded from Government of Gujarat, Industries and Mines Department, Resolution No. <span class="ref">IMD/WRT/e-file/9/2026/2320/I</span> (Scheme for assistance to Large, Mega and Ultra Mega Industries) and Resolution No. <span class="ref">IMD/HMR/e-file/9/2026/2211/I</span> (Classification of talukas), both approved 8 September 2026.<br>
+    <b>Prepared 13 November 2026.</b> Certainty tags: <span class="tag t-f">fact</span> stated in the Resolution · <span class="tag t-i">interpretation</span> our reading · <span class="tag t-m">market view</span> evidence of practice rather than of law.
+  </div>
+</div>
+
+<div class="toc">
+  <h4>Contents</h4>
+  <ol>
+    <li class="done">The policy, and the clocks that govern it</li>
+    <li class="done">Who qualifies</li>
+    <li class="done">The thrust sectors</li>
+    <li class="done">Where you can build</li>
+    <li class="done">What you get</li>
+    <li class="done">What counts as eligible investment</li>
+    <li class="done">The annual ceiling</li>
+    <li class="done">The power decision</li>
+    <li class="done">How the money reaches you</li>
+    <li class="done">Conditions and clawback</li>
+    <li class="done">Stacking with other schemes</li>
+    <li class="done">The state behind the policy</li>
+    <li class="done">The commercial read</li>
+    </ol>
+</div>
+
+<section>
+  <div class="sechd"><span class="num">01</span><h2>The policy, and the clocks that govern it</h2></div>
+
+  <p class="intro">Gujarat announced this policy on 15 June 2026 under the framing <i>Viksit Gujarat se Viksit Bharat</i>. It follows the Gujarat Industrial Policy 2020. For the purposes of this scheme the predecessor is narrower: the Resolution defines the previous scheme as the two Aatmanirbhar Gujarat schemes of 5 October 2022, one for Large Industries and Thrust Sector and one for Mega Industries. Four separate time limits govern an entitlement under it, and they are routinely confused with one another. A policy that remains valid until 2031 is of no use to a unit that has missed its registration deadline, and three deadlines are running now.</p>
+
+  <h3>How the policy is built</h3>
+  <p>The policy document sets direction. The money rules sit in Government Resolutions issued by the Industries and Mines Department. <span class="gloss">A Government Resolution is an executive order of the department. It is easier for the state to amend than a gazetted notification. That matters when a project is relying on a twelve-year entitlement.</span></p>
+
+  <div class="arch">
+    <div class="top">
+      <div class="k">The policy</div>
+      <div class="v">Viksit Gujarat Industrial Policy 2026</div>
+      <div class="d">Announced 15 June 2026 · operative 1 June 2026 to 31 May 2031 · states intent and identifies 21 sectors</div>
+    </div>
+    <div class="arrow">▾</div>
+    <div class="row">
+      <div class="gr">
+        <div class="k">Scheme · 8 Sept 2026</div>
+        <div class="v">Assistance to Large, Mega and Ultra Mega Industries</div>
+        <div class="ref">IMD/WRT/e-file/9/2026/2320/I</div>
+      </div>
+      <div class="gr">
+        <div class="k">Classification · 8 Sept 2026</div>
+        <div class="v">Taluka Category A and Category B, for every scheme under the policy</div>
+        <div class="ref">IMD/HMR/e-file/9/2026/2211/I</div>
+      </div>
+      <div class="gr off">
+        <div class="k">Scheme · 25 Sept 2026</div>
+        <div class="v">Assistance to MSMEs. Outside the scope of this reference</div>
+        <div class="ref">IMD/WRT/e-file/9/2026/2630/CH</div>
+      </div>
+    </div>
+  </div>
+  <p style="font-size:13px;color:var(--ink3);margin-top:10px">Both 8 September Resolutions were approved by the Additional Chief Secretary, Industries and Mines Department, and signed by the Under Secretary. The taluka Resolution records the concurrence of the Finance Department by note of 10 August 2026. <span class="tag t-f">fact</span></p>
+
+  <h3>The four clocks</h3>
+
+  <div class="tlwrap">
+    <div class="tlbar">
+      <span class="l">1 June 2026</span>
+      <span class="mid">Operative period</span>
+      <span class="r">31 May 2031</span>
+    </div>
+    <div class="tlticks">
+      <span>Capital spend counts from 1 Jan 2026</span>
+      <span>Registration closes 8 Dec 2026</span>
+      <span>Production must have begun by 31 May 2031</span>
+    </div>
+  </div>
+
+  <div class="clockgrid" style="margin-top:18px">
+    <div class="clk">
+      <div><span class="n">1</span><span class="ttl">Policy validity</span></div>
+      <div class="ans">1 June 2026 to 31 May 2031</div>
+      <div class="exp">The test is that <b>commercial production begins inside this window</b>, not that the application is filed inside it. Commencement of commercial production is the date of the first commercial sale bill of the products the project was set up to make. For an expansion or diversification, it is the first sale bill of the products that expansion makes.</div>
+    </div>
+    <div class="clk">
+      <div><span class="n">2</span><span class="ttl">Registration window</span></div>
+      <div class="ans">Before production starts, or by 8 December 2026, whichever is later</div>
+      <div class="exp">Registration is <b>mandatory</b>. The deadline is three months from the issue of the Resolution. A unit that began producing on or after 1 June 2026 therefore has until 8 December 2026. In every case registration must be made before the end of the operative period. A late application is not entertained.</div>
+    </div>
+    <div class="clk">
+      <div><span class="n">3</span><span class="ttl">Benefit tenure</span></div>
+      <div class="ans">8, 10 or 12 years from production start</div>
+      <div class="exp">Eight years for a Large unit in a thrust or selected thrust sector. Ten years for a Large general-sector unit and for a Mega unit. Twelve years for an Ultra Mega unit. The reimbursement of provident fund contributions runs on its own clock and does not always match.</div>
+    </div>
+    <div class="clk">
+      <div><span class="n">4</span><span class="ttl">Investment period</span></div>
+      <div class="ans">18 to 48 months after production starts</div>
+      <div class="exp">Capital expenditure continues to count for a defined period <i>after</i> production begins, on a sliding scale by project size. This is the clock most often overlooked, and it decides how much of a phased build actually enters the subsidy base.</div>
+    </div>
+  </div>
+
+  <div class="scroll" style="margin-top:17px">
+    <table style="min-width:520px">
+      <thead><tr><th>Gross fixed capital investment</th><th class="num">Investment period from production start</th></tr></thead>
+      <tbody>
+        <tr><td>Up to ₹1,000 crore</td><td class="num">18 months</td></tr>
+        <tr><td>Up to ₹10,000 crore</td><td class="num">24 months</td></tr>
+        <tr><td>Up to ₹1,00,000 crore</td><td class="num">36 months</td></tr>
+        <tr><td>Above ₹1,00,000 crore</td><td class="num">48 months</td></tr>
+      </tbody>
+      <caption>Assets acquired <i>and paid for</i> from 1 January 2026 count, which carries eligibility back five months before the policy started. The extended period runs beyond the operative period of the scheme, provided production itself commenced within it. <span class="tag t-f">fact</span></caption>
+    </table>
+  </div>
+
+  <h3>The three deadlines running now</h3>
+  <p>A unit that has not yet begun commercial production may choose between this policy and the previous Aatmanirbhar Gujarat schemes. A unit already producing before 1 June 2026 has no choice at all and remains on the old scheme. The choice, where it exists, is governed by three dates.</p>
+
+  <div class="dgrid">
+    <div class="dl urgent">
+      <div class="when">8 December 2026</div>
+      <div class="away">Under four weeks away</div>
+      <div class="what"><b>Registration closes</b>For any unit that began commercial production on or after 1 June 2026. Registration must be applied for before production starts, or within three months of the Resolution, whichever is later. A unit already producing is therefore on the 8 December date. A late application is not entertained. Required at registration: the registration document and Industrial Entrepreneur Memorandum, proof of legal possession of land or a GIDC possession letter, Consent to Establish from the pollution control board, the detailed project report, and the term loan sanction letter.</div>
+    </div>
+    <div class="dl soon">
+      <div class="when">≈ 8 March 2027</div>
+      <div class="away">Six months from the Resolution</div>
+      <div class="what"><b>Election of the previous scheme</b>A unit not producing before 1 June 2026 may elect to remain under the Aatmanirbhar Gujarat schemes instead. The election must be exercised within six months of the Resolution and is <b>final and irrevocable</b>. After that window, every application is considered only under this scheme.</div>
+    </div>
+    <div class="dl soon">
+      <div class="when">4 October 2027</div>
+      <div class="away">Hard backstop</div>
+      <div class="what"><b>Last date to produce under the old scheme</b>Whatever else the Resolution provides, no unit may avail the previous scheme unless commercial production commences on or before this date. An election made in March 2027 is worthless if production slips past October 2027.</div>
+    </div>
+  </div>
+
+  <div class="card flag" style="margin-top:17px">
+    <h3>Where the election actually bites</h3>
+    <p>The two regimes are not interchangeable. The previous Aatmanirbhar schemes ran on the taluka classification of November 2020, which used three categories across 251 talukas; this policy uses two categories across 268. A site that sat in a favourable category under the old classification may sit in Category B under the new one, and the reverse is equally possible.</p>
+    <p style="margin-bottom:0">For any client with a project commissioning between now and late 2027, the election is therefore a modelling exercise rather than a formality, and it has to be done before March 2027 because it cannot be revisited. <span class="tag t-i">interpretation</span></p>
+  </div>
+
+  <h3>Where the money comes from</h3>
+  <p>There is no cap on the scheme as a whole. The entitlement is open-ended for anyone who qualifies, and expenditure is met from the sanctioned grant of the financial year under a named budget head.</p>
+  <div class="scroll">
+    <table style="min-width:480px">
+      <thead><tr><th>Budget head</th><th>Detail</th></tr></thead>
+      <tbody>
+        <tr><td class="rowlab">Demand number</td><td>49</td></tr>
+        <tr><td class="rowlab">Major head</td><td>2852, Industries</td></tr>
+        <tr><td class="rowlab">Minor head</td><td>800, Other expenditure</td></tr>
+        <tr><td class="rowlab">Sub head</td><td>36, Assistance to Large Industries</td></tr>
+      </tbody>
+      <caption>Named in the Resolution itself, so the provision made and the amount actually spent can be tracked year by year from the Demands for Grants. Rationing happens twice over: once through this annual provision, and again through the per-unit annual ceilings dealt with in section 7, which bind considerably harder. <span class="tag t-f">fact</span></caption>
+    </table>
+  </div>
+
+  </section>
+
+<section>
+  <div class="sechd"><span class="num">02</span><h2>Who qualifies</h2></div>
+  <p class="intro">Eligibility runs through five tests in sequence. Each one narrows the entitlement, and two of them account for most of the variation in outcome: what the unit makes, and where it stands. The Resolution is also unusually explicit about what happens when a large project misses the employment test, and that provision decides the result for a good deal of Gujarat's capital-intensive base.</p>
+
+  <div class="tree">
+    <div class="tnode">
+      <div class="q">1 · Will commercial production begin between 1 June 2026 and 31 May 2031?</div>
+      <div class="o">A unit already producing before 1 June 2026 is governed only by the previous scheme and cannot opt in. A unit not yet producing may choose between the two, within six months of the Resolution, and that choice is final.</div>
+    </div>
+    <div class="tnode" style="margin-left:24px">
+      <div class="q">2 · What is the project character?</div>
+      <div class="o">A new unit, an expansion or a diversification qualifies. <b>Renovation, modernisation, rehabilitation and rationalisation by an existing undertaking do not qualify at all.</b> This is narrower than most state policies and is easy to assume otherwise.</div>
+    </div>
+    <div class="tnode" style="margin-left:48px">
+      <div class="q">3 · Which sector tier does the product fall in?</div>
+      <div class="o">Sports goods, toys, footwear, robots or drones are <b>selected thrust</b> <span class="pill hi">50% / 45%</span> at any size, with no employment test. One of the 16 listed thrust sectors is <b>thrust</b>. Anything else is <b>general</b> <span class="pill lo">20% / 15%</span>, and cannot reach mega status at any investment level.</div>
+    </div>
+    <div class="tnode" style="margin-left:72px">
+      <div class="q">4 · What is the investment, and are the jobs there?</div>
+      <div class="o">₹125 crore or more in plant and machinery is <b>large</b>. ₹1,000 crore with 250 direct jobs, in a thrust sector, is <b>mega</b>. ₹10,000 crore with 3,000 direct jobs, in a thrust sector, is <b>ultra mega</b>. Both job thresholds escalate with investment.</div>
+    </div>
+    <div class="tnode" style="margin-left:96px">
+      <div class="q">5 · Which taluka category is the site in?</div>
+      <div class="o">Category A carries the higher band and Category B the lower. The difference is 5 to 10 percentage points of eligible investment, and the power tariff rate doubles on the same split. Section 4 sets out where the industrial map falls.</div>
+    </div>
+  </div>
+
+  <h3>Size thresholds and the job escalator</h3>
+  <div class="scroll">
+    <table style="min-width:620px">
+      <thead><tr><th>Class</th><th>Investment threshold</th><th>Employment condition</th></tr></thead>
+      <tbody>
+        <tr><td class="rowlab">Micro</td><td>Up to ₹2.5 crore in plant and machinery</td><td>None</td></tr>
+        <tr><td class="rowlab">Small</td><td>Above ₹2.5 crore to ₹25 crore</td><td>None</td></tr>
+        <tr><td class="rowlab">Medium</td><td>Above ₹25 crore to ₹125 crore</td><td>None</td></tr>
+        <tr><td class="rowlab">Large</td><td>Evidenced by an Industrial Entrepreneur Memorandum filed or amended, MCA21 project registration, or another central licence</td><td>None</td></tr>
+        <tr class="hl"><td class="rowlab">Mega</td><td>Minimum ₹1,000 crore gross fixed capital investment, in a thrust sector</td><td>250 direct jobs, <b>plus 50 for every further ₹200 crore</b></td></tr>
+        <tr class="hl"><td class="rowlab">Ultra Mega</td><td>Minimum ₹10,000 crore gross fixed capital investment, in a thrust sector</td><td>3,000 direct jobs, <b>plus 500 for every further ₹5,000 crore</b></td></tr>
+      </tbody>
+      <caption>The escalator compounds and is easily missed. A ₹20,000 crore ultra mega project carries 4,000 direct jobs, not 3,000. An Industrial Entrepreneur Memorandum is the filing a large manufacturer makes with the central government recording what it intends to make and at what capacity. <span class="tag t-f">fact</span></caption>
+    </table>
+  </div>
+
+  <h3>What happens when a large project misses the jobs test</h3>
+  <p>The Resolution deals with this expressly, and the treatment is a fall-back rather than a qualification. For a capital-intensive plant with low headcount, which describes much of Gujarat's chemical and metals base, this is the provision that decides the outcome. It belongs in the feasibility model, not in the application.</p>
+  <div class="scroll">
+    <table style="min-width:640px">
+      <thead><tr><th>Project above ₹1,000 crore</th><th>Treated as</th><th class="num">Ceiling A / B</th></tr></thead>
+      <tbody>
+        <tr><td>Clears the mega employment test, in a thrust sector</td><td class="rowlab ok-c">Mega</td><td class="num">35% / 30%</td></tr>
+        <tr><td>In a thrust sector, misses the employment test</td><td class="rowlab">Large Thrust</td><td class="num">35% / 25%</td></tr>
+        <tr><td>Not in a thrust sector, misses the employment test</td><td class="rowlab bad-c">Large General</td><td class="num">20% / 15%</td></tr>
+        <tr><td>In a selected thrust sector, misses the employment test</td><td class="rowlab ok-c">Large Selected Thrust</td><td class="num">50% / 45%</td></tr>
+      </tbody>
+      <caption>Mega and ultra mega status is confined to thrust sectors. A ₹15,000 crore general-sector project is held to 20% of eligible investment however large it becomes. In this policy the jobs buy the higher band, not the capital. <span class="tag t-f">fact</span></caption>
+    </table>
+  </div>
+
+  <h3>Two restrictions that shape structuring</h3>
+  <div class="two">
+    <div class="pan">
+      <h4>The two-availment limit</h4>
+      <p style="margin:0;font-size:14px">An undertaking may avail incentives a <b>maximum of two times</b> during the operative period of the policy, whether the projects are new, expansion or diversification. Separately, an undertaking that has already availed any incentive for the same gross fixed capital investment under any state scheme or state agency is not eligible here.</p>
+    </div>
+    <div class="pan">
+      <h4>The industrial complex provision</h4>
+      <p style="margin:0;font-size:14px">Where a unit sets up <b>multiple projects at a single location</b> and maintains separate books of account with separately identifiable fixed capital investment, those projects may apply separately and are treated as individual units for calculating the incentive. Existing common utilities are not counted.</p>
+    </div>
+  </div>
+  <div class="card flag">
+    <h3>Where these two provisions meet</h3>
+    <p style="margin-bottom:0">The two-availment limit attaches to the undertaking. The industrial complex provision allows genuinely separate projects at one location to be treated as separate units. Whether a complex of four projects draws four entitlements or two is not resolved on the face of the Resolution. This is worth a clarification from the department before it is worth designing around, and commercial substance remains the guardrail in either case. <span class="tag t-i">interpretation</span></p>
+  </div>
+</section>
+
+<section>
+  <div class="sechd"><span class="num">03</span><h2>The thrust sectors</h2></div>
+  <p class="intro">Eligibility lists in state policies are usually closed annexures, and most disputes turn on whether a product appears on them. This one is drafted differently in three respects, and together they make a marginal product a case to be argued rather than a door that is shut.</p>
+
+  <div class="two">
+    <div class="pan g">
+      <h4>Why the list is open</h4>
+      <ul>
+        <li>The sub-sectors under each thrust sector are expressly <b>indicative</b>, not exhaustive</li>
+        <li>Entry 17 is a residual clause: <b>any other sector as decided from time to time</b> by the committee chaired by the Industries Commissioner</li>
+        <li>Where a sub-sector is disputed, that committee decides <b>by considering the HSN code and the opinion of sector experts</b></li>
+      </ul>
+    </div>
+    <div class="pan">
+      <h4>What follows in practice</h4>
+      <p style="margin:0;font-size:14px">There is a named forum and a named test. The HSN code is the harmonised tariff classification already used for customs and GST, so the argument runs on ground that is familiar and documented. The difference between general and thrust is 20% against 35% of eligible investment, which is usually worth making the case for.</p>
+      <p style="margin:9px 0 0;font-size:14px"><b>Condition precedent:</b> chemical and pharmaceutical units must have a captive effluent treatment plant, or access to a common one.</p>
+    </div>
+  </div>
+
+  <h3>The sixteen thrust sectors</h3>
+  <div class="scroll">
+    <table style="min-width:700px">
+      <thead><tr><th style="width:38px">#</th><th style="width:160px">Sector</th><th>Indicative sub-sectors, as listed</th></tr></thead>
+      <tbody>
+        <tr><td class="num">1</td><td class="rowlab">Green Energy Ecosystem</td><td>Green hydrogen and green ammonia. Renewable energy equipment and parts for hydropower, wind, solar, geothermal and ocean energy. Battery storage. Fuel cells.</td></tr>
+        <tr class="hl"><td class="num">2</td><td class="rowlab">Mobility</td><td>Electric vehicles. Auto and auto components.</td></tr>
+        <tr><td class="num">3</td><td class="rowlab">Capital Equipment</td><td>Electrical machinery and equipment. <b>Wires and cables.</b> Industrial machinery. Telecom-related machinery. <b>Electrolysers.</b> Manufacture of all kinds of machinery and equipment.</td></tr>
+        <tr class="hl"><td class="num">4</td><td class="rowlab">Metals and Minerals</td><td>Manufacture, processing and recycling of ferrous and non-ferrous metals and metal products including plate, sheet, bar, angles, wire and rods. Critical mineral processing, refining and extraction. Ceramics, refractories, clay articles, tableware. Glass including solar glass. Mica, bauxite, granite, marble, <b>cement</b>, magnets.</td></tr>
+        <tr><td class="num">5</td><td class="rowlab">Textiles and Apparels</td><td>Textile value chain, technical textile, apparel, garment, made-ups.</td></tr>
+        <tr><td class="num">6</td><td class="rowlab">Sustainability</td><td>Municipal and industrial solid and liquid waste recycling equipment. Green technology equipment. Energy-efficient equipment and machinery. Wastewater and effluent treatment equipment. Sewage treatment plant. All types of recycling plant.</td></tr>
+        <tr><td class="num">7</td><td class="rowlab">Agro Processing</td><td>Agro and food processing, dairy, food grain, vegetable and fruit, oilseed and edible oil, spices, organic and health foods, ready-to-eat and ready-to-cook.</td></tr>
+        <tr><td class="num">8</td><td class="rowlab">Chemicals</td><td>Chemicals and petrochemicals, specialty chemicals, agrochemicals, dyes and pigments, bulk and fine chemicals, polymers, rubber and plastics, green and sustainable chemicals, fluorochemicals and advanced materials, industrial gases, water treatment chemicals, electronic chemicals, adhesives and sealants, paints, coatings and resins, surfactants and home care.</td></tr>
+        <tr><td class="num">9</td><td class="rowlab">Healthcare</td><td>Medical devices, diagnostic instruments, active pharmaceutical ingredients, bulk drugs, key starting materials, surgical equipment, vaccines, medical consumables, protective equipment, implants and prosthetics, orthopaedic, dental and ophthalmic devices, wearable and digital health hardware, medical electronics, biomedical sensors, AI-enabled medical devices, point-of-care diagnostics, robotic surgical systems, pharmaceuticals.</td></tr>
+        <tr class="hl"><td class="num">10</td><td class="rowlab">Semiconductor Ancillary Units</td><td>Ultra-high-purity chemicals and gases. Silicon wafer manufacturing. Semiconductor chemicals and specialty gases. Photoresists and electronic materials. Semiconductor manufacturing equipment and components. Ultra-pure water systems. <b>Printed circuit board manufacturing.</b> Integrated circuit assembly. Automation and material handling. Industrial sensors and control systems. Electrostatic discharge protection products.</td></tr>
+        <tr class="hl"><td class="num">11</td><td class="rowlab">Nuclear Power Equipment, including small modular reactors</td><td>Nuclear reactor components. Nuclear steam supply systems. Reactor pressure vessels. Radiation detection and monitoring. Nuclear electrical systems and switchgear. Nuclear waste treatment and disposal. Shielding and radiation protection. Robotics for nuclear inspection. <b>Small modular reactor components.</b> Generation III+ and Generation IV reactor systems.</td></tr>
+        <tr><td class="num">12</td><td class="rowlab">Vehicle Scrapping Facilities</td><td>Industrial vehicle shredders, cutting and shearing machines, baling machines, magnetic and eddy current separators, optical sorting, AI-based material identification, density separation, heavy mechanical equipment, specialised battery and hazardous waste handling.</td></tr>
+        <tr><td class="num">13</td><td class="rowlab">Electronics Waste Recycling Units</td><td>E-waste shredding, printed circuit board recycling, e-waste dismantling, integrated recycling plant, electrostatic separation, optical and AI-based sorting, lithium-ion battery recycling, gold recovery, cable stripping, transformer and motor recycling, display panel recycling, metallurgical recovery of gold, copper and rare metals.</td></tr>
+        <tr><td class="num">14</td><td class="rowlab">Textile Waste Recycling Units</td><td>Machinery for textile waste shredding, fabric cutting and opening, fibre opening and teasing, garnetting, textile waste sorting, cotton and polyester fibre recycling, blended fabric separation, mechanical fibre recovery, regenerated fibre processing, microfibre recovery, fibre-to-yarn reprocessing.</td></tr>
+        <tr><td class="num">15</td><td class="rowlab">Shipping Container Manufacturing</td><td>Standard dry cargo, high cube, reefer, tank, open top, flat rack and bulk cargo containers.</td></tr>
+        <tr><td class="num">16</td><td class="rowlab">Heavy Earth Moving Equipment</td><td>Cranes, tunnel boring machines, crawler and wheeled excavators, bulldozers, wheel loaders, backhoe loaders, motor graders, off-highway and mining dump trucks, skid steer loaders, trenchers, surface miners.</td></tr>
+        <tr><td class="num">17</td><td class="rowlab">Residual</td><td>Any other sector as decided from time to time by the committee chaired by the Industries Commissioner.</td></tr>
+      </tbody>
+      <caption>Highlighted rows are the sectors most likely to arise across metals and mining, automotive and electric vehicles, new energies, and power and utilities. <span class="tag t-f">fact</span></caption>
+    </table>
+  </div>
+
+  <h3>The five selected thrust sectors</h3>
+  <p>Sports goods and equipment. Toys. Footwear. Robots. Drones. These carry the highest ceiling in the policy at <b>every</b> size class, including the smallest, with no employment test at all. Section 5 sets out the additional support package that goes with them.</p>
+</section>
+<section>
+  <div class="sechd"><span class="num">04</span><h2>Where you can build</h2></div>
+  <p class="intro">The Resolution of 8 September 2026 classifies all 268 talukas across 34 districts into Category A, which carries the higher band, and Category B, which carries the lower. It replaces the three-category classification of 251 talukas made in November 2020. Category A is the less industrially developed set, and the consequence is counter-intuitive: Gujarat's best known industrial addresses are almost all on the lower band.</p>
+
+  <div class="two">
+    <div class="pan r">
+      <h4>Category B · lower band · 138 talukas</h4>
+      <ul>
+        <li><b>Vagra</b>, the Dahej petroleum and chemical investment region</li>
+        <li><b>Ankleshwar, Jhagadia</b>, with Bharuch, Hansot, Valia, Jambusar and Amod</li>
+        <li><b>Sanand</b> and <b>Mandal</b>, with Daskroi, Bavla, Dholka, Viramgam</li>
+        <li><b>Chorasi</b>, which contains Hazira, with Olpad, Kamrej, Palsana, Mandvi, Bardoli and Mangrol</li>
+        <li><b>Halol</b>, with Kalol and Godhra</li>
+        <li><b>Vapi</b>, with Valsad, Pardi and Umbergaon</li>
+        <li><b>Savli</b> and <b>Padra</b>, with Vadodara, Karjan, Vaghodia and Dabhoi</li>
+        <li><b>Mundra, Anjar, Gandhidham</b>, with Bhuj, Bhachau and Abdasa</li>
+        <li><b>Morbi, Wankaner, Tankara, Halvad</b></li>
+        <li>Ahmedabad City, Surat City, Rajkot, Mehsana, Kadi</li>
+      </ul>
+    </div>
+    <div class="pan g">
+      <h4>Category A · higher band · 130 talukas</h4>
+      <ul>
+        <li><b>Dholera</b>, with Dhandhuka and Detroj-Rampura</li>
+        <li><b>Becharaji</b>, with Satlasana, Jotana, Kheralu and Vadnagar</li>
+        <li>Netrang, the only Category A taluka in Bharuch district</li>
+        <li>Dediapada, Sagbara, Garudeshwar, Tilakwada in Narmada</li>
+        <li>Rapar, Nakhatrana, Lakhpat, Mandvi in Kachchh</li>
+        <li>Maliya, the only Category A taluka in Morbi district</li>
+        <li>Umarpada and Mahuva in Surat; Sinor and Desar in Vadodara</li>
+        <li>Kaprada and Dharampur in Valsad</li>
+        <li>Ghoghamba, Morwa, Jambughoda, Shehera in Panch Mahals</li>
+        <li>Most of the tribal belt, the Saurashtra interior and the Dangs</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card flag">
+    <h3>The two destinations that matter</h3>
+    <p><b>Dholera</b> is the only major serviced industrial destination on the higher band. <b>Becharaji</b>, which anchors the Mandal-Becharaji investment region and the automotive cluster around it, is the only other Category A taluka with an established industrial base.</p>
+    <p>The state has deliberately priced its established corridor below its undeveloped talukas, because the corridor does not need a subsidy to attract investment. The differential is the instrument being used to populate Dholera and the tribal belt. <span class="tag t-i">interpretation</span></p>
+    <p style="margin-bottom:0"><b>One point to watch within a single region.</b> Mandal taluka sits in Ahmedabad district and is Category B. Becharaji taluka sits in Mehsana district and is Category A. The Mandal-Becharaji investment region straddles both. Plot selection inside one region moves the band.</p>
+  </div>
+
+  <p>The differential is worth 5 to 10 percentage points of eligible fixed capital investment with no change to the project. On ₹5,000 crore of eligible investment that is ₹250 crore to ₹500 crore. The power tariff rate also doubles from ₹1 to ₹2 per unit on the same split, so for an electricity-intensive project the two effects compound.</p>
+  <p style="font-size:13px;color:var(--ink3)">Taken from Annexure-A to Resolution No. <span class="ref">IMD/HMR/e-file/9/2026/2211/I</span>, read in full. The Annexure lists every taluka by district and is the authority for any specific site. <span class="tag t-f">fact</span></p>
+</section>
+
+<section>
+  <div class="sechd"><span class="num">05</span><h2>What you get</h2></div>
+  <p class="intro">The distinctive feature of this policy is that the unit assembles its own package. Rather than receiving a fixed combination, it chooses any one or any combination of capital subsidy, interest subsidy and power tariff support, subject to a sub-limit on each component and an overall ceiling on the total. The components sit inside the ceiling and do not add to it.</p>
+
+  <h3>The full slab table</h3>
+  <div class="scroll">
+    <table style="min-width:900px">
+      <thead>
+        <tr>
+          <th>Tier</th><th class="num">Ceiling A</th><th class="num">Ceiling B</th>
+          <th class="num">Capital A / B</th><th class="num">Interest cap A / B</th><th class="num">Power cap A / B</th>
+          <th class="num">Tenure</th><th class="num">Annual cap A / B</th><th class="num">Absolute annual cap</th><th class="num">EPF period</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td class="rowlab">Large, general</td><td class="num">20%</td><td class="num">15%</td><td class="num">15% / 10%</td><td class="num">15% / 10%</td><td class="num">15% / 10%</td><td class="num">10 yrs</td><td class="num">2.0% / 1.5%</td><td class="num">₹150 cr</td><td class="num">10 yrs</td></tr>
+        <tr><td class="rowlab">Large, thrust</td><td class="num">35%</td><td class="num">25%</td><td class="num">25% / 15%</td><td class="num">20% / 15%</td><td class="num">20% / 15%</td><td class="num">8 yrs</td><td class="num">4.5% / 3.5%</td><td class="num">₹300 cr</td><td class="num">8 yrs</td></tr>
+        <tr><td class="rowlab">Mega, thrust</td><td class="num">35%</td><td class="num">30%</td><td class="num">25% / 20%</td><td class="num">25% / 20%</td><td class="num">25% / 20%</td><td class="num">10 yrs</td><td class="num">3.5% / 3.0%</td><td class="num">₹750 cr</td><td class="num">10 yrs</td></tr>
+        <tr><td class="rowlab">Ultra Mega, thrust</td><td class="num">40%</td><td class="num">35%</td><td class="num">30% / 25%</td><td class="num">25% / 20%</td><td class="num">25% / 20%</td><td class="num">12 yrs</td><td class="num">3.5% / 3.0%</td><td class="num">₹1,250 cr</td><td class="num">10 yrs</td></tr>
+        <tr class="hl"><td class="rowlab">Large, selected thrust</td><td class="num">50%</td><td class="num">45%</td><td class="num">35% / 30%</td><td class="num">20% / 20%</td><td class="num">20% / 20%</td><td class="num">8 yrs</td><td class="num">6.5% / 6.0%</td><td class="num">₹300 cr</td><td class="num">10 yrs</td></tr>
+        <tr class="hl"><td class="rowlab">Mega, selected thrust</td><td class="num">50%</td><td class="num">45%</td><td class="num">35% / 30%</td><td class="num">20% / 20%</td><td class="num">20% / 20%</td><td class="num">10 yrs</td><td class="num">5.0% / 4.5%</td><td class="num">₹750 cr</td><td class="num">10 yrs</td></tr>
+        <tr class="hl"><td class="rowlab">Ultra Mega, selected thrust</td><td class="num">50%</td><td class="num">45%</td><td class="num">35% / 30%</td><td class="num">20% / 20%</td><td class="num">20% / 20%</td><td class="num">12 yrs</td><td class="num">4.5% / 4.0%</td><td class="num">₹1,250 cr</td><td class="num">10 yrs</td></tr>
+      </tbody>
+      <caption>All figures are percentages of eligible fixed capital investment. Interest subsidy is 7% a year in every tier, and the percentage shown is the cap on how much of the ceiling that component may consume. Power tariff support is ₹2 per unit of electricity in Category A talukas and ₹1 per unit in Category B. Note that the provident fund reimbursement period does not always track the incentive tenure: an ultra mega unit runs twelve years of incentive but ten years of reimbursement. <span class="tag t-f">fact</span></caption>
+    </table>
+  </div>
+
+  <h3>The components</h3>
+  <div class="scroll">
+    <table style="min-width:680px">
+      <thead><tr><th>Component</th><th>How it works</th></tr></thead>
+      <tbody>
+        <tr><td class="rowlab">Capital subsidy</td><td>A percentage of eligible fixed capital investment, paid in <b>equal annual instalments</b> from the date production commences, and only after production has commenced. Claimed after obtaining the provisional or final eligibility certificate.</td></tr>
+        <tr><td class="rowlab">Interest subsidy</td><td>7% a year on the term loan, in every tier. The unit must bear <b>at least 2%</b> itself. Only on interest actually levied by the financial institution; penal interest and other charges are excluded. If the unit defaults, the subsidy stops for the default period and that period is deducted from the eligible term. Where interest subsidy is also drawn from the central government, the state subsidy is reduced so the unit still bears 2% after offsetting it.</td></tr>
+        <tr><td class="rowlab">Power tariff support</td><td>₹2 per unit in Category A, ₹1 per unit in Category B. Available on power drawn from a distribution company <b>or on renewable power through open access</b>. Not available on power from the unit's own captive plant. Section 8 deals with the consequence.</td></tr>
+        <tr><td class="rowlab">Provident fund reimbursement</td><td>100% of the employer's statutory contribution, capped at ₹1,800 a month for male employees, ₹2,500 for female employees and ₹3,000 for specially abled employees, and in all cases limited to 12% of basic salary plus dearness allowance. Paid quarterly on payment receipts.</td></tr>
+        <tr><td class="rowlab">Stamp duty and registration</td><td>100% reimbursement of charges paid to the Government of Gujarat or GIDC, available to ultra mega units and to units in the selected thrust sectors. The reimbursed amount is not added to eligible investment, applies only to land acquired during the investment period, and <b>must be claimed within three months of production starting</b>.</td></tr>
+        <tr><td class="rowlab">Electricity duty</td><td>Exemption under the Gujarat Electricity Duty Act 1958.</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3>The additional package for selected thrust sectors</h3>
+  <p>Units in the five selected thrust sectors receive the following on top of the 50% or 45% ceiling. Every item runs from expenditure incurred on or after 1 January 2026, and every item carries a three-month claim window.</p>
+  <div class="scroll">
+    <table style="min-width:680px">
+      <thead><tr><th>Support</th><th class="num">Rate</th><th class="num">Cap</th><th>Claim window runs from</th></tr></thead>
+      <tbody>
+        <tr><td>Intellectual property: patent, design, copyright, trademark, geographical indication</td><td class="num">75%</td><td class="num">₹1 crore</td><td>Publication or notification. Claimable multiple times until the cap is used</td></tr>
+        <tr><td>Technology acquisition from a recognised institution, including royalty for the first two years</td><td class="num">75%</td><td class="num">₹5 crore</td><td>Signing the agreement. Not available for plant and machinery</td></tr>
+        <tr><td>International certification</td><td class="num">100%</td><td class="num">₹5 crore</td><td>Issue of the certificate. Renewals not eligible</td></tr>
+        <tr><td>Training of manpower, in India or abroad, first twelve months</td><td class="num">Actual</td><td class="num">₹15,000 per employee per month</td><td>Completion of training. Gujarat-domiciled trainees only. Claimable once</td></tr>
+        <tr><td>Creative design studio, in-house or standalone</td><td class="num">50%</td><td class="num">₹50 crore</td><td>Commencement of the studio. Building cost capped at 20% of eligible investment</td></tr>
+      </tbody>
+      <caption><span class="tag t-f">fact</span></caption>
+    </table>
+  </div>
+</section>
+
+<section>
+  <div class="sechd"><span class="num">06</span><h2>What counts as eligible investment</h2></div>
+  <p class="intro">This definition decides the real value of the entitlement far more than the headline percentage does. Two concepts run through the scheme and conflating them is the common error. Gross fixed capital investment decides eligibility, size class and the length of the investment period. Eligible fixed capital investment is the base the subsidy is calculated on, and it is smaller.</p>
+
+  <div class="card">
+    <p style="margin-bottom:0"><b>How the final number is fixed.</b> Final eligibility is set at the <b>lower</b> of the gross fixed capital investment actually made, the cost certified in a project completion certificate from the bank or financial institution, and the asset verification report of the Industries Commissionerate. For a self-financed project, the lower of a certificate from the statutory auditor, chartered accountant, chartered engineer or company secretary, and the asset verification report. <span class="tag t-f">fact</span></p>
+  </div>
+
+  <div class="two">
+    <div class="pan g">
+      <h4>Counted in</h4>
+      <ul>
+        <li><b>New buildings</b>, at the lower of actual cost or the Roads and Buildings Schedule of Rates, which is the state's standard construction rate card and generally sits below real cost</li>
+        <li><b>Plant and machinery</b>, including captive power generation within the premises, vehicles and material handling equipment used only within the premises, plant for desalination of sea water or purification of water, and pollution control plant including effluent and hazardous waste facilities</li>
+        <li><b>Technology, design, drawings and patents</b>, limited to 10% of the eligible investment in plant and machinery</li>
+        <li><b>Diesel generating sets</b>, but only up to 50% of connected electric load or 25 MW, whichever is less</li>
+        <li><b>Project infrastructure</b>, in full inside the premises and at 20% outside it</li>
+      </ul>
+    </div>
+    <div class="pan r">
+      <h4>Excluded</h4>
+      <ul>
+        <li><b>Land and land development cost</b>, entirely</li>
+        <li>Working capital, goodwill, royalty</li>
+        <li>Preliminary and pre-operative expenses</li>
+        <li>Second-hand, leased or rented plant and machinery, whether Indian or imported</li>
+        <li>Capitalised interest</li>
+        <li>Power generation plant other than captive within the premises</li>
+        <li>Rented or leased building, except GIDC premises</li>
+        <li>Design, drawing, consultancy, supervision and third-party inspection fees without technology acquisition</li>
+        <li><b>Independent power plant, including renewable energy</b></li>
+      </ul>
+    </div>
+  </div>
+
+  <h3>What counts as project infrastructure</h3>
+  <p>This head is broader than it first appears and is worth reading carefully on any greenfield project. It covers residential colony, dormitory housing, hospital, school and sports facilities for workers and staff, rest rooms, day care and creche. It covers the feeder road from the nearest approach road, dedicated pipelines carrying water, gas or raw material, and the non-refundable deposit paid to the electricity company for transmission from the nearest sub-station. It also covers digitisation of the communication network and telecommunication cabling, a bank or post office building provided free of charge, a training and skill development centre, and transport facilities such as buses carrying workers from nearby villages and towns.</p>
+  <p><b>Inside the project premises the full cost counts. Outside it, only 20% counts.</b> Social infrastructure around a plant is therefore being actively subsidised, which is unusual and is worth building into the project design rather than treating as welfare expenditure outside the model.</p>
+
+  <h3>Term loans</h3>
+  <p>Loans from banks and financial institutions recognised by the Reserve Bank of India qualify, and so do <b>external commercial borrowings sanctioned by overseas institutions</b>. Loans from government financial institutions such as NDDB, GSFS, HUDCO, REC and PFC qualify, and the sanctioning committee may admit others. Only the amount <b>actually disbursed within the eligible investment period</b> counts. <b>Loans from non-banking financial companies do not qualify at all.</b></p>
+</section>
+<section>
+  <div class="sechd"><span class="num">07</span><h2>The annual ceiling</h2></div>
+  <p class="intro">Each tier carries two annual caps running in parallel. One is a percentage of eligible investment, the other an absolute figure in rupees. The Resolution states in every tier that carry forward of incentive lost to the annual ceiling is not allowed, so entitlement above what can be drawn in a year is lost rather than deferred. On a very large project this is the single largest reduction in the policy, and it does not appear in any headline number.</p>
+
+  <p>Taking an ultra mega thrust-sector project in a Category A taluka. The ceiling is 40% of eligible investment over twelve years. The annual cap is 3.5% of eligible investment. The absolute cap is ₹1,250 crore a year.</p>
+
+  <div class="scroll">
+    <table style="min-width:700px">
+      <thead><tr><th class="num">Eligible investment</th><th class="num">3.5% a year</th><th>Which cap binds</th><th class="num">Drawable over 12 years</th><th class="num">Entitlement at 40%</th><th class="num">Effective rate</th></tr></thead>
+      <tbody>
+        <tr><td class="num">₹20,000 cr</td><td class="num">₹700 cr</td><td>Percentage</td><td class="num">₹8,000 cr</td><td class="num">₹8,000 cr</td><td class="num ok-c">40.0%</td></tr>
+        <tr><td class="num">₹35,700 cr</td><td class="num">₹1,250 cr</td><td><b>Crossover</b></td><td class="num">₹15,000 cr</td><td class="num">₹14,280 cr</td><td class="num ok-c">40.0%</td></tr>
+        <tr><td class="num">₹50,000 cr</td><td class="num">₹1,750 cr</td><td class="bad-c">Absolute</td><td class="num">₹15,000 cr</td><td class="num">₹20,000 cr</td><td class="num bad-c">30.0%</td></tr>
+        <tr><td class="num">₹75,000 cr</td><td class="num">₹2,625 cr</td><td class="bad-c">Absolute</td><td class="num">₹15,000 cr</td><td class="num">₹30,000 cr</td><td class="num bad-c">20.0%</td></tr>
+      </tbody>
+      <caption>The absolute cap begins to bind once eligible investment passes roughly <b>₹35,700 crore</b>, being ₹1,250 crore divided by 3.5%. Below that figure the percentage cap governs and the headline holds. Above it, every further rupee invested earns a progressively lower effective rate. <span class="tag t-f">fact on the caps</span> <span class="tag t-i">interpretation on the arithmetic</span></caption>
+    </table>
+  </div>
+
+  <div style="margin:20px 0 8px">
+    <div class="drow"><span class="lab">₹20,000 cr</span><span class="bar"><span class="fill" style="width:100%"></span></span><span class="val">40.0%</span></div>
+    <div class="drow"><span class="lab">₹35,700 cr</span><span class="bar"><span class="fill" style="width:100%"></span></span><span class="val">40.0%</span></div>
+    <div class="drow"><span class="lab">₹50,000 cr</span><span class="bar"><span class="fill lo" style="width:75%"></span></span><span class="val">30.0%</span></div>
+    <div class="drow"><span class="lab">₹75,000 cr</span><span class="bar"><span class="fill lo" style="width:50%"></span></span><span class="val">20.0%</span></div>
+    <div style="font-size:12.5px;color:var(--ink3);margin-top:8px">Eligible fixed capital investment against the effective entitlement as a percentage of it.</div>
+  </div>
+
+  <div class="card flag">
+    <h3>What this means for a very large project</h3>
+    <p style="margin-bottom:0">At ₹75,000 crore of eligible investment a 40% headline has become 20%. For projects of that scale the customised package from the Chief Minister's High Power Committee is not an optimisation. It is the answer, and the arithmetic above is the argument to take into the room. The equivalent crossover for a mega project is ₹21,400 crore, being the ₹750 crore absolute cap divided by its 3.5% annual cap, although a mega project of that size would in practice be an ultra mega one. <span class="tag t-i">interpretation</span></p>
+  </div>
+</section>
+
+<section>
+  <div class="sechd"><span class="num">08</span><h2>The power decision</h2></div>
+  <p class="intro">Four provisions in the Resolution interact, and read together they create a genuine commercial choice on any electricity-intensive project. The choice is between a one-off capital allowance and a recurring consumption subsidy, and for a high-consumption plant the second can be worth considerably more.</p>
+
+  <div class="scroll">
+    <table style="min-width:640px">
+      <thead><tr><th>Provision</th><th>Effect</th></tr></thead>
+      <tbody>
+        <tr><td>Capital cost of a <b>captive power plant within the premises</b></td><td class="ok-c">Counts as eligible investment</td></tr>
+        <tr><td><b>Independent power plant, including renewable</b></td><td class="bad-c">Excluded from eligible investment</td></tr>
+        <tr><td>Power drawn from a distribution company, <b>or renewable power through open access</b></td><td class="ok-c">Earns the power tariff subsidy</td></tr>
+        <tr><td>Power consumed from the unit's <b>own captive plant</b></td><td class="bad-c">Earns no power tariff subsidy</td></tr>
+      </tbody>
+      <caption>For an expansion or diversification the power tariff subsidy applies only to <b>additional</b> consumption, and a sub-meter must be installed to claim it. The subsidy is paid against electricity bills or invoices in the name of the industrial unit. <span class="tag t-f">fact</span></caption>
+    </table>
+  </div>
+
+  <div class="two" style="margin-top:16px">
+    <div class="pan">
+      <h4>Build captive</h4>
+      <p style="margin:0;font-size:14px">The plant cost enters the subsidy base, so it earns at the capital subsidy rate once. Every unit of electricity it then generates earns nothing. Suits a project where reliability or isolation from the grid is the driver, or where consumption is modest relative to the capital cost of the plant.</p>
+    </div>
+    <div class="pan">
+      <h4>Draw from grid or renewable open access</h4>
+      <p style="margin:0;font-size:14px">The generating asset earns nothing, but every unit consumed earns ₹2 in Category A or ₹1 in Category B, for eight to twelve years, up to 20% or 25% of eligible investment depending on tier. The renewable open access limb means this need not mean buying expensive grid power.</p>
+    </div>
+  </div>
+
+  <p>The comparison has to be run per project, on a present value basis, because the answer turns on annual consumption, the tier's power sub-cap, the taluka category and the tenure. It is worth building that comparison once as a reusable model, since it will recur on every metals, chemicals, cement and large-load mandate. <span class="tag t-i">interpretation</span></p>
+  <p>One further point. Because the power tariff rate doubles between Category B and Category A, the siting decision and the power decision are linked. A power-intensive project in a Category A taluka drawing on renewable open access is taking the two most favourable positions in the policy at once.</p>
+</section>
+
+<section>
+  <div class="sechd"><span class="num">09</span><h2>How the money reaches you</h2></div>
+  <p class="intro">The process runs in four stages, each with its own deadline, and the deadlines are strict. The sanctioning authority is tiered by investment size, and above ₹10,000 crore the decision is taken by a committee chaired by the Industries Minister. Above that sits a High Power Committee chaired by the Chief Minister.</p>
+
+  <h3>The four stages</h3>
+  <div class="scroll">
+    <table style="min-width:720px">
+      <thead><tr><th style="width:150px">Stage</th><th>Deadline</th><th>What happens</th></tr></thead>
+      <tbody>
+        <tr><td class="rowlab">Registration</td><td>Before production starts, or three months from the Resolution, whichever is later. In every case before the end of the operative period</td><td>Mandatory for all undertakings. Filed with the Industries Commissioner with the registration document and Industrial Entrepreneur Memorandum, proof of legal possession of land or a GIDC possession letter, Consent to Establish from the pollution control board, the detailed project report, and the term loan sanction letter. A registration certificate is then issued.</td></tr>
+        <tr><td class="rowlab">Provisional eligibility certificate</td><td>Three months from production starting, from issue of the registration certificate, or from issue of the Resolution, whichever is later</td><td>Issued by the Industries Commissioner on the certificate of a chartered accountant and chartered engineer covering eligible investment and work completed to the date of production. <b>Limited to 40% of eligible fixed capital investment.</b></td></tr>
+        <tr><td class="rowlab">Final eligibility certificate</td><td>Three months from the end of the investment period</td><td>The Industries Commissioner constitutes an <b>asset verification team</b>. Final entitlement is calculated on its report, which goes to the sanctioning authority for final sanction. Where the whole investment is complete at production start, the unit may apply directly for the final certificate.</td></tr>
+        <tr><td class="rowlab">Claims</td><td>Every three months</td><td>Claim applications are made to the Industries Commissioner in the prescribed form. Detailed procedure and guidelines are to be issued separately by the Industries Commissioner.</td></tr>
+      </tbody>
+      <caption><b>Late filing of the final certificate</b> beyond three months but within one year is accepted as delayed submission, with the incentive period and the quantum reduced proportionately for the delay. Beyond one year it is not entertained at all. Where an applicant fails to provide the requisite documents within the time limit the application is liable to rejection, and the Resolution states that no claim, representation or challenge is maintainable against that decision. <span class="tag t-f">fact</span></caption>
+    </table>
+  </div>
+
+  <div class="card flag">
+    <h3>On state goods and services tax</h3>
+    <p style="margin-bottom:0">There is <b>no state goods and services tax reimbursement instrument in this policy</b>. Gujarat moved from net value added tax, and then from net state tax reimbursement, to capital subsidy under the 2020 policy, and this scheme continues that approach. Units holding entitlements under the 2015 policy still receive state tax linked assistance, which is why state announcements in 2026 still refer to it, but it is not available to a new unit. The consequence is a real point of difference against states that still run reimbursement models, and it is dealt with in section 13. <span class="tag t-f">fact</span></p>
+  </div>
+
+  <h3>Who sanctions</h3>
+  <div class="scroll">
+    <table style="min-width:700px">
+      <thead><tr><th>Investment</th><th>Chaired by</th><th>Also on the committee</th></tr></thead>
+      <tbody>
+        <tr><td class="rowlab">Up to ₹1,000 crore</td><td><b>Industries Commissioner</b></td><td>Deputy or Joint Secretary, Industries and Mines. Financial Adviser, Finance Department. Deputy or Joint Secretary, Energy and Petrochemicals. Additional Commissioner of Labour. Senior Engineer, pollution control board. <b>Two representatives of industry associations.</b> Additional or Joint Commissioner of Industries as member secretary.</td></tr>
+        <tr><td class="rowlab">₹1,000 crore to ₹10,000 crore</td><td><b>Additional Chief Secretary or Principal Secretary, Industries and Mines</b></td><td>Counterpart from Energy and Petrochemicals. Secretary (Expenditure), Finance. Labour Commissioner. Chairman or member secretary of the pollution control board. Two industry association representatives. Industries Commissioner.</td></tr>
+        <tr class="hl"><td class="rowlab">Above ₹10,000 crore, and all questions of interpretation</td><td><b>Minister (Industries)</b></td><td>Additional Chief Secretary or Principal Secretary of Industries and Mines and of Energy. Secretary (Expenditure), Finance. Labour Commissioner. Pollution control board. Two industry association representatives. Industries Commissioner as member secretary.</td></tr>
+      </tbody>
+      <caption>Note that <b>two representatives of industry associations sit on every sanctioning committee</b>, chosen by the chairperson. Any dispute on the interpretation of the Resolution goes to the Minister-chaired committee, and its decision is final and binding. <span class="tag t-f">fact</span></caption>
+    </table>
+  </div>
+
+  <h3>The High Power Committee</h3>
+  <p>Chaired by the <b>Chief Minister</b>, with the Deputy Chief Minister or Minister (Industries), the Minister (Finance), the Chief Secretary, and the Additional Chief Secretary or Principal Secretary of Industries and Mines, Finance, Revenue, Environment and Forest, Energy and Petrochemicals, and Labour and Employment. The Industries Commissioner is member secretary. It may invite other officers or experts.</p>
+  <p>Its stated role is to sanction customised packages for mega and ultra mega industries in thrust and selected thrust sectors, to resolve interdepartmental issues, to <b>facilitate relocation of industries from other states</b>, to monitor projects, and to remove difficulties in implementation.</p>
+  <div class="card flag">
+    <h3>The residual clause</h3>
+    <p style="margin-bottom:0">The Resolution provides that <b>any matter not expressly provided for, or any matter pertaining to the overall industrial development and strengthening of the state's industrial ecosystem, shall be referred to the High Power Committee, whose decision shall be final and binding.</b> A body chaired by the Chief Minister with express authority over anything the Resolution does not cover is the strongest single signal in the document. For a project large enough to reach that room, the published slabs are a floor. <span class="tag t-f">fact</span></p>
+  </div>
+</section>
+<section>
+  <div class="sechd"><span class="num">10</span><h2>Conditions and clawback</h2></div>
+  <p class="intro">The conditions attaching to this entitlement are continuing rather than one-off, and the recovery provision is severe. They warrant active monitoring through the life of the incentive rather than an annual review.</p>
+
+  <div class="scroll">
+    <table style="min-width:700px">
+      <thead><tr><th style="width:190px">Condition</th><th>What it requires, and what follows</th></tr></thead>
+      <tbody>
+        <tr><td class="rowlab">Local employment</td><td><b>At least 85% of the total number of employees in all categories must be domiciled in Gujarat, and at least 60% of those employed in managerial and supervisory capacity.</b> This runs throughout the incentive period. For a project bringing in specialist or expatriate technical staff it is the 85% overall test that binds, not the 60% managerial one. It is worth modelling against the hiring plan before commissioning.</td></tr>
+        <tr><td class="rowlab">Pollution control</td><td>The applicable certificate from the Gujarat Pollution Control Board must be submitted to the Industries Commissioner and kept current.</td></tr>
+        <tr><td class="rowlab">Continuous production</td><td>Required until the eligible incentive period expires. Where production is discontinued for reasons beyond the control of management, the sanctioning authority may condone the period after verifying the details and satisfying itself as to the reasons.</td></tr>
+        <tr class="hl"><td class="rowlab">Recovery on breach</td><td>On breach of any one or more conditions, the incentives disbursed are <b>recoverable as an arrear of land revenue, with interest at 18% a year running from the date of first availment</b>, and the undisbursed balance is forfeited. Recovery as a land revenue arrear is a powerful mechanism, and because the interest runs from first availment rather than from the breach, a breach found late is considerably more expensive than the entitlement was worth.</td></tr>
+        <tr><td class="rowlab">Project character</td><td>Investment by an existing undertaking for <b>renovation, modernisation, rehabilitation or rationalisation is not eligible</b>.</td></tr>
+        <tr><td class="rowlab">Change of product</td><td>The undertaking may add new products or change its products using the existing plant and machinery, with or without modification, during the period of availment, <b>subject to approval of the sanctioning authority</b>.</td></tr>
+        <tr><td class="rowlab">Provident fund</td><td>Reimbursement runs only for a new employee, defined as a person who <b>did not hold a Universal Account Number before joining</b> and who joins during the incentive period. On an expansion, only the incremental count beyond the pre-existing one. Not available for any period in which the same reimbursement is drawn under a central or state scheme.</td></tr>
+        <tr><td class="rowlab">Review</td><td>The Government may conduct a periodic review of the scheme to evaluate implementation and effectiveness, and take appropriate decisions. <b>No stability clause appears in the Resolution.</b></td></tr>
+      </tbody>
+      <caption><span class="tag t-f">fact</span> A dedicated Project Implementation Unit is to be established for coordination, facilitation and monitoring, funded from the same budget head.</caption>
+    </table>
+  </div>
+
+  <div class="card flag">
+    <h3>Two points worth isolating</h3>
+    <p><b>The provident fund test is restrictive.</b> Requiring that an employee held no Universal Account Number before joining excludes anyone previously in formal provident-fund-covered employment. On a plant staffed largely by experienced hires the reimbursement is worth materially less than the headline 100% suggests, and the value should be modelled off the expected share of genuinely first-time formal employees rather than off headcount.</p>
+    <p style="margin-bottom:0"><b>Change of ownership is not addressed.</b> The Resolution says nothing about merger, demerger, slump sale, or whether the entitlement transfers with the business. This is the largest open question in the policy, because it determines whether an entitlement is an asset capable of being valued in a transaction. It would fall to the Minister-chaired interpretation committee, or to the High Power Committee under its residual clause. <span class="tag t-i">interpretation</span></p>
+  </div>
+</section>
+
+<section>
+  <div class="sechd"><span class="num">11</span><h2>Stacking with other schemes</h2></div>
+  <p class="intro">This is the structural point that governs how the whole Gujarat incentive position should be approached. Central schemes stack. Gujarat's own sectoral schemes do not.</p>
+
+  <div class="scroll">
+    <table style="min-width:680px">
+      <thead><tr><th>Combination</th><th>Position</th></tr></thead>
+      <tbody>
+        <tr class="hl"><td>This scheme <b>plus a central government scheme</b></td><td class="ok-c">Permitted. Capped so that total incentives received from state and central schemes do not exceed eligible fixed capital investment</td></tr>
+        <tr class="hl"><td>This scheme <b>plus another Gujarat sector-specific scheme</b></td><td class="bad-c">Choose one. An enterprise eligible under this scheme or any other sector-specific state scheme may opt for either. If it is availing incentives for the same component under another state scheme it is not eligible here, unless specifically provided</td></tr>
+        <tr><td>Any incentive already availed for the <b>same gross fixed capital investment</b> from any state scheme or state agency</td><td class="bad-c">Not eligible</td></tr>
+        <tr><td>Interest subsidy also drawn from the <b>Government of India</b></td><td>The state subsidy is limited so that the unit still bears at least 2% of the interest after offsetting the central subsidy</td></tr>
+        <tr><td>Provident fund reimbursement also drawn under a central or state scheme</td><td class="bad-c">Not eligible here for that period</td></tr>
+        <tr><td>This scheme plus the previous Aatmanirbhar scheme</td><td class="bad-c">Not available. The election is final and irrevocable</td></tr>
+      </tbody>
+      <caption><span class="tag t-f">fact</span></caption>
+    </table>
+  </div>
+
+  <p>The cap against central schemes is generous as these things go, and leaves real headroom above a 35% state entitlement. It is the <b>choose-one rule against Gujarat's own sectoral policies that constrains</b>. For a project that could sit under the state's electric vehicle, electronics, semiconductor, data centre or renewable energy policies, the general scheme and the sectoral scheme have to be valued against each other and one of them given up.</p>
+  <p>That makes the state sectoral layer a genuine decision rather than an addition, and it means a sectoral policy should be read for its whole package, not only for whichever instrument looks most generous in isolation.</p>
+  <p style="font-size:13.5px;color:var(--ink3)">Customs, foreign trade policy, special economic zone status and bonded manufacturing would change the answer for an export-oriented project. They sit outside the scope of this reference and are flagged for separate consideration.</p>
+</section>
+
+<section>
+  <div class="sechd"><span class="num">12</span><h2>The state behind the policy</h2></div>
+  <p class="intro">A policy is only worth what the state behind it actually pays. This section covers where Gujarat starts from, who decides, and what is known about the payment record. The test for choosing a state is effective yield multiplied by certainty of payment, and the sections above carry the yield.</p>
+
+  <h3>Where Gujarat starts from</h3>
+  <div class="kv">
+    <div class="kvi"><b>Industrial output</b><span class="big">1st</span><div class="sm">among all states</div></div>
+    <div class="kvi"><b>Fixed capital</b><span class="big">1st</span><div class="sm">among all states</div></div>
+    <div class="kvi"><b>Net value added</b><span class="big">2nd</span><div class="sm">among all states</div></div>
+    <div class="kvi"><b>Share of national industrial output</b><span class="big">18%+</span></div>
+    <div class="kvi"><b>Share of national GDP</b><span class="big">8.3%</span></div>
+    <div class="kvi"><b>Per capita income</b><span class="big">1.7×</span><div class="sm">the national average</div></div>
+  </div>
+  <p style="font-size:13px;color:var(--ink3)"><span class="tag t-f">fact</span> Annual Survey of Industries 2023-24, via the <a href="https://gad.gujarat.gov.in/personnel/images/pdf/dp-eng-26-27.pdf">Gujarat Development Programme 2026-27</a>.</p>
+  <p><b>The practical reading.</b> Gujarat is not bidding from weakness and does not need to overpay. That shows in the policy, whose ceilings sit below what several competing states offer on headline percentage. Gujarat sells certainty, infrastructure and speed rather than the largest number. A case that argues Gujarat on headline rate alone is arguing on the state's weakest ground. <span class="tag t-i">interpretation</span></p>
+
+  <h3>Who you deal with</h3>
+  <div class="scroll">
+    <table style="min-width:620px">
+      <thead><tr><th>Body</th><th>What it decides for the investor</th></tr></thead>
+      <tbody>
+        <tr><td class="rowlab">Industries and Mines Department</td><td>Owns the policy and issues every Government Resolution under it</td></tr>
+        <tr><td class="rowlab">Industries Commissionerate, Gandhinagar</td><td>Registration, both eligibility certificates and the quarterly claim. <b>The operative office for a large unit</b></td></tr>
+        <tr><td class="rowlab">District Industries Centres</td><td>The route for micro, small and medium units</td></tr>
+        <tr><td class="rowlab">GIDC</td><td>Industrial estates and plot allotment, under the Gujarat Industrial Development Act 1962</td></tr>
+        <tr><td class="rowlab">Gujarat Pollution Control Board</td><td>Consent to Establish at registration, and a current certificate as a continuing condition</td></tr>
+        <tr><td class="rowlab">GUVNL</td><td>Power tariff, connection and open access</td></tr>
+        <tr><td class="rowlab">iNDEXTb</td><td>Investment promotion, and the most reliable government host for policy and Resolution documents</td></tr>
+        <tr><td class="rowlab">Dholera SIR Development Authority</td><td>Dholera, the one major serviced destination on the higher incentive band</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3>Office holders</h3>
+  <div class="scroll">
+    <table style="min-width:560px">
+      <thead><tr><th>Role</th><th>Holder</th><th>As at</th></tr></thead>
+      <tbody>
+        <tr><td class="rowlab">Chief Minister</td><td>Shri Bhupendra Patel</td><td>Nov 2026</td></tr>
+        <tr><td class="rowlab">Deputy Chief Minister, holding Industries</td><td>Shri Harsh Sanghavi</td><td>Nov 2026</td></tr>
+        <tr><td class="rowlab">Finance Minister</td><td>Shri Kanubhai Desai</td><td>Feb 2026</td></tr>
+        <tr><td class="rowlab">Industries Commissioner</td><td>Shri P. Swaroop, IAS</td><td>Jun 2026 <span class="tag t-f">fact</span></td></tr>
+        <tr><td class="rowlab">Principal Secretary, Industries and Mines</td><td>Mr M K Das, IAS</td><td>Listed on the Commissionerate site; a separate listing gives Shri Kamal Dayani, IAS as Additional Chief Secretary. <b>To be confirmed before use</b></td></tr>
+      </tbody>
+      <caption>Industries sits with the Deputy Chief Minister, a higher political placement than in most states, and the same office chairs the incentive approvals committee. Incentive decisions are being taken at deputy chief minister level rather than at departmental level. <span class="tag t-i">interpretation</span></caption>
+    </table>
+  </div>
+
+  <h3>Can the state pay</h3>
+  <div class="kv">
+    <div class="kvi"><b>State budget 2026-27</b><span class="big">₹4.08 lakh cr</span><div class="sm">up 10.2%</div></div>
+    <div class="kvi"><b>Budget position</b><span class="big">Surplus</span><div class="sm">about ₹974 crore</div></div>
+    <div class="kvi"><b>Capital expenditure</b><span class="big">+17.5%</span><div class="sm">about ₹23,469 crore</div></div>
+    <div class="kvi"><b>Industries and Mines allocation</b><span class="big">₹13,942 cr</span><div class="sm">3.42%, ranked 9th of all departments</div></div>
+  </div>
+  <p style="font-size:13px;color:var(--ink3)"><span class="tag t-m">market view</span> Reported from the budget documents of 18 February 2026. The incentive line within the departmental allocation is <b>Demand No. 49, Major head 2852, Minor head 800, Sub head 36</b>, named in the Resolution itself, so provision against actual spend can be tracked year by year from the Demands for Grants.</p>
+
+  <h3>The payment record</h3>
+  <p>In October 2026 the state approved final eligibility certificates for <b>25 industrial units</b> covering about <b>₹3,903 crore</b> of investment and roughly 8,178 expected jobs, at a committee chaired by the Deputy Chief Minister. <b>Of the 25, 22 were still under the Industrial Policy 2015.</b> <span class="tag t-m">market view</span></p>
+  <p>Three things follow. The machinery runs: certificates are being issued and committees are meeting. The tail is long: a policy from 2015 was still producing final eligibility certificates in late 2026, so an entitlement in Gujarat is a ten-year relationship and the claim function should be staffed for that. And legacy state tax linked incentives are still being paid to units under the earlier policies, on instruments no longer available to a new unit.</p>
+  <div class="card flag">
+    <h3>What is not yet known</h3>
+    <p style="margin-bottom:0">Gujarat's claim-to-cash time and its arrears have <b>not been quantified</b>. A revenue-surplus state with a top-ten departmental allocation is a reasonable starting assumption, and the October 2026 approvals show the machinery working, but neither is evidence of how long a claim takes to become cash. Until that is measured from the Demands for Grants, assembly answers and audit reports, Gujarat is carried at <b>medium</b> on certainty of payment in any state comparison, not high. <span class="tag t-i">interpretation</span></p>
+  </div>
+
+  <h3>Land and power</h3>
+  <div class="two">
+    <div class="pan">
+      <h4>Land</h4>
+      <ul>
+        <li>Land cost is excluded from eligible investment, so land earns no subsidy</li>
+        <li>GIDC allotment in notified estates is the main route</li>
+        <li>Stamp duty and registration reimbursed in full, but only for ultra mega units and selected thrust sectors, and only on land acquired during the investment period</li>
+        <li>Rented buildings are excluded from eligible investment <b>except GIDC premises</b>, which is a deliberate nudge toward GIDC estates</li>
+      </ul>
+    </div>
+    <div class="pan">
+      <h4>Power</h4>
+      <ul>
+        <li>₹2 per unit in Category A and ₹1 per unit in Category B, subject to the component cap</li>
+        <li>Available on supply from a distribution company and on renewable power through open access</li>
+        <li>Not available on consumption from the unit's own captive plant</li>
+        <li>Full exemption from electricity duty under the Gujarat Electricity Duty Act 1958</li>
+        <li>Captive plant capital cost is eligible investment; independent power plant, including renewable, is not</li>
+      </ul>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="sechd"><span class="num">13</span><h2>The commercial read</h2></div>
+  <p class="intro">What the entitlement is actually worth once the reductions are applied, which project profiles the policy suits, and where the value sits. The arithmetic below is illustrative and the assumptions are stated on each line. On a live project these are replaced with real figures.</p>
+
+  <h3>From headline to real</h3>
+  <p>A thrust-sector mega project in a Category A taluka, entitled to a 35% headline ceiling.</p>
+  <div class="scroll">
+    <table style="min-width:660px">
+      <thead><tr><th>Step</th><th>Effect on the base</th><th class="num">Running value as % of project cost</th></tr></thead>
+      <tbody>
+        <tr><td>Headline combined ceiling</td><td>35% of eligible fixed capital investment</td><td class="num">35.0%</td></tr>
+        <tr><td>Land excluded. Assume 15% of project cost</td><td>Base falls to 85% of project cost</td><td class="num">29.8%</td></tr>
+        <tr><td>Buildings valued at the Schedule of Rates rather than actual cost. Assume 5%</td><td>Base falls to about 80%</td><td class="num">28.0%</td></tr>
+        <tr><td>Pre-operative costs, capitalised interest and consultancy without technology acquisition. Assume 5%</td><td>Base falls to about 75%</td><td class="num">26.3%</td></tr>
+        <tr><td>Annual ceiling of 3.5% over ten years, giving 35%</td><td>No further reduction at this project size</td><td class="num">26.3%</td></tr>
+        <tr><td>Present value of a ten-year collection period, discounted at 10%</td><td>About 40% of nominal value lost to timing</td><td class="num"><b>≈16%</b></td></tr>
+        <tr class="hl"><td>Discount for delay or dispute in payment</td><td>Not yet quantified. Gujarat's claim-to-cash time has still to be measured</td><td class="num">to come</td></tr>
+      </tbody>
+      <caption>The two largest reductions are the exclusion of land and the time value of money over a ten to twelve year collection period. Neither is improved by better drafting of a claim. They are addressed only by changing the design of the project, or by negotiating a customised package. <span class="tag t-i">interpretation</span></caption>
+    </table>
+  </div>
+
+  <h3>Which project profiles this suits</h3>
+  <div class="scroll">
+    <table style="min-width:680px">
+      <thead><tr><th>Profile</th><th style="width:110px">Fit</th><th>Why</th></tr></thead>
+      <tbody>
+        <tr><td>Labour-intensive in a selected thrust sector</td><td class="ok-c">Very strong</td><td>50% or 45% at any size with no employment test, plus the intellectual property, technology, certification, training and design studio package</td></tr>
+        <tr><td>Power-intensive drawing from the grid or renewable open access</td><td class="ok-c">Strong</td><td>₹2 per unit through the operating life, up to 20% or 25% of eligible investment, and it arrives faster than capital subsidy</td></tr>
+        <tr><td>Thrust-sector project clearing the mega employment test</td><td class="ok-c">Strong</td><td>35% or 30%, and the customised package route opens</td></tr>
+        <tr><td>Export-oriented or largely inter-state</td><td class="ok-c">Strong</td><td>No state tax reimbursement instrument to forgo. The entitlement is anchored to capital, not to local sales</td></tr>
+        <tr><td>Able to site at Dholera or Becharaji</td><td class="ok-c">Strong</td><td>The only major destinations on the higher band</td></tr>
+        <tr><td>Highly leveraged, funded by banks or external commercial borrowing</td><td>Good</td><td>7% interest subsidy, with external commercial borrowings eligible. The unit bears 2%</td></tr>
+        <tr><td>Above about ₹35,700 crore of eligible investment</td><td class="bad-c">Weakens sharply</td><td>The absolute annual cap erodes the effective rate. Go to the customised package</td></tr>
+        <tr><td>Thrust-sector project above ₹1,000 crore missing the jobs test</td><td class="bad-c">Weakens</td><td>Falls back to Large Thrust at 35% or 25%, not Mega</td></tr>
+        <tr><td>Power-intensive running on captive generation</td><td class="bad-c">Weakens</td><td>Captive capital cost is eligible but captive consumption earns no tariff subsidy</td></tr>
+        <tr><td>Large seller into the Gujarat market</td><td class="bad-c">Weaker than elsewhere</td><td>Loses the state tax reimbursement instrument that competing states still offer</td></tr>
+        <tr><td>General sector, any size</td><td class="bad-c">Weak</td><td>Held to 20% or 15%, and mega status is unreachable</td></tr>
+        <tr><td>Land-heavy</td><td class="bad-c">Weak</td><td>Land is excluded from the base entirely</td></tr>
+        <tr><td>Modernisation or rationalisation of an existing unit</td><td class="bad-c">Not eligible</td><td>Expressly excluded</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3>Where the value sits</h3>
+  <p>Five levers, in the order we would test them on a live project.</p>
+  <div class="scroll">
+    <table style="min-width:680px">
+      <thead><tr><th style="width:42px">#</th><th style="width:210px">Lever</th><th>What it turns on</th></tr></thead>
+      <tbody>
+        <tr><td class="num">1</td><td class="rowlab">Selected thrust at any scale</td><td>Sports goods, toys, footwear, robots and drones carry the top ceiling at every size class with no employment gate, plus a support package worth up to ₹50 crore on a design studio alone. The most generous position in the policy and the easiest to reach.</td></tr>
+        <tr><td class="num">2</td><td class="rowlab">Grid or renewable open access against captive</td><td>Compare a one-off capital allowance on a captive plant against a recurring ₹2 or ₹1 per unit on every unit consumed for eight to twelve years. The renewable open access limb means this is not a choice between subsidy and cheap power.</td></tr>
+        <tr><td class="num">3</td><td class="rowlab">Treat siting as an incentive decision</td><td>Where a project has genuine locational freedom, Dholera and Becharaji are the only established destinations on the higher band. Where it does not, Category B is the price of being in the corridor and the argument moves to the customised package. Within Mandal-Becharaji, check the plot.</td></tr>
+        <tr><td class="num">4</td><td class="rowlab">Argue the product into a thrust sector</td><td>Indicative sub-sectors, a residual clause and determination on the HSN code by a named committee mean a marginal product is a case to be made. The difference between general and thrust is 20% against 35%.</td></tr>
+        <tr><td class="num">5</td><td class="rowlab">Take anything above ₹1,000 crore to the High Power Committee</td><td>The Chief Minister's committee can sanction customised packages for mega and ultra mega projects in thrust and selected thrust sectors, and has express authority to decide any matter the Resolution does not cover. It is also mandated to facilitate relocation from other states.</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3>Questions to put to the department</h3>
+  <p>Five points the Resolution leaves open. Each is worth a clarification before it is worth designing around.</p>
+  <div class="scroll">
+    <table style="min-width:640px">
+      <thead><tr><th>Question</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td class="rowlab">Does the entitlement survive a merger, demerger or slump sale?</td><td>Not addressed anywhere. Decides whether an entitlement is an asset capable of being valued in a transaction. The largest open point</td></tr>
+        <tr><td class="rowlab">How do the two-availment limit and the industrial complex provision interact?</td><td>Governs whether phasing a large investment into separate projects is available as a structuring option</td></tr>
+        <tr><td class="rowlab">Is the thrust test applied at unit level or product level?</td><td>Where a unit makes both a thrust and a general product. The committee determination on HSN code gives a route but not a rule</td></tr>
+        <tr><td class="rowlab">What constitutes a qualifying expansion or diversification?</td><td>No threshold test appears in the Resolution. Likely to sit in the implementation guidelines the Industries Commissioner may issue</td></tr>
+        <tr><td class="rowlab">What is the claim-to-cash time, and what is in arrears?</td><td>Determines the certainty discount in the value bridge above</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3>Questions to ask at intake</h3>
+  <div class="scroll">
+    <table style="min-width:600px">
+      <thead><tr><th style="width:40px">#</th><th>Question</th></tr></thead>
+      <tbody>
+        <tr><td class="num">1</td><td>Which taluka is the site in, and has it been checked against Annexure-A?</td></tr>
+        <tr><td class="num">2</td><td>Does the product sit in one of the 16 thrust sectors or the 5 selected thrust sectors? If marginal, what is the HSN code?</td></tr>
+        <tr><td class="num">3</td><td>Is the project a new unit, an expansion or a diversification? Modernisation and rationalisation do not qualify.</td></tr>
+        <tr><td class="num">4</td><td>If above ₹1,000 crore, does it clear the mega employment test, including the escalator?</td></tr>
+        <tr><td class="num">5</td><td>Gross fixed capital investment and eligible fixed capital investment, computed separately. What share is land?</td></tr>
+        <tr><td class="num">6</td><td>Is construction cost above or below the Roads and Buildings Schedule of Rates?</td></tr>
+        <tr><td class="num">7</td><td>Is the project power-intensive, and will power come from captive generation, the grid, or renewable open access?</td></tr>
+        <tr><td class="num">8</td><td>What proportion of the workforce will be domiciled in Gujarat? The test is 85% overall and 60% managerial, continuously.</td></tr>
+        <tr><td class="num">9</td><td>How many employees will be genuinely new to formal employment, without an existing Universal Account Number?</td></tr>
+        <tr><td class="num">10</td><td>Is the term loan from a bank, a government financial institution or an external commercial borrowing? Non-banking financial company lending does not qualify.</td></tr>
+        <tr><td class="num">11</td><td>Is there an existing unit under the 2020 policy or the Aatmanirbhar schemes, and is the March 2027 election live?</td></tr>
+        <tr><td class="num">12</td><td>Is any Gujarat sector-specific scheme also in play? They are mutually exclusive with this one.</td></tr>
+        <tr><td class="num">13</td><td>Is the project above ₹1,000 crore in a thrust sector, which opens the customised package route?</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<div class="foot">
+  <b>Sources.</b> Government of Gujarat, Industries and Mines Department, Resolution No. <span class="ref">IMD/WRT/e-file/9/2026/2320/I</span>, Scheme for assistance to Large, Mega and Ultra Mega Industries under the Viksit Gujarat Industrial Policy 2026, and Resolution No. <span class="ref">IMD/HMR/e-file/9/2026/2211/I</span>, Classification of talukas, both approved 8 September 2026 and held in full at <code>states/gujarat/source-documents/</code>. Announcement date, sector count and the Industries Commissioner confirmed by <a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2274075&amp;reg=22&amp;lang=1">Press Information Bureau release</a>. State industrial standing from the <a href="https://gad.gujarat.gov.in/personnel/images/pdf/dp-eng-26-27.pdf">Gujarat Development Programme 2026-27</a>.<br>
+  <b>Not covered here.</b> The policy document itself, which carries the SCALE Committee, research and development centres, the service sector, relocation provisions and green industrial parks. Micro, small and medium enterprises, which fall under a separate Resolution and outside the scope of this reference.<br>
+  <b>Prepared 13 November 2026.</b> Certainty tags: <span class="tag t-f">fact</span> stated in the Resolution · <span class="tag t-i">interpretation</span> our reading · <span class="tag t-m">market view</span> evidence of practice rather than of law.
+</div>
+
+</div>
+</body>
+</html>
