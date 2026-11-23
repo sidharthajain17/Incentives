@@ -1,0 +1,2281 @@
+{
+ "groups": [
+  {
+   "group": "JSW group (Sajjan Jindal)",
+   "family": "Jindal family, Sajjan Jindal branch (O.P. Jindal family)",
+   "display_name": "Jindal family (JSW group): Sajjan Jindal",
+   "decision_office": "Mumbai",
+   "founder": {
+    "name": "O.P. (Om Prakash) Jindal; JSW built by his son Sajjan Jindal from the 1980s",
+    "year_founded": 1952,
+    "native_place": "Hisar, Haryana (reported)"
+   },
+   "head": {
+    "name": "Sajjan Jindal",
+    "role": "Chairman and Managing Director, JSW Steel; Chairman, JSW Group (JSW Energy, JSW Infrastructure)"
+   },
+   "next_gen": [
+    {
+     "name": "Parth Jindal",
+     "relation": "son of Sajjan Jindal",
+     "runs": "Managing Director, JSW Cement and JSW Paints (JSW Paints now promoter of Akzo Nobel India / JSW Dulux); director in BPSL",
+     "since": "JSW Cement MD (listed Aug 2025); JSW Paints from launch 2019"
+    },
+    {
+     "name": "Tarini Jindal Handa",
+     "relation": "elder daughter of Sajjan Jindal",
+     "runs": "JSW Realty (luxury/lifestyle real estate), Muse boutique, Aequo design gallery; 0.20% of JSW Steel",
+     "since": "not stated"
+    },
+    {
+     "name": "Tanvi Shete (Tanvi Jindal)",
+     "relation": "younger daughter of Sajjan Jindal",
+     "runs": "No operating role confirmed; 0.20% of JSW Steel",
+     "since": null
+    },
+    {
+     "name": "Jayant Acharya",
+     "relation": "professional (not family)",
+     "runs": "Joint MD and CEO, JSW Steel",
+     "since": "CEO from 2023 (reported)"
+    },
+    {
+     "name": "Sharad Mahendra",
+     "relation": "professional (not family)",
+     "runs": "Joint MD and CEO, JSW Energy",
+     "since": "CEO role reported; joined 2017"
+    },
+    {
+     "name": "Rinkesh Roy",
+     "relation": "professional (not family)",
+     "runs": "Joint MD and CEO, JSW Infrastructure (Sajjan Jindal is Chairman)",
+     "since": "2024 (reported)"
+    }
+   ],
+   "control_summary": "Sajjan Jindal's branch controls JSW Steel through a web of holding companies (JSW Techno Projects Management 10.82%, JSW Holdings 7.42%, Vividh Finvest 5.86%, Sahyog Holdings 4.58% and others); JFE Steel of Japan holds 15.00% of JSW Steel as a strategic investor. Other Jindal branches hold small promoter-group stakes in JSW Steel (Naveen Jindal, Arti and Deepika Jindal, the Jindal sisters), reflecting common O.P. Jindal ancestry rather than joint control.",
+   "background": "O.P. Jindal started a pipe and bends unit at Liluah near Kolkata in 1952 and later built the Jindal group in Hisar, Haryana. After his death in a 2005 helicopter crash the group was divided among his four sons: Prithviraj (Jindal Saw), Sajjan (JSW), Ratan (Jindal Stainless) and Naveen (Jindal Steel, formerly JSPL), with mother Savitri Jindal as chairperson emeritus. Sajjan Jindal moved to Mumbai and built JSW around the Vijayanagar steel works in Karnataka and the Dolvi works in Maharashtra, then added power, ports, cement and paints. Growth since 2018 has come largely through insolvency buys (Monnet Ispat, Bhushan Power & Steel) and joint ventures with JFE (electrical steel, BPSL). JSW is now India's largest steelmaker by capacity, with the decision office in Mumbai (BKC).",
+   "milestones": [
+    {
+     "year": 1952,
+     "event": "O.P. Jindal starts pipe and bends unit at Liluah, Howrah (reported)"
+    },
+    {
+     "year": 1982,
+     "event": "Sajjan Jindal sets up first steel venture at Tarapur, Maharashtra (reported, approximate)"
+    },
+    {
+     "year": 2005,
+     "event": "O.P. Jindal dies; group split among four sons (reported)"
+    },
+    {
+     "year": 2021,
+     "event": "JSW Steel completes Bhushan Power & Steel acquisition under IBC; Supreme Court upholds plan Sept 2025 after May 2025 reversal (reported)"
+    },
+    {
+     "year": 2025,
+     "event": "JSW-JFE 50:50 venture buys thyssenkrupp Electrical Steel India, Nashik (Jan); JSW Cement listed (Aug); JSW Paints takes 61.2% of Akzo Nobel India (Dec) (reported)"
+    },
+    {
+     "year": 2025,
+     "event": "JSW and JFE agree to hold BPSL steel business 50:50, about Rs 15,750 crore (Dec, reported)"
+    }
+   ],
+   "people": [
+    {
+     "name": "O.P. Jindal",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Savitri Jindal",
+     "role": "Founder of Jindal group; d. 2005",
+     "certainty": "reported"
+    },
+    {
+     "name": "Savitri Jindal",
+     "generation": 1,
+     "parent": null,
+     "spouse": "O.P. Jindal",
+     "role": "Chairperson emeritus, O.P. Jindal group; holds 0.00% (75,300 shares) of JSW Steel as promoter group",
+     "certainty": "verified"
+    },
+    {
+     "name": "B.C. (Bhavi Chand) Jindal",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Brother of O.P. Jindal; founder of B.C. Jindal group (Jindal India), Kolkata",
+     "certainty": "reported"
+    },
+    {
+     "name": "Prithviraj Jindal",
+     "generation": 2,
+     "parent": "O.P. Jindal",
+     "spouse": "Arti Jindal",
+     "role": "Chairman, Jindal Saw",
+     "certainty": "reported"
+    },
+    {
+     "name": "Sajjan Jindal",
+     "generation": 2,
+     "parent": "O.P. Jindal",
+     "spouse": "Sangita Jindal",
+     "role": "CMD, JSW Steel; Chairman JSW group",
+     "certainty": "verified"
+    },
+    {
+     "name": "Ratan Jindal",
+     "generation": 2,
+     "parent": "O.P. Jindal",
+     "spouse": "Deepika Jindal",
+     "role": "Chairman, Jindal Stainless",
+     "certainty": "reported"
+    },
+    {
+     "name": "Naveen Jindal",
+     "generation": 2,
+     "parent": "O.P. Jindal",
+     "spouse": "Shallu Jindal",
+     "role": "Chairman, Jindal Steel (ex-JSPL); MP",
+     "certainty": "reported"
+    },
+    {
+     "name": "Saroj Bhartia",
+     "generation": 2,
+     "parent": "O.P. Jindal",
+     "spouse": null,
+     "role": "Daughter of O.P. Jindal (reported); promoter group of JSW Steel (verified)",
+     "certainty": "reported"
+    },
+    {
+     "name": "Nirmala Goel",
+     "generation": 2,
+     "parent": "O.P. Jindal",
+     "spouse": null,
+     "role": "Daughter of O.P. Jindal (reported); promoter group of JSW Steel (verified)",
+     "certainty": "reported"
+    },
+    {
+     "name": "Urmila Bhuwalka",
+     "generation": 2,
+     "parent": "O.P. Jindal",
+     "spouse": null,
+     "role": "Daughter of O.P. Jindal (reported); promoter group of JSW Steel (verified)",
+     "certainty": "reported"
+    },
+    {
+     "name": "Sarika Jhunjhunwala",
+     "generation": 2,
+     "parent": "O.P. Jindal",
+     "spouse": "Girish Jhunjhunwala",
+     "role": "Daughter of O.P. Jindal (reported); promoter group of JSW Steel as Sarika Jhunjhnuwala (verified)",
+     "certainty": "reported"
+    },
+    {
+     "name": "Seema Jajodia",
+     "generation": 2,
+     "parent": "O.P. Jindal",
+     "spouse": null,
+     "role": "Daughter of O.P. Jindal (reported); JSW Steel promoter list shows a 'Seema Jindal' (0.06%), identity not confirmed",
+     "certainty": "reported"
+    },
+    {
+     "name": "Sangita Jindal",
+     "generation": 2,
+     "parent": null,
+     "spouse": "Sajjan Jindal",
+     "role": "Chairperson, JSW Foundation; born Kanoria, Kolkata",
+     "certainty": "reported"
+    },
+    {
+     "name": "Parth Jindal",
+     "generation": 3,
+     "parent": "Sajjan Jindal",
+     "spouse": "Anushree Jasani",
+     "role": "MD, JSW Cement and JSW Paints",
+     "certainty": "verified"
+    },
+    {
+     "name": "Tarini Jindal Handa",
+     "generation": 3,
+     "parent": "Sajjan Jindal",
+     "spouse": "Vikram Handa",
+     "role": "JSW Realty; design businesses",
+     "certainty": "verified"
+    },
+    {
+     "name": "Tanvi Shete",
+     "generation": 3,
+     "parent": "Sajjan Jindal",
+     "spouse": "Krishna Shete",
+     "role": "Promoter group shareholder, JSW Steel",
+     "certainty": "verified"
+    },
+    {
+     "name": "Sminu Jindal",
+     "generation": 3,
+     "parent": "Prithviraj Jindal",
+     "spouse": "Indresh Batra",
+     "role": "MD, Jindal Saw",
+     "certainty": "reported"
+    },
+    {
+     "name": "Abhyuday Jindal",
+     "generation": 3,
+     "parent": "Ratan Jindal",
+     "spouse": "Srishti Jindal",
+     "role": "MD, Jindal Stainless",
+     "certainty": "reported"
+    },
+    {
+     "name": "Yashaswini Jindal",
+     "generation": 3,
+     "parent": "Naveen Jindal",
+     "spouse": "Shashvat Somany",
+     "role": "Kuchipudi dancer; married Dec 2025",
+     "certainty": "reported"
+    },
+    {
+     "name": "Aiyush Bhuwalka",
+     "generation": 3,
+     "parent": "Urmila Bhuwalka",
+     "spouse": null,
+     "role": "Promoter group shareholder, JSW Steel; parent inferred from surname",
+     "certainty": "inferred"
+    }
+   ],
+   "companies": [
+    {
+     "name": "JSW Steel Ltd",
+     "listed": "yes",
+     "chain_stage": "steel making (integrated); flat and long",
+     "state": "Karnataka, Maharashtra, Tamil Nadu, Chhattisgarh, Odisha",
+     "ownership_note": "Flagship; Vijayanagar, Dolvi, Salem; JFE 15%"
+    },
+    {
+     "name": "JSW Steel Coated Products Ltd",
+     "listed": "no",
+     "chain_stage": "coated and cold-rolled steel, tinplate",
+     "state": "Maharashtra (Vasind, Tarapur, Kalmeshwar, Khopoli) and others",
+     "ownership_note": "100% JSW Steel"
+    },
+    {
+     "name": "Amba River Coke Ltd",
+     "listed": "no",
+     "chain_stage": "coke and pellets",
+     "state": "Maharashtra (Dolvi)",
+     "ownership_note": "100% JSW Steel; feeds Dolvi works"
+    },
+    {
+     "name": "JSW Ispat Special Products Ltd (ex-Monnet Ispat)",
+     "listed": "no",
+     "chain_stage": "sponge iron, special steel",
+     "state": "Chhattisgarh (Raigarh)",
+     "ownership_note": "Bought under IBC in 2018 with AION; merger into JSW Steel reported, completion date not confirmed in this pass"
+    },
+    {
+     "name": "Bhushan Power & Steel Ltd",
+     "listed": "no",
+     "chain_stage": "integrated steel",
+     "state": "Odisha (Jharsuguda)",
+     "ownership_note": "JSW Steel subsidiary; 50:50 with JFE agreed Dec 2025"
+    },
+    {
+     "name": "JSW JFE Electrical Steel Nashik (ex-thyssenkrupp Electrical Steel India)",
+     "listed": "no",
+     "chain_stage": "CRGO electrical steel",
+     "state": "Maharashtra (Nashik)",
+     "ownership_note": "Held via Jsquare, a subsidiary of the 50:50 JSW Steel-JFE venture; closed 30 Jan 2025"
+    },
+    {
+     "name": "JSW Energy Ltd",
+     "listed": "yes",
+     "chain_stage": "power",
+     "state": "Karnataka, Maharashtra, Odisha and others",
+     "ownership_note": "Sajjan Jindal chairs"
+    },
+    {
+     "name": "JSW Infrastructure Ltd",
+     "listed": "yes",
+     "chain_stage": "ports and logistics",
+     "state": "Maharashtra (Jaigad, Dharamtar), Goa, Karnataka, Odisha and others",
+     "ownership_note": "Listed 2023"
+    },
+    {
+     "name": "JSW Cement Ltd",
+     "listed": "yes",
+     "chain_stage": "slag cement (steel by-product user)",
+     "state": "Karnataka, Maharashtra, Andhra Pradesh, West Bengal, Odisha",
+     "ownership_note": "Listed Aug 2025; Parth Jindal MD"
+    },
+    {
+     "name": "JSW Paints / Akzo Nobel India (JSW Dulux)",
+     "listed": "yes (Akzo Nobel India)",
+     "chain_stage": "paints and coatings",
+     "state": "Maharashtra and others",
+     "ownership_note": "JSW Paints holds 61.2% of Akzo Nobel India since Dec 2025"
+    }
+   ],
+   "chain_summary": "Iron ore (Karnataka, Odisha) and coal imports via JSW ports -> coke and pellets (Amba River Coke) -> steel making (Vijayanagar, Dolvi, BPSL) -> hot rolled coil -> coated and cold-rolled (JSW Steel Coated) and CRGO (Nashik JV) -> slag to JSW Cement; power from JSW Energy.",
+   "splits_disputes": "2005 division of the O.P. Jindal group into four branches (JSW, Jindal Steel, Jindal Stainless, Jindal Saw) has held without public litigation; branches still hold small cross-stakes. Bhushan Power acquisition was set aside by the Supreme Court in May 2025 and restored on review in Sept 2025 (reported).",
+   "marriage_clues": [
+    {
+     "person": "Sangita Jindal",
+     "detail": "Born Sangita Kanoria in Kolkata, daughter of Kailash Kumar and Urmila Kanoria; married Sajjan Jindal around 1984",
+     "possibly_linked_family": "Kanoria family of Kolkata (brother Saket Kanoria; chemicals and textiles)",
+     "certainty": "reported",
+     "source": "https://en.wikipedia.org/wiki/Sangita_Jindal"
+    },
+    {
+     "person": "Parth Jindal",
+     "detail": "Married Anushree Jasani, daughter of Uday Jasani of Jasani Realty, in Vienna, 2016",
+     "possibly_linked_family": "Jasani family (Jasani Realty, Mumbai)",
+     "certainty": "reported",
+     "source": "https://weddingsutra.com/blog/wedding-makers-and-creme-de-la-creme-in-vienna-for-the-jindal-jasani-wedding"
+    },
+    {
+     "person": "Tarini Jindal Handa",
+     "detail": "Married Vikram Handa (2010); he is reported as MD of Epsilon Carbon Pvt Ltd; married surname Handa confirmed in JSW Steel promoter list",
+     "possibly_linked_family": "Handa family (Epsilon group, reported)",
+     "certainty": "reported",
+     "source": "https://blog.entitree.com/jindal-family-tree/"
+    },
+    {
+     "person": "Tanvi Shete",
+     "detail": "Married Krishna Shete in Florence, 2010; married surname Shete confirmed in JSW Steel promoter list",
+     "possibly_linked_family": "married surname Shete; family not identified",
+     "certainty": "reported",
+     "source": "https://weddingsutra.com/blog/index.php/tag/tanvi-jindal/"
+    },
+    {
+     "person": "Sarika Jhunjhunwala",
+     "detail": "Daughter of O.P. Jindal; married Girish Jhunjhunwala, executive chairman of Ovolo Group (hotels)",
+     "possibly_linked_family": "Jhunjhunwala family (Ovolo Group, Hong Kong)",
+     "certainty": "reported",
+     "source": "https://wikibio.in/sarika-jhunjhunwala/"
+    },
+    {
+     "person": "Saroj Bhartia",
+     "detail": "Daughter of O.P. Jindal (reported); appears in JSW Steel promoter group (verified)",
+     "possibly_linked_family": "married surname Bhartia; family not identified",
+     "certainty": "reported",
+     "source": "https://www.screener.in/company/JSWSTEEL/ (JSW Steel annual report 2024-25 filed on BSE, 3 July 2025)"
+    },
+    {
+     "person": "Nirmala Goel",
+     "detail": "Daughter of O.P. Jindal (reported); JSW Steel promoter group (verified)",
+     "possibly_linked_family": "married surname Goel; family not identified",
+     "certainty": "reported",
+     "source": "https://www.screener.in/company/JSWSTEEL/ (JSW Steel annual report 2024-25 filed on BSE, 3 July 2025)"
+    },
+    {
+     "person": "Urmila Bhuwalka",
+     "detail": "Daughter of O.P. Jindal (reported); JSW Steel promoter group with Aiyush Bhuwalka (verified)",
+     "possibly_linked_family": "married surname Bhuwalka; family not identified",
+     "certainty": "reported",
+     "source": "https://www.screener.in/company/JSWSTEEL/ (JSW Steel annual report 2024-25 filed on BSE, 3 July 2025)"
+    },
+    {
+     "person": "Seema Jajodia",
+     "detail": "Daughter of O.P. Jindal (reported); not seen under this name in JSW Steel promoter list",
+     "possibly_linked_family": "married surname Jajodia; family not identified (no source links her to the Jai Balaji Jajodias)",
+     "certainty": "reported",
+     "source": "https://www.businessapac.com/savitri-jindal/"
+    },
+    {
+     "person": "Yashaswini Jindal",
+     "detail": "Naveen Jindal's daughter married Shashvat Somany, son of Sandeep Somany (CMD, Somany Impresa), Dec 2025",
+     "possibly_linked_family": "Somany family (Somany Impresa / HSIL)",
+     "certainty": "reported",
+     "source": "https://www.goodreturns.in/news/who-is-yashaswini-jindal-naveen-jindal-dance-in-daughter-wedding-ceremony-with-shashvat-somany-netwo-1474987.html"
+    },
+    {
+     "person": "Sminu Jindal",
+     "detail": "Prithviraj Jindal's daughter married Indresh Batra (2001)",
+     "possibly_linked_family": "married surname Batra retained as Jindal; family not identified",
+     "certainty": "reported",
+     "source": "https://blog.entitree.com/jindal-family-tree/"
+    }
+   ],
+   "sources": [
+    "https://www.screener.in/company/JSWSTEEL/ (JSW Steel annual report 2024-25 filed on BSE, 3 July 2025)",
+    "https://en.wikipedia.org/wiki/Om_Prakash_Jindal",
+    "https://en.wikipedia.org/wiki/Sangita_Jindal",
+    "https://blog.entitree.com/jindal-family-tree/",
+    "https://weddingsutra.com/blog/index.php/tag/tanvi-jindal/",
+    "https://www.jswinfrastructure.in/leadership",
+    "https://jswcement.in/leadership",
+    "https://www.jswenergy.in/node/519",
+    "https://www.steelorbis.com/steel-news/latest-news/jsw-steel-completes-acquisition-of-thyssenkrupps-electrical-steel-assets-in-india-1376841.htm",
+    "https://www.business-standard.com/companies/news/jsw-steel-in-talks-with-jfe-for-bhushan-power-stake-sale-125111102056_1.html",
+    "https://www.businesstoday.in/latest/corporate/story/supreme-court-reverses-order-allows-jsw-steel-to-acquire-bhushan-steel-in-rs-20000-cr-deal-495844-2025-09-26",
+    "https://akzonobel.com/en/media/media-releases/akzonobel-completes-sale-of-akzonobel-india-to-jsw-group",
+    "https://www.goodreturns.in/news/who-is-yashaswini-jindal-naveen-jindal-dance-in-daughter-wedding-ceremony-with-shashvat-somany-netwo-1474987.html"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Aditya Birla Group (Hindalco)",
+   "family": "Birla family, Kumar Mangalam Birla line",
+   "display_name": "Birla family (Aditya Birla Group): Kumar Mangalam Birla",
+   "decision_office": "Mumbai",
+   "founder": {
+    "name": "Seth Shiv Narayan Birla (trading origins, 1857); G.D. Birla built the industrial group; Aditya Vikram Birla founded the Aditya Birla line and Hindalco expansion",
+    "year_founded": 1958,
+    "native_place": "Pilani, Rajasthan (reported)"
+   },
+   "head": {
+    "name": "Kumar Mangalam Birla",
+    "role": "Chairman, Aditya Birla Group and Hindalco (since 1995)"
+   },
+   "next_gen": [
+    {
+     "name": "Ananyashree (Ananyaa) Birla",
+     "relation": "elder daughter of Kumar Mangalam Birla",
+     "runs": "Non-executive director, Grasim, ABFRL (Feb 2023) and Hindalco (Sept 2024); founder, Svatantra Microfin",
+     "since": "2023"
+    },
+    {
+     "name": "Aryaman Vikram Birla",
+     "relation": "son of Kumar Mangalam Birla",
+     "runs": "Non-executive director, Grasim, ABFRL (2023) and Hindalco (Sept 2024); leads group new ventures (reported)",
+     "since": "2023"
+    },
+    {
+     "name": "Advaitesha Birla",
+     "relation": "younger daughter of Kumar Mangalam Birla",
+     "runs": "Founder, Ujaas (menstrual health social venture); no group board role confirmed",
+     "since": null
+    },
+    {
+     "name": "Satish Pai",
+     "relation": "professional (not family)",
+     "runs": "Managing Director, Hindalco",
+     "since": "2013 (reported)"
+    }
+   ],
+   "control_summary": "The Kumar Mangalam Birla family controls Hindalco (about 34-35% promoter holding, mostly through Grasim, Birla Group Holdings, IGH Holdings and other group holdcos; figure not re-checked this pass). Novelis and Utkal Alumina are wholly owned by Hindalco; Essel Mining is a closely held group company run from Kolkata.",
+   "background": "The Birla family traces its business to Seth Shiv Narayan Birla's trading house in the 19th century; G.D. Birla built it into one of India's largest industrial groups. Hindalco was incorporated in 1958 and began aluminium production at Renukoot, Uttar Pradesh, in 1962. Aditya Vikram Birla expanded the group in India and South-East Asia; after his death in 1995 Kumar Mangalam Birla, then 28, took over and added copper (Birla Copper, Dahej), Indal, Novelis (2007) and the Utkal Alumina refinery in Odisha. The wider Birla family split in the 1980s into separate lines (B.K., K.K., C.K., M.P. and the Aditya Birla line); the K.K. Bangur and other Birla-related groups are separate.",
+   "milestones": [
+    {
+     "year": 1958,
+     "event": "Hindalco incorporated (15 Dec, Mumbai); Renukoot smelter follows 1962 (reported)"
+    },
+    {
+     "year": 1995,
+     "event": "Kumar Mangalam Birla becomes Chairman after Aditya Vikram Birla's death (reported)"
+    },
+    {
+     "year": 2007,
+     "event": "Hindalco completes acquisition of Novelis (May) (reported)"
+    },
+    {
+     "year": 2010,
+     "event": "Hindalco buys Alcan's 45% in Utkal Alumina, making it wholly owned (reported, Hindalco legacy page)"
+    },
+    {
+     "year": 2013,
+     "event": "Utkal Alumina refinery starts operations (reported)"
+    },
+    {
+     "year": 2024,
+     "event": "Ananyaa and Aryaman Birla join Hindalco board (Sept) (reported)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Aditya Vikram Birla",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Rajashree Birla",
+     "role": "Founder of the Aditya Birla line; d. 1995",
+     "certainty": "reported"
+    },
+    {
+     "name": "Rajashree Birla",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Aditya Vikram Birla",
+     "role": "Chairperson, Aditya Birla Centre for Community Initiatives",
+     "certainty": "reported"
+    },
+    {
+     "name": "Kumar Mangalam Birla",
+     "generation": 2,
+     "parent": "Aditya Vikram Birla",
+     "spouse": "Neerja Birla",
+     "role": "Chairman, Aditya Birla Group",
+     "certainty": "reported"
+    },
+    {
+     "name": "Neerja Birla",
+     "generation": 2,
+     "parent": null,
+     "spouse": "Kumar Mangalam Birla",
+     "role": "Founder, Mpower (mental health); Aditya Birla Education Trust; daughter of Shambhu Kumar Kasliwal (S. Kumars, Indore)",
+     "certainty": "reported"
+    },
+    {
+     "name": "Ananyashree Birla",
+     "generation": 3,
+     "parent": "Kumar Mangalam Birla",
+     "spouse": null,
+     "role": "Director, Grasim, ABFRL, Hindalco",
+     "certainty": "reported"
+    },
+    {
+     "name": "Aryaman Vikram Birla",
+     "generation": 3,
+     "parent": "Kumar Mangalam Birla",
+     "spouse": null,
+     "role": "Director, Grasim, ABFRL, Hindalco",
+     "certainty": "reported"
+    },
+    {
+     "name": "Advaitesha Birla",
+     "generation": 3,
+     "parent": "Kumar Mangalam Birla",
+     "spouse": null,
+     "role": "Founder, Ujaas",
+     "certainty": "reported"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Hindalco Industries Ltd",
+     "listed": "yes",
+     "chain_stage": "aluminium smelting, copper smelting, rolling",
+     "state": "Uttar Pradesh, Odisha, Madhya Pradesh, Jharkhand, Gujarat, Maharashtra",
+     "ownership_note": "Flagship; Taloja and Mouda (Nagpur) rolling in Maharashtra"
+    },
+    {
+     "name": "Utkal Alumina International Ltd",
+     "listed": "no",
+     "chain_stage": "alumina refining (bauxite mining)",
+     "state": "Odisha (Rayagada)",
+     "ownership_note": "100% Hindalco"
+    },
+    {
+     "name": "Novelis Inc",
+     "listed": "no",
+     "chain_stage": "aluminium rolling and recycling",
+     "state": "USA, Europe, Brazil, Asia",
+     "ownership_note": "100% Hindalco"
+    },
+    {
+     "name": "Essel Mining & Industries Ltd",
+     "listed": "no",
+     "chain_stage": "iron ore mining, coal mine operator; group holdco",
+     "state": "Odisha / Jharkhand (run from Kolkata)",
+     "ownership_note": "Closely held group company; see West Bengal map"
+    },
+    {
+     "name": "Grasim Industries Ltd",
+     "listed": "yes",
+     "chain_stage": "group holding and diversified",
+     "state": "various",
+     "ownership_note": "Promoter holdco of Hindalco stake (reported)"
+    }
+   ],
+   "chain_summary": "Bauxite (Odisha, Jharkhand) -> alumina (Utkal, Muri, Belagavi) -> aluminium smelting (Renukoot, Hirakud, Aditya, Mahan) -> rolling and extrusion (Taloja, Mouda) and Novelis abroad; copper concentrate imports -> Dahej smelter.",
+   "splits_disputes": "No current dispute in the Aditya Birla line. Historic separation of the wider Birla family into branch groups; the Priyamvada Birla (M.P. Birla) will litigation concerned a different branch.",
+   "marriage_clues": [
+    {
+     "person": "Neerja Birla",
+     "detail": "Daughter of Shambhu Kumar Kasliwal, founder of the S. Kumars group, Indore; married Kumar Mangalam Birla in 1989",
+     "possibly_linked_family": "Kasliwal family (S. Kumars group, Indore)",
+     "certainty": "reported",
+     "source": "https://wikibio.in/neerja-birla/"
+    }
+   ],
+   "sources": [
+    "https://www.adityabirla.com/media/media-releases/grasim-industries-limited-inducts-ananya-birla-and-aryaman-vikram-birla-as-directors",
+    "https://www.businesstoday.in/latest/corporate/story/hindalco-q1-fy25-ananya-birla-and-aryaman-birla-inducted-as-company-directors-441364-2024-08-13",
+    "https://www.hindalco.com/about-us/legacy",
+    "https://en.wikipedia.org/wiki/Hindalco_Industries",
+    "https://en.wikipedia.org/wiki/Kumar_Birla",
+    "https://wikibio.in/neerja-birla/"
+   ],
+   "certainty": "reported"
+  },
+  {
+   "group": "Tata group (Tata Steel)",
+   "family": "Trust-controlled (Tata Trusts); Tata family legacy",
+   "display_name": "Tata Trusts and Tata Sons (Tata Steel): Noel Tata, N. Chandrasekaran",
+   "decision_office": "Mumbai (Bombay House)",
+   "founder": {
+    "name": "Jamsetji Tata (group); Tata Steel founded by Dorabji Tata on Jamsetji's plan",
+    "year_founded": 1907,
+    "native_place": "Navsari, Gujarat (reported)"
+   },
+   "head": {
+    "name": "N. Chandrasekaran",
+    "role": "Chairman, Tata Sons (since Jan 2017) and Tata Steel; Noel Tata chairs Tata Trusts (since Oct 2024)"
+   },
+   "next_gen": [
+    {
+     "name": "Noel Tata",
+     "relation": "half-brother of the late Ratan Tata",
+     "runs": "Chairman, Tata Trusts (Sir Dorabji and Sir Ratan Tata Trusts); Vice-chairman, Tata Steel board (reported)",
+     "since": "Oct 2024"
+    },
+    {
+     "name": "T.V. Narendran",
+     "relation": "professional",
+     "runs": "CEO and MD, Tata Steel",
+     "since": "2017"
+    },
+    {
+     "name": "Koushik Chatterjee",
+     "relation": "professional",
+     "runs": "Executive Director and CFO, Tata Steel",
+     "since": "not re-checked"
+    },
+    {
+     "name": "Leah, Maya and Neville Tata",
+     "relation": "children of Noel Tata and Aloo Mistry",
+     "runs": "Trustees of some smaller Tata trusts / roles in Tata companies (reported)",
+     "since": null
+    }
+   ],
+   "control_summary": "Tata Trusts own about 66% of Tata Sons, which is the promoter of Tata Steel; the Shapoorji Pallonji (Mistry) family holds about 18.4% of Tata Sons, and Tata operating companies about 13%. The SP group is pushing for a Tata Sons listing and a partial monetisation; the Trusts oppose listing (2026, reported).",
+   "background": "Tata Steel was set up in 1907 at Jamshedpur, Jharkhand, as Asia's first integrated private steel plant. It grew in India and abroad (Corus, 2007), then consolidated in India with Bhushan Steel (2018, IBC), Usha Martin's steel business (2019) and Neelachal Ispat Nigam (2022). Between 2023 and 2025 it merged most listed and unlisted subsidiaries into itself, and in 2025-26 it bought out BlueScope's half of the coated-steel venture. Control sits with Tata Sons and, behind it, the Tata Trusts; there is no family promoter in the usual sense.",
+   "milestones": [
+    {
+     "year": 1907,
+     "event": "Tata Iron and Steel Company founded, Jamshedpur (reported)"
+    },
+    {
+     "year": 2016,
+     "event": "Cyrus Mistry removed as Tata Sons chairman; Supreme Court upholds removal in 2021 (reported)"
+    },
+    {
+     "year": 2017,
+     "event": "N. Chandrasekaran becomes Tata Sons chairman (reported)"
+    },
+    {
+     "year": 2022,
+     "event": "Tata Steel Long Products acquires Neelachal Ispat Nigam, Odisha (July, about Rs 12,100 crore) (reported)"
+    },
+    {
+     "year": 2024,
+     "event": "Ratan Tata dies (9 Oct); Noel Tata becomes Tata Trusts chairman (reported)"
+    },
+    {
+     "year": 2026,
+     "event": "Tata Steel completes purchase of BlueScope's 50% in Tata BlueScope Steel (about Rs 1,100 crore), now Tata Steel Colors (Jan) (reported)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Naval Tata",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Simone Tata",
+     "role": "Father of Ratan and (with Simone) of Noel Tata",
+     "certainty": "reported"
+    },
+    {
+     "name": "Ratan Tata",
+     "generation": 2,
+     "parent": "Naval Tata",
+     "spouse": null,
+     "role": "Chairman emeritus, Tata Sons; chaired Tata Trusts; d. 9 Oct 2024",
+     "certainty": "reported"
+    },
+    {
+     "name": "Noel Tata",
+     "generation": 2,
+     "parent": "Naval Tata",
+     "spouse": "Aloo Mistry",
+     "role": "Chairman, Tata Trusts",
+     "certainty": "reported"
+    },
+    {
+     "name": "Aloo Mistry",
+     "generation": 2,
+     "parent": null,
+     "spouse": "Noel Tata",
+     "role": "Daughter of Pallonji Mistry; sister of Shapoor and the late Cyrus Mistry",
+     "certainty": "reported"
+    },
+    {
+     "name": "Leah Tata",
+     "generation": 3,
+     "parent": "Noel Tata",
+     "spouse": null,
+     "role": "Tata group executive / trustee (reported)",
+     "certainty": "reported"
+    },
+    {
+     "name": "Maya Tata",
+     "generation": 3,
+     "parent": "Noel Tata",
+     "spouse": null,
+     "role": "Tata group executive / trustee (reported)",
+     "certainty": "reported"
+    },
+    {
+     "name": "Neville Tata",
+     "generation": 3,
+     "parent": "Noel Tata",
+     "spouse": null,
+     "role": "Trent / Star Bazaar (reported)",
+     "certainty": "reported"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Tata Steel Ltd",
+     "listed": "yes",
+     "chain_stage": "iron ore mining, steel making, flat and long",
+     "state": "Jharkhand, Odisha, Maharashtra, Punjab",
+     "ownership_note": "Promoter Tata Sons; Khopoli and Tarapur downstream in Maharashtra"
+    },
+    {
+     "name": "Neelachal Ispat Nigam Ltd",
+     "listed": "no",
+     "chain_stage": "pig iron / integrated steel",
+     "state": "Odisha (Kalinganagar)",
+     "ownership_note": "Acquired 2022 via Tata Steel Long Products; now Tata Steel subsidiary after TSLP merger"
+    },
+    {
+     "name": "Tata Steel Colors (ex-Tata BlueScope Steel)",
+     "listed": "no",
+     "chain_stage": "metallic and colour coated steel, building products",
+     "state": "Jharkhand, Maharashtra and others",
+     "ownership_note": "99.99% Tata Steel since Jan 2026"
+    },
+    {
+     "name": "Merged subsidiaries: Tata Steel BSL (ex-Bhushan Steel), Tata Steel Long Products, Tata Metaliks, Tinplate Co of India, TRF, Indian Steel & Wire Products, Tata Steel Mining, S&T Mining, Angul Energy",
+     "listed": "no (merged)",
+     "chain_stage": "steel, pig iron, DI pipes, tinplate, wire, mining, power",
+     "state": "Odisha, Jharkhand, West Bengal",
+     "ownership_note": "Amalgamated into Tata Steel 2023-25 under schemes announced Sept 2022 (reported; individual effective dates not re-checked)"
+    }
+   ],
+   "chain_summary": "Captive iron ore and coal (Jharkhand, Odisha) -> steel making (Jamshedpur, Kalinganagar, Angul, NINL) -> hot rolled -> cold rolled and coated (Khopoli, Tarapur, Tata Steel Colors), tinplate, wire, pipes.",
+   "splits_disputes": "Tata-Mistry dispute: Cyrus Mistry removed 2016, Supreme Court sided with Tata Sons in 2021. Tata Trusts split in Oct-Nov 2025: Mehli Mistry (a cousin of the SP family, reported) voted out as trustee 3-2. SP group pushes for Tata Sons listing (RBI upper-layer rule) and stake monetisation; Trusts oppose (2026).",
+   "marriage_clues": [
+    {
+     "person": "Noel Tata",
+     "detail": "Married Aloo Mistry, younger daughter of Pallonji Mistry; her brothers are Shapoor Mistry (SP group chairman) and the late Cyrus Mistry",
+     "possibly_linked_family": "Mistry family (Shapoorji Pallonji group)",
+     "certainty": "reported",
+     "source": "https://www.theweek.in/news/biz-tech/2024/10/12/who-is-aloo-mistry-tata-chief-noel-tatas-wife-is-the-daughter-of-pallonji-mistry.html"
+    }
+   ],
+   "sources": [
+    "https://www.theweek.in/news/biz-tech/2024/10/12/who-is-aloo-mistry-tata-chief-noel-tatas-wife-is-the-daughter-of-pallonji-mistry.html",
+    "https://www.businesstoday.in/latest/corporate/story/tata-trusts-tussle-majority-vote-for-removal-of-mehli-mistry-says-report-499814-2025-10-28",
+    "https://businesstoday.in/latest/corporate/story/who-controls-tata-sons-why-tata-trusts-66-stake-does-not-tell-the-whole-story-557097-2026-09-22",
+    "https://www.business-standard.com/companies/news/listed-tata-companies-are-third-biggest-block-of-shareholders-in-tata-sons-125101301207_1.html",
+    "https://eurometal.net/tata-steel-completes-tata-bluescope-acquisition/",
+    "https://www.bluescope.com/news/50-per-cent-sale-of-Tata--BlueScope-Steel-venture"
+   ],
+   "certainty": "reported"
+  },
+  {
+   "group": "Welspun group",
+   "family": "Goenka family (B.K. Goenka), with cousin Rajesh Mandawewala",
+   "display_name": "Goenka family (Welspun group): Balkrishan (B.K.) Goenka",
+   "decision_office": "Mumbai",
+   "founder": {
+    "name": "Balkrishan Goenka with cousin Rajesh R. Mandawewala",
+    "year_founded": 1985,
+    "native_place": null
+   },
+   "head": {
+    "name": "Balkrishan Gopiram Goenka",
+    "role": "Chairman, Welspun World; Non-Executive Chairman, Welspun Corp"
+   },
+   "next_gen": [
+    {
+     "name": "Dipali Goenka",
+     "relation": "wife of B.K. Goenka",
+     "runs": "MD and CEO, Welspun Living (home textiles)",
+     "since": "reported"
+    },
+    {
+     "name": "Radhika Goenka",
+     "relation": "daughter of B.K. and Dipali Goenka",
+     "runs": "Welspun group role reported (not confirmed in filings read)",
+     "since": null
+    },
+    {
+     "name": "Vanshika Goenka Misra",
+     "relation": "daughter of B.K. and Dipali Goenka",
+     "runs": "CEO, Christy (Welspun's UK towel brand)",
+     "since": "reported"
+    },
+    {
+     "name": "Vipul Mathur",
+     "relation": "professional",
+     "runs": "MD and CEO, Welspun Corp",
+     "since": "not re-checked"
+    }
+   ],
+   "control_summary": "B.K. Goenka controls Welspun Corp mainly as trustee of the Welspun Group Master Trust (44.55% at 31 Mar 2026), with small direct holdings by Dipali Goenka, the B.K. Goenka Family Trust and the Mandawewala family. Welspun Specialty Solutions is a listed subsidiary of Welspun Corp.",
+   "background": "B.K. Goenka and his cousin Rajesh Mandawewala started Welspun in 1985 with textiles and moved into large-diameter line pipes in the 1990s from Gujarat (Anjar, Dahej). Welspun Corp became one of the world's larger welded-pipe makers with plants in India, the USA (Little Rock) and a Saudi associate (EPIC). It has since moved upstream into plates, coils and DI pipes (Welspun Metallics, Anjar) and specialty stainless (Welspun Specialty Solutions, Jhagadia), and bought Sintex BAPL. The group also runs Welspun Living (home textiles), Welspun Enterprises (infrastructure) and warehousing.",
+   "milestones": [
+    {
+     "year": 1985,
+     "event": "Welspun founded by B.K. Goenka and Rajesh Mandawewala (reported)"
+    },
+    {
+     "year": 1987,
+     "event": "B.K. Goenka marries Dipali (reported)"
+    },
+    {
+     "year": 2026,
+     "event": "Welspun Group Master Trust holds 44.55% of Welspun Corp, 31 March (verified, annual report)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Gopiram Goenka",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Father of B.K. Goenka (patronymic in filings)",
+     "certainty": "reported"
+    },
+    {
+     "name": "Balkrishan Gopiram Goenka",
+     "generation": 2,
+     "parent": "Gopiram Goenka",
+     "spouse": "Dipali Goenka",
+     "role": "Chairman, Welspun World",
+     "certainty": "verified"
+    },
+    {
+     "name": "Dipali Goenka",
+     "generation": 2,
+     "parent": null,
+     "spouse": "Balkrishan Gopiram Goenka",
+     "role": "MD and CEO, Welspun Living",
+     "certainty": "verified"
+    },
+    {
+     "name": "Rajesh R. Mandawewala",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "Co-founder; cousin of B.K. Goenka; Non-Executive Director, Welspun Corp",
+     "certainty": "verified"
+    },
+    {
+     "name": "Radhika Goenka",
+     "generation": 3,
+     "parent": "Balkrishan Gopiram Goenka",
+     "spouse": null,
+     "role": "Daughter",
+     "certainty": "reported"
+    },
+    {
+     "name": "Vanshika Goenka Misra",
+     "generation": 3,
+     "parent": "Balkrishan Gopiram Goenka",
+     "spouse": null,
+     "role": "CEO, Christy",
+     "certainty": "reported"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Welspun Corp Ltd",
+     "listed": "yes",
+     "chain_stage": "pipes (SAW, ERW, DI), plates and coils",
+     "state": "Gujarat, Madhya Pradesh; USA; Saudi Arabia",
+     "ownership_note": "Flagship metals company; group decision office Mumbai"
+    },
+    {
+     "name": "Welspun Specialty Solutions Ltd",
+     "listed": "yes",
+     "chain_stage": "stainless steel melt shop, bars, seamless tubes",
+     "state": "Gujarat (Jhagadia)",
+     "ownership_note": "Subsidiary of Welspun Corp"
+    },
+    {
+     "name": "Welspun Metallics / Anjar steel units",
+     "listed": "no",
+     "chain_stage": "DRI, plates and coils for pipes",
+     "state": "Gujarat (Anjar)",
+     "ownership_note": "Welspun Corp group (reported)"
+    },
+    {
+     "name": "Welspun Living Ltd",
+     "listed": "yes",
+     "chain_stage": "home textiles",
+     "state": "Gujarat, Telangana",
+     "ownership_note": "Group; Dipali Goenka MD"
+    }
+   ],
+   "chain_summary": "Purchased iron ore / scrap -> DRI and steel (Anjar, Jhagadia) -> plates, coils, billets -> line pipes, DI pipes, stainless tubes and bars.",
+   "splits_disputes": "None reported between Goenka and Mandawewala lines.",
+   "marriage_clues": [
+    {
+     "person": "Vanshika Goenka Misra",
+     "detail": "Daughter of B.K. Goenka; uses married surname Misra",
+     "possibly_linked_family": "married surname Misra; family not identified",
+     "certainty": "reported",
+     "source": "https://india.entrepreneur.com/en-in/leadership/vanshika-goenka-the-dream-weaver/479127"
+    }
+   ],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/48508a3e-46c9-4b90-a709-ff296d12d829.pdf",
+    "https://en.wikipedia.org/wiki/B._K._Goenka",
+    "https://en.wikipedia.org/wiki/Dipali_Goenka",
+    "https://india.entrepreneur.com/en-in/leadership/vanshika-goenka-the-dream-weaver/479127"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Lloyds group with Thriveni",
+   "family": "Gupta family (sons of Rajnarayan Gupta) with maternal uncle Babulal Agarwal; Thriveni Earthmovers (B. Prabhakaran)",
+   "display_name": "Gupta family (Lloyds group): Mukesh and Rajesh Gupta, with B. Prabhakaran of Thriveni",
+   "decision_office": "Mumbai (plants in Gadchiroli and Chandrapur)",
+   "founder": {
+    "name": "Mukesh Gupta, Rajesh Gupta and their maternal uncle B.L. (Babulal) Agarwal",
+    "year_founded": 1977,
+    "native_place": null
+   },
+   "head": {
+    "name": "Mukesh Rajnarayan Gupta",
+    "role": "Chairman (non-executive), Lloyds Metals & Energy; Rajesh Gupta is Executive Director; B. Prabhakaran is Managing Director"
+   },
+   "next_gen": [
+    {
+     "name": "Madhur Rajesh Gupta",
+     "relation": "son of Rajesh Gupta",
+     "runs": "Director, Lloyds Metals & Energy",
+     "since": "not stated"
+    },
+    {
+     "name": "Shreekrishna Mukesh Gupta",
+     "relation": "son of Mukesh Gupta",
+     "runs": "Related party / group role in Lloyds companies (FY26 notice)",
+     "since": null
+    },
+    {
+     "name": "Balasubramanian Prabhakaran",
+     "relation": "partner family head, Thriveni Earthmovers (not Gupta family)",
+     "runs": "Managing Director, Lloyds Metals & Energy",
+     "since": "not stated"
+    },
+    {
+     "name": "Babulal Agarwal",
+     "relation": "maternal uncle of Mukesh and Rajesh Gupta",
+     "runs": "Chairman and MD, Lloyds Enterprises",
+     "since": "8 Aug 2023"
+    }
+   ],
+   "control_summary": "Promoter group held 61.64% of Lloyds Metals & Energy at 31 Mar 2026, including Thriveni Earthmovers Pvt Ltd 17.77%, Sky United LLP 13.05%, Crosslink Food and Farms 11.65%, Lloyds Metals and Minerals Trading LLP 6.35% and Lloyds Enterprises 4.13%. In FY26 LMEL bought 79.82% (now 75.62%) of Thriveni Earthmovers and Infra Pvt Ltd, the mine developer-operator business.",
+   "background": "The Gupta brothers and B.L. Agarwal built the Lloyds group around Lloyds Steel at Wardha (later sold to Uttam Galva) and a sponge iron and power unit at Ghugus, Chandrapur. Lloyds Metals won the Surjagarh iron ore lease in Gadchiroli in 2007, but mining was stalled for years by Maoist violence. Thriveni Earthmovers of Salem, Tamil Nadu (B. Prabhakaran) came in as mine developer-operator and shareholder, and Surjagarh output was scaled up rapidly after 2021. The group is now building pellet, DRI and steel capacity at Konsari and Hedri in Gadchiroli and is one of Maharashtra's largest recent investors in the district.",
+   "milestones": [
+    {
+     "year": 1977,
+     "event": "Lloyds Metals incorporated (reported)"
+    },
+    {
+     "year": 2007,
+     "event": "Surjagarh iron ore lease awarded, Gadchiroli; later extended to 50 years (reported)"
+    },
+    {
+     "year": 2023,
+     "event": "Babulal Agarwal becomes Chairman and MD of Lloyds Enterprises (verified)"
+    },
+    {
+     "year": 2026,
+     "event": "LMEL completes purchase of 79.82% of Thriveni Earthmovers and Infra (MDO business) (verified, FY26 annual report)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Rajnarayan Gupta",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Father of Mukesh and Rajesh Gupta (patronymic in filings)",
+     "certainty": "verified"
+    },
+    {
+     "name": "Babulal Agarwal",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Maternal uncle of Mukesh and Rajesh Gupta; co-founder; CMD Lloyds Enterprises",
+     "certainty": "verified"
+    },
+    {
+     "name": "Mukesh Rajnarayan Gupta",
+     "generation": 2,
+     "parent": "Rajnarayan Gupta",
+     "spouse": null,
+     "role": "Chairman, LMEL; 0.20%",
+     "certainty": "verified"
+    },
+    {
+     "name": "Rajesh Rajnarayan Gupta",
+     "generation": 2,
+     "parent": "Rajnarayan Gupta",
+     "spouse": null,
+     "role": "Promoter, Executive Director, LMEL; 0.11%",
+     "certainty": "verified"
+    },
+    {
+     "name": "Madhur Rajesh Gupta",
+     "generation": 3,
+     "parent": "Rajesh Rajnarayan Gupta",
+     "spouse": null,
+     "role": "Director, LMEL",
+     "certainty": "verified"
+    },
+    {
+     "name": "Shreekrishna Mukesh Gupta",
+     "generation": 3,
+     "parent": "Mukesh Rajnarayan Gupta",
+     "spouse": null,
+     "role": "Related party, LMEL",
+     "certainty": "verified"
+    },
+    {
+     "name": "Balasubramanian Prabhakaran",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "MD, LMEL; promoter of Thriveni Earthmovers; son of Mr Balasubramanian (per filing)",
+     "certainty": "verified"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lloyds Metals & Energy Ltd",
+     "listed": "yes",
+     "chain_stage": "iron ore mining, sponge iron, power, pellets, steel (under build)",
+     "state": "Maharashtra (Surjagarh, Ghugus, Konsari)",
+     "ownership_note": "Flagship"
+    },
+    {
+     "name": "Lloyds Enterprises Ltd (ex-Shree Global Tradefin)",
+     "listed": "yes",
+     "chain_stage": "holding and steel trading",
+     "state": "Maharashtra",
+     "ownership_note": "Promoter-group holdco; 4.13% of LMEL"
+    },
+    {
+     "name": "Lloyds Engineering Works Ltd (ex-Lloyds Steels Industries)",
+     "listed": "yes",
+     "chain_stage": "engineering equipment",
+     "state": "Maharashtra",
+     "ownership_note": "Subsidiary of Lloyds Enterprises"
+    },
+    {
+     "name": "Thriveni Earthmovers and Infra Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "mine development and operation",
+     "state": "Maharashtra, Odisha, Jharkhand and others",
+     "ownership_note": "75.62% LMEL since FY26"
+    },
+    {
+     "name": "Thriveni Earthmovers Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "mining contractor; shareholder",
+     "state": "Tamil Nadu (Salem) base",
+     "ownership_note": "17.77% of LMEL"
+    }
+   ],
+   "chain_summary": "Surjagarh iron ore (Gadchiroli) -> beneficiation and slurry pipeline -> pellets -> DRI (Ghugus, Konsari) -> steel (Konsari, under build), with captive power.",
+   "splits_disputes": "Lloyds Steel Wardha plant sold to Uttam Galva (2011, reported). Surjagarh mining has faced local opposition and NGT petitions (reported). No family dispute reported. Note: no 'B.R. Gupta' appears in the filings read; the brothers' father is named Rajnarayan Gupta.",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c69649dc-d183-4420-881a-2af285df6e9f.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/82f67229-7245-4268-a22b-49994f6ffe86.pdf",
+    "https://www.lloyds.in/",
+    "https://www.thehitavada.com/Encyc/2024/12/20/Lloyds-Metals-acquiring-79-82-stake-inMDO-business-of-TEMPL.html"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Bajaj group (Mukand)",
+   "family": "Bajaj family (Jamnalal Bajaj line, Niraj Bajaj branch) with the Shah family (Jivanlal / Viren Shah line)",
+   "display_name": "Bajaj family (Mukand): Niraj Bajaj, with the Shah family",
+   "decision_office": "Mumbai",
+   "founder": {
+    "name": "Jamnalal Bajaj and Jivanlal Shah acquired Mukand Iron & Steel Works (founded 1929 in Lahore by Seth Mukand Lal)",
+    "year_founded": 1937,
+    "native_place": null
+   },
+   "head": {
+    "name": "Niraj Bajaj",
+    "role": "Chairman and Managing Director, Mukand Ltd; Chairman, Bajaj Auto"
+   },
+   "next_gen": [
+    {
+     "name": "Nirav Bajaj",
+     "relation": "son of Niraj Bajaj",
+     "runs": "Whole-time Director, Mukand Ltd",
+     "since": "Aug 2023"
+    },
+    {
+     "name": "Rajesh V. Shah",
+     "relation": "son of Viren J. Shah",
+     "runs": "Formerly Co-Chairman and MD, Mukand; not on Mukand's FY26 KMP list; reported director of Mukand Sumi Special Steel",
+     "since": "until c.2024 (inferred)"
+    },
+    {
+     "name": "Suketu V. Shah",
+     "relation": "son of Viren J. Shah",
+     "runs": "Formerly Joint MD, Mukand (FY21 annual report)",
+     "since": null
+    }
+   ],
+   "control_summary": "Promoter group held 74.70% of Mukand at 31 Mar 2026, led by Jamnalal Sons Pvt Ltd and Niraj Bajaj with relatives (Shah family members hold token stakes). Mukand Sumi Special Steel is 51% Bajaj (Jamnalal Sons 49.71%, Baroda Industries 1.29%) and 49% Sumitomo Corporation; Jamnalal Sons lent Rs 1,470 crore to Mukand.",
+   "background": "Mukand began in Lahore in 1929 and was acquired by Jamnalal Bajaj and Jivanlal Shah at Mahatma Gandhi's urging; it moved to Mumbai and opened the Kalwe steel plant near Thane in 1965. Management alternated between the Bajaj and Shah families (Kamalnayan Bajaj, Viren Shah, Rahul Bajaj, then Niraj Bajaj with Rajesh Shah from 2007). In 2019 the alloy steel business at Hospet, Karnataka, moved to Mukand Sumi Special Steel, a joint venture of Jamnalal Sons and Sumitomo; Mukand Ltd now focuses on stainless and alloy long products at Kalwe. Hospet Steels is a long-standing joint venture with the Kalyani group (Kalyani Mukand Ltd is a related party).",
+   "milestones": [
+    {
+     "year": 1937,
+     "event": "Bajaj and Shah families acquire Mukand; moves to Mumbai (reported)"
+    },
+    {
+     "year": 1965,
+     "event": "Kalwe steel plant starts (reported)"
+    },
+    {
+     "year": 2007,
+     "event": "Rahul Bajaj steps down as chairman; Niraj Bajaj and Rajesh Shah take over (reported)"
+    },
+    {
+     "year": 2019,
+     "event": "Alloy steel business at Hospet moves to Mukand Sumi Special Steel (Jamnalal Sons-Sumitomo JV) (reported, year approximate)"
+    },
+    {
+     "year": 2025,
+     "event": "Madhur Bajaj (Niraj's brother) dies, 11 April (verified, Mukand annual report)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Jamnalal Bajaj",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Founder of the Bajaj group",
+     "certainty": "reported"
+    },
+    {
+     "name": "Ramkrishna Bajaj",
+     "generation": 2,
+     "parent": "Jamnalal Bajaj",
+     "spouse": null,
+     "role": "Father of Shekhar, Madhur and Niraj",
+     "certainty": "reported"
+    },
+    {
+     "name": "Kamalnayan Bajaj",
+     "generation": 2,
+     "parent": "Jamnalal Bajaj",
+     "spouse": null,
+     "role": "Father of Rahul and Shishir; Mukand chairman",
+     "certainty": "reported"
+    },
+    {
+     "name": "Rahul Bajaj",
+     "generation": 3,
+     "parent": "Kamalnayan Bajaj",
+     "spouse": null,
+     "role": "Bajaj Auto; d. Feb 2022",
+     "certainty": "reported"
+    },
+    {
+     "name": "Shishir Bajaj",
+     "generation": 3,
+     "parent": "Kamalnayan Bajaj",
+     "spouse": null,
+     "role": "Bajaj Hindusthan line",
+     "certainty": "reported"
+    },
+    {
+     "name": "Shekhar Bajaj",
+     "generation": 3,
+     "parent": "Ramkrishna Bajaj",
+     "spouse": null,
+     "role": "Bajaj Electricals",
+     "certainty": "reported"
+    },
+    {
+     "name": "Madhur Bajaj",
+     "generation": 3,
+     "parent": "Ramkrishna Bajaj",
+     "spouse": null,
+     "role": "d. 11 April 2025",
+     "certainty": "verified"
+    },
+    {
+     "name": "Niraj Bajaj",
+     "generation": 3,
+     "parent": "Ramkrishna Bajaj",
+     "spouse": null,
+     "role": "CMD Mukand; Chairman Bajaj Auto",
+     "certainty": "verified"
+    },
+    {
+     "name": "Nirav Bajaj",
+     "generation": 4,
+     "parent": "Niraj Bajaj",
+     "spouse": null,
+     "role": "Whole-time Director, Mukand",
+     "certainty": "verified"
+    },
+    {
+     "name": "Rajiv Bajaj",
+     "generation": 4,
+     "parent": "Rahul Bajaj",
+     "spouse": null,
+     "role": "MD, Bajaj Auto",
+     "certainty": "reported"
+    },
+    {
+     "name": "Sanjiv Bajaj",
+     "generation": 4,
+     "parent": "Rahul Bajaj",
+     "spouse": null,
+     "role": "Chairman, Bajaj Finserv",
+     "certainty": "reported"
+    },
+    {
+     "name": "Viren J. Shah",
+     "generation": 2,
+     "parent": null,
+     "spouse": "Anjana Viren Shah (nee Munsif)",
+     "role": "Mukand Chairman and MD; Governor of West Bengal 1999-2004",
+     "certainty": "reported"
+    },
+    {
+     "name": "Rajesh V. Shah",
+     "generation": 3,
+     "parent": "Viren J. Shah",
+     "spouse": null,
+     "role": "Former Co-Chairman and MD, Mukand",
+     "certainty": "reported"
+    },
+    {
+     "name": "Suketu V. Shah",
+     "generation": 3,
+     "parent": "Viren J. Shah",
+     "spouse": null,
+     "role": "Former Joint MD, Mukand",
+     "certainty": "reported"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mukand Ltd",
+     "listed": "yes",
+     "chain_stage": "stainless and alloy steel long products",
+     "state": "Maharashtra (Kalwe, Thane)",
+     "ownership_note": "Promoter group 74.70%"
+    },
+    {
+     "name": "Mukand Sumi Special Steel Ltd",
+     "listed": "no",
+     "chain_stage": "alloy special bar quality steel, rolling",
+     "state": "Karnataka (Ginigera, Hospet)",
+     "ownership_note": "Jamnalal Sons 49.71%, Baroda Industries 1.29%, Sumitomo 49%"
+    },
+    {
+     "name": "Mukand Sumi Metal Processing Ltd",
+     "listed": "no",
+     "chain_stage": "steel processing",
+     "state": "Maharashtra",
+     "ownership_note": "100% Mukand"
+    },
+    {
+     "name": "Hospet Steels Ltd",
+     "listed": "no",
+     "chain_stage": "pig iron / mini blast furnace",
+     "state": "Karnataka (Hospet)",
+     "ownership_note": "Joint venture with Kalyani group (Kalyani Mukand)"
+    },
+    {
+     "name": "Bajaj Auto Ltd",
+     "listed": "yes",
+     "chain_stage": "two-wheelers (steel user)",
+     "state": "Maharashtra",
+     "ownership_note": "Group; downstream customer"
+    }
+   ],
+   "chain_summary": "Pig iron (Hospet Steels JV) and scrap -> melt shop -> alloy and stainless bars and wire rods (Kalwe; MSSSL Hospet) -> auto forgings customers incl. Bajaj Auto.",
+   "splits_disputes": "2019 Bajaj family settlement (Rahul with cousins Shekhar, Madhur and Niraj) on joint ownership via family council (reported). No Bajaj-Shah dispute reported; Shah family role in Mukand appears to have ended (inferred from FY26 board list).",
+   "marriage_clues": [
+    {
+     "person": "Anjana Viren Shah",
+     "detail": "Wife of Viren Shah, nee Munsif; promoter-group shareholder of Mukand",
+     "possibly_linked_family": "Munsif family; family not identified",
+     "certainty": "verified",
+     "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/983adc09-5bee-4e4a-81c9-6a092e597b9b.pdf"
+    }
+   ],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/983adc09-5bee-4e4a-81c9-6a092e597b9b.pdf",
+    "https://en.wikipedia.org/wiki/Mukand",
+    "https://www.business-standard.com/article/specials/bajaj-to-succeed-viren-shah-at-mukand-198092301065_1.html",
+    "https://business-standard.com/article/companies/niraj-bajaj-appointed-mukand-chairman-107071501027_1.html",
+    "https://www.businesstoday.in/magazine/cover-story/the-naya-bajaj/story/307498.html"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Kalyani group",
+   "family": "Kalyani family (Baba Kalyani line)",
+   "display_name": "Kalyani family (Kalyani group): Baba Kalyani",
+   "decision_office": "Pune",
+   "founder": {
+    "name": "Neelkanth Rao Kalyani",
+    "year_founded": 1961,
+    "native_place": "Karad, Satara district, Maharashtra (ancestral property in Karad per dispute reports; reported)"
+   },
+   "head": {
+    "name": "Baba N. Kalyani",
+    "role": "Chairman and Managing Director, Bharat Forge; Chairman, Kalyani Steels"
+   },
+   "next_gen": [
+    {
+     "name": "Amit B. Kalyani",
+     "relation": "son of Baba and Sunita Kalyani",
+     "runs": "Vice-Chairman and Joint MD, Bharat Forge; defence (Kalyani Strategic Systems)",
+     "since": "not re-checked"
+    },
+    {
+     "name": "R.K. Goyal",
+     "relation": "professional",
+     "runs": "MD, Kalyani Steels; Chairman, Saarloha",
+     "since": "reported"
+    },
+    {
+     "name": "Ravi Nagarkar",
+     "relation": "professional",
+     "runs": "MD, Kalyani Technoforge",
+     "since": "reported"
+    }
+   ],
+   "control_summary": "Baba Kalyani's family controls Bharat Forge, Kalyani Steels and BF Utilities through promoter investment companies; Kalyani Technoforge is 100% held by promoter investment holding companies and Saarloha is wholly owned by the group since buying out Carpenter Technology in FY2016. Kalyani Forge is a separate listed company of brother G.N. (Gaurishankar) Kalyani's family.",
+   "background": "Neelkanth Rao Kalyani, an agriculturist-turned-industrialist from the Karad area, incorporated Bharat Forge in Pune on 19 June 1961. His elder son Baba Kalyani turned it into one of the world's largest forging companies from the 1990s, with plants in Germany, Sweden, France and the USA, and later added defence and aerospace. Kalyani Steels (1973) and Saarloha (special steel, 1998 JV with Carpenter) were set up as backward integration and today supply about half of Bharat Forge's steel; Kalyani Technoforge (1979) does forging and machining around Pune. Since 2023 the family has been in a high-value inheritance dispute with Baba's sister Sugandha Hiremath and her family, now under Supreme Court-appointed mediation.",
+   "milestones": [
+    {
+     "year": 1961,
+     "event": "Bharat Forge incorporated, Pune (19 June) (reported)"
+    },
+    {
+     "year": 1973,
+     "event": "Kalyani Steels set up as backward integration (reported, ICRA)"
+    },
+    {
+     "year": 1979,
+     "event": "Kalyani Technoforge promoted by Baba Kalyani, Pune (verified, CARE)"
+    },
+    {
+     "year": 2016,
+     "event": "Group buys Carpenter's stake in Kalyani Carpenter Special Steels; renamed Saarloha 2018 (verified, ICRA)"
+    },
+    {
+     "year": 2023,
+     "event": "Sugandha and Jaidev Hiremath sue in Bombay High Court on 1994 family arrangement (Hikal shares) (reported)"
+    },
+    {
+     "year": 2026,
+     "event": "Supreme Court refers Kalyani family dispute to mediation by Justice L. Nageswara Rao (13 July) (reported)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Neelkanth Rao Kalyani",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Founder; d. 2002 (reported)",
+     "certainty": "reported"
+    },
+    {
+     "name": "Baba N. Kalyani",
+     "generation": 2,
+     "parent": "Neelkanth Rao Kalyani",
+     "spouse": "Sunita B. Kalyani",
+     "role": "CMD, Bharat Forge",
+     "certainty": "verified"
+    },
+    {
+     "name": "Sunita B. Kalyani",
+     "generation": 2,
+     "parent": null,
+     "spouse": "Baba N. Kalyani",
+     "role": "Promoter-group member; mother of Amit",
+     "certainty": "verified"
+    },
+    {
+     "name": "Gaurishankar N. Kalyani",
+     "generation": 2,
+     "parent": "Neelkanth Rao Kalyani",
+     "spouse": "Rohini G. Kalyani",
+     "role": "Younger brother; Kalyani Forge line; named as relative of KMP in Bharat Forge",
+     "certainty": "verified"
+    },
+    {
+     "name": "Sugandha Hiremath",
+     "generation": 2,
+     "parent": "Neelkanth Rao Kalyani",
+     "spouse": "Jaidev Hiremath",
+     "role": "Sister; plaintiff in family dispute",
+     "certainty": "reported"
+    },
+    {
+     "name": "Amit B. Kalyani",
+     "generation": 3,
+     "parent": "Baba N. Kalyani",
+     "spouse": "Deeksha Kalyani",
+     "role": "Vice-Chairman and Joint MD, Bharat Forge",
+     "certainty": "verified"
+    },
+    {
+     "name": "Viraj G. Kalyani",
+     "generation": 3,
+     "parent": "Gaurishankar N. Kalyani",
+     "spouse": null,
+     "role": "MD, Kalyani Forge",
+     "certainty": "reported"
+    },
+    {
+     "name": "Sameer Hiremath",
+     "generation": 3,
+     "parent": "Sugandha Hiremath",
+     "spouse": null,
+     "role": "Hikal; filed partition suit",
+     "certainty": "reported"
+    },
+    {
+     "name": "Pallavi Swadi",
+     "generation": 3,
+     "parent": "Sugandha Hiremath",
+     "spouse": null,
+     "role": "Filed partition suit",
+     "certainty": "reported"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Bharat Forge Ltd",
+     "listed": "yes",
+     "chain_stage": "forgings and machining",
+     "state": "Maharashtra (Mundhwa, Chakan, Baramati); overseas",
+     "ownership_note": "Flagship"
+    },
+    {
+     "name": "Kalyani Steels Ltd",
+     "listed": "yes",
+     "chain_stage": "integrated mini blast furnace steel",
+     "state": "Karnataka (Ginigera, Koppal)",
+     "ownership_note": "Promoter group; supplies Bharat Forge"
+    },
+    {
+     "name": "Saarloha Advanced Materials Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "special and alloy steel (EAF)",
+     "state": "Maharashtra (Pune)",
+     "ownership_note": "Wholly group-owned; meets ~50% of Bharat Forge's steel needs"
+    },
+    {
+     "name": "Kalyani Technoforge Ltd",
+     "listed": "no",
+     "chain_stage": "forgings and machining",
+     "state": "Maharashtra (Pune region), Rajasthan (Bhiwadi)",
+     "ownership_note": "100% promoter investment companies; Baba Kalyani group (CARE, Nov 2024)"
+    },
+    {
+     "name": "Hospet Steels Ltd",
+     "listed": "no",
+     "chain_stage": "pig iron",
+     "state": "Karnataka",
+     "ownership_note": "JV with Mukand (Bajaj group) via Kalyani Mukand (reported)"
+    },
+    {
+     "name": "Hikal Ltd",
+     "listed": "yes",
+     "chain_stage": "chemicals (not metals)",
+     "state": "Maharashtra",
+     "ownership_note": "Shared Kalyani-Hiremath holding; subject of the dispute"
+    }
+   ],
+   "chain_summary": "Iron ore and scrap -> pig iron and steel (Kalyani Steels, Hospet Steels, Saarloha) -> forging-quality bars -> forgings and machined parts (Bharat Forge, Kalyani Technoforge) -> auto, defence, aerospace.",
+   "splits_disputes": "Sugandha Hiremath and husband Jaidev seek specific performance of a 1994 family arrangement (Hikal shares); her children Sameer Hiremath and Pallavi Swadi claim HUF partition; she also accuses brother Gaurishankar of taking ancestral Karad property. Supreme Court ordered mediation (July 2026), extended to end-Oct 2026; outcome not found. Kalyani Technoforge belongs to Baba Kalyani's group (verified, CARE); Kalyani Forge belongs to Gaurishankar's line.",
+   "marriage_clues": [
+    {
+     "person": "Sugandha Hiremath",
+     "detail": "Baba Kalyani's sister, married Jaidev Hiremath, co-founder and chairman of Hikal",
+     "possibly_linked_family": "Hiremath family (Hikal Ltd)",
+     "certainty": "reported",
+     "source": "https://www.barandbench.com/news/litigation/supreme-court-appoints-retired-justice-l-nageswara-rao-as-mediator-in-1-lakh-crore-kalyani-family-feud"
+    },
+    {
+     "person": "Deeksha Kalyani",
+     "detail": "Wife of Amit Kalyani; co-founded The Kalyani School (2015)",
+     "possibly_linked_family": "maiden family not identified",
+     "certainty": "reported",
+     "source": "https://bharatforge.com/sustainability/amit-b-kalyani"
+    }
+   ],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0ba5ae77-99ae-4835-9740-254d45d45e81.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d7fe8d3d-96d2-4801-b0a1-68a3b97fd15a.pdf",
+    "https://www.careratings.com/upload/CompanyFiles/PR/202411141127_Kalyani_Technoforge_Limited.pdf",
+    "https://www.icra.in/Rating/GetRationalReportFilePdf?id=136836",
+    "https://www.barandbench.com/news/litigation/supreme-court-appoints-retired-justice-l-nageswara-rao-as-mediator-in-1-lakh-crore-kalyani-family-feud",
+    "https://www.outlookbusiness.com/corporate/kalyani-family-clash-heats-up-sugandha-hiremath-accuses-brother-of-usurping-ancestral-property",
+    "https://www.kalyaniforge.co.in/"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Kirloskar group (Atul and Rahul Kirloskar)",
+   "family": "Kirloskar family, Chandrakant Kirloskar line (Atul and Rahul)",
+   "display_name": "Kirloskar family (Kirloskar Industries / Kirloskar Ferrous): Atul and Rahul Kirloskar",
+   "decision_office": "Pune",
+   "founder": {
+    "name": "Laxmanrao Kirloskar (group, 1888); Shantanurao Kirloskar expanded it",
+    "year_founded": 1888,
+    "native_place": null
+   },
+   "head": {
+    "name": "Atul C. Kirloskar",
+    "role": "Chairman, Kirloskar Industries and Kirloskar Oil Engines; Rahul C. Kirloskar chairs Kirloskar Ferrous and Kirloskar Pneumatic"
+   },
+   "next_gen": [
+    {
+     "name": "Gauri Kirloskar",
+     "relation": "daughter of Atul Kirloskar",
+     "runs": "Vice-Chairperson and MD, Kirloskar Oil Engines",
+     "since": "MD since May 2022 (reported)"
+    },
+    {
+     "name": "Aditi Atul Kirloskar",
+     "relation": "daughter of Atul Kirloskar (niece of Rahul)",
+     "runs": "Non-executive promoter director, Kirloskar Ferrous",
+     "since": "not stated"
+    },
+    {
+     "name": "Aman Rahul Kirloskar",
+     "relation": "son of Rahul Kirloskar",
+     "runs": "Non-executive promoter director, Kirloskar Ferrous",
+     "since": "not stated"
+    },
+    {
+     "name": "R.V. Gumaste",
+     "relation": "professional",
+     "runs": "MD, Kirloskar Ferrous",
+     "since": "reported"
+    },
+    {
+     "name": "George Verghese",
+     "relation": "professional",
+     "runs": "MD, Kirloskar Industries",
+     "since": "per FY26 annual report"
+    }
+   ],
+   "control_summary": "Kirloskar Industries (Atul and Rahul's holdco) owns 45.93% of Kirloskar Ferrous; Kirloskar Industries also holds 23.91% of Kirloskar Brothers Ltd, the cousin Sanjay Kirloskar's company, but says it has no significant influence there.",
+   "background": "The Kirloskar group began in 1888 when Laxmanrao Kirloskar started making ploughs; his son Shantanurao built engines and electricals businesses after 1946. Shantanurao's son Chandrakant had three sons, Sanjay, Atul and Rahul, who are brothers (not cousins); Shrikant's son Vikram (d. 2022) ran Toyota Kirloskar. Under a 2009 deed of family settlement Sanjay took Kirloskar Brothers, Atul took Kirloskar Oil Engines and Rahul took Kirloskar Pneumatic. Kirloskar Ferrous, the metals arm held through Kirloskar Industries, makes pig iron and castings at Koppal in Karnataka and bought ISMT (seamless tubes) in 2022, merging it in 2024.",
+   "milestones": [
+    {
+     "year": 1888,
+     "event": "Laxmanrao Kirloskar starts the business (reported)"
+    },
+    {
+     "year": 2009,
+     "event": "Deed of family settlement divides businesses among Sanjay, Atul and Rahul (reported)"
+    },
+    {
+     "year": 2022,
+     "event": "Kirloskar Ferrous takes 51.25% of ISMT (10 March) (reported, BSE filings)"
+    },
+    {
+     "year": 2024,
+     "event": "ISMT merged into Kirloskar Ferrous (NCLT 2024; reported)"
+    },
+    {
+     "year": 2025,
+     "event": "SEBI disclosure fight: KOEL appeals to SAT (Jan); Pune court relief to KBL on trademark (Feb) (reported)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Laxmanrao Kirloskar",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Founder",
+     "certainty": "reported"
+    },
+    {
+     "name": "Shantanurao Laxmanrao Kirloskar",
+     "generation": 2,
+     "parent": "Laxmanrao Kirloskar",
+     "spouse": null,
+     "role": "Expanded group; d. 1994",
+     "certainty": "reported"
+    },
+    {
+     "name": "Chandrakant Kirloskar",
+     "generation": 3,
+     "parent": "Shantanurao Laxmanrao Kirloskar",
+     "spouse": null,
+     "role": "Father of Atul and Rahul",
+     "certainty": "reported"
+    },
+    {
+     "name": "Shrikant Kirloskar",
+     "generation": 3,
+     "parent": "Shantanurao Laxmanrao Kirloskar",
+     "spouse": null,
+     "role": "Father of Vikram Kirloskar",
+     "certainty": "reported"
+    },
+    {
+     "name": "Atul C. Kirloskar",
+     "generation": 4,
+     "parent": "Chandrakant Kirloskar",
+     "spouse": null,
+     "role": "Chairman, Kirloskar Industries and KOEL",
+     "certainty": "verified"
+    },
+    {
+     "name": "Rahul C. Kirloskar",
+     "generation": 4,
+     "parent": "Chandrakant Kirloskar",
+     "spouse": null,
+     "role": "Chairman, Kirloskar Ferrous and Kirloskar Pneumatic",
+     "certainty": "verified"
+    },
+    {
+     "name": "Sanjay Kirloskar",
+     "generation": 4,
+     "parent": "Chandrakant Kirloskar",
+     "spouse": null,
+     "role": "CMD, Kirloskar Brothers; elder brother of Atul and Rahul (all sons of Chandrakant Kirloskar)",
+     "certainty": "reported"
+    },
+    {
+     "name": "Vikram Kirloskar",
+     "generation": 4,
+     "parent": "Shrikant Kirloskar",
+     "spouse": null,
+     "role": "Toyota Kirloskar; d. 2022",
+     "certainty": "reported"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Kirloskar Industries Ltd",
+     "listed": "yes",
+     "chain_stage": "holding company",
+     "state": "Maharashtra (Pune)",
+     "ownership_note": "Atul and Rahul Kirloskar; 45.93% of KFIL; 23.91% of KBL"
+    },
+    {
+     "name": "Kirloskar Ferrous Industries Ltd (incl. ex-ISMT)",
+     "listed": "yes",
+     "chain_stage": "pig iron, castings, seamless tubes, alloy steel",
+     "state": "Karnataka (Bevinahalli, Hiriyur); Maharashtra (Solapur, Ahmednagar, Baramati, Jejuri)",
+     "ownership_note": "Subsidiary of Kirloskar Industries"
+    },
+    {
+     "name": "Kirloskar Oil Engines Ltd",
+     "listed": "yes",
+     "chain_stage": "engines (castings user)",
+     "state": "Maharashtra",
+     "ownership_note": "Atul's line; Gauri Kirloskar MD"
+    },
+    {
+     "name": "Kirloskar Pneumatic Co Ltd",
+     "listed": "yes",
+     "chain_stage": "compressors",
+     "state": "Maharashtra",
+     "ownership_note": "Rahul's line"
+    }
+   ],
+   "chain_summary": "Iron ore and coke -> mini blast furnace pig iron (Koppal) -> grey iron castings (Solapur, Hiriyur) and steel -> seamless tubes (ex-ISMT) -> engines and pumps of group companies.",
+   "splits_disputes": "Brothers' dispute: Sanjay Kirloskar (Kirloskar Brothers) against Atul and Rahul (KOEL, Kirloskar Industries, Kirloskar Pneumatic) over the 2009 deed of family settlement. Triggered by Atul and Rahul's 2017 purchase of La Gajjar Machineries (a pump maker competing with KBL); about 40 cases including NCLT oppression petitions, arbitration, the 'Kirloskar' trademark (Pune court relief to KBL, Feb 2025) and SEBI's order to disclose the deed (KOEL appeal to SAT; Bombay High Court challenge by five companies). NCLT has said Kirloskar Industries must first offer any KBL shares it sells to Sanjay Kirloskar. The brief's description of Sanjay as a cousin is incorrect: reports and filings say he is a brother.",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1b9c11ea-c1ad-4711-9e8a-f4558065569b.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7cf10ac7-4cf3-41c3-8fd0-ff7dad5b5526.pdf",
+    "https://en.wikipedia.org/wiki/Sanjay_Kirloskar",
+    "https://en.wikipedia.org/wiki/Kirloskar_Group",
+    "https://www.outlookbusiness.com/explainers/why-kirloskars-are-fighting-sebi-over-a-27-year-old-family-deed",
+    "https://www.kirloskaroilengines.com/w/gauri-kirloskar",
+    "https://business-standard.com/article/news-cm/kirloskar-ferrous-completes-acquisition-of-ismt-122031100503_1.html",
+    "https://www.tribuneindia.com/news/business/kirloskar-family-feud-brothers-firms-spar-over-130-year-old-legacy-289064",
+    "https://business-standard.com/companies/news/nclt-asks-kirloskars-to-abide-by-settlement-agreement-signed-in-sept-2009-124052301390_1.html"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "NECO group (Jayaswal family)",
+   "family": "Jayaswal family (Basant Lall Shaw line)",
+   "display_name": "Jayaswal family (NECO group): Basant Lall Shaw",
+   "decision_office": "Nagpur",
+   "founder": {
+    "name": "Basant Lall Shaw (Jayaswal)",
+    "year_founded": 1972,
+    "native_place": null
+   },
+   "head": {
+    "name": "Arvind Jayaswal",
+    "role": "Chairman, Jayaswal Neco Industries (from 2023); founder Basant Lall Shaw is Chairman Emeritus"
+   },
+   "next_gen": [
+    {
+     "name": "Arvind Jayaswal",
+     "relation": "son of Basant Lall Shaw",
+     "runs": "Chairman, JNIL",
+     "since": "2023"
+    },
+    {
+     "name": "Ramesh Jayaswal",
+     "relation": "son of Basant Lall Shaw",
+     "runs": "Managing Director, JNIL",
+     "since": "2023"
+    },
+    {
+     "name": "Anand Jayaswal",
+     "relation": "son of Arvind Jayaswal",
+     "runs": "Non-executive director, JNIL",
+     "since": "1 Jan 2026"
+    },
+    {
+     "name": "Avneesh Jayaswal",
+     "relation": "son of Ramesh Jayaswal",
+     "runs": "Executive Director, JNIL",
+     "since": "1 Jan 2026"
+    },
+    {
+     "name": "Manoj Jayaswal",
+     "relation": "son of Basant Lall Shaw (reported)",
+     "runs": "Abhijeet group (separate since 2008)",
+     "since": "2008"
+    }
+   ],
+   "control_summary": "Jayaswal family and group companies control Jayaswal Neco Industries; Basant Lall Shaw holds 1.34% personally and The Jayaswal Basant Lall Shaw Family Trust is a related party. The Abhijeet group of Manoj Jayaswal is run separately.",
+   "background": "Basant Lall Shaw founded the NECO group in Nagpur in 1972 as a foundry and grew it into one of India's larger castings makers. From 1996 the group built an integrated steel plant at Siltara, Raipur, Chhattisgarh (blast furnace, DRI, coke oven, power); some units were first set up under Abhijeet Infrastructures Ltd and the company was renamed Jayaswal Neco Industries in 2007. In 2008 the Abhijeet group, led by Manoj Jayaswal, separated from the parent (reported). In 2023 Basant Lall Shaw became Chairman Emeritus and his sons Arvind and Ramesh took the chairman and MD roles; grandsons Anand and Avneesh joined the board in January 2026.",
+   "milestones": [
+    {
+     "year": 1972,
+     "event": "NECO group founded by Basant Lall Shaw, Nagpur (verified, annual report)"
+    },
+    {
+     "year": 2006,
+     "event": "DRI kiln and 15 MW power plant at Siltara set up by Abhijeet Infrastructures Ltd (verified, annual report timeline)"
+    },
+    {
+     "year": 2008,
+     "event": "Abhijeet group (Manoj Jayaswal) separates from Jayaswal Neco (reported)"
+    },
+    {
+     "year": 2023,
+     "event": "Basant Lall Shaw becomes Chairman Emeritus; Arvind Chairman, Ramesh MD (verified)"
+    },
+    {
+     "year": 2024,
+     "event": "CBI court convicts Ramesh Jayaswal in coal block case (Brinda, Sisai, Meral blocks of Abhijeet Infrastructure); 3 years and Rs 20 lakh fine (9 and 11 Dec) (verified)"
+    },
+    {
+     "year": 2025,
+     "event": "Delhi High Court suspends Ramesh Jayaswal's sentence (1 Aug) but did not stay the conviction (Feb); Manoj Jayaswal convicted in separate Mahuagarhi block case (June) (verified / reported)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Basant Lall Shaw",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Founder and Chairman Emeritus",
+     "certainty": "verified"
+    },
+    {
+     "name": "Arvind Jayaswal",
+     "generation": 2,
+     "parent": "Basant Lall Shaw",
+     "spouse": null,
+     "role": "Chairman, JNIL",
+     "certainty": "verified"
+    },
+    {
+     "name": "Ramesh Jayaswal",
+     "generation": 2,
+     "parent": "Basant Lall Shaw",
+     "spouse": null,
+     "role": "MD, JNIL; convicted Dec 2024 (sentence suspended, appeal pending)",
+     "certainty": "verified"
+    },
+    {
+     "name": "Manoj Jayaswal",
+     "generation": 2,
+     "parent": "Basant Lall Shaw",
+     "spouse": null,
+     "role": "Abhijeet group; convicted June 2025 in JICPL coal block case",
+     "certainty": "reported"
+    },
+    {
+     "name": "Anand Jayaswal",
+     "generation": 3,
+     "parent": "Arvind Jayaswal",
+     "spouse": null,
+     "role": "Director, JNIL",
+     "certainty": "verified"
+    },
+    {
+     "name": "Avneesh Jayaswal",
+     "generation": 3,
+     "parent": "Ramesh Jayaswal",
+     "spouse": null,
+     "role": "Executive Director, JNIL",
+     "certainty": "verified"
+    },
+    {
+     "name": "Abhishek Jayaswal",
+     "generation": 3,
+     "parent": "Manoj Jayaswal",
+     "spouse": null,
+     "role": "Co-MD, Abhijeet group; parent inferred",
+     "certainty": "inferred"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Jayaswal Neco Industries Ltd",
+     "listed": "yes",
+     "chain_stage": "iron ore and coal mining, pellets, DRI, blast furnace, steel making, alloy steel, castings",
+     "state": "Chhattisgarh (Siltara, Anjora), Maharashtra (Hingna, Nagpur)",
+     "ownership_note": "Flagship"
+    },
+    {
+     "name": "Neco Defence Systems Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "defence products",
+     "state": "Maharashtra",
+     "ownership_note": "Group related party"
+    },
+    {
+     "name": "Abhijeet group companies (Abhijeet Infrastructure, Corporate Power, JICPL)",
+     "listed": "no",
+     "chain_stage": "coal blocks, power, sponge iron",
+     "state": "Jharkhand, Maharashtra",
+     "ownership_note": "Manoj Jayaswal's separate group"
+    }
+   ],
+   "chain_summary": "Captive iron ore and coal (Chhattisgarh) -> pellets and DRI -> blast furnace hot metal -> alloy steel billets and bars (Siltara) -> castings (Nagpur, Durg).",
+   "splits_disputes": "2008 separation of Abhijeet group (reported). Coal-block cases: Ramesh Jayaswal convicted for Abhijeet Infrastructure allocation (JNIL says it is not connected); Manoj Jayaswal convicted June 2025 (JICPL, Mahuagarhi), discharged in a 2024 money-laundering case; CBI bank-fraud case on Corporate Power (2022).",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/addeec3e-f06d-49fd-a5fc-3605f61b9376.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d20f71c3-1555-4509-8282-427e459f4789.pdf",
+    "https://delhihighcourt.nic.in/app/showFileJudgment/59801082025CRLMA1852025_191621.pdf",
+    "https://www.dnaindia.com/india/report_dna-exclusive-abhijeet-group-got-five-coal-blocks-and-rs22000-cr-loans_1738938",
+    "https://thejharkhandstory.co.in/jicpl-director-convicted-in-jharkhand-coal-block-case-ex-coal-ministry-officials-acquitted/"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Viraj group (Kochhar family)",
+   "family": "Kochhar family (Viraj group)",
+   "display_name": "Kochhar family (Viraj Profiles): Neeraj Raja Kochhar",
+   "decision_office": "Mumbai / Tarapur (Palghar)",
+   "founder": {
+    "name": "Neeraj Raja Kochhar",
+    "year_founded": 1992,
+    "native_place": null
+   },
+   "head": {
+    "name": "Neeraj Raja Kochhar",
+    "role": "Chairman and Managing Director, Viraj Profiles"
+   },
+   "next_gen": [
+    {
+     "name": "Renu Kochhar",
+     "relation": "family member (reported as MD; exact tie not confirmed, likely wife, inferred)",
+     "runs": "Managing Director, Viraj Profiles (reported)",
+     "since": "joined 2001"
+    }
+   ],
+   "control_summary": "Closely held by Neeraj Kochhar and family; Viraj Profiles was converted from a public to a private limited company (Infomerics 2025).",
+   "background": "Neeraj Kochhar started a stainless steel billet melting unit, Viraj Alloys, in 1992, followed by Viraj Impoexpo (bright bars) and Viraj Forgings (flanges) in 1995 and Viraj Profiles (sections and profiles) in 2000. The businesses were consolidated at Tarapur MIDC, Boisar, into one of the world's larger integrated stainless long-product plants, heavily export-oriented. Viraj Impex, a sister trading entity, was downgraded by ICRA in March 2025.",
+   "milestones": [
+    {
+     "year": 1992,
+     "event": "Viraj Alloys stainless melting unit started (verified, Acuite)"
+    },
+    {
+     "year": 1996,
+     "event": "Viraj Profiles incorporated (verified, Acuite)"
+    },
+    {
+     "year": 2025,
+     "event": "ICRA downgrades Viraj Impex to BB (March) (reported)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Neeraj Raja Kochhar",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Founder, CMD",
+     "certainty": "verified"
+    },
+    {
+     "name": "Renu Kochhar",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "MD (reported)",
+     "certainty": "reported"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Viraj Profiles Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "stainless melt shop, rolling, wire, bars, fasteners, flanges, profiles",
+     "state": "Maharashtra (Tarapur, Palghar)",
+     "ownership_note": "Kochhar family"
+    },
+    {
+     "name": "Viraj Impex Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "trading",
+     "state": "Maharashtra",
+     "ownership_note": "Sister concern (link reported)"
+    }
+   ],
+   "chain_summary": "Stainless scrap and ferro alloys -> melt shop billets -> wire rod, bars, profiles -> wire, fasteners, flanges for export.",
+   "splits_disputes": "None found.",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.acuite.in/documents/ratings/revised/27610-RR-20200714.pdf",
+    "https://www.icra.in/Rating/GetRationalReportFilePdf?id=133825",
+    "https://www.tofler.in/viraj-profiles-limited/company/U28113MH1996PLC096835"
+   ],
+   "certainty": "reported"
+  },
+  {
+   "group": "Mahindra group (Mahindra Accelo)",
+   "family": null,
+   "display_name": "Mahindra group: Mahindra Accelo (steel service centre arm)",
+   "decision_office": "Mumbai",
+   "founder": null,
+   "head": {
+    "name": "Sumit Issar",
+    "role": "Managing Director, Mahindra Accelo (reported)"
+   },
+   "next_gen": [],
+   "control_summary": "Wholly owned by Mahindra & Mahindra (Anand Mahindra, Chairman; Mahindra family is promoter of M&M with a minority stake). Professionally managed.",
+   "background": "Formerly Mahindra Intertrade, it set up India's first independent steel service centre at Kanhe near Pune in 1993 and processes about 0.6-0.7 million tonnes of steel a year for auto and energy customers. It co-owns CERO, India's first authorised vehicle recycler, with MSTC (Government of India).",
+   "milestones": [
+    {
+     "year": 1993,
+     "event": "First independent steel service centre, Kanhe, Pune (reported)"
+    },
+    {
+     "year": 2018,
+     "event": "CERO vehicle-recycling JV with MSTC (reported)"
+    }
+   ],
+   "people": [],
+   "companies": [
+    {
+     "name": "Mahindra Accelo Ltd",
+     "listed": "no",
+     "chain_stage": "steel service centre, components",
+     "state": "Maharashtra and others",
+     "ownership_note": "100% M&M group"
+    },
+    {
+     "name": "Mahindra MSTC Recycling (CERO)",
+     "listed": "no",
+     "chain_stage": "vehicle recycling (scrap)",
+     "state": "Maharashtra, UP and others",
+     "ownership_note": "JV with MSTC"
+    }
+   ],
+   "chain_summary": "Hot and cold rolled coil from mills -> slitting, blanking, components -> auto OEMs; end-of-life vehicles -> scrap via CERO.",
+   "splits_disputes": null,
+   "marriage_clues": [],
+   "sources": [
+    "https://evreporter.com/mahindra-accelo-from-steel-trading-to-tier-0-5-supplier-to-automotive-and-energy-industry/",
+    "https://www.mahindra.com/news-room/press-release/en/cero-mahindra-mstc-recycling-pvt-ltd-is-indias-first-authorized-recycler-of-vehicles"
+   ],
+   "certainty": "reported"
+  },
+  {
+   "group": "CIE Automotive India (CIE Automotive SA)",
+   "family": null,
+   "display_name": "CIE Automotive India: controlled by CIE Automotive SA, Spain",
+   "decision_office": "Pune (parent in Bilbao, Spain)",
+   "founder": null,
+   "head": {
+    "name": "Ander Arenaza Alvarez",
+    "role": "Executive Director / CEO, CIE Automotive India"
+   },
+   "next_gen": [],
+   "control_summary": "CIE Automotive SA (Spain) is promoter and majority owner (exact percentage not re-checked). Mahindra & Mahindra exited the Indian company in May 2023 and was reclassified as public; its Mauritius arm sold its remaining stake in the Spanish parent in 2025-26 (reported). The Mahindra holding in the brief is therefore out of date.",
+   "background": "Formed in 2013-14 when Mahindra combined its forgings and components businesses (Mahindra Forgings, Mahindra Ugine, others) with CIE Automotive of Spain, as Mahindra CIE Automotive; renamed CIE Automotive India after Mahindra's exit. Plants in Pune, Chakan, Kanhe and Nashik make forgings, castings and stampings.",
+   "milestones": [
+    {
+     "year": 2013,
+     "event": "Mahindra-CIE combination (reported)"
+    },
+    {
+     "year": 2023,
+     "event": "M&M sells entire stake in the Indian company (May) (reported)"
+    },
+    {
+     "year": 2026,
+     "event": "M&M arm sells remaining stake in CIE Automotive SA (reported)"
+    }
+   ],
+   "people": [],
+   "companies": [
+    {
+     "name": "CIE Automotive India Ltd",
+     "listed": "yes",
+     "chain_stage": "forgings, castings, stampings",
+     "state": "Maharashtra and others; Mexico/Europe forgings",
+     "ownership_note": "CIE Automotive SA promoter"
+    }
+   ],
+   "chain_summary": "Special steel bars (from Indian mills) -> forgings and machined components -> auto OEMs.",
+   "splits_disputes": null,
+   "marriage_clues": [],
+   "sources": [
+    "https://www.autocarpro.in/news/mm-sells-entire-stake-in-mahindra-cie-automotive-for-rs-543-crore-115216",
+    "https://nsearchives.nseindia.com/corporate/CIEINDIA_23052024152155_CIEINDIA.pdf",
+    "https://www.angelone.in/news/stocks/mahindra-mahindra-share-price-in-focus-as-subsidiary-divests-remaining-stake-in-cie-automotive-for-126-million"
+   ],
+   "certainty": "reported"
+  }
+ ],
+ "links": [
+  {
+   "from_group": "JSW group (Sajjan Jindal)",
+   "to_group": "Jindal Steel group (Naveen Jindal)",
+   "type": "split",
+   "description": "2005 division of O.P. Jindal's group among four sons; Naveen holds Jindal Steel (ex-JSPL). Naveen Jindal holds 27,200 JSW Steel shares as promoter group.",
+   "source": "https://www.screener.in/company/JSWSTEEL/ (JSW Steel annual report 2024-25, BSE)",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "JSW group (Sajjan Jindal)",
+   "to_group": "Jindal Stainless group (Ratan Jindal)",
+   "type": "split",
+   "description": "Same 2005 division; Ratan Jindal's branch holds Jindal Stainless; Deepika Jindal (Ratan's wife) and JSL Overseas (0.86%) appear in JSW Steel's promoter group.",
+   "source": "https://www.screener.in/company/JSWSTEEL/ (JSW Steel annual report 2024-25, BSE)",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "JSW group (Sajjan Jindal)",
+   "to_group": "Jindal Saw group (P.R. Jindal)",
+   "type": "split",
+   "description": "Same 2005 division; Prithviraj Jindal's branch holds Jindal Saw; Arti Jindal appears in JSW Steel's promoter group; Nalwa Sons Investments 1.86%.",
+   "source": "https://www.screener.in/company/JSWSTEEL/ (JSW Steel annual report 2024-25, BSE)",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "JSW group (Sajjan Jindal)",
+   "to_group": "B.C. Jindal group (Jindal India)",
+   "type": "shared ancestry",
+   "description": "B.C. Jindal, founder of Jindal India (Kolkata), was O.P. Jindal's brother; separate groups since the founding generation; no cross-holding found.",
+   "source": "https://en.wikipedia.org/wiki/Devi_Sahai_Jindal",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "JSW group (Sajjan Jindal)",
+   "to_group": "Kanoria family (Kolkata)",
+   "type": "marriage",
+   "description": "Sangita Jindal (born Kanoria, daughter of Kailash Kumar Kanoria) married Sajjan Jindal c.1984.",
+   "source": "https://en.wikipedia.org/wiki/Sangita_Jindal",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "JSW group (Sajjan Jindal)",
+   "to_group": "Jasani family (Jasani Realty)",
+   "type": "marriage",
+   "description": "Parth Jindal married Anushree Jasani, daughter of Uday Jasani, 2016.",
+   "source": "https://weddingsutra.com/blog/wedding-makers-and-creme-de-la-creme-in-vienna-for-the-jindal-jasani-wedding",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "JSW group (Sajjan Jindal)",
+   "to_group": "Handa family (Epsilon Carbon)",
+   "type": "marriage",
+   "description": "Tarini Jindal married Vikram Handa (2010); he is reported as MD of Epsilon Carbon.",
+   "source": "https://blog.entitree.com/jindal-family-tree/",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "JSW group (Sajjan Jindal)",
+   "to_group": "Ovolo group (Jhunjhunwala family)",
+   "type": "marriage",
+   "description": "O.P. Jindal's daughter Sarika married Girish Jhunjhunwala of Ovolo hotels.",
+   "source": "https://wikibio.in/sarika-jhunjhunwala/",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Jindal Steel group (Naveen Jindal)",
+   "to_group": "Somany Impresa group",
+   "type": "marriage",
+   "description": "Naveen Jindal's daughter Yashaswini married Shashvat Somany, son of Sandeep Somany, Dec 2025.",
+   "source": "https://www.goodreturns.in/news/who-is-yashaswini-jindal-naveen-jindal-dance-in-daughter-wedding-ceremony-with-shashvat-somany-netwo-1474987.html",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "JSW group (Sajjan Jindal)",
+   "to_group": "JFE Steel (Japan)",
+   "type": "cross-holding",
+   "description": "JFE Steel International Europe holds 15.00% of JSW Steel; 50:50 ventures in electrical steel (Nashik) and BPSL.",
+   "source": "https://www.screener.in/company/JSWSTEEL/ (JSW Steel annual report 2024-25, BSE)",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "Aditya Birla Group (Hindalco)",
+   "to_group": "Essel Mining (Aditya Birla group)",
+   "type": "cross-holding",
+   "description": "Essel Mining (Kolkata) is the group's mining arm and, via IGH Holdings, a holder of shares in listed group companies.",
+   "source": "https://www.icra.in/Rating/GetRationalReportFilePdf?id=129573",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "Aditya Birla Group (Hindalco)",
+   "to_group": "Kasliwal family (S. Kumars, Indore)",
+   "type": "marriage",
+   "description": "Neerja Birla is the daughter of Shambhu Kumar Kasliwal, founder of S. Kumars; married Kumar Mangalam Birla 1989.",
+   "source": "https://wikibio.in/neerja-birla/",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Tata group (Tata Steel)",
+   "to_group": "Shapoorji Pallonji group",
+   "type": "marriage",
+   "description": "Noel Tata (Tata Trusts chairman) is married to Aloo Mistry, sister of Shapoor and the late Cyrus Mistry.",
+   "source": "https://www.theweek.in/news/biz-tech/2024/10/12/who-is-aloo-mistry-tata-chief-noel-tatas-wife-is-the-daughter-of-pallonji-mistry.html",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Tata group (Tata Steel)",
+   "to_group": "Shapoorji Pallonji group",
+   "type": "cross-holding",
+   "description": "SP group holds about 18.4% of Tata Sons; pushing for listing and partial exit (2026).",
+   "source": "https://businesstoday.in/latest/corporate/story/who-controls-tata-sons-why-tata-trusts-66-stake-does-not-tell-the-whole-story-557097-2026-09-22",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Tata group (Tata Steel)",
+   "to_group": "Shapoorji Pallonji group",
+   "type": "dispute",
+   "description": "Removal of Cyrus Mistry as Tata Sons chairman (2016), upheld 2021; Mehli Mistry voted out of Tata Trusts Oct 2025.",
+   "source": "https://www.businesstoday.in/latest/corporate/story/tata-trusts-tussle-majority-vote-for-removal-of-mehli-mistry-says-report-499814-2025-10-28",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Bajaj group (Mukand)",
+   "to_group": "Kalyani group",
+   "type": "cross-holding",
+   "description": "Hospet Steels Ltd is a Mukand joint venture; Kalyani Mukand Ltd is a related party of Mukand.",
+   "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/983adc09-5bee-4e4a-81c9-6a092e597b9b.pdf",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "Bajaj group (Mukand)",
+   "to_group": "Sumitomo Corporation",
+   "type": "cross-holding",
+   "description": "Sumitomo holds 49% of Mukand Sumi Special Steel; Jamnalal Sons and Baroda Industries 51%.",
+   "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/983adc09-5bee-4e4a-81c9-6a092e597b9b.pdf",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "Bajaj group (Mukand)",
+   "to_group": "Bajaj Auto / Bajaj Finserv (Rahul Bajaj line)",
+   "type": "shared ancestry",
+   "description": "Niraj Bajaj (Ramkrishna line) and Rahul Bajaj's sons Rajiv and Sanjiv (Kamalnayan line) descend from Jamnalal Bajaj; 2019 family settlement on joint ownership.",
+   "source": "https://www.businesstoday.in/magazine/cover-story/the-naya-bajaj/story/307498.html",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Kalyani group",
+   "to_group": "Kalyani Forge (G.N. Kalyani line)",
+   "type": "split",
+   "description": "Baba Kalyani's brother Gaurishankar runs listed Kalyani Forge (Rohini and Viraj Kalyani); separate from Bharat Forge.",
+   "source": "https://www.kalyaniforge.co.in/",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Kalyani group",
+   "to_group": "Hikal (Hiremath family)",
+   "type": "marriage",
+   "description": "Baba Kalyani's sister Sugandha married Jaidev Hiremath of Hikal.",
+   "source": "https://www.barandbench.com/news/litigation/supreme-court-appoints-retired-justice-l-nageswara-rao-as-mediator-in-1-lakh-crore-kalyani-family-feud",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Kalyani group",
+   "to_group": "Hikal (Hiremath family)",
+   "type": "dispute",
+   "description": "Suit on 1994 family arrangement over Hikal shares and HUF partition claims; Supreme Court mediation from July 2026.",
+   "source": "https://www.barandbench.com/news/litigation/supreme-court-appoints-retired-justice-l-nageswara-rao-as-mediator-in-1-lakh-crore-kalyani-family-feud",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Kirloskar group (Atul and Rahul Kirloskar)",
+   "to_group": "Kirloskar Brothers (Sanjay Kirloskar)",
+   "type": "dispute",
+   "description": "Brothers' dispute over 2009 deed of family settlement, trademark and SEBI disclosure.",
+   "source": "https://www.tribuneindia.com/news/business/kirloskar-family-feud-brothers-firms-spar-over-130-year-old-legacy-289064",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Kirloskar group (Atul and Rahul Kirloskar)",
+   "to_group": "Kirloskar Brothers (Sanjay Kirloskar)",
+   "type": "cross-holding",
+   "description": "Kirloskar Industries holds 23.91% of Kirloskar Brothers Ltd (no significant influence claimed).",
+   "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7cf10ac7-4cf3-41c3-8fd0-ff7dad5b5526.pdf",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "NECO group (Jayaswal family)",
+   "to_group": "Abhijeet group (Manoj Jayaswal)",
+   "type": "split",
+   "description": "Abhijeet group separated from Jayaswal Neco in 2008; Manoj Jayaswal reported as son of Basant Lall Shaw.",
+   "source": "https://www.dnaindia.com/india/report_dna-exclusive-abhijeet-group-got-five-coal-blocks-and-rs22000-cr-loans_1738938",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "NECO group (Jayaswal family)",
+   "to_group": "Abhijeet group (Manoj Jayaswal)",
+   "type": "dispute",
+   "description": "Coal-block cases: JNIL MD Ramesh Jayaswal convicted (Dec 2024) as then signatory of Abhijeet Infrastructure; Manoj convicted June 2025 (JICPL).",
+   "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d20f71c3-1555-4509-8282-427e459f4789.pdf",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "Lloyds group with Thriveni",
+   "to_group": "Thriveni Earthmovers (B. Prabhakaran)",
+   "type": "cross-holding",
+   "description": "Thriveni Earthmovers Pvt Ltd holds 17.77% of LMEL; LMEL holds 75.62% of Thriveni Earthmovers and Infra (MDO business).",
+   "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c69649dc-d183-4420-881a-2af285df6e9f.pdf",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "Mahindra group (Mahindra Accelo)",
+   "to_group": "CIE Automotive India (CIE Automotive SA)",
+   "type": "asset transfer",
+   "description": "Mahindra's forgings businesses went into Mahindra CIE (2013-14); Mahindra exited the Indian company in 2023 and the Spanish parent by 2026.",
+   "source": "https://www.autocarpro.in/news/mm-sells-entire-stake-in-mahindra-cie-automotive-for-rs-543-crore-115216",
+   "certainty": "reported"
+  }
+ ]
+}
