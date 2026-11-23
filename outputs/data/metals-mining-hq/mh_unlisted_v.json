@@ -1,0 +1,1043 @@
+[
+ {
+  "name": "JSW Steel Coated Products Ltd",
+  "segment": "Flat and coated steel (GI/GL, tinplate, colour coated)",
+  "revenue_inr_cr": 34491,
+  "revenue_year": "FY25 (FY24 34,137)",
+  "reg_office": "Mumbai, Maharashtra (JSW Centre, BKC; CIN U27100MH1985PLC037346, inferred address)",
+  "decision_office": "Mumbai, Maharashtra (JSW group HQ)",
+  "plants": [
+   {
+    "site": "Vasind, Thane",
+    "state": "Maharashtra",
+    "what": "Galvanising, colour coating"
+   },
+   {
+    "site": "Tarapur, Palghar",
+    "state": "Maharashtra",
+    "what": "Coated products, tinplate"
+   },
+   {
+    "site": "Kalmeshwar, Nagpur",
+    "state": "Maharashtra",
+    "what": "Coated products"
+   },
+   {
+    "site": "Khopoli, Raigad",
+    "state": "Maharashtra",
+    "what": "Coated products (merged unit)"
+   },
+   {
+    "site": "Bawal",
+    "state": "Haryana",
+    "what": "Coated products"
+   },
+   {
+    "site": "Rajpura",
+    "state": "Punjab",
+    "what": "Coated products"
+   },
+   {
+    "site": "Dhar",
+    "state": "Madhya Pradesh",
+    "what": "Coated products"
+   },
+   {
+    "site": "Pulwama",
+    "state": "Jammu and Kashmir",
+    "what": "Colour coating line commissioned Q4 FY25"
+   }
+  ],
+  "promoter_group": "JSW Group (Jindal family)",
+  "promoters": [
+   {
+    "name": "Sajjan Jindal",
+    "role": "Chairman, JSW Group (group context)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "JSW Steel Ltd",
+    "role_in_chain": "Parent (100%); supplies HRC and CRFH from Dolvi and Vijayanagar",
+    "listed": "yes"
+   },
+   {
+    "name": "Bhushan Power and Steel Ltd",
+    "role_in_chain": "Sister; HRC supply (Odisha)",
+    "listed": "no"
+   },
+   {
+    "name": "Amba River Coke Ltd",
+    "role_in_chain": "Sister; coke and pellets for Dolvi",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/41ae1634-a35c-4d8d-871e-664c79fac0bd.pdf"
+  ],
+  "certainty": "verified",
+  "notes": "Unlisted 100% subsidiary of listed JSW Steel; group context. GI/GL and tinplate capacity 5.26 MTPA, colour coating 2.37 MTPA (JSW Integrated Report 2024-25). Sales from JSW Steel to JSCPL Rs 19,209 cr FY25."
+ },
+ {
+  "name": "Amba River Coke Ltd",
+  "segment": "Coke oven and pellet plant (steel inputs)",
+  "revenue_inr_cr": 4132,
+  "revenue_year": "FY25 floor: JSW Steel purchases from ARCL (FY24 6,646); own revenue not disclosed",
+  "reg_office": "Maharashtra (inferred; Mumbai)",
+  "decision_office": "Mumbai, Maharashtra (JSW group HQ)",
+  "plants": [
+   {
+    "site": "Dolvi, Raigad",
+    "state": "Maharashtra",
+    "what": "1 MTPA coke oven, 4 MTPA pellet plant; supplies JSW Dolvi works"
+   }
+  ],
+  "promoter_group": "JSW Group (Jindal family)",
+  "promoters": [
+   {
+    "name": "Sajjan Jindal",
+    "role": "Chairman, JSW Group (group context)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "JSW Steel Ltd",
+    "role_in_chain": "Parent (100%) and main customer (Dolvi)",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/41ae1634-a35c-4d8d-871e-664c79fac0bd.pdf"
+  ],
+  "certainty": "verified",
+  "notes": "Revenue figure is a floor taken from JSW Steel related-party purchases; FY25 operating EBITDA Rs 389 cr, PAT Rs 217 cr. Much pellet output is job work (3.52 of 4.02 MnT)."
+ },
+ {
+  "name": "Western Coalfields Ltd (WCL)",
+  "segment": "Coal mining (central PSU)",
+  "revenue_inr_cr": 17492,
+  "revenue_year": "FY24 revenue from operations (FY25 PBT 4,376; FY25 revenue not found)",
+  "reg_office": "Nagpur, Maharashtra (CIN U10100MH1975GOI018626)",
+  "decision_office": "Nagpur, Maharashtra (Coal Estate, Civil Lines)",
+  "plants": [
+   {
+    "site": "Nagpur, Wardha, Chandrapur, Yavatmal coalfields",
+    "state": "Maharashtra",
+    "what": "Opencast and underground coal mines"
+   },
+   {
+    "site": "Pench-Kanhan, Pathakhera areas",
+    "state": "Madhya Pradesh",
+    "what": "Coal mines"
+   }
+  ],
+  "promoter_group": "Government of India via Coal India Ltd",
+  "promoters": [],
+  "group_companies": [
+   {
+    "name": "Coal India Ltd",
+    "role_in_chain": "Parent (100%)",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://d3u7ubx0okog7j.cloudfront.net/documents/WCL_Annual_Report_2024_-_Website_Version.pdf",
+   "https://theprint.in/economy/cil-subsidiary-western-coalfields-reports-rs-4375-5-cr-profit-before-tax-in-fy25/2647393"
+  ],
+  "certainty": "reported",
+  "notes": "FY24 figure is from the WCL annual report as quoted in search results; host blocked, not read directly. Gross revenue FY24 Rs 23,281 cr."
+ },
+ {
+  "name": "IREL (India) Ltd",
+  "segment": "Mineral sands and rare earths mining and processing (central PSU)",
+  "revenue_inr_cr": 2000,
+  "revenue_year": "FY26 total income 'above Rs 2,000 cr' (FY22 sales 1,462)",
+  "reg_office": "Mumbai, Maharashtra (Prabhadevi; CIN U15100MH1950GOI008187)",
+  "decision_office": "Mumbai, Maharashtra",
+  "plants": [
+   {
+    "site": "Chavara",
+    "state": "Kerala",
+    "what": "Mineral sands"
+   },
+   {
+    "site": "Manavalakurichi",
+    "state": "Tamil Nadu",
+    "what": "Mineral sands"
+   },
+   {
+    "site": "Chatrapur (OSCOM)",
+    "state": "Odisha",
+    "what": "Mineral sands"
+   },
+   {
+    "site": "Aluva",
+    "state": "Kerala",
+    "what": "Rare earths"
+   },
+   {
+    "site": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "what": "Rare earth permanent magnet plant"
+   }
+  ],
+  "promoter_group": "Government of India (Department of Atomic Energy)",
+  "promoters": [],
+  "group_companies": [],
+  "sources": [
+   "https://www.psuconnect.in/financial/irel-pays-221-23-crore-dividend-to-dae-after-record-production-in-fy-2025-26",
+   "https://www.registerkaro.in/company/irel-india-limited-U15100MH1950GOI008187"
+  ],
+  "certainty": "reported",
+  "notes": "FY25 turnover not found; plant list from general knowledge (inferred). No Maharashtra plant."
+ },
+ {
+  "name": "POSCO Maharashtra Steel Pvt Ltd",
+  "segment": "Cold rolled, galvanised, galvannealed and CRNO steel",
+  "revenue_inr_cr": 11499,
+  "revenue_year": "FY24 total revenue (aggregator); CRISIL: about 11,500 FY22",
+  "reg_office": "Mangaon, Raigad, Maharashtra (per aggregator; CIN U27100MH2009PTC190873)",
+  "decision_office": "Raigad, Maharashtra (plant-cum-office); strategic control POSCO, Korea (inferred)",
+  "plants": [
+   {
+    "site": "Vile Bhagad MIDC, Mangaon, Raigad",
+    "state": "Maharashtra",
+    "what": "1.8 MTPA CR mill, 0.45 MTPA coated steel"
+   }
+  ],
+  "promoter_group": "POSCO (Korea)",
+  "promoters": [],
+  "group_companies": [
+   {
+    "name": "POSCO Holdings / POSCO",
+    "role_in_chain": "Parent (100%)",
+    "listed": "yes (Korea, not India)"
+   },
+   {
+    "name": "POSCO-India Pune Processing Center Pvt Ltd",
+    "role_in_chain": "Downstream service centre, Pune",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/PoscoMaharashtraSteelPrivateLimited_July%2015,%202022_RR_296753.html",
+   "https://www.tofler.in/company/U27100MH2009PTC190873/vitals"
+  ],
+  "certainty": "reported",
+  "notes": "CRISIL ratings withdrawn July 2022; FY24 figure from Tofler only. Plant is at Vile Bhagad (Mangaon), not Taloja."
+ },
+ {
+  "name": "Viraj Profiles Pvt Ltd",
+  "segment": "Stainless steel long products (wire rod, bars, wire, fasteners, flanges, pipes)",
+  "revenue_inr_cr": 8576,
+  "revenue_year": "FY24 (FY23 8,539; 9MFY25 6,294)",
+  "reg_office": "Conflicting: Tarapur MIDC, Boisar, Maharashtra (old CIN U28113MH1996PLC096835) vs Surat, Gujarat (CIN U28113GJ1996PTC151710)",
+  "decision_office": "Tarapur-Boisar / Mumbai, Maharashtra (inferred)",
+  "plants": [
+   {
+    "site": "Tarapur MIDC, Boisar, Palghar",
+    "state": "Maharashtra",
+    "what": "Integrated stainless steel melt shop, rolling, wire, fasteners, flanges, seamless pipe"
+   }
+  ],
+  "promoter_group": "Kochhar family (Viraj group)",
+  "promoters": [
+   {
+    "name": "Neeraj Kochhar",
+    "role": "Chairman and Managing Director"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Viraj Impex Pvt Ltd",
+    "role_in_chain": "Sister; trading entity (ICRA downgraded Mar 2025)",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.infomerics.com/admin/uploads/pr-viraj-profiles-5mar25.pdf",
+   "https://www.icra.in/Rating/GetRationalReportFilePdf?id=133825",
+   "https://qorpiq.com/company/viraj-profiles-private-limited/U28113GJ1996PTC151710",
+   "https://www.prnewswire.com/in/news-releases/viraj-profiles-signs-mou-with-the-ministry-of-steel-under-pli-scheme-commits-inr-280-crore-to-advance-speciality-stainless-steel-manufacturing-302686128.html"
+  ],
+  "certainty": "reported",
+  "notes": "Revenue from Infomerics rationale as quoted in search (Infomerics PDF host blocked). Registered office appears to have moved to Surat, Gujarat (ROC Ahmedabad); plant and operations remain in Palghar. PLI specialty steel MoU (Rs 280 cr). About 90% exports."
+ },
+ {
+  "name": "Evonith Value Steel Ltd (with Evonith Metallics Ltd)",
+  "segment": "Integrated flat steel (hot metal, HRC, CRC, galvanised)",
+  "revenue_inr_cr": 5008,
+  "revenue_year": "FY25 group consolidated (FY24 5,167; 11MFY26 5,959)",
+  "reg_office": "Wardha, Maharashtra (inferred)",
+  "decision_office": "Mumbai / Wardha, Maharashtra (inferred)",
+  "plants": [
+   {
+    "site": "Bhugaon, Wardha",
+    "state": "Maharashtra",
+    "what": "Blast furnaces 1.4 MTPA hot metal (EML); downstream flat steel, HRC/CRC/GP (EVSL)"
+   }
+  ],
+  "promoter_group": "Nithia Capital",
+  "promoters": [
+   {
+    "name": "Jai Saraf",
+    "role": "Founder, Nithia Capital"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Evonith Metallics Ltd",
+    "role_in_chain": "Upstream; hot metal and pig iron (ex-Uttam Galva Metallics)",
+    "listed": "no"
+   },
+   {
+    "name": "Evonith Value Steel Ltd",
+    "role_in_chain": "Downstream; flat products (ex-Uttam Value Steels)",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/EvonithValueSteelLimited_May%2006_%202026_RR_394205.html",
+   "https://www.careratings.com/upload/CompanyFiles/PR/202411141147_Evonith_Value_Steel_Limited.pdf"
+  ],
+  "certainty": "verified",
+  "notes": "Ex-Uttam Galva group Wardha assets bought via NCLT Dec 2020 by Nithia and CarVal (CarVal has exited). CRISIL AA-/Stable (May 2026). Decision office not confirmed."
+ },
+ {
+  "name": "Mahindra Accelo Ltd",
+  "segment": "Steel processing and service centres, auto components",
+  "revenue_inr_cr": 5083,
+  "revenue_year": "FY25 (FY26 more than 6,000)",
+  "reg_office": "Mumbai, Maharashtra (inferred)",
+  "decision_office": "Mumbai, Maharashtra",
+  "plants": [
+   {
+    "site": "Multiple service centres incl. Pune, Nashik and Nagpur area",
+    "state": "Maharashtra",
+    "what": "Steel processing, auto components (site list inferred)"
+   }
+  ],
+  "promoter_group": "Mahindra Group",
+  "promoters": [],
+  "group_companies": [
+   {
+    "name": "Mahindra & Mahindra Ltd",
+    "role_in_chain": "Parent",
+    "listed": "yes"
+   },
+   {
+    "name": "CERO Recycling",
+    "role_in_chain": "Vehicle recycling (scrap)",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.mahindra.com/annual-report-FY2025/40/",
+   "https://maccelo-webappdev01.azurewebsites.net/investor-relation/annual-report-fy25/message-from-md.php"
+  ],
+  "certainty": "reported",
+  "notes": "Subsidiary of listed M&M. Revenue includes non-steel auto components."
+ },
+ {
+  "name": "Tata BlueScope Steel Pvt Ltd (now Tata Steel Colors)",
+  "segment": "Coated and colour coated steel, building products",
+  "revenue_inr_cr": 4269,
+  "revenue_year": "FY25 total revenue (aggregator)",
+  "reg_office": "Pune, Maharashtra (CIN U45209PN2005PTC020270)",
+  "decision_office": "Pune, Maharashtra",
+  "plants": [
+   {
+    "site": "Jamshedpur",
+    "state": "Jharkhand",
+    "what": "Metallic coating and painting line (inferred)"
+   },
+   {
+    "site": "Multiple roll-forming sites incl. Pune",
+    "state": "Maharashtra and others",
+    "what": "Building products (inferred)"
+   }
+  ],
+  "promoter_group": "Tata Group",
+  "promoters": [],
+  "group_companies": [
+   {
+    "name": "Tata Steel Ltd",
+    "role_in_chain": "Parent; now 100% after buying BlueScope's 50%",
+    "listed": "yes"
+   },
+   {
+    "name": "BlueScope Steel Ltd",
+    "role_in_chain": "Former 50% JV partner (exited)",
+    "listed": "yes (Australia)"
+   }
+  ],
+  "sources": [
+   "https://tofler.in/company/U45209PN2005PTC020270/vitals",
+   "https://www.capitalbrief.com/briefing/bluescope-to-sell-50-stake-in-tata-bluescope-steel-for-179m-aaa3d7a6-2c18-41f7-a823-9bb3a2e66447/",
+   "https://www.tatasteel.com/investors/integrated-report-2025-26/financial-capital.html"
+  ],
+  "certainty": "reported",
+  "notes": "Now Tata Steel's wholly owned subsidiary; renamed Tata Steel Colors per Tata Steel IR 2025-26. Decision making may shift to Tata Steel (Mumbai or Jamshedpur)."
+ },
+ {
+  "name": "Mukand Sumi Special Steel Ltd (MSSSL)",
+  "segment": "Alloy and special steel long products (rolling and finishing)",
+  "revenue_inr_cr": 2837,
+  "revenue_year": "FY24 (FY23 2,977)",
+  "reg_office": "Maharashtra (inferred, Mumbai)",
+  "decision_office": "Mumbai, Maharashtra (Bajaj group, inferred)",
+  "plants": [
+   {
+    "site": "Ginigera, Hospet",
+    "state": "Karnataka",
+    "what": "Rolling mill and finishing; 0.4 MTPA greenfield melt shop planned FY26-FY28"
+   }
+  ],
+  "promoter_group": "Bajaj Group (Jamnalal Sons) 51% and Sumitomo Corporation 49%",
+  "promoters": [],
+  "group_companies": [
+   {
+    "name": "Jamnalal Sons Pvt Ltd",
+    "role_in_chain": "Promoter (49.71%)",
+    "listed": "no"
+   },
+   {
+    "name": "Baroda Industries Pvt Ltd",
+    "role_in_chain": "Promoter (1.29%)",
+    "listed": "no"
+   },
+   {
+    "name": "Mukand Ltd",
+    "role_in_chain": "Former parent of alloy steel business",
+    "listed": "yes"
+   },
+   {
+    "name": "Bajaj Auto Ltd",
+    "role_in_chain": "Group company and customer (auto)",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.icra.in/Rating/GetRationalReportFilePdf?id=134850"
+  ],
+  "certainty": "verified",
+  "notes": "Plant is in Karnataka; decision office in Maharashtra not confirmed in the ICRA text. ICRA A (Stable), April 2025."
+ },
+ {
+  "name": "SRJ Peety Steels Pvt Ltd",
+  "segment": "Secondary steel: MS billets, TMT bars",
+  "revenue_inr_cr": 2507,
+  "revenue_year": "FY25 derived (SRJ group 3,034 less SRJ Strips 527); group FY24 2,275",
+  "reg_office": "D-51/1 Additional MIDC, Jalna, Maharashtra",
+  "decision_office": "Jalna, Maharashtra",
+  "plants": [
+   {
+    "site": "Additional MIDC, Jalna",
+    "state": "Maharashtra",
+    "what": "5,00,000 MTPA billets and 5,00,000 MTPA TMT"
+   }
+  ],
+  "promoter_group": "Peety family (SRJ group)",
+  "promoters": [
+   {
+    "name": "Surendra Shantilal Peety",
+    "role": "Managing Director (aggregator)"
+   },
+   {
+    "name": "Jitendra Shantilal Peety",
+    "role": "Whole-time Director (status unclear)"
+   },
+   {
+    "name": "Ravindra Shantilal Peety",
+    "role": "Whole-time Director (status unclear)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "SRJ Strips and Pipes Pvt Ltd",
+    "role_in_chain": "Downstream: billets, TMT, strips, MS pipes, Jalna",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.careratings.com/upload/CompanyFiles/PR/202511141127_SRJ_Strips_And_Pipes_Private_Limited.pdf",
+   "https://www.icra.in/Rating/GetRationalReportFilePdf?id=128809",
+   "https://www.tofler.in/s-r-j-peety-steels-private-limited/company/U27300MH1985PTC035293/directors"
+  ],
+  "certainty": "verified",
+  "notes": "Standalone figure is derived from CARE group numbers (interpretation). Receives Maharashtra Industrial Promotion Subsidy since FY15: Rs 278 cr received till Mar 2025 against Rs 545 cr investment (D+ zone)."
+ },
+ {
+  "name": "Kalyani Technoforge Ltd (KTFL)",
+  "segment": "Forgings and machined components (auto, industrial)",
+  "revenue_inr_cr": 2091,
+  "revenue_year": "FY24 total revenue (net sales 1,936; H1FY25 1,269)",
+  "reg_office": "Pune, Maharashtra (inferred)",
+  "decision_office": "Pune, Maharashtra",
+  "plants": [
+   {
+    "site": "Six or seven plants in Pune region",
+    "state": "Maharashtra",
+    "what": "Forging (over 60,000 t) and machining"
+   },
+   {
+    "site": "Bhiwadi",
+    "state": "Rajasthan",
+    "what": "Forging and machining"
+   }
+  ],
+  "promoter_group": "Kalyani Group (Baba Kalyani)",
+  "promoters": [
+   {
+    "name": "Baba N. Kalyani",
+    "role": "Promoter"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Bharat Forge Ltd",
+    "role_in_chain": "Group flagship (forgings)",
+    "listed": "yes"
+   },
+   {
+    "name": "Saarloha Advanced Materials Pvt Ltd",
+    "role_in_chain": "Group steel maker",
+    "listed": "no"
+   },
+   {
+    "name": "Kalyani Steels Ltd",
+    "role_in_chain": "Group steel maker",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.careratings.com/upload/CompanyFiles/PR/202411141127_Kalyani_Technoforge_Limited.pdf"
+  ],
+  "certainty": "verified",
+  "notes": "100% held by promoter investment companies. About 46% exports, about 90% auto. Capex about Rs 1,500 cr planned in FY25."
+ },
+ {
+  "name": "Saarloha Advanced Materials Pvt Ltd",
+  "segment": "Special and alloy steel (forging quality, tool and die, valve, stainless)",
+  "revenue_inr_cr": 1900,
+  "revenue_year": "FY25 (FY24 1,925)",
+  "reg_office": "Pune, Maharashtra (inferred)",
+  "decision_office": "Pune, Maharashtra",
+  "plants": [
+   {
+    "site": "Mundhwa, Pune",
+    "state": "Maharashtra",
+    "what": "Steel melting and rolling, 2,04,000 MTPA"
+   },
+   {
+    "site": "Ranjangaon, Pune",
+    "state": "Maharashtra",
+    "what": "Valve steel finishing, 5,000 MTPA"
+   },
+   {
+    "site": "Group captive solar",
+    "state": "Not stated",
+    "what": "74 MW"
+   }
+  ],
+  "promoter_group": "Kalyani Group",
+  "promoters": [],
+  "group_companies": [
+   {
+    "name": "Bharat Forge Ltd",
+    "role_in_chain": "Main customer (about 70% of revenue); downstream forging",
+    "listed": "yes"
+   },
+   {
+    "name": "Kalyani Steels Ltd",
+    "role_in_chain": "Group steel",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.icra.in/Rating/GetRationalReportFilePdf?id=136836"
+  ],
+  "certainty": "verified",
+  "notes": "Former JV with Carpenter Technology; Kalyani bought out in FY2016. ICRA AA- (Stable), July 2025."
+ },
+ {
+  "name": "Bhagyalaxmi Rolling Mill Pvt Ltd",
+  "segment": "Secondary steel: MS billets, TMT bars",
+  "revenue_inr_cr": 1738,
+  "revenue_year": "FY25 (FY26 provisional 2,522; FY24 1,562)",
+  "reg_office": "Daregaon, Jalna, Maharashtra (CIN U27100MH2004PTC148074)",
+  "decision_office": "Jalna, Maharashtra",
+  "plants": [
+   {
+    "site": "Gut No. 30, Daregaon, near Jalna MIDC",
+    "state": "Maharashtra",
+    "what": "5,86,000 MTPA billets and 5,86,000 MTPA TMT"
+   }
+  ],
+  "promoter_group": "Not confirmed (Jalna promoters)",
+  "promoters": [
+   {
+    "name": "Vishal Kashmirilal Agrawal",
+    "role": "Director (aggregator, unverified)"
+   },
+   {
+    "name": "Nitin Rambilas Kabra",
+    "role": "Director (aggregator, unverified)"
+   },
+   {
+    "name": "Ram Mohanlal Gandhi",
+    "role": "Managing Director (trade listing, unverified)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Bhagyalaxmi Steel Alloy Pvt Ltd",
+    "role_in_chain": "Possible sister (similar CIN), unconfirmed",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://infomericstorage.blob.core.windows.net/uploads/Pr_Bhagyalaxmi_Rolling_Mill28_Jul26_ac17f22abe.pdf",
+   "https://infomericstorage.blob.core.windows.net/uploads/pr_bhagyalaxmi_rollingmill_22may25_bc8e159e61.pdf",
+   "https://www.mpcb.gov.in/sites/default/files/public_hearing/exe_summary/2022-05/Exe.%20Summary%20English.pdf"
+  ],
+  "certainty": "reported",
+  "notes": "Infomerics IVR A-/Stable (July 2026). Figures read through search snippets; the Infomerics host is blocked here. Promoter names not confirmed."
+ },
+ {
+  "name": "Om Sairam Steels and Alloys Pvt Ltd (Om Sairam group)",
+  "segment": "Secondary steel: billets, TMT; sponge iron via subsidiary",
+  "revenue_inr_cr": 1524,
+  "revenue_year": "FY24 provisional, group (FY23 1,496)",
+  "reg_office": "Jalna, Maharashtra (CIN U27100MH2003PTC141764)",
+  "decision_office": "Jalna, Maharashtra",
+  "plants": [
+   {
+    "site": "Jalna",
+    "state": "Maharashtra",
+    "what": "5 lakh TPA billets, 5.5 lakh TPA TMT"
+   },
+   {
+    "site": "Chandrapur",
+    "state": "Maharashtra",
+    "what": "Sponge iron and power (Sanvijay Alloys and Power Ltd)"
+   },
+   {
+    "site": "Acquired thermal plant",
+    "state": "Not stated",
+    "what": "40 MW power plant bought FY24"
+   }
+  ],
+  "promoter_group": "Bharuka family",
+  "promoters": [
+   {
+    "name": "Rajendra Satyanarayan Bharuka",
+    "role": "Promoter director"
+   },
+   {
+    "name": "Dinesh Satyanarayan Bharuka",
+    "role": "Promoter director"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Sanvijay Alloys and Power Ltd",
+    "role_in_chain": "Upstream subsidiary; sponge iron and power, Chandrapur (acquired FY23)",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.acuite.in/documents/ratings/revised/28663-RR-20240603.pdf"
+  ],
+  "certainty": "verified",
+  "notes": "Acuite A-/Stable. Sponge iron capex under way at SAPL."
+ },
+ {
+  "name": "Kalika Steel Alloys Pvt Ltd (Kalika group)",
+  "segment": "Secondary steel: MS billets, TMT bars (brand Kalika)",
+  "revenue_inr_cr": 1457,
+  "revenue_year": "FY25 (FY24 1,368; FY23 1,598)",
+  "reg_office": "Jalna, Maharashtra",
+  "decision_office": "Jalna, Maharashtra",
+  "plants": [
+   {
+    "site": "Jalna",
+    "state": "Maharashtra",
+    "what": "Billets and TMT"
+   }
+  ],
+  "promoter_group": "Kalika group (Goyal, Agrawal and Jindal families)",
+  "promoters": [
+   {
+    "name": "Ghanshyam Goyal",
+    "role": "Director, manages company"
+   },
+   {
+    "name": "Arun Agrawal",
+    "role": "Director"
+   },
+   {
+    "name": "Anil Goyal",
+    "role": "Shareholder"
+   },
+   {
+    "name": "Manoj Jindal",
+    "role": "Shareholder"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Kalika Steel Jalna Pvt Ltd",
+    "role_in_chain": "Sister; billets and TMT nearby",
+    "listed": "no"
+   },
+   {
+    "name": "Giriraj Rerolls Pvt Ltd",
+    "role_in_chain": "Promoter company; MS bars, scrap",
+    "listed": "no"
+   },
+   {
+    "name": "Bhoomi Rerolls Pvt Ltd",
+    "role_in_chain": "Promoter company; rerolling",
+    "listed": "no"
+   },
+   {
+    "name": "Sagar Paridhan Pvt Ltd",
+    "role_in_chain": "Non-metal (textile trading)",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.careratings.com/upload/CompanyFiles/PR/202604130436_Kalika_Steel_Alloys_Private_Limited.pdf",
+   "https://www.infomerics.com/admin/uploads/pr-Kalika-SteelAlloys-29apr24.pdf"
+  ],
+  "certainty": "verified",
+  "notes": "CARE rating withdrawn April 2026 (was BB-, issuer not cooperating). Revenue is standalone; group total higher."
+ },
+ {
+  "name": "thyssenkrupp Electrical Steel India Pvt Ltd (now JSW JFE Electrical Steel Nashik)",
+  "segment": "CRGO electrical steel",
+  "revenue_inr_cr": 1271,
+  "revenue_year": "FY24",
+  "reg_office": "Maharashtra (CIN U27100MH2000PTC127807)",
+  "decision_office": "Nashik / Mumbai, Maharashtra (inferred)",
+  "plants": [
+   {
+    "site": "Nashik",
+    "state": "Maharashtra",
+    "what": "CRGO electrical steel processing"
+   }
+  ],
+  "promoter_group": "JSW Steel and JFE Steel JV (since 2025)",
+  "promoters": [],
+  "group_companies": [
+   {
+    "name": "JSW Steel Ltd",
+    "role_in_chain": "JV owner",
+    "listed": "yes"
+   },
+   {
+    "name": "JFE Steel Corp",
+    "role_in_chain": "JV owner",
+    "listed": "yes (Japan)"
+   },
+   {
+    "name": "thyssenkrupp",
+    "role_in_chain": "Former owner (sold for about Rs 4,051 cr)",
+    "listed": "yes (Germany)"
+   }
+  ],
+  "sources": [
+   "https://www.thyssenkrupp-steel.com/en/newsroom/press-releases/sale-of-thyssenkrupps-indian-electrical-steel-business-completed.html",
+   "https://businesstoday.in/latest/corporate/story/jsw-steel-japans-jfe-steel-to-acquire-thyssenkrupp-electrical-steel-india-for-rs-4051-crore-450704-2024-10-18"
+  ],
+  "certainty": "reported",
+  "notes": "Buyer vehicle named in press as Jsquare Electrical Steel Nashik. About 500 staff."
+ },
+ {
+  "name": "Rajuri Steels and TMT Bars Pvt Ltd",
+  "segment": "Secondary steel: billets, TMT bars",
+  "revenue_inr_cr": 1152,
+  "revenue_year": "FY24 (FY23 934)",
+  "reg_office": "Jalna, Maharashtra (CIN U27300MH2004PTC147506)",
+  "decision_office": "Jalna, Maharashtra",
+  "plants": [
+   {
+    "site": "Jalna",
+    "state": "Maharashtra",
+    "what": "3,30,000 MTPA TMT, 1,86,000 MTPA billets (Dec 2024); TMT expansion under way"
+   }
+  ],
+  "promoter_group": "Loya and associated Jalna families",
+  "promoters": [
+   {
+    "name": "Kailash Loya",
+    "role": "Managing Director"
+   },
+   {
+    "name": "Santosh Mundada",
+    "role": "Director"
+   },
+   {
+    "name": "Shivkumar Lohiya",
+    "role": "Director"
+   },
+   {
+    "name": "Purushottam Toshniwal",
+    "role": "Director"
+   },
+   {
+    "name": "Vijay Bharadiya",
+    "role": "Director"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Rathi Steel and Metal Pvt Ltd (formerly Rajuri Steels Pvt Ltd)",
+    "role_in_chain": "Possible related Jalna steel company, unconfirmed",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.acuite.in/documents/ratings/revised/29581-RR-20250117.pdf"
+  ],
+  "certainty": "verified",
+  "notes": "Acuite BB+/Stable, Jan 2025. Expansion eligible for Industrial Promotion Subsidy and electricity duty exemption."
+ },
+ {
+  "name": "Sound Castings Pvt Ltd",
+  "segment": "Iron castings (foundry)",
+  "revenue_inr_cr": 1000,
+  "revenue_year": "Company claim 'exceeding Rs 1,000 cr' (year not stated)",
+  "reg_office": "Kolhapur, Maharashtra (inferred)",
+  "decision_office": "Kolhapur, Maharashtra",
+  "plants": [
+   {
+    "site": "Kolhapur",
+    "state": "Maharashtra",
+    "what": "Iron foundry"
+   }
+  ],
+  "promoter_group": "Not confirmed",
+  "promoters": [],
+  "group_companies": [],
+  "sources": [
+   "https://www.soundcastings.com/"
+  ],
+  "certainty": "reported",
+  "notes": "Company website claim only. No rating rationale found. Needs checking."
+ },
+ {
+  "name": "SRJ Strips and Pipes Pvt Ltd",
+  "segment": "Billets, TMT, strips, MS pipes",
+  "revenue_inr_cr": 527,
+  "revenue_year": "FY25 (H1FY26 420)",
+  "reg_office": "Jalna, Maharashtra",
+  "decision_office": "Jalna, Maharashtra",
+  "plants": [
+   {
+    "site": "Jalna",
+    "state": "Maharashtra",
+    "what": "2,00,000 MTPA billets and TMT, 60,000 MTPA pipes; operations began 2024"
+   }
+  ],
+  "promoter_group": "Peety family (SRJ group)",
+  "promoters": [],
+  "group_companies": [
+   {
+    "name": "SRJ Peety Steels Pvt Ltd",
+    "role_in_chain": "Flagship sister; gives corporate guarantee",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.careratings.com/upload/CompanyFiles/PR/202511141127_SRJ_Strips_And_Pipes_Private_Limited.pdf"
+  ],
+  "certainty": "verified",
+  "notes": "CARE BBB+/Stable, Nov 2025. Group entity; same group as SRJ Peety."
+ },
+ {
+  "near_miss": [
+   {
+    "name": "Sanyo Special Steel Manufacturing India Pvt Ltd (ex-Mahindra Sanyo)",
+    "segment": "Special/alloy steel bars",
+    "revenue_inr_cr": null,
+    "revenue_year": "FY23 band 'over 500' (Tofler); FY25 -1.65% (EMIS)",
+    "decision_office": "Khopoli, Raigad, Maharashtra",
+    "certainty": "reported",
+    "notes": "Likely qualifies; Japanese-owned (Nippon Steel group); no rating found",
+    "sources": [
+     "https://tofler.in/mahindra-sanyo-special-steel-private-limited/company/U27310MH2011PTC223696"
+    ]
+   },
+   {
+    "name": "Gajkesari Steels and Alloys Pvt Ltd",
+    "segment": "Secondary steel / TMT, Jalna",
+    "revenue_inr_cr": null,
+    "revenue_year": "FY22 band 'over 500' (Tofler)",
+    "decision_office": "Jalna, Maharashtra",
+    "certainty": "reported",
+    "notes": "Likely qualifies; directors include Ankush Ashok Agrawal and Shubham Anil Jindal (aggregator); sister Gajkesari Sponge and Power Pvt Ltd (2022); no rating found",
+    "sources": [
+     "https://www.tofler.in/gajkesari-steels-and-alloys-private-limited/company/U27100MH2004PTC144222"
+    ]
+   },
+   {
+    "name": "POSCO-India Pune Processing Center Pvt Ltd",
+    "segment": "Steel service centre",
+    "revenue_inr_cr": null,
+    "revenue_year": "FY23 band 'over 500'",
+    "decision_office": "Pune, Maharashtra",
+    "certainty": "reported",
+    "sources": [
+     "https://tofler.in/posco--india-pune-processing-center-private-limited/company/U27107PN2005PTC021580"
+    ]
+   },
+   {
+    "name": "Gopani Iron and Power (India) Pvt Ltd",
+    "segment": "Sponge iron/steel, Tadali, Chandrapur",
+    "revenue_inr_cr": null,
+    "revenue_year": "band 'over 500' (year unclear)",
+    "decision_office": "Chandrapur, Maharashtra",
+    "certainty": "reported",
+    "sources": [
+     "https://www.tofler.in/gopani-iron-and-power-india-private-limited/company/U74300MH1988PTC046932"
+    ]
+   },
+   {
+    "name": "Mineral Exploration and Consultancy Ltd (MECL)",
+    "segment": "Mineral exploration (central PSU)",
+    "revenue_inr_cr": null,
+    "revenue_year": "not found (EMIS: +17% in 2025)",
+    "decision_office": "Nagpur, Maharashtra",
+    "certainty": "inferred",
+    "notes": "Revenue not confirmed; may be near or above 500 cr. Exploration services, not a mine operator",
+    "sources": [
+     "https://www.emis.com/php/company-profile/IN/Mineral_Exploration_And_Consultancy_Limited_en_2382637.html"
+    ]
+   },
+   {
+    "name": "Shreejee Structural Steel Pvt Ltd",
+    "segment": "Structural steel trading/processing",
+    "revenue_inr_cr": 427,
+    "revenue_year": "latest year in CARE table",
+    "decision_office": "Masjid, Mumbai (warehouse Kalamboli)",
+    "certainty": "verified",
+    "sources": [
+     "https://www.careratings.com/upload/CompanyFiles/PR/202504120413_Shreejee_Structural_Steel_Private_Limited.pdf"
+    ]
+   },
+   {
+    "name": "Topworth Steels and Power Pvt Ltd",
+    "segment": "DRI/steel; Topworth group",
+    "revenue_inr_cr": 696,
+    "revenue_year": "ICRA table (standalone; group about 2,996)",
+    "decision_office": "Registered at Worli, Mumbai, but group now run by Kolkata-based Atha and Misra groups",
+    "certainty": "verified",
+    "notes": "Excluded: decision office is Kolkata; plants not in Maharashtra",
+    "sources": [
+     "https://www.icra.in/Rating/GetRationalReportFilePdf?id=139247"
+    ]
+   },
+   {
+    "name": "Chandan Steel Ltd",
+    "segment": "Stainless steel (Umbergaon, Gujarat plant)",
+    "revenue_inr_cr": null,
+    "revenue_year": "not found",
+    "decision_office": "Mumbai (inferred)",
+    "certainty": "inferred",
+    "notes": "Promoted by Chunilal Chandan; Infomerics rated; revenue not found",
+    "sources": [
+     "https://www.infomerics.com/admin/uploads/PressRelease-CSL-27mar25.pdf"
+    ]
+   },
+   {
+    "name": "Mahalaxmi Dhatu Udhyog Pvt Ltd",
+    "segment": "Steel angles, Butibori Nagpur",
+    "revenue_inr_cr": 100.5,
+    "revenue_year": "FY25",
+    "decision_office": "Nagpur",
+    "certainty": "reported",
+    "sources": [
+     "https://connect.acuite.in/fcompany-details/MAHALAXMI_DHATU_UDHYOG_PRIVATE_LIMITED/13th_May_26"
+    ]
+   },
+   {
+    "name": "Metalxperts (India) Pvt Ltd",
+    "segment": "Steel distributor (trader, out of scope)",
+    "revenue_inr_cr": 888,
+    "revenue_year": "FY24",
+    "decision_office": "Not confirmed",
+    "certainty": "verified",
+    "sources": [
+     "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MetalxpertsIndiaPrivateLimited_February%2018_%202025_RR_361558.html"
+    ]
+   },
+   {
+    "name": "AMNS Khopoli Ltd (ex-Uttam Galva Steels)",
+    "segment": "Cold rolled/galvanised steel, Khopoli",
+    "revenue_inr_cr": null,
+    "decision_office": "AM/NS India, Hazira, Gujarat",
+    "certainty": "reported",
+    "notes": "Acquired 2022 and reported merged into AM/NS India (HQ Gujarat); excluded",
+    "sources": [
+     "https://theprint.in/economy/am-mining-india-completes-acquisition-of-uttam-galva-steels/1209675",
+     "https://www.indiainfoline.com/company/amns-khopoli-ltd-merged/summary"
+    ]
+   },
+   {
+    "name": "AM/NS India Ltd",
+    "segment": "Integrated steel",
+    "revenue_inr_cr": 51100,
+    "revenue_year": "FY25 estimate",
+    "decision_office": "Hazira, Gujarat",
+    "certainty": "verified",
+    "notes": "Excluded: HQ Gujarat; has Khopoli and Pune downstream units in Maharashtra",
+    "sources": [
+     "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ArcelormittalNipponSteelIndiaPrivateLimited_June%2018_%202025_RR_370613.html"
+    ]
+   },
+   {
+    "name": "Kalika Steel Jalna Pvt Ltd / Rathi Steel and Metal Pvt Ltd / Geetai Steels Pvt Ltd / Jalna Siddhivinayak Alloys Pvt Ltd / Metarolls Ispat Pvt Ltd",
+    "segment": "Jalna secondary steel",
+    "revenue_inr_cr": null,
+    "decision_office": "Jalna",
+    "certainty": "inferred",
+    "notes": "Revenue not found; some may exceed 500 cr",
+    "sources": []
+   },
+   {
+    "name": "Vedanta unlisted subsidiaries (BALCO, ESL Steel, FACOR)",
+    "segment": "Aluminium, steel, ferro-alloys",
+    "revenue_inr_cr": null,
+    "decision_office": "Own head offices outside Maharashtra (parent Vedanta is in Mumbai)",
+    "certainty": "inferred",
+    "notes": "Group context only",
+    "sources": []
+   },
+   {
+    "name": "Rajputana Stainless Ltd",
+    "segment": "Stainless",
+    "revenue_inr_cr": 932,
+    "revenue_year": "FY25 estimate",
+    "decision_office": "Kalol, Panchmahal, Gujarat",
+    "certainty": "verified",
+    "notes": "Excluded: Gujarat",
+    "sources": [
+     "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RajputanaStainlessLimited_May%2019_%202025_RR_366677.html"
+    ]
+   }
+  ],
+  "not_found": [
+   "'Mahalaxmi TMT' Jalna: no legal entity identified",
+   "Shree Uttam Steel: no current entity or revenue found",
+   "Essar Steel remaining Indian entities: none found (Essar Steel India now AM/NS India)",
+   "Gerdau India: no Maharashtra entity found",
+   "Unlisted copper, zinc or aluminium producers with Maharashtra HQ and revenue of 500 cr or more: none found (Global Aluminium is Telangana; Copprrod is Karnataka)",
+   "Ferro-alloy producers with Maharashtra HQ and revenue of 500 cr or more: none found (G R Krishna Ferro Alloys at Chandrapur is a Raipur group)",
+   "Private coal or mineral mine developer-operators (MDO) with Nagpur HQ and revenue of 500 cr or more: none found",
+   "JSW Ispat Special Products: listed, Chhattisgarh plant, out of scope",
+   "Ministry of Steel PLI beneficiary list: PDF not parseable from steel.gov.in in this session"
+  ]
+ }
+]
