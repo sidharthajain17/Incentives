@@ -35,6 +35,7 @@ th{font-size:11.5px;color:var(--muted);font-weight:600;position:sticky;top:0;bac
 .chain{display:flex;flex-wrap:wrap;gap:4px;align-items:center;margin:6px 0}.chain .st{border:1px solid var(--line);border-radius:6px;padding:3px 8px;font-size:12px;background:var(--bg)}.chain .ar{color:var(--muted)}
 .empty{color:var(--muted);padding:30px 0;text-align:center}
 .netwrap{border:1px solid var(--line);border-radius:8px;padding:6px}svg.net text{fill:var(--ink);font-size:10px}svg.net line{stroke-width:2}
+.lcards{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:10px}.lcard{border:1px solid var(--line);border-radius:8px;padding:8px 10px}.lrow{margin:6px 0;font-size:12.5px}.lt{color:#fff;border-radius:4px;padding:0 6px;font-size:11px}
 .lk{display:inline-block;width:18px;height:3px;vertical-align:middle;margin-right:4px}
 .vc td.c{text-align:center;font-size:11.5px}.vc td.c span{background:var(--accent2);border-radius:4px;padding:1px 5px;display:inline-block;margin:1px}
 a{color:var(--accent)}
@@ -124,14 +125,17 @@ function render(d,t){const T=document.getElementById("tab");
    ${(g.sources||[]).length?`<div class="m">Sources: ${g.sources.slice(0,8).map((s,i)=>`<a href="${esc(s)}" target="_blank" rel="noopener">[${i+1}]</a>`).join(" ")}</div>`:""}
    </div></details>`).join("")+`<p class="m">Government-owned and multinational companies (Coal India, Hindustan Copper, Vesuvius India) have no promoter family and are not shown here.</p>`;return}
  if(t===2){if(!d.links.length){T.innerHTML='<div class="empty">No inter-family links mapped yet.</div>';return}
-  const names=[...new Set(d.links.flatMap(l=>[l.from_short,l.to_short]))];const n=names.length,R=Math.min(210,60+n*9),W=2*R+260,H=2*R+80,cx=W/2,cy=H/2;
+  const names=[...new Set(d.links.flatMap(l=>[l.from_short,l.to_short]))];const n=names.length,R=Math.min(330,70+n*6.5),W=2*R+460,H=2*R+60,cx=W/2,cy=H/2;
   const pos={};names.forEach((nm,i)=>{const a=-Math.PI/2+2*Math.PI*i/n;pos[nm]=[cx+R*Math.cos(a),cy+R*Math.sin(a),a]});
   const col={marriage:"#c0507a","shared ancestry":"#2f6f8f",split:"#8a6d1f","cross-holding":"#5b7f3a","asset transfer":"#7a5bb5",dispute:"#b3441e"};
   const types=[...new Set(d.links.map(l=>l.type))];
-  T.innerHTML=`<div class="netwrap scroll"><svg class="net" viewBox="0 0 ${W} ${H}" style="min-width:520px;width:100%">
+  const graph=n<=24?`<div class="netwrap scroll"><svg class="net" viewBox="0 0 ${W} ${H}" style="min-width:760px;width:100%">
    ${d.links.map(l=>{const a=pos[l.from_short],b=pos[l.to_short];if(l.from_short===l.to_short)return `<circle cx="${a[0]}" cy="${a[1]}" r="11" fill="none" stroke="${col[l.type]||"#888"}" stroke-width="2"><title>${esc(l.type+": "+l.description)}</title></circle>`;return `<line x1="${a[0]}" y1="${a[1]}" x2="${b[0]}" y2="${b[1]}" stroke="${col[l.type]||"#888"}" ${l.certainty&&!l.certainty.startsWith("verif")?'stroke-dasharray="4 3"':""}><title>${esc(l.type+": "+l.description)}</title></line>`}).join("")}
-   ${names.map(nm=>{const [x,y,a]=pos[nm],right=Math.cos(a)>=0;return `<circle cx="${x}" cy="${y}" r="5" fill="var(--accent)"/><text x="${x+(right?8:-8)}" y="${y+3}" text-anchor="${right?"start":"end"}">${esc(nm)}</text>`}).join("")}
-  </svg><div class="legend">${types.map(t=>`<span><i class="lk" style="background:${col[t]||"#888"}"></i>${esc(t)}</span>`).join("")}<span>Dashed = reported / inferred</span></div></div>
+   ${names.map(nm=>{const [x,y,a]=pos[nm],right=Math.cos(a)>=0;return `<circle cx="${x}" cy="${y}" r="5" fill="var(--accent)"/><text x="${x+(right?8:-8)}" y="${y+3}" text-anchor="${right?"start":"end"}"><title>${esc(nm)}</title>${esc(nm.length>34?nm.slice(0,32)+"…":nm)}</text>`}).join("")}
+  </svg><div class="legend">${types.map(t=>`<span><i class="lk" style="background:${col[t]||"#888"}"></i>${esc(t)}</span>`).join("")}<span>Dashed = reported / inferred</span></div></div>`:"";
+  const byF={};d.links.forEach(l=>{(byF[l.from_short]=byF[l.from_short]||[]).push(l)});
+  const cards=n>24?`<div class="m" style="margin-bottom:6px">Links grouped by family. Colour shows the type of link.</div><div class="lcards">${Object.entries(byF).sort((a,b)=>b[1].length-a[1].length).map(([f,ls])=>`<div class="lcard"><b>${esc(f)}</b>${ls.map(l=>`<div class="lrow"><span class="lt" style="background:${col[l.type]||"#888"}">${esc(l.type)}</span> <b>${l.from_short===l.to_short?"within family":esc(l.to_short)}</b> ${tag(l.certainty)}<div class="m">${esc(l.description)}</div></div>`).join("")}</div>`).join("")}</div>`:"";
+  T.innerHTML=graph+cards+`
   <div class="scroll" style="margin-top:10px"><table><thead><tr><th>From</th><th>To</th><th>Type</th><th>What</th><th>Certainty</th></tr></thead><tbody>
   ${d.links.map(l=>`<tr><td>${esc(l.from_short)}</td><td>${esc(l.to_short)}</td><td>${esc(l.type)}</td><td>${esc(l.description)}${l.source?` <a href="${esc(l.source)}" target="_blank" rel="noopener">source</a>`:""}</td><td>${tag(l.certainty)}</td></tr>`).join("")}</tbody></table></div>${(d.checked||[]).length?`<p class="m" style="margin-top:10px"><b>Checked, no link found:</b> ${d.checked.map(l=>esc(l.from_short+" ↔ "+l.to_short)).join("; ")}</p>`:""}<p class="m">Ring around a node = split or dispute within the same family.</p>`;return}
  if(t===3){const ST=[["Mining","mining|mine|ore|coal|collier"],["Pellets / beneficiation","pellet|benefic"],["Sponge / pig iron","sponge|dri|pig iron|hot metal|blast"],["Steel making","steel mak|billet|melt|sms|integrated steel|ingot"],["Rolling: long & flat","tmt|rolling|rebar|wire rod|flat|cold roll|hot roll|structural"],["Ferro-alloys","ferro|silico|alloy"],["Downstream products","pipe|tube|wire|rope|coat|galvan|forg|cast|tower|foil|sheet|packag"],["Power","power|captive"]];

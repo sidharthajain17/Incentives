@@ -1,0 +1,2648 @@
+{
+ "prepared": "2026-11-23",
+ "batch": "B",
+ "notes": "Sources: BSE annual reports FY2018-19 and FY2025-26 (relationship and related-party disclosures, promoter shareholding), CARE/CRISIL/ICRA/Acuite/Infomerics rationales, search summaries of press (tagged reported). Press sites were not reachable directly.",
+ "groups": [
+  {
+   "group": "Man group (R C Mansukhani)",
+   "family": "Mansukhani family (Man Industries)",
+   "display_name": "Mansukhani family (Man Industries): Ramesh Chandra (R C) Mansukhani",
+   "decision_office": "Mumbai",
+   "founder": {
+    "name": "Mansukhani brothers, Rameshchandra (R C) and Jagdishchandra Jhamaklal (J C) Mansukhani",
+    "year_founded": 1988,
+    "native_place": null
+   },
+   "head": {
+    "name": "Rameshchandra (R C) Mansukhani",
+    "role": "Chairman, Man Industries (India) Ltd"
+   },
+   "next_gen": [
+    {
+     "name": "Nikhil Mansukhani",
+     "relation": "son of R C Mansukhani",
+     "runs": "Managing Director, Man Industries (India) Ltd",
+     "since": "Board since 2013 (Executive Director); now MD"
+    }
+   ],
+   "control_summary": "R C Mansukhani's line controls Man Industries: R C 15.0%, Nikhil 4.8%, daughter Heena Kalantri 6.5%, Man Finance Pvt Ltd 12.0% and others (FY26). J C Mansukhani's line now holds about 0.03% after the 2013 split.",
+   "background": "The Mansukhani family started the Man group in the 1970s. Man Industries was incorporated in 1988 to make aluminium extrusions and moved into submerged-arc welded (SAW) line pipes in 1995, becoming one of India's largest SAW pipe makers, with plants at Anjar (Gujarat) and Pithampur (Madhya Pradesh). A dispute between brothers R C and J C Mansukhani was settled in 2013 by dividing the businesses: R C kept Man Industries and J C took the demerged real estate arm, Man Infraprojects. In 2024 the company bought National Pipe Company, Saudi Arabia, for about USD 102 million. A SEBI order of September 2025 penalised the company, R C and Nikhil Mansukhani over alleged diversion of funds.",
+   "milestones": [
+    {
+     "year": 1988,
+     "event": "Man Industries incorporated (aluminium extrusions)"
+    },
+    {
+     "year": 1995,
+     "event": "Diversified into SAW line pipes"
+    },
+    {
+     "year": 2013,
+     "event": "Brothers' dispute settled; businesses split between R C and J C Mansukhani"
+    },
+    {
+     "year": 2014,
+     "event": "Man Infraprojects (real estate) hived off with effect from 1 April 2014"
+    },
+    {
+     "year": 2024,
+     "event": "Acquired National Pipe Company, Saudi Arabia (USD 102 mn)"
+    },
+    {
+     "year": 2025,
+     "event": "SEBI order: two-year market bar and Rs 25 lakh penalty each on company, R C and Nikhil Mansukhani"
+    }
+   ],
+   "people": [
+    {
+     "name": "Jhamaklal Mansukhani",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Father of J C Mansukhani (from patronymic in shareholding list); link to R C inferred",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Rameshchandra Mansukhani",
+     "generation": 2,
+     "parent": null,
+     "spouse": "Deepadevi Rameshchandra Mansukhani",
+     "role": "Chairman, Man Industries; 15.0% (FY26)",
+     "certainty": "verified"
+    },
+    {
+     "name": "Jagdishchandra Jhamaklal Mansukhani",
+     "generation": 2,
+     "parent": null,
+     "spouse": "Anita Jagdish Mansukhani",
+     "role": "Brother of R C; former MD of Man Industries; took Man Infraprojects in 2013 split",
+     "certainty": "reported"
+    },
+    {
+     "name": "Deepadevi Rameshchandra Mansukhani",
+     "generation": 2,
+     "parent": null,
+     "spouse": "Rameshchandra Mansukhani",
+     "role": "Wife of R C; promoter group, 2.4%",
+     "certainty": "verified"
+    },
+    {
+     "name": "Nikhil Mansukhani",
+     "generation": 3,
+     "parent": "Rameshchandra Mansukhani",
+     "spouse": null,
+     "role": "Managing Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Heena Vinay Kalantri",
+     "generation": 3,
+     "parent": "Rameshchandra Mansukhani",
+     "spouse": "Vinay Kalantri",
+     "role": "Daughter of R C; promoter group 6.5%",
+     "certainty": "verified"
+    },
+    {
+     "name": "Priyal Mansukhani",
+     "generation": 3,
+     "parent": null,
+     "spouse": null,
+     "role": "Promoter group shareholder (FY15); relation not stated",
+     "certainty": "inferred"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Man Industries (India) Ltd",
+     "listed": "yes",
+     "chain_stage": "LSAW / HSAW / ERW line pipes, coating",
+     "state": "Gujarat (Anjar); Madhya Pradesh (Pithampur)",
+     "ownership_note": "R C Mansukhani line, about 41% with group entities"
+    },
+    {
+     "name": "Man Stainless Steel Tubes Ltd",
+     "listed": "no",
+     "chain_stage": "stainless steel tubes",
+     "state": "Gujarat (to verify)",
+     "ownership_note": "100% subsidiary"
+    },
+    {
+     "name": "Man International Steel Industrial Company / National Pipe Company",
+     "listed": "no",
+     "chain_stage": "line pipes",
+     "state": "Saudi Arabia (Dammam, Dhahran)",
+     "ownership_note": "100% subsidiary, acquired 2024"
+    },
+    {
+     "name": "Merino Shelters Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "real estate (Navi Mumbai land)",
+     "state": "Maharashtra",
+     "ownership_note": "100% subsidiary"
+    },
+    {
+     "name": "Man Finance Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "promoter investment company",
+     "state": "Maharashtra",
+     "ownership_note": "promoter group, 12.0% of Man Industries"
+    },
+    {
+     "name": "Man Infraprojects Ltd",
+     "listed": "no",
+     "chain_stage": "real estate",
+     "state": "Maharashtra",
+     "ownership_note": "Demerged 2014; went to J C Mansukhani in 2013 split (reported)"
+    }
+   ],
+   "chain_summary": "Bought HR coil and plate (no captive steel) -> SAW and ERW line pipes -> coating -> oil, gas and water pipelines in India and Saudi Arabia.",
+   "splits_disputes": "2013 sibling dispute between R C and J C Mansukhani: J C's management powers withdrawn, Bombay High Court appointed an arbitrator, KPMG devised a split; R C kept Man Industries, J C took Man Infraprojects (reported). SEBI order of 29 September 2025 against the company, R C and Nikhil Mansukhani (verified in FY26 annual report). Note: Man Infraconstruction Ltd (Parag Shah family) is a separate group; no ownership link found.",
+   "marriage_clues": [
+    {
+     "person": "Heena Vinay Kalantri",
+     "detail": "Daughter of R C Mansukhani (sister of Nikhil), married surname Kalantri; 6.5% promoter holding",
+     "possibly_linked_family": "married surname Kalantri; family not identified",
+     "certainty": "verified",
+     "source": "https://www.bseindia.com/bseplus/AnnualReport/513269/5132690315.pdf"
+    }
+   ],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9627e5dc-a6a3-40e6-b412-2313a0e99f33.pdf",
+    "https://www.bseindia.com/bseplus/AnnualReport/513269/5132690315.pdf",
+    "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ManIndustriesIndiaLimited_August%2029,%202023_RR_326518.html",
+    "https://www.business-standard.com/article/companies/man-industries-promoters-split-businesses-113091600007_1.html",
+    "https://www.dnaindia.com/business/report-sibling-spat-intensifies-at-man-industries-1546383"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Technocraft group (Saraf family)",
+   "family": "Saraf family (Technocraft)",
+   "display_name": "Saraf family (Technocraft): Sharad Kumar and Sudarshan Kumar Saraf",
+   "decision_office": "Mumbai",
+   "founder": {
+    "name": "Brothers Dr Sharad Kumar Madhoprasad Saraf and Sudarshan Kumar Madhoprasad Saraf",
+    "year_founded": 1972,
+    "native_place": null
+   },
+   "head": {
+    "name": "Dr Sharad Kumar Saraf",
+    "role": "Chairman and Managing Director; Sudarshan Kumar Saraf is Co-Chairman and MD"
+   },
+   "next_gen": [
+    {
+     "name": "Navneet Kumar Saraf",
+     "relation": "son of Sudarshan Kumar Saraf",
+     "runs": "Whole-time Director and CEO, Technocraft Industries",
+     "since": "by 2019"
+    },
+    {
+     "name": "Ashish Kumar Saraf",
+     "relation": "son of Sharad Kumar Saraf",
+     "runs": "Whole-time Director and CFO, Technocraft Industries",
+     "since": "by 2019"
+    }
+   ],
+   "control_summary": "The two brothers' families hold the promoter stake jointly; in FY19 Sudarshan held 27.8%, Shakuntala Saraf 21.1%, Sharad Kumar Saraf HUF 9.0%, Navneet 5.8%, Ashish 2.1%.",
+   "background": "The Saraf brothers set up Technocraft as a partnership in 1972 on a small MIDC plot in Mumbai; it became an unlimited company in 1991 and a limited company in 1992. It grew into the world's leading maker of steel drum closures (35 to 40% share outside China) and added scaffolding and formwork, cotton yarn and garments. Its engineering services arm, Technosoft Engineering, and overseas marketing subsidiaries sit under the listed company. Revenue was about Rs 2,596 crore in FY25 and CRISIL rates it AA-.",
+   "milestones": [
+    {
+     "year": 1972,
+     "event": "Partnership founded by the Saraf brothers"
+    },
+    {
+     "year": 1991,
+     "event": "Reconstituted as an unlimited company"
+    },
+    {
+     "year": 1992,
+     "event": "Converted into a limited company"
+    },
+    {
+     "year": 2000,
+     "event": "Technosoft Engineering (engineering services) incorporated"
+    },
+    {
+     "year": 2023,
+     "event": "CRISIL upgrades long-term rating to AA-"
+    }
+   ],
+   "people": [
+    {
+     "name": "Madhoprasad Saraf",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Father of the founding brothers (from patronymic)",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Sharad Kumar Saraf",
+     "generation": 2,
+     "parent": "Madhoprasad Saraf",
+     "spouse": null,
+     "role": "Founder; Chairman and MD",
+     "certainty": "verified"
+    },
+    {
+     "name": "Sudarshan Kumar Saraf",
+     "generation": 2,
+     "parent": "Madhoprasad Saraf",
+     "spouse": null,
+     "role": "Co-founder; Co-Chairman and MD; brother of Sharad",
+     "certainty": "verified"
+    },
+    {
+     "name": "Ashish Kumar Saraf",
+     "generation": 3,
+     "parent": "Sharad Kumar Saraf",
+     "spouse": "Priyanka Ashish Saraf",
+     "role": "Whole-time Director and CFO",
+     "certainty": "verified"
+    },
+    {
+     "name": "Navneet Kumar Saraf",
+     "generation": 3,
+     "parent": "Sudarshan Kumar Saraf",
+     "spouse": null,
+     "role": "Whole-time Director and CEO",
+     "certainty": "verified"
+    },
+    {
+     "name": "Shakuntala Saraf",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "Promoter group, 21.1% (FY19); relation not stated",
+     "certainty": "verified"
+    },
+    {
+     "name": "Shantidevi Saraf",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Promoter group shareholder (FY19); relation not stated",
+     "certainty": "verified"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Technocraft Industries (India) Ltd",
+     "listed": "yes",
+     "chain_stage": "drum closures, scaffolding, formwork, steel pipes; cotton yarn and garments",
+     "state": "Maharashtra (Murbad, Thane; Tarapur)",
+     "ownership_note": "Saraf family"
+    },
+    {
+     "name": "Technosoft Engineering Projects Ltd",
+     "listed": "no",
+     "chain_stage": "engineering services",
+     "state": "Maharashtra; USA, UK, Germany subsidiaries",
+     "ownership_note": "about 84% subsidiary"
+    },
+    {
+     "name": "Technocraft Tabla Formwork Systems Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "formwork",
+     "state": "Maharashtra",
+     "ownership_note": "subsidiary"
+    },
+    {
+     "name": "Technocraft Ventures Ltd",
+     "listed": "no",
+     "chain_stage": "group company (CARE-rated)",
+     "state": "Maharashtra",
+     "ownership_note": "group company; ownership not checked"
+    }
+   ],
+   "chain_summary": "Bought steel strip and coil -> stamping and tube making -> drum closures, scaffolding and formwork for global drum makers and builders.",
+   "splits_disputes": "None found.",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9c75d14f-67bb-44d4-b7fb-233f2ef1e4b2.pdf",
+    "https://www.bseindia.com/bseplus/AnnualReport/532804/5328040319.pdf",
+    "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/TechnocraftIndustriesIndiaLimited_April%2009_%202026_RR_392471.html"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Precision Wires (Mehta family)",
+   "family": "Mehta family (Precision Wires)",
+   "display_name": "Mehta family (Precision Wires): Milan Mahendra Mehta",
+   "decision_office": "Mumbai",
+   "founder": {
+    "name": "Mahendra Ratilal Mehta (died by FY26)",
+    "year_founded": 1989,
+    "native_place": null
+   },
+   "head": {
+    "name": "Milan Mahendra Mehta",
+    "role": "Chairman and Managing Director"
+   },
+   "next_gen": [
+    {
+     "name": "Deepak Mahendra Mehta",
+     "relation": "son of founder, brother of Milan",
+     "runs": "Vice Chairman / Whole-time Director",
+     "since": "WTD since 2002"
+    },
+    {
+     "name": "Nirbhay Deepak Mehta",
+     "relation": "son of Deepak, grandson of founder",
+     "runs": "President",
+     "since": "2016"
+    },
+    {
+     "name": "Arjun Milan Mehta",
+     "relation": "son of Milan",
+     "runs": "Senior Vice President",
+     "since": "2023"
+    }
+   ],
+   "control_summary": "Promoter group (Milan and Deepak Mehta families, their HUFs and Atlas Wires lineage) controls the company; Mahendra Mehta held 12.5% in FY19.",
+   "background": "Mahendra R Mehta set up Precision Wires India in November 1989 with sons Milan and Deepak, alongside Atlas Wires (later merged in), starting with 3,200 tonnes a year of enamelled copper winding wire at Silvassa. It grew into one of India's largest winding-wire makers, with a second plant at Palej, Bharuch (Gujarat), and added 9,000 tonnes at Silvassa in 2024. The founder later became Chairman Emeritus and has since died; Milan now chairs the company with brother Deepak, and the third generation (Nirbhay, Arjun) works in management.",
+   "milestones": [
+    {
+     "year": 1989,
+     "event": "Incorporated; Silvassa plant for enamelled copper winding wire"
+    },
+    {
+     "year": 2001,
+     "event": "Atlas Wires amalgamated / acquired"
+    },
+    {
+     "year": 2016,
+     "event": "Third generation (Nirbhay Mehta) joins as Vice President"
+    },
+    {
+     "year": 2024,
+     "event": "9,000 tonnes a year expansion at Silvassa completed"
+    }
+   ],
+   "people": [
+    {
+     "name": "Mahendra Ratilal Mehta",
+     "generation": 1,
+     "parent": null,
+     "spouse": "S. M. Mehta",
+     "role": "Founder; Chairman, later Chairman Emeritus; deceased by FY26",
+     "certainty": "verified"
+    },
+    {
+     "name": "Milan Mahendra Mehta",
+     "generation": 2,
+     "parent": "Mahendra Ratilal Mehta",
+     "spouse": "Gira Milan Mehta",
+     "role": "Chairman and MD",
+     "certainty": "verified"
+    },
+    {
+     "name": "Deepak Mahendra Mehta",
+     "generation": 2,
+     "parent": "Mahendra Ratilal Mehta",
+     "spouse": "S. D. Mehta",
+     "role": "Whole-time Director / Vice Chairman",
+     "certainty": "verified"
+    },
+    {
+     "name": "Arjun Milan Mehta",
+     "generation": 3,
+     "parent": "Milan Mahendra Mehta",
+     "spouse": "I. A. Mehta",
+     "role": "Senior Vice President",
+     "certainty": "verified"
+    },
+    {
+     "name": "Maithili Milan Mehta",
+     "generation": 3,
+     "parent": "Milan Mahendra Mehta",
+     "spouse": null,
+     "role": "Daughter of Milan; promoter group",
+     "certainty": "verified"
+    },
+    {
+     "name": "Nirbhay Deepak Mehta",
+     "generation": 3,
+     "parent": "Deepak Mahendra Mehta",
+     "spouse": "A. N. Mehta",
+     "role": "President",
+     "certainty": "verified"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Precision Wires India Ltd",
+     "listed": "yes",
+     "chain_stage": "copper winding wire",
+     "state": "Dadra and Nagar Haveli (Silvassa); Gujarat (Palej, Bharuch)",
+     "ownership_note": "Mehta family"
+    },
+    {
+     "name": "Atlas Wires (India) Ltd",
+     "listed": "no",
+     "chain_stage": "winding wire (merged)",
+     "state": "Maharashtra",
+     "ownership_note": "original co-promoter, merged around 2001"
+    }
+   ],
+   "chain_summary": "Bought copper rod -> wire drawing and enamelling -> winding wire for motors, transformers and fans.",
+   "splits_disputes": "None found.",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7145e746-7be5-46c2-9f7c-e58b66e754dd.pdf",
+    "https://www.bseindia.com/bseplus/AnnualReport/523539/5235390319.pdf",
+    "https://www.zaubacorp.com/PRECISION-WIRES-INDIA-LIMITED-L31300MH1989PLC054356"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "RR Global group (Kabra family)",
+   "family": "Kabra family (RR Global: Ram Ratna Wires and RR Kabel)",
+   "display_name": "Kabra family (RR Global): Rameshwarlal Kabra and sons Tribhuvanprasad, Mahendrakumar and Shreegopal",
+   "decision_office": "Mumbai",
+   "founder": {
+    "name": "Rameshwarlal Kabra",
+    "year_founded": 1965,
+    "native_place": null
+   },
+   "head": {
+    "name": "Tribhuvanprasad, Mahendrakumar and Shreegopal Kabra (three brothers)",
+    "role": "Mahendrakumar is MD of Ram Ratna Wires; Tribhuvanprasad and Shreegopal lead RR Kabel (roles reported)"
+   },
+   "next_gen": [
+    {
+     "name": "Hemant Kabra",
+     "relation": "son of Mahendrakumar",
+     "runs": "Joint MD, Ram Ratna Wires",
+     "since": "over a decade"
+    },
+    {
+     "name": "Sumeet Kabra",
+     "relation": "son of Mahendrakumar",
+     "runs": "Executive Director, Ram Ratna Wires (reported)",
+     "since": "not stated"
+    },
+    {
+     "name": "Mahhesh Kabra",
+     "relation": "son of Tribhuvanprasad",
+     "runs": "Director, RR Kabel",
+     "since": "not stated"
+    },
+    {
+     "name": "Rajesh Kabra",
+     "relation": "son of Shreegopal",
+     "runs": "Director, RR Kabel",
+     "since": "not stated"
+    }
+   ],
+   "control_summary": "One family runs both listed companies: Mahendrakumar's branch runs Ram Ratna Wires, Tribhuvanprasad's and Shreegopal's branches run RR Kabel; the companies cross-hold shares (RR Kabel held 4.1% of RRW in FY19 and carries an RRW investment of Rs 163 crore in FY26).",
+   "background": "Rameshwarlal Kabra built the business over five decades in enamelled copper winding wire; RR Kabel began as a wires and cables trading business in Delhi in the early 1990s. Ram Ratna Wires was incorporated in 1992 by Rameshwarlal and his three sons and listed on BSE in 1995; RR Kabel (incorporated 1995 as Ram Ratna AgroPlast) grew into a large consumer electricals and cables brand and listed later. Ram Ratna Wires has three winding-wire plants at Silvassa and a new 24,000 tonnes a year copper tube plant at Bhiwadi, Rajasthan, which started in June 2025; its copper subsidiary Global Copper was merged in from June 2025. The third generation (Hemant, Sumeet, Mahhesh, Rajesh) now sits on the boards.",
+   "milestones": [
+    {
+     "year": 1965,
+     "event": "Rameshwarlal Kabra starts in winding wire (date from aggregator profile)"
+    },
+    {
+     "year": 1992,
+     "event": "Ram Ratna Wires incorporated by Rameshwarlal and sons"
+    },
+    {
+     "year": 1995,
+     "event": "RRW listed on BSE; RR Kabel incorporated"
+    },
+    {
+     "year": 2019,
+     "event": "Rameshwarlal Kabra retires from RRW board"
+    },
+    {
+     "year": 2025,
+     "event": "Bhiwadi copper tube plant starts; Global Copper merged into RRW"
+    }
+   ],
+   "people": [
+    {
+     "name": "Rameshwarlal Kabra",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Ratnidevi Kabra",
+     "role": "Founder, RR Global",
+     "certainty": "verified"
+    },
+    {
+     "name": "Tribhuvanprasad Rameshwarlal Kabra",
+     "generation": 2,
+     "parent": "Rameshwarlal Kabra",
+     "spouse": "Umadevi Tribhuvanprasad Kabra",
+     "role": "Former MD of RRW; RR Kabel leadership (reported Chairman)",
+     "certainty": "verified"
+    },
+    {
+     "name": "Mahendrakumar Rameshwarlal Kabra",
+     "generation": 2,
+     "parent": "Rameshwarlal Kabra",
+     "spouse": null,
+     "role": "MD, Ram Ratna Wires; director, RR Kabel",
+     "certainty": "verified"
+    },
+    {
+     "name": "Shreegopal Rameshwarlal Kabra",
+     "generation": 2,
+     "parent": "Rameshwarlal Kabra",
+     "spouse": "Kirtidevi Kabra",
+     "role": "MD and Group President, RR Kabel (reported)",
+     "certainty": "verified"
+    },
+    {
+     "name": "Mahhesh Kabra",
+     "generation": 3,
+     "parent": "Tribhuvanprasad Rameshwarlal Kabra",
+     "spouse": "Vvidhi Kabra",
+     "role": "Director, RR Kabel",
+     "certainty": "verified"
+    },
+    {
+     "name": "Sarita Jhawar",
+     "generation": 3,
+     "parent": "Tribhuvanprasad Rameshwarlal Kabra",
+     "spouse": null,
+     "role": "Daughter of Tribhuvanprasad",
+     "certainty": "verified"
+    },
+    {
+     "name": "Hemant Kabra",
+     "generation": 3,
+     "parent": "Mahendrakumar Rameshwarlal Kabra",
+     "spouse": "Priyanka Kabra",
+     "role": "Joint MD, Ram Ratna Wires",
+     "certainty": "verified"
+    },
+    {
+     "name": "Sumeet Kabra",
+     "generation": 3,
+     "parent": "Mahendrakumar Rameshwarlal Kabra",
+     "spouse": null,
+     "role": "Ram Ratna Wires",
+     "certainty": "verified"
+    },
+    {
+     "name": "Rajesh Kabra",
+     "generation": 3,
+     "parent": "Shreegopal Rameshwarlal Kabra",
+     "spouse": "Monal Kabra",
+     "role": "Director, RR Kabel",
+     "certainty": "verified"
+    },
+    {
+     "name": "Asha Muchhal",
+     "generation": 3,
+     "parent": "Shreegopal Rameshwarlal Kabra",
+     "spouse": null,
+     "role": "Daughter of Shreegopal; promoter group",
+     "certainty": "verified"
+    },
+    {
+     "name": "Priti Saboo",
+     "generation": 3,
+     "parent": "Shreegopal Rameshwarlal Kabra",
+     "spouse": null,
+     "role": "Daughter of Shreegopal; promoter group",
+     "certainty": "verified"
+    },
+    {
+     "name": "Deves Kabra",
+     "generation": 4,
+     "parent": "Mahhesh Kabra",
+     "spouse": null,
+     "role": "Son of Mahhesh",
+     "certainty": "verified"
+    },
+    {
+     "name": "Janvi Kabra",
+     "generation": 4,
+     "parent": "Mahhesh Kabra",
+     "spouse": null,
+     "role": "Daughter of Mahhesh",
+     "certainty": "verified"
+    },
+    {
+     "name": "Arjun Kabra",
+     "generation": 4,
+     "parent": "Rajesh Kabra",
+     "spouse": null,
+     "role": "Son of Rajesh",
+     "certainty": "verified"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ram Ratna Wires Ltd",
+     "listed": "yes",
+     "chain_stage": "copper and aluminium winding wire; copper tubes",
+     "state": "Dadra and Nagar Haveli (Silvassa, 3 plants); Rajasthan (Bhiwadi copper tubes)",
+     "ownership_note": "Mahendrakumar branch manages; family plus group companies"
+    },
+    {
+     "name": "RR Kabel Ltd",
+     "listed": "yes",
+     "chain_stage": "wires and cables, consumer electricals",
+     "state": "Gujarat and Silvassa (sites not checked)",
+     "ownership_note": "Tribhuvanprasad and Shreegopal branches; holds RRW shares"
+    },
+    {
+     "name": "Global Copper Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "copper rod and tubes",
+     "state": "Gujarat",
+     "ownership_note": "former 60% RRW subsidiary; merged into RRW June 2025"
+    },
+    {
+     "name": "EPAVO Electricals Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "BLDC motors",
+     "state": "not checked",
+     "ownership_note": "RRW stake cut from 74% to 50% in FY25"
+    },
+    {
+     "name": "Ram Ratna Research and Holdings Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "promoter holding company",
+     "state": "Maharashtra",
+     "ownership_note": "15.5% of RRW (FY19)"
+    },
+    {
+     "name": "MEW Electricals Ltd / Ram Ratna Electricals Ltd",
+     "listed": "no",
+     "chain_stage": "group electricals",
+     "state": "Maharashtra",
+     "ownership_note": "promoter group holders of RRW"
+    }
+   ],
+   "chain_summary": "Bought copper cathode/rod -> rod and wire drawing -> winding wire, copper tubes (RRW) and cables, wires and electricals (RR Kabel).",
+   "splits_disputes": "No split; the two listed companies are run by different branches of the same family with cross-holdings.",
+   "marriage_clues": [
+    {
+     "person": "Tribhuvanprasad Kabra",
+     "detail": "Satyanarayan Loya, RRW director until March 2019, is named as his father-in-law; wife Umadevi Kabra",
+     "possibly_linked_family": "Loya family",
+     "certainty": "verified",
+     "source": "https://www.bseindia.com/bseplus/AnnualReport/522281/5222810319.pdf"
+    },
+    {
+     "person": "Asha Muchhal",
+     "detail": "Daughter of Shreegopal Kabra, married surname Muchhal",
+     "possibly_linked_family": "married surname Muchhal; family not identified",
+     "certainty": "verified",
+     "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d03c1b22-d5c8-467d-958d-810cbe0aff3d.pdf"
+    },
+    {
+     "person": "Priti Saboo",
+     "detail": "Daughter of Shreegopal Kabra, married surname Saboo",
+     "possibly_linked_family": "married surname Saboo; family not identified",
+     "certainty": "verified",
+     "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d03c1b22-d5c8-467d-958d-810cbe0aff3d.pdf"
+    },
+    {
+     "person": "Sarita Jhawar",
+     "detail": "Daughter of Tribhuvanprasad Kabra, married surname Jhawar / Jhanwar",
+     "possibly_linked_family": "married surname Jhawar; family not identified",
+     "certainty": "verified",
+     "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5a46990e-4ae8-4465-9c11-0867e3bc9467.pdf"
+    }
+   ],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5a46990e-4ae8-4465-9c11-0867e3bc9467.pdf",
+    "https://www.bseindia.com/bseplus/AnnualReport/522281/5222810319.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d03c1b22-d5c8-467d-958d-810cbe0aff3d.pdf",
+    "https://www.careratings.com/upload/CompanyFiles/PR/202509120948_Ram_Ratna_Wires_Limited.pdf",
+    "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/RamRatnaWiresLimited_July%2012,%202023_RR_323398.html"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Ashapura group (Chetan Shah)",
+   "family": "Shah family (Ashapura group)",
+   "display_name": "Shah family (Ashapura group): Chetan Navnitlal Shah",
+   "decision_office": "Mumbai",
+   "founder": {
+    "name": "Navnitlal Ratanji Shah (late)",
+    "year_founded": 1982,
+    "native_place": null
+   },
+   "head": {
+    "name": "Chetan Navnitlal Shah",
+    "role": "Promoter; Chairman from 2015, now Non-Executive Director and Chief, Strategy and Planning"
+   },
+   "next_gen": [
+    {
+     "name": "Manan Chetan Shah",
+     "relation": "son of Chetan Shah",
+     "runs": "Non-Independent Director, Ashapura Minechem",
+     "since": "not stated"
+    },
+    {
+     "name": "Himani Chetan Shah",
+     "relation": "daughter of Chetan Shah",
+     "runs": "Non-Executive Director, Ashapura Minechem",
+     "since": "10 February 2020"
+    }
+   ],
+   "control_summary": "Chetan Shah, wife Dina, children and Ashapura Industrial Finance held 39.8% in FY19; in February 2026 family trusts (including the Manan Chetan Shah Family Trust) took shares off-market for succession (reported). The CEO, Hemul Shah, is not a family member.",
+   "background": "The group traces to Navnitlal R Shah's minerals business; its subsidiary Bombay Minerals was incorporated in Gujarat in 1953 and Ashapura Minechem was incorporated in 1982. Under his son Chetan Shah the group became a large bentonite and bauxite miner and processor in Kutch, Gujarat, with processing in China, the Netherlands and the UAE. It has built a bauxite business in Guinea, with rights over about 40,000 hectares near Boffa and a port commissioned in 2024. Succession is moving to Chetan's children through family trusts and board seats.",
+   "milestones": [
+    {
+     "year": 1953,
+     "event": "Bombay Minerals (now subsidiary) incorporated"
+    },
+    {
+     "year": 1982,
+     "event": "Ashapura Minechem incorporated, promoted by Navnitlal R Shah"
+    },
+    {
+     "year": 2015,
+     "event": "Chetan Shah becomes Chairman"
+    },
+    {
+     "year": 2020,
+     "event": "Himani Shah joins the board"
+    },
+    {
+     "year": 2024,
+     "event": "Guinea bauxite port (Boffa) fully commissioned"
+    },
+    {
+     "year": 2026,
+     "event": "Family trusts acquire promoter shares for succession planning"
+    }
+   ],
+   "people": [
+    {
+     "name": "Navnitlal Ratanji Shah",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Founder (late)",
+     "certainty": "verified"
+    },
+    {
+     "name": "Chetan Navnitlal Shah",
+     "generation": 2,
+     "parent": "Navnitlal Ratanji Shah",
+     "spouse": "Dina Chetan Shah",
+     "role": "Promoter; Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Fizzah Navnitlal Shah",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "Promoter group (FY19); relation not stated",
+     "certainty": "verified"
+    },
+    {
+     "name": "Manan Chetan Shah",
+     "generation": 3,
+     "parent": "Chetan Navnitlal Shah",
+     "spouse": null,
+     "role": "Director",
+     "certainty": "reported"
+    },
+    {
+     "name": "Himani Chetan Shah",
+     "generation": 3,
+     "parent": "Chetan Navnitlal Shah",
+     "spouse": null,
+     "role": "Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Chaitali Chetan Shah",
+     "generation": 3,
+     "parent": "Chetan Navnitlal Shah",
+     "spouse": null,
+     "role": "Promoter group shareholder",
+     "certainty": "inferred"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ashapura Minechem Ltd",
+     "listed": "yes",
+     "chain_stage": "bentonite and bauxite mining and processing",
+     "state": "Gujarat (Kutch)",
+     "ownership_note": "Shah family"
+    },
+    {
+     "name": "Bombay Minerals Ltd",
+     "listed": "no",
+     "chain_stage": "bauxite and minerals mining",
+     "state": "Gujarat",
+     "ownership_note": "subsidiary (52% in FY19)"
+    },
+    {
+     "name": "Ashapura Guinea subsidiaries (incl. Ashapura Boffa Bauxite)",
+     "listed": "no",
+     "chain_stage": "bauxite mining, port",
+     "state": "Guinea",
+     "ownership_note": "subsidiaries"
+    },
+    {
+     "name": "Ashapura Industrial Finance Ltd",
+     "listed": "no",
+     "chain_stage": "promoter investment company",
+     "state": "Maharashtra",
+     "ownership_note": "9.3% of Ashapura Minechem (FY19)"
+    }
+   ],
+   "chain_summary": "Bentonite and bauxite mines (Kutch, Guinea) -> beneficiation and processing -> export of bauxite and industrial minerals.",
+   "splits_disputes": "None found in sources read.",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/49c5ab95-f4f5-4614-a853-a9fdd74b3e03.pdf",
+    "https://www.bseindia.com/bseplus/AnnualReport/527001/5270010319.pdf",
+    "https://scanx.trade/stock-news/ashapura-minechem-ltd",
+    "https://marketscreener.com/insider/CHETAN-NAVNITLAL-SHAH-A0HGEU/experience"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Bharat Wire Ropes (Mittal family)",
+   "family": "Mittal family (Bharat Wire Ropes)",
+   "display_name": "Mittal family (Bharat Wire Ropes): Murarilal Ramsukh Mittal",
+   "decision_office": "Mumbai",
+   "founder": {
+    "name": "Murarilal Ramsukh Mittal (acquired the company in 2010; first-generation entrepreneur)",
+    "year_founded": 2010,
+    "native_place": null
+   },
+   "head": {
+    "name": "Murarilal Mittal",
+    "role": "Managing Director"
+   },
+   "next_gen": [
+    {
+     "name": "Mayank Mittal",
+     "relation": "son of Murarilal",
+     "runs": "Joint Managing Director",
+     "since": "about a decade in the industry"
+    },
+    {
+     "name": "Manan Mittal",
+     "relation": "son of Murarilal, younger brother of Mayank",
+     "runs": "President - Administration, IT and Procurement",
+     "since": "not stated"
+    }
+   ],
+   "control_summary": "Murarilal Mittal and family control the company; the acquisition SPV Gaji Mercantile held 57.1% in 2017 and promoter shares were pledged under the restructuring plan (CARE).",
+   "background": "Bharat Wire Ropes was incorporated in 1986 and was owned by a Shah group until July 2010, when Gaji Mercantile, an SPV floated by Murarilal Mittal with investors, bought it. Mittal had spent about 23 years in senior roles at large corporates before the acquisition. The company built a large integrated plant at Chalisgaon, Jalgaon (66,000 tonnes a year) beside its older Atgaon, Thane unit (6,000 tonnes), and makes wire ropes for cranes, elevators, mining, offshore and defence uses.",
+   "milestones": [
+    {
+     "year": 1986,
+     "event": "Company incorporated"
+    },
+    {
+     "year": 2010,
+     "event": "Acquired from the Shah group by Gaji Mercantile (Mittal SPV)"
+    },
+    {
+     "year": 2017,
+     "event": "Integrated Chalisgaon plant commissioned (March 2017)"
+    },
+    {
+     "year": 2026,
+     "event": "CARE reaffirms rating (July 2026)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Murarilal Ramsukh Mittal",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Managing Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Mayank Mittal",
+     "generation": 2,
+     "parent": "Murarilal Ramsukh Mittal",
+     "spouse": null,
+     "role": "Joint MD",
+     "certainty": "verified"
+    },
+    {
+     "name": "Manan Mittal",
+     "generation": 2,
+     "parent": "Murarilal Ramsukh Mittal",
+     "spouse": null,
+     "role": "President",
+     "certainty": "verified"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Bharat Wire Ropes Ltd",
+     "listed": "yes",
+     "chain_stage": "wire rods to steel wire ropes",
+     "state": "Maharashtra (Chalisgaon, Jalgaon; Atgaon, Thane)",
+     "ownership_note": "Mittal family"
+    },
+    {
+     "name": "Gaji Mercantile Ltd",
+     "listed": "no",
+     "chain_stage": "acquisition SPV",
+     "state": "Maharashtra",
+     "ownership_note": "Mittal SPV; 57.1% in 2017"
+    }
+   ],
+   "chain_summary": "Bought steel wire rod -> drawing and stranding -> steel wire ropes and assemblies.",
+   "splits_disputes": "Ownership change in 2010 from the earlier Shah group owners.",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5646c588-1469-475a-8e06-767c3c2650a2.pdf",
+    "https://www.bseindia.com/bseplus/AnnualReport/539799/5397990319.pdf",
+    "https://www.careratings.com/upload/CompanyFiles/PR/202508130803_Bharat_Wire_Ropes_Limited.pdf",
+    "https://www.careratings.com/upload/CompanyFiles/PR/Bharat%20Wire%20Rope%20Ltd.-03-20-2017.pdf",
+    "https://www.acuite.in/documents/ratings/revised/28826-RR-20230707.pdf"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Tembo Global (Patel and Kachwala families)",
+   "family": "Patel family with Kachwala family (Tembo Global), not Shah",
+   "display_name": "Patel and Kachwala families (Tembo Global): Sanjay Jashbhai Patel",
+   "decision_office": "Navi Mumbai",
+   "founder": {
+    "name": "Sanjay Jashbhai Patel and family (with Shabbir Kachwala)",
+    "year_founded": 2010,
+    "native_place": null
+   },
+   "head": {
+    "name": "Sanjay Jashbhai Patel",
+    "role": "Managing Director"
+   },
+   "next_gen": [
+    {
+     "name": "Shalin Sanjay Patel",
+     "relation": "son of Sanjay Patel (inferred from patronymic)",
+     "runs": "linked in board data; role not checked",
+     "since": "not stated"
+    }
+   ],
+   "control_summary": "Promoters are Sanjay Patel, Smita Patel, Taruna Patel and Fatema Kachwala; operations are run by Sanjay Patel and Shabbir Kachwala (husband of Fatema Kachwala, Whole-time Director).",
+   "background": "Sanjay Patel earlier traded pipes through his own firm, Tembo Exim. He incorporated Saketh Exim in 2010, which moved from trading into making pipe hangers and pipe support systems and was renamed Tembo Global Industries in 2020. Shabbir Kachwala brought the manufacturing know-how. The company now has income of about Rs 439 crore (FY26) and is adding defence and electrical products. The earlier 'Shah family' label in our data is not supported by filings.",
+   "milestones": [
+    {
+     "year": 2010,
+     "event": "Incorporated as Saketh Exim Pvt Ltd"
+    },
+    {
+     "year": 2020,
+     "event": "Renamed Tembo Global Industries Ltd"
+    },
+    {
+     "year": 2022,
+     "event": "Rights issue (letter of offer names promoters)"
+    },
+    {
+     "year": 2026,
+     "event": "Defence acquisition agreement signed (NSE filing, February 2026)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Sanjay Jashbhai Patel",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Smita Patel (inferred)",
+     "role": "Managing Director; promoter",
+     "certainty": "verified"
+    },
+    {
+     "name": "Smita Patel",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Promoter",
+     "certainty": "reported"
+    },
+    {
+     "name": "Taruna Patel",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Promoter",
+     "certainty": "reported"
+    },
+    {
+     "name": "Fatema Shabbir Kachwala",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Shabbir Kachwala",
+     "role": "Promoter; Whole-time Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Shabbir Kachwala",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Fatema Shabbir Kachwala",
+     "role": "Runs operations with Sanjay Patel",
+     "certainty": "verified"
+    },
+    {
+     "name": "Shalin Sanjay Patel",
+     "generation": 2,
+     "parent": "Sanjay Jashbhai Patel",
+     "spouse": null,
+     "role": "Relation inferred from name",
+     "certainty": "inferred"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Tembo Global Industries Ltd",
+     "listed": "yes",
+     "chain_stage": "pipe hangers, supports, fasteners; fabricated metal products",
+     "state": "Maharashtra (Turbhe, Navi Mumbai; other units to verify)",
+     "ownership_note": "Patel and Kachwala promoters"
+    },
+    {
+     "name": "Tembo Exim Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "pipe trading",
+     "state": "Maharashtra",
+     "ownership_note": "Sanjay Patel's earlier firm"
+    }
+   ],
+   "chain_summary": "Bought steel and pipes -> fabrication -> pipe hangers and support systems for MEP and infrastructure.",
+   "splits_disputes": "None found.",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.careratings.com/upload/CompanyFiles/PR/202609120944_Tembo_Global_Industries_Limited.pdf",
+    "https://archives.nseindia.com/corporate/TEMBO_17082022174439_LOFTEMBO16082022.pdf"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Euro Panel / Eurobond (Shah family)",
+   "family": "Shah family (Euro Panel Products, Eurobond)",
+   "display_name": "Shah family (Eurobond): Rajesh Nanalal Shah",
+   "decision_office": "Mumbai",
+   "founder": {
+    "name": "Rajesh Nanalal Shah",
+    "year_founded": 2013,
+    "native_place": null
+   },
+   "head": {
+    "name": "Rajesh Nanalal Shah",
+    "role": "Managing Director (founding promoter)"
+   },
+   "next_gen": [
+    {
+     "name": "Divyam Rajesh Shah",
+     "relation": "son of Rajesh Shah",
+     "runs": "Whole-time Director; production and procurement",
+     "since": "not stated"
+    }
+   ],
+   "control_summary": "Promoters hold about 64%, with Rajesh Shah alone about 52% (aggregator data).",
+   "background": "Rajesh Shah has over two decades in aluminium composite panels (ACP). He incorporated Euro Panel Products in December 2013 and sells under the Eurobond brand, making ACP and aluminium high-pressure laminates at Manekpur, Valsad (Gujarat). It listed on the NSE SME platform in December 2021, the first Indian ACP maker to list, and moved to the NSE and BSE main boards in August 2025. It has set up a subsidiary in Qatar.",
+   "milestones": [
+    {
+     "year": 2013,
+     "event": "Incorporated by Rajesh Shah"
+    },
+    {
+     "year": 2021,
+     "event": "IPO on NSE Emerge (SME)"
+    },
+    {
+     "year": 2025,
+     "event": "Migrated to NSE and BSE main boards"
+    }
+   ],
+   "people": [
+    {
+     "name": "Rajesh Nanalal Shah",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Krishna Rajesh Shah",
+     "role": "Managing Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Krishna Rajesh Shah",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Rajesh Nanalal Shah",
+     "role": "Director; annual report calls her mother of Divyam (CARE calls her Rajesh Shah's daughter: conflict)",
+     "certainty": "verified"
+    },
+    {
+     "name": "Divyam Rajesh Shah",
+     "generation": 2,
+     "parent": "Rajesh Nanalal Shah",
+     "spouse": null,
+     "role": "Whole-time Director",
+     "certainty": "verified"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Euro Panel Products Ltd",
+     "listed": "yes",
+     "chain_stage": "aluminium composite panels and laminates",
+     "state": "Gujarat (Manekpur, Sanjan, Valsad)",
+     "ownership_note": "Shah family"
+    },
+    {
+     "name": "Divya Ply Agency Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "promoter group entity",
+     "state": "Maharashtra",
+     "ownership_note": "promoter group"
+    }
+   ],
+   "chain_summary": "Bought aluminium coil -> coating and lamination -> ACP and facade products.",
+   "splits_disputes": "None found.",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6c57f9a0-1c16-4f46-bb2f-5457569036c9.pdf",
+    "https://www.careratings.com/upload/CompanyFiles/PR/202610121029_Euro_Panel_Products_Limited.pdf",
+    "https://www.alcircle.com/news/euro-panel-products-becomes-the-first-indian-acp-company-to-list-on-bse-and-nse-114966"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Taparia Tools (Taparia family)",
+   "family": "Taparia family (Taparia Tools)",
+   "display_name": "Taparia family (Taparia Tools): Deviprasad Kanhaiyalal Taparia",
+   "decision_office": "Nashik (registered office and works); Mumbai office",
+   "founder": {
+    "name": "Not named in sources read; incorporated 1965, promoted by Anjani Kumar Company Pvt Ltd (aggregator)",
+    "year_founded": 1965,
+    "native_place": null
+   },
+   "head": {
+    "name": "Deviprasad Kanhaiyalal (D P) Taparia",
+    "role": "Managing Director (from 30 May 2023) and Chairman"
+   },
+   "next_gen": [
+    {
+     "name": "Bharat Jayakrishna Taparia",
+     "relation": "son of Jaya Krishna Taparia (from patronymic)",
+     "runs": "Non-executive Director; 10.7% holder",
+     "since": "9 August 2023"
+    }
+   ],
+   "control_summary": "A wide Taparia family promoter group (Harnarayan, Deviprasad, Madhavprasad, Jaya Krishna, Sushil Kumar branches and HUFs, plus married daughters) holds the promoter stake; Harnarayan Taparia's 12% passed to Rajdulari Devi Taparia in FY26.",
+   "background": "Taparia Tools was incorporated at Nashik in December 1965 and began making hand tools in 1969 with Swedish technical collaboration. It is one of India's best-known hand-tool brands, with factories at Satpur, Nashik and an expanded unit in Goa. H N (Harnarayan) Taparia was Chairman and MD until about 2023; D P Taparia now leads, with M P Taparia and Bharat Taparia on the board. A Bangur family member, Virendraa Bangur, has been a non-executive director since 2004.",
+   "milestones": [
+    {
+     "year": 1965,
+     "event": "Incorporated at Nashik"
+    },
+    {
+     "year": 1969,
+     "event": "Hand-tool production starts with Swedish collaboration"
+    },
+    {
+     "year": 1990,
+     "event": "D P and M P Taparia join the board"
+    },
+    {
+     "year": 2023,
+     "event": "D P Taparia becomes MD; Bharat Taparia joins board"
+    },
+    {
+     "year": 2026,
+     "event": "Harnarayan Taparia's holding moves to Rajdulari Devi Taparia"
+    }
+   ],
+   "people": [
+    {
+     "name": "Kanhaiyalal Taparia",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Father of D P Taparia (patronymic)",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Ganeshmal Taparia",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Juwaridevi Ganeshmal Taparia (charity trust name)",
+     "role": "Father of M P Taparia (patronymic)",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Harnarayan Taparia",
+     "generation": 2,
+     "parent": null,
+     "spouse": "Rajdulari Devi Taparia (inferred)",
+     "role": "Former Chairman and MD; holding transferred FY26",
+     "certainty": "verified"
+    },
+    {
+     "name": "Deviprasad Kanhaiyalal Taparia",
+     "generation": 2,
+     "parent": "Kanhaiyalal Taparia",
+     "spouse": null,
+     "role": "MD and Chairman",
+     "certainty": "verified"
+    },
+    {
+     "name": "Madhavprasad Ganeshmal Taparia",
+     "generation": 2,
+     "parent": "Ganeshmal Taparia",
+     "spouse": null,
+     "role": "Non-executive Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Jaya Krishna Taparia",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "Former non-executive director; promoter",
+     "certainty": "verified"
+    },
+    {
+     "name": "Sushil Kumar Taparia",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "Promoter",
+     "certainty": "verified"
+    },
+    {
+     "name": "Bharat Jayakrishna Taparia",
+     "generation": 3,
+     "parent": "Jaya Krishna Taparia",
+     "spouse": null,
+     "role": "Non-executive Director",
+     "certainty": "verified"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Taparia Tools Ltd",
+     "listed": "yes",
+     "chain_stage": "hand tools (forging, machining)",
+     "state": "Maharashtra (Satpur, Nashik); Goa",
+     "ownership_note": "Taparia family"
+    },
+    {
+     "name": "Om Shri Yogeshwar Mfg. and Trading Co. Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "promoter group entity",
+     "state": "not checked",
+     "ownership_note": "0.8% holder"
+    },
+    {
+     "name": "Veer Enterprises Ltd",
+     "listed": "no",
+     "chain_stage": "shareholder",
+     "state": "not checked",
+     "ownership_note": "9.0% holder (FY19); link to family not stated"
+    }
+   ],
+   "chain_summary": "Bought alloy steel bars -> forging, machining and finishing -> hand tools for retail and industry.",
+   "splits_disputes": "None found.",
+   "marriage_clues": [
+    {
+     "person": "Shashi Devi Bangur",
+     "detail": "Promoter group member with 5.9%; married surname Bangur. Virendraa Bangur is a non-executive director and Shree Kumar Bangur and Saurabh Bangur were shareholders (FY19)",
+     "possibly_linked_family": "Bangur family (branch not identified)",
+     "certainty": "inferred",
+     "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/de8de034-bfd6-439e-9966-3aac0430934b.pdf"
+    },
+    {
+     "person": "Bhagwati Binani",
+     "detail": "Promoter group member; married surname Binani",
+     "possibly_linked_family": "married surname Binani; family not identified",
+     "certainty": "verified",
+     "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/de8de034-bfd6-439e-9966-3aac0430934b.pdf"
+    },
+    {
+     "person": "Harsha Mundhra",
+     "detail": "Promoter group member (1.65%); married surname Mundhra",
+     "possibly_linked_family": "married surname Mundhra; family not identified",
+     "certainty": "verified",
+     "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/de8de034-bfd6-439e-9966-3aac0430934b.pdf"
+    },
+    {
+     "person": "Mamta Bihani",
+     "detail": "Promoter group member (3.6%); married surname Bihani",
+     "possibly_linked_family": "married surname Bihani; family not identified",
+     "certainty": "verified",
+     "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/de8de034-bfd6-439e-9966-3aac0430934b.pdf"
+    },
+    {
+     "person": "Uma Devi Maheswari / Rahul Maheswari",
+     "detail": "Promoter group holding moved from Uma Devi to Rahul Maheswari in FY26",
+     "possibly_linked_family": "married surname Maheswari; family not identified",
+     "certainty": "verified",
+     "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/de8de034-bfd6-439e-9966-3aac0430934b.pdf"
+    }
+   ],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/de8de034-bfd6-439e-9966-3aac0430934b.pdf",
+    "https://www.bseindia.com/bseplus/AnnualReport/505685/5056850319.pdf",
+    "https://www.tofler.in/taparia-tools-limited/company/L99999MH1965PLC013392",
+    "https://www.goodreturns.in/company/taparia-tools/history.html"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Bedmutha group (K R Bedmutha)",
+   "family": "Bedmutha / Vedmutha family (Nashik)",
+   "display_name": "Bedmutha family (Bedmutha Industries): Kachardas Ratanchand Bedmutha",
+   "decision_office": "Nashik",
+   "founder": {
+    "name": "Kachardas Ratanchand (K R) Bedmutha",
+    "year_founded": null,
+    "native_place": null
+   },
+   "head": {
+    "name": "Kachardas R Bedmutha",
+    "role": "Chairman and Executive Director"
+   },
+   "next_gen": [
+    {
+     "name": "Vijay Kachardas Vedmutha",
+     "relation": "son of K R Bedmutha",
+     "runs": "Managing Director",
+     "since": "not stated"
+    },
+    {
+     "name": "Ajay Kachardas Vedmutha",
+     "relation": "son of K R Bedmutha",
+     "runs": "Managing Director and CFO",
+     "since": "not stated"
+    },
+    {
+     "name": "Yash Vijay Vedmutha",
+     "relation": "son of Vijay",
+     "runs": "Director of a group entity (with Aakansha Vedmutha)",
+     "since": "not stated"
+    }
+   ],
+   "control_summary": "K R Bedmutha, his sons Vijay and Ajay, their wives and Bedmutha Sons Realty Ventures held the promoter stake (FY19: Ajay 14.2%, Vijay 14.0%, Bedmutha Sons Realty 13.2%, K R 9.6%); a large part of the sons' shares was pledged.",
+   "background": "The Bedmutha family of Nashik built a steel wire and copper wire business at the Sinnar co-operative industrial estate (STICE), Nashik. The company listed through an IPO around 2010 with K R Bedmutha and sons Vijay and Ajay as promoters. It makes galvanised and other steel wire, wire products and copper conductors. The sons spell the surname Vedmutha; the father uses Bedmutha.",
+   "milestones": [
+    {
+     "year": 2010,
+     "event": "IPO; promoters K R Bedmutha, Vijay and Ajay Vedmutha, Usha Vedmutha, Bedmutha Sons Realty"
+    },
+    {
+     "year": 2022,
+     "event": "Acuite rates bank loans BBB- / A3"
+    },
+    {
+     "year": 2024,
+     "event": "Infomerics rating; bank facilities cut to Rs 117 crore"
+    }
+   ],
+   "people": [
+    {
+     "name": "Kachardas Ratanchand Bedmutha",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Kamalabai Kachardas Bedmutha",
+     "role": "Chairman and Executive Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Vijay Kachardas Vedmutha",
+     "generation": 2,
+     "parent": "Kachardas Ratanchand Bedmutha",
+     "spouse": "Usha Vijay Vedmutha",
+     "role": "Managing Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Ajay Kachardas Vedmutha",
+     "generation": 2,
+     "parent": "Kachardas Ratanchand Bedmutha",
+     "spouse": "Vinita Ajay Vedmutha",
+     "role": "MD and CFO",
+     "certainty": "verified"
+    },
+    {
+     "name": "Yash Vijay Vedmutha",
+     "generation": 3,
+     "parent": "Vijay Kachardas Vedmutha",
+     "spouse": "Aakansha Vedmutha (inferred)",
+     "role": "Director, group entity",
+     "certainty": "verified"
+    },
+    {
+     "name": "Divya Ajay Vedmutha",
+     "generation": 3,
+     "parent": "Ajay Kachardas Vedmutha",
+     "spouse": null,
+     "role": "Promoter group shareholder",
+     "certainty": "inferred"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Bedmutha Industries Ltd",
+     "listed": "yes",
+     "chain_stage": "steel wire, wire products, copper conductors",
+     "state": "Maharashtra (Sinnar, Nashik; Nardana, Dhule to verify)",
+     "ownership_note": "Bedmutha family"
+    },
+    {
+     "name": "Bedmutha Sons Realty Ventures Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "promoter holding company",
+     "state": "Maharashtra",
+     "ownership_note": "13.2% (FY19)"
+    },
+    {
+     "name": "K R Bedmutha Techno Associates Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "promoter group entity",
+     "state": "Maharashtra",
+     "ownership_note": "1.5% (FY19)"
+    }
+   ],
+   "chain_summary": "Bought steel wire rod and copper -> drawing, galvanising -> steel wire, wire products and copper conductors.",
+   "splits_disputes": "None found.",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b1f59cee-55e0-4389-aaae-43d348d2871f.pdf",
+    "https://www.bseindia.com/bseplus/AnnualReport/533270/5332700319.pdf",
+    "https://www.sebi.gov.in/sebi_data/attachdocs/1287472009976.pdf",
+    "https://www.acuite.in/documents/ratings/revised/28931-RR-20230731.pdf",
+    "https://infomerics.com/admin/uploads/pr-Bedmutha-Industries-6sep24.pdf"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "KSH International (Hegde family)",
+   "family": "Hegde family (KSH International)",
+   "display_name": "Hegde family (KSH International): Kushal Subbayya Hegde",
+   "decision_office": "Pune",
+   "founder": {
+    "name": "Kushal Subbayya Hegde",
+    "year_founded": 1979,
+    "native_place": null
+   },
+   "head": {
+    "name": "Kushal Subbayya Hegde",
+    "role": "Chairman and Executive Director (director since 30 July 1979)"
+   },
+   "next_gen": [
+    {
+     "name": "Rajesh Kushal Hegde",
+     "relation": "son of Kushal Hegde",
+     "runs": "Managing Director",
+     "since": "over two decades in the industry"
+    },
+    {
+     "name": "Rohit Kushal Hegde",
+     "relation": "son of Kushal Hegde",
+     "runs": "Joint MD, now Non-Executive Director",
+     "since": "director since 1 November 2000"
+    }
+   ],
+   "control_summary": "Before the December 2025 IPO, Kushal (about 47%), Rajesh and Rohit (about 19% each) and Pushpa Hegde (about 13%) held about 98%; promoters hold about 71% after the issue (aggregator data). Family trusts and Waterloo Industrial Park VI Pvt Ltd are also named in the promoter group (reported).",
+   "background": "Kushal S Hegde incorporated KSH in 1979 and began making copper winding wire in 1981 at Taloja, Raigad. The company grew into a major maker of magnet winding wire and copper conductors for transformers, motors and generators, with plants at Taloja, Chakan (Pune) and Supa (Ahmednagar). It listed in December 2025 with an IPO of about Rs 626 to 710 crore. CARE describes Rajesh Hegde as the second-generation leader.",
+   "milestones": [
+    {
+     "year": 1979,
+     "event": "Incorporated by Kushal S Hegde"
+    },
+    {
+     "year": 1981,
+     "event": "Operations start at Taloja, Raigad"
+    },
+    {
+     "year": 2000,
+     "event": "Rohit Hegde joins the board"
+    },
+    {
+     "year": 2025,
+     "event": "IPO and listing (December 2025)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Kushal Subbayya Hegde",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Pushpa Kushal Hegde",
+     "role": "Chairman and Executive Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Pushpa Kushal Hegde",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Kushal Subbayya Hegde",
+     "role": "Promoter",
+     "certainty": "reported"
+    },
+    {
+     "name": "Rajesh Kushal Hegde",
+     "generation": 2,
+     "parent": "Kushal Subbayya Hegde",
+     "spouse": "Maithili Rajesh Hegde",
+     "role": "Managing Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Rohit Kushal Hegde",
+     "generation": 2,
+     "parent": "Kushal Subbayya Hegde",
+     "spouse": "Katyayani Subramaniam",
+     "role": "Non-Executive Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Rakhi Girija Shetty",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "Whole-time Director; named as a promoter in IPO reports; relation not stated",
+     "certainty": "reported"
+    }
+   ],
+   "companies": [
+    {
+     "name": "KSH International Ltd",
+     "listed": "yes",
+     "chain_stage": "copper winding wire and conductors",
+     "state": "Maharashtra (Taloja, Raigad; Chakan, Pune; Supa, Ahmednagar)",
+     "ownership_note": "Hegde family about 71% post-IPO"
+    },
+    {
+     "name": "Waterloo Industrial Park VI Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "promoter group entity",
+     "state": "not checked",
+     "ownership_note": "named in promoter group (reported)"
+    }
+   ],
+   "chain_summary": "Bought copper rod -> drawing and enamelling / paper covering -> magnet winding wire for transformers and motors.",
+   "splits_disputes": "None found.",
+   "marriage_clues": [
+    {
+     "person": "Rohit Kushal Hegde",
+     "detail": "Wife Katyayani Subramaniam (maiden surname retained)",
+     "possibly_linked_family": "maiden surname Subramaniam; family not identified",
+     "certainty": "verified",
+     "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4b4069cd-bbbb-4411-8788-e3ed3470cf51.pdf"
+    }
+   ],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4b4069cd-bbbb-4411-8788-e3ed3470cf51.pdf",
+    "https://www.careratings.com/upload/CompanyFiles/PR/202602120237_KSH_International_Limited.pdf",
+    "https://www.chittorgarh.com/ipo/ksh-international-ipo/2454/",
+    "https://www.indmoney.com/ipo/ksh-international-ltd-ipo"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Balu Forge (Chandock family)",
+   "family": "Chandock family (Balu Forge)",
+   "display_name": "Chandock family (Balu Forge): Jaspalsingh Prehladsingh Chandock",
+   "decision_office": "Mumbai (plants at Belagavi)",
+   "founder": {
+    "name": "Prehlad Singh (late), founder of Balu India, Belgaum",
+    "year_founded": 1989,
+    "native_place": null
+   },
+   "head": {
+    "name": "Jaspalsingh Prehladsingh Chandock",
+    "role": "Chairman (promoter; earlier MD)"
+   },
+   "next_gen": [
+    {
+     "name": "Trimaan Jaspalsingh Chandock",
+     "relation": "son of Jaspalsingh",
+     "runs": "Whole-time Director",
+     "since": "not stated"
+    },
+    {
+     "name": "Jaikaran Jaspalsingh Chandock",
+     "relation": "son of Jaspalsingh, brother of Trimaan",
+     "runs": "Whole-time Director",
+     "since": "not stated"
+    }
+   ],
+   "control_summary": "Jaspalsingh Chandock held about 50 to 53% in 2025 SEBI takeover filings; both sons were allotted 15 lakh shares each in March 2026.",
+   "background": "Balu India was founded in Belgaum in 1989 as a proprietorship by the late Prehlad Singh, and Jaspalsingh Chandock built it under his guidance into a crankshaft forging and machining business. Under a Business Succession Agreement of 3 August 2020 the proprietorship was reverse-merged into a listed shell (incorporated 1989 as Bell Agromachina, later Amaze Entertech), renamed Balu Forge Industries. Plants are at Kakti Industrial Area, Belagavi, Karnataka. The two sons now serve as whole-time directors.",
+   "milestones": [
+    {
+     "year": 1989,
+     "event": "Balu India founded at Belgaum by Prehlad Singh"
+    },
+    {
+     "year": 2016,
+     "event": "Listed shell renamed Amaze Entertech"
+    },
+    {
+     "year": 2020,
+     "event": "Business succession / reverse merger of Balu India into the listed company"
+    },
+    {
+     "year": 2026,
+     "event": "Preferential shares to Trimaan and Jaikaran Chandock"
+    }
+   ],
+   "people": [
+    {
+     "name": "Prehlad Singh",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Founder of Balu India (late)",
+     "certainty": "reported"
+    },
+    {
+     "name": "Jaspalsingh Prehladsingh Chandock",
+     "generation": 2,
+     "parent": "Prehlad Singh",
+     "spouse": "Nivjeet Chandock",
+     "role": "Chairman, promoter",
+     "certainty": "verified"
+    },
+    {
+     "name": "Trimaan Jaspalsingh Chandock",
+     "generation": 3,
+     "parent": "Jaspalsingh Prehladsingh Chandock",
+     "spouse": null,
+     "role": "Whole-time Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Jaikaran Jaspalsingh Chandock",
+     "generation": 3,
+     "parent": "Jaspalsingh Prehladsingh Chandock",
+     "spouse": "Mukta Chandock",
+     "role": "Whole-time Director",
+     "certainty": "verified"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Balu Forge Industries Ltd",
+     "listed": "yes",
+     "chain_stage": "closed-die forgings, crankshafts, machining",
+     "state": "Karnataka (Kakti, Belagavi)",
+     "ownership_note": "Chandock family about 50%+"
+    },
+    {
+     "name": "Balu India (proprietorship)",
+     "listed": "no",
+     "chain_stage": "forging (merged 2020)",
+     "state": "Karnataka",
+     "ownership_note": "merged into listed company"
+    }
+   ],
+   "chain_summary": "Bought forging-quality steel bars -> closed-die forging -> machined crankshafts and components for auto, defence and export.",
+   "splits_disputes": "None found.",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c9be7852-d397-4a56-b603-acd4615b7fc0.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3a400068-0771-45c8-b6b7-6a23602625ae.pdf",
+    "https://www.icra.in/Rationale/ShowRationaleReport/?Id=140812",
+    "https://nsearchives.nseindia.com/corporate/team_bbodade_27062025152152_BALUFORGE.pdf"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Alicon Castalloy (Rai family)",
+   "family": "Rai family (Alicon Castalloy, Pune)",
+   "display_name": "Rai family (Alicon Castalloy): Shailendrajit Rai",
+   "decision_office": "Pune",
+   "founder": {
+    "name": "Shailendrajit (S) Rai, through Pegasus Castalloy (founder attribution inferred from control)",
+    "year_founded": 1990,
+    "native_place": null
+   },
+   "head": {
+    "name": "Shailendrajit (S) Rai",
+    "role": "Managing Director"
+   },
+   "next_gen": [],
+   "control_summary": "Promoter stake about 54%, mostly through Nastic Trading LLP (about 50.6% in FY19); Enkei Corporation, Japan holds about 14%. Rajeev Sikand is the professional CEO.",
+   "background": "The business began as Pegasus Castalloy (incorporated December 1990 as Pegasus Wheels), which formed Enkei Castalloy as a joint venture with Japan's Enkei Corporation. Loss-making alloy wheels were hived off into Enkei Wheels from April 2009 and the castings company was renamed Alicon Castalloy in 2010. It makes aluminium castings such as cylinder heads and engine brackets at Shikrapur and Chinchwad (Pune) and Binola (Haryana), and owns Illichmann Castalloy in Slovakia. S Rai's sisters Vinita Chandra and Meenal Gidwani asked in April 2019 to be reclassified out of the promoter group.",
+   "milestones": [
+    {
+     "year": 1990,
+     "event": "Pegasus Wheels / Pegasus Castalloy incorporated"
+    },
+    {
+     "year": 2009,
+     "event": "Alloy wheels hived off to Enkei Wheels"
+    },
+    {
+     "year": 2010,
+     "event": "Enkei Castalloy renamed Alicon Castalloy"
+    },
+    {
+     "year": 2019,
+     "event": "S Rai's sisters reclassified from promoter to public"
+    }
+   ],
+   "people": [
+    {
+     "name": "Shailendrajit Rai",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Pamela Rai",
+     "role": "Managing Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Pamela Rai",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Shailendrajit Rai",
+     "role": "Non-Executive Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Vinita Chandra",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Sister of S Rai; left promoter group 2019",
+     "certainty": "verified"
+    },
+    {
+     "name": "Meenal Gidwani",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Sister of S Rai; left promoter group 2019",
+     "certainty": "verified"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Alicon Castalloy Ltd",
+     "listed": "yes",
+     "chain_stage": "aluminium castings and machining",
+     "state": "Maharashtra (Shikrapur, Chinchwad, Pune); Haryana (Binola)",
+     "ownership_note": "Rai family via Nastic Trading LLP; Enkei about 14%"
+    },
+    {
+     "name": "Nastic Trading LLP",
+     "listed": "no",
+     "chain_stage": "promoter holding vehicle",
+     "state": "Maharashtra",
+     "ownership_note": "about 50% of Alicon"
+    },
+    {
+     "name": "Illichmann Castalloy",
+     "listed": "no",
+     "chain_stage": "aluminium castings",
+     "state": "Slovakia",
+     "ownership_note": "subsidiary"
+    },
+    {
+     "name": "Enkei Wheels (India) Ltd",
+     "listed": "no",
+     "chain_stage": "alloy wheels",
+     "state": "Maharashtra",
+     "ownership_note": "hived off 2009; S Rai is a director"
+    }
+   ],
+   "chain_summary": "Bought aluminium ingot / alloy -> gravity and low-pressure die casting -> machined engine and structural parts for auto OEMs.",
+   "splits_disputes": "Alloy wheels business separated into Enkei Wheels in 2009.",
+   "marriage_clues": [
+    {
+     "person": "Vinita Chandra",
+     "detail": "Sister of S Rai; married surname Chandra",
+     "possibly_linked_family": "married surname Chandra; family not identified",
+     "certainty": "verified",
+     "source": "https://www.bseindia.com/bseplus/AnnualReport/531147/5311470319.pdf"
+    },
+    {
+     "person": "Meenal Gidwani",
+     "detail": "Sister of S Rai; married surname Gidwani",
+     "possibly_linked_family": "married surname Gidwani; family not identified",
+     "certainty": "verified",
+     "source": "https://www.bseindia.com/bseplus/AnnualReport/531147/5311470319.pdf"
+    }
+   ],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/56fd65aa-072f-4aea-9ac1-d055bbcb57de.pdf",
+    "https://www.bseindia.com/bseplus/AnnualReport/531147/5311470319.pdf",
+    "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/AliconCastalloyLimited_March%2027_%202024_RR_340610.html"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Precision Camshafts (Yatin Shah)",
+   "family": "Shah family (Precision Camshafts, Solapur)",
+   "display_name": "Shah family (Precision Camshafts): Yatin Subhash Shah",
+   "decision_office": "Solapur",
+   "founder": {
+    "name": "Yatin Subhash Shah with Dr Suhasini Yatin Shah (first-generation entrepreneurs)",
+    "year_founded": 1992,
+    "native_place": null
+   },
+   "head": {
+    "name": "Yatin S Shah",
+    "role": "Chairman and Managing Director"
+   },
+   "next_gen": [
+    {
+     "name": "Karan Yatin Shah",
+     "relation": "son of Yatin and Suhasini Shah",
+     "runs": "Whole-time / Executive Director (business development)",
+     "since": "not stated"
+    }
+   ],
+   "control_summary": "Yatin Shah (about 39.5%), Dr Suhasini Shah (about 11%) and Cams Technology Ltd (about 13%) held the promoter stake in FY19.",
+   "background": "Yatin and Dr Suhasini Shah set up Precision Camshafts at Solapur in June 1992. It became a leading maker of cast and machined camshafts for global carmakers from its Chincholi MIDC plants. It listed in 2016 and bought MEMCO (Germany) and EMOSS (Netherlands, electric drivelines). Son Karan Shah works in the business.",
+   "milestones": [
+    {
+     "year": 1992,
+     "event": "Incorporated at Solapur"
+    },
+    {
+     "year": 2016,
+     "event": "IPO and listing"
+    },
+    {
+     "year": 2018,
+     "event": "Early co-promoter Jayant Aradhye resigns from board"
+    }
+   ],
+   "people": [
+    {
+     "name": "Yatin Subhash Shah",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Dr Suhasini Yatin Shah",
+     "role": "Chairman and MD",
+     "certainty": "verified"
+    },
+    {
+     "name": "Dr Suhasini Yatin Shah",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Yatin Subhash Shah",
+     "role": "Co-founder; Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Karan Yatin Shah",
+     "generation": 2,
+     "parent": "Yatin Subhash Shah",
+     "spouse": "Mayura K. Shah",
+     "role": "Whole-time Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Tanvi Yatin Shah",
+     "generation": 2,
+     "parent": "Yatin Subhash Shah",
+     "spouse": null,
+     "role": "Daughter; relative of KMP",
+     "certainty": "verified"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Precision Camshafts Ltd",
+     "listed": "yes",
+     "chain_stage": "cast iron camshafts, machining",
+     "state": "Maharashtra (Chincholi MIDC, Solapur)",
+     "ownership_note": "Shah family"
+    },
+    {
+     "name": "Cams Technology Ltd",
+     "listed": "no",
+     "chain_stage": "promoter group company",
+     "state": "Maharashtra",
+     "ownership_note": "about 13% of PCL"
+    },
+    {
+     "name": "MEMCO Engineering",
+     "listed": "no",
+     "chain_stage": "machined components",
+     "state": "Germany",
+     "ownership_note": "subsidiary"
+    },
+    {
+     "name": "EMOSS Mobile Systems",
+     "listed": "no",
+     "chain_stage": "electric drivelines",
+     "state": "Netherlands",
+     "ownership_note": "subsidiary"
+    }
+   ],
+   "chain_summary": "Bought pig iron and scrap -> foundry casting -> machined camshafts for engines; EV drivelines through EMOSS.",
+   "splits_disputes": "None found.",
+   "marriage_clues": [
+    {
+     "person": "Dr Suhasini Yatin Shah",
+     "detail": "Her mother is Dr Manjiri V Chitale (promoter group), so her maiden surname is Chitale",
+     "possibly_linked_family": "Chitale family; not identified",
+     "certainty": "verified",
+     "source": "https://www.bseindia.com/bseplus/AnnualReport/539636/5396360319.pdf"
+    }
+   ],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/65c21fea-fa85-4a0c-a174-5c73f61ac9e8.pdf",
+    "https://www.bseindia.com/bseplus/AnnualReport/539636/5396360319.pdf",
+    "https://www.autocarpro.in/feature/transparency-mantra-precision-camshafts-3874"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Endurance group (Anurang Jain)",
+   "family": "Jain family (Endurance Technologies, Aurangabad)",
+   "display_name": "Jain family (Endurance): Anurang Jain",
+   "decision_office": "Aurangabad (Chhatrapati Sambhajinagar)",
+   "founder": {
+    "name": "Anurang Jain",
+    "year_founded": 1985,
+    "native_place": null
+   },
+   "head": {
+    "name": "Anurang Jain",
+    "role": "Managing Director"
+   },
+   "next_gen": [
+    {
+     "name": "Rohan Jain",
+     "relation": "son of Anurang Jain",
+     "runs": "no executive role found; beneficiary of Anurang Rohan Trust",
+     "since": "not stated"
+    },
+    {
+     "name": "Rhea Jain Kapoor",
+     "relation": "daughter of Anurang Jain",
+     "runs": "no executive role found; Anurang Rhea Trust",
+     "since": "not stated"
+    }
+   ],
+   "control_summary": "Promoters hold 75%: Anurang Jain directly about 31%, Anurang Rohan Trust 20%, NC Trust (Suman Jain) 12% and Anurang Rhea Trust (Naresh Chandra) 12% (FY19).",
+   "background": "Anurang Jain started in 1985 supplying aluminium castings to Bajaj Auto from Aurangabad; two family companies, Anurang Engineering and Endurance Transmission Systems, later merged into Endurance Technologies. His mother, Suman Jain, is a sister of Rahul Bajaj, and his identical twin, Tarang Jain, founded Varroc; both businesses grew from the Bajaj supply base. Endurance makes aluminium castings, suspension, transmission and braking parts, with plants across Maharashtra and other states and subsidiaries in Italy and Germany, and listed in 2016. Father Naresh Chandra chaired both Endurance and Varroc until he stepped down in 2020 (reported).",
+   "milestones": [
+    {
+     "year": 1985,
+     "event": "Business started, supplying castings to Bajaj Auto"
+    },
+    {
+     "year": 2016,
+     "event": "Family trusts set up; IPO and listing (October 2016)"
+    },
+    {
+     "year": 2020,
+     "event": "Naresh Chandra steps down as chairman (reported)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Naresh Chandra Jain",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Suman Nareshchandra Jain",
+     "role": "Father; former Chairman of Endurance and Varroc",
+     "certainty": "verified"
+    },
+    {
+     "name": "Suman Nareshchandra Jain",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Naresh Chandra Jain",
+     "role": "Mother; trustee of NC Trust; sister of Rahul Bajaj (reported)",
+     "certainty": "verified"
+    },
+    {
+     "name": "Anurang Jain",
+     "generation": 2,
+     "parent": "Naresh Chandra Jain",
+     "spouse": "Varsha Jain",
+     "role": "Managing Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Tarang Jain",
+     "generation": 2,
+     "parent": "Naresh Chandra Jain",
+     "spouse": null,
+     "role": "Twin brother; founder and head of Varroc group",
+     "certainty": "reported"
+    },
+    {
+     "name": "Rohan Jain",
+     "generation": 3,
+     "parent": "Anurang Jain",
+     "spouse": null,
+     "role": "Son",
+     "certainty": "verified"
+    },
+    {
+     "name": "Rhea Jain Kapoor",
+     "generation": 3,
+     "parent": "Anurang Jain",
+     "spouse": null,
+     "role": "Daughter",
+     "certainty": "verified"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Endurance Technologies Ltd",
+     "listed": "yes",
+     "chain_stage": "aluminium die castings, suspension, transmission, braking",
+     "state": "Maharashtra (Waluj, Shendra, Chakan); Uttarakhand, Haryana, Gujarat, Tamil Nadu, Karnataka",
+     "ownership_note": "Jain family 75%"
+    },
+    {
+     "name": "Endurance overseas subsidiaries",
+     "listed": "no",
+     "chain_stage": "castings",
+     "state": "Italy, Germany",
+     "ownership_note": "subsidiaries"
+    },
+    {
+     "name": "Varroc Engineering Ltd",
+     "listed": "yes",
+     "chain_stage": "auto lighting and electricals",
+     "state": "Maharashtra (Aurangabad)",
+     "ownership_note": "Tarang Jain's group; related party, not owned by Endurance"
+    }
+   ],
+   "chain_summary": "Bought aluminium alloy -> die casting and machining -> two-wheeler and car components (suspension, braking, transmission) for Bajaj and other OEMs.",
+   "splits_disputes": "No dispute found; the twins run separate groups (Endurance and Varroc).",
+   "marriage_clues": [
+    {
+     "person": "Suman Nareshchandra Jain",
+     "detail": "Mother of Anurang Jain; reported as Rahul Bajaj's sister",
+     "possibly_linked_family": "Bajaj family (Jamnalal Bajaj line)",
+     "certainty": "reported",
+     "source": "https://www.forbesindia.com/article/billionaires/how-anurang-jain-turned-endurance-into-a-global-auto-components-powerhouseby-samar-srivastava/2989407/1"
+    },
+    {
+     "person": "Rhea Jain Kapoor",
+     "detail": "Daughter of Anurang Jain; married surname Kapoor",
+     "possibly_linked_family": "married surname Kapoor; family not identified",
+     "certainty": "verified",
+     "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b7a9e236-ebe8-47b4-92d3-cd1b319dc1e0.pdf"
+    }
+   ],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b7a9e236-ebe8-47b4-92d3-cd1b319dc1e0.pdf",
+    "https://www.bseindia.com/bseplus/AnnualReport/540153/5401530319.pdf",
+    "https://www.forbesindia.com/article/billionaires/how-anurang-jain-turned-endurance-into-a-global-auto-components-powerhouseby-samar-srivastava/2989407/1",
+    "https://www.forbes.com/profile/anurang-jain/"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Everest Kanto (Khurana family)",
+   "family": "Khurana family (Everest Kanto Cylinder)",
+   "display_name": "Khurana family (Everest Kanto): Pushkar and Puneet Khurana",
+   "decision_office": "Mumbai",
+   "founder": {
+    "name": "Prem Kumar (P K) Khurana (late)",
+    "year_founded": 1978,
+    "native_place": null
+   },
+   "head": {
+    "name": "Pushkar Prem Kumar Khurana",
+    "role": "Chairman and Executive Director (Chairman since November 2019)"
+   },
+   "next_gen": [
+    {
+     "name": "Puneet Prem Kumar Khurana",
+     "relation": "son of P K Khurana",
+     "runs": "Managing Director",
+     "since": "about 15 years in business (2021)"
+    }
+   ],
+   "control_summary": "Suman Premkumar Khurana (24.4%), Khurana Gases Pvt Ltd (15.9%), Puneet (9.3%) and Pushkar (9.1%) are the main promoter holders (FY26).",
+   "background": "P K Khurana incorporated Everest Kanto Cylinder in June 1978, initially jointly with the Thakkar family, who withdrew in 1983 (reported). It became India's largest maker of high-pressure seamless gas cylinders for industrial gases and CNG, with plants at Tarapur (Maharashtra) and Kandla (Gujarat) and overseas units in Dubai and the USA (CP Industries). After P K Khurana stepped down in 2019 and later died, his sons Pushkar and Puneet took over. CARE noted allegations by a former CFO in 2019.",
+   "milestones": [
+    {
+     "year": 1978,
+     "event": "Incorporated by P K Khurana"
+    },
+    {
+     "year": 1983,
+     "event": "Thakkar family exits (reported)"
+    },
+    {
+     "year": 2019,
+     "event": "Pushkar Khurana becomes Chairman; P K Khurana steps down"
+    },
+    {
+     "year": 2024,
+     "event": "SEBI order of 14 August 2024 referenced in filings (exemption for Pushkar Family Trust transfer, reported)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Prem Kumar Khurana",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Suman Premkumar Khurana",
+     "role": "Founder (late)",
+     "certainty": "verified"
+    },
+    {
+     "name": "Suman Premkumar Khurana",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Prem Kumar Khurana",
+     "role": "Largest individual promoter, 24.4%",
+     "certainty": "verified"
+    },
+    {
+     "name": "Pushkar Prem Kumar Khurana",
+     "generation": 2,
+     "parent": "Prem Kumar Khurana",
+     "spouse": null,
+     "role": "Chairman and Executive Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Puneet Prem Kumar Khurana",
+     "generation": 2,
+     "parent": "Prem Kumar Khurana",
+     "spouse": null,
+     "role": "Managing Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Varun Khurana",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "Promoter group, 3.9%; relation not stated",
+     "certainty": "verified"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Everest Kanto Cylinder Ltd",
+     "listed": "yes",
+     "chain_stage": "seamless steel gas cylinders, CNG cascades",
+     "state": "Maharashtra (Tarapur); Gujarat (Kandla / Gandhidham)",
+     "ownership_note": "Khurana family"
+    },
+    {
+     "name": "Khurana Gases Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "promoter holding company",
+     "state": "Maharashtra",
+     "ownership_note": "15.9% of EKC"
+    },
+    {
+     "name": "CP Industries Holdings",
+     "listed": "no",
+     "chain_stage": "jumbo cylinders",
+     "state": "USA (Pennsylvania)",
+     "ownership_note": "subsidiary"
+    },
+    {
+     "name": "EKC Dubai subsidiary",
+     "listed": "no",
+     "chain_stage": "cylinders",
+     "state": "UAE",
+     "ownership_note": "subsidiary"
+    }
+   ],
+   "chain_summary": "Bought seamless steel tube / billets -> cylinder forming and heat treatment -> high-pressure gas and CNG cylinders.",
+   "splits_disputes": "2019 allegations by an ex-CFO against the company and promoters (CARE). Thakkar family exit in 1983 (reported).",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/96447a6d-e139-4ea5-888b-18bc77535e54.pdf",
+    "https://www.bseindia.com/bseplus/AnnualReport/532684/5326840319.pdf",
+    "https://www.careratings.com/upload/CompanyFiles/PR/25112021065042_Everest_Kanto_Cylinder_Limited.pdf",
+    "https://www.goodreturns.in/company/everest-kanto-cylinder/history.html"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Ador group (J B Advani)",
+   "family": "Advani, Malkani, Mirchandani and Lalvani families (Ador group)",
+   "display_name": "Ador group (Advani and Malkani families): Ninotchka Malkani Nagpal",
+   "decision_office": "Mumbai",
+   "founder": {
+    "name": "Five Karachi partners: Kanwalsing Malkani, Vasanmal Malkani, Jotsing Advani, Bhagwansing Advani, Gopaldas Mirchandani (company blog)",
+    "year_founded": 1908,
+    "native_place": "Karachi (group origin)"
+   },
+   "head": {
+    "name": "Ninotchka Malkani Nagpal",
+    "role": "Executive Chairman, Ador Welding (since November 2019); earlier Chairman of J B Advani and Co"
+   },
+   "next_gen": [
+    {
+     "name": "Aditya Tarachand Malkani",
+     "relation": "fourth-generation family member (reported)",
+     "runs": "Managing Director, Ador Welding",
+     "since": "director since 27 July 2007"
+    },
+    {
+     "name": "Deep Ashda Lalvani",
+     "relation": "fourth-generation family member (reported)",
+     "runs": "Non-executive Director, Ador Welding",
+     "since": "not stated"
+    },
+    {
+     "name": "Ravin A Mirchandani",
+     "relation": "fourth-generation family member (reported)",
+     "runs": "Ador group (Ador Powertron / other group companies)",
+     "since": "not stated"
+    },
+    {
+     "name": "Tanya Halina Advani",
+     "relation": "fourth-generation family member (reported)",
+     "runs": "Ador group company",
+     "since": "not stated"
+    }
+   ],
+   "control_summary": "Holding company J B Advani and Co Pvt Ltd owns 45.2% of Ador Welding (FY26; 50.0% in FY19); the founding families hold J B Advani and Co. The annual report says no two directors are related as defined by law.",
+   "background": "The group traces to a trading firm, J B Advani and Co, set up in Karachi in 1908 by five partners from the Advani, Malkani and Mirchandani families. In 1951 J B Advani and Co and Switzerland's Oerlikon-Buhrle set up Advani-Oerlikon, India's first maker of welding electrodes and equipment, which listed in 1986 and was renamed Ador Welding in 2003. The group also has Ador Fontech, Ador Powertron and consumer businesses. It is run by the fourth generation of the founding families: Ninotchka Malkani Nagpal chairs, Aditya Malkani is MD; Aruna B Advani was Executive Chairman in 2019.",
+   "milestones": [
+    {
+     "year": 1908,
+     "event": "J B Advani and Co started in Karachi"
+    },
+    {
+     "year": 1925,
+     "event": "J B Advani and Co Pvt Ltd incorporated in Bombay (CIN year)"
+    },
+    {
+     "year": 1951,
+     "event": "Advani-Oerlikon set up with Oerlikon-Buhrle"
+    },
+    {
+     "year": 1986,
+     "event": "IPO"
+    },
+    {
+     "year": 2003,
+     "event": "Renamed Ador Welding Ltd"
+    },
+    {
+     "year": 2019,
+     "event": "Ninotchka Malkani Nagpal becomes Executive Chairman"
+    }
+   ],
+   "people": [
+    {
+     "name": "Kanwalsing Malkani",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Co-founder, 1908",
+     "certainty": "reported"
+    },
+    {
+     "name": "Vasanmal Malkani",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Co-founder, 1908",
+     "certainty": "reported"
+    },
+    {
+     "name": "Jotsing Advani",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Co-founder, 1908",
+     "certainty": "reported"
+    },
+    {
+     "name": "Bhagwansing Advani",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Co-founder, 1908",
+     "certainty": "reported"
+    },
+    {
+     "name": "Gopaldas Mirchandani",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Co-founder, 1908",
+     "certainty": "reported"
+    },
+    {
+     "name": "Aruna Bhagwan Advani",
+     "generation": 3,
+     "parent": null,
+     "spouse": null,
+     "role": "Executive Chairman 2019; now relative of KMP; 2.2% holder",
+     "certainty": "verified"
+    },
+    {
+     "name": "Ninotchka Malkani Nagpal",
+     "generation": 4,
+     "parent": null,
+     "spouse": null,
+     "role": "Executive Chairman",
+     "certainty": "verified"
+    },
+    {
+     "name": "Aditya Tarachand Malkani",
+     "generation": 4,
+     "parent": null,
+     "spouse": "Shirin Aditya Malkani",
+     "role": "Managing Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Deep Ashda Lalvani",
+     "generation": 4,
+     "parent": null,
+     "spouse": null,
+     "role": "Non-executive Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Ravin A Mirchandani",
+     "generation": 4,
+     "parent": null,
+     "spouse": null,
+     "role": "Group; promoter shareholder",
+     "certainty": "reported"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ador Welding Ltd",
+     "listed": "yes",
+     "chain_stage": "welding electrodes, wires, equipment; project engineering",
+     "state": "Maharashtra (Chinchwad, Pune); Dadra and Nagar Haveli (Silvassa); Chhattisgarh (Raipur)",
+     "ownership_note": "J B Advani and Co 45.2%"
+    },
+    {
+     "name": "J B Advani and Co Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "family holding company",
+     "state": "Maharashtra",
+     "ownership_note": "held by founding families"
+    },
+    {
+     "name": "Ador Fontech Ltd",
+     "listed": "yes",
+     "chain_stage": "welding and surfacing (reclamation)",
+     "state": "Karnataka",
+     "ownership_note": "Ador group"
+    },
+    {
+     "name": "Ador Powertron Ltd",
+     "listed": "no",
+     "chain_stage": "power electronics",
+     "state": "Maharashtra",
+     "ownership_note": "subsidiary of J B Advani and Co"
+    }
+   ],
+   "chain_summary": "Bought steel wire rod and fluxes -> electrodes and welding wire; welding machines -> fabrication users in steel, power and infrastructure.",
+   "splits_disputes": "None found.",
+   "marriage_clues": [
+    {
+     "person": "Ninotchka Malkani Nagpal",
+     "detail": "Married surname Nagpal (keeps Malkani)",
+     "possibly_linked_family": "married surname Nagpal; family not identified",
+     "certainty": "verified",
+     "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/84fa8fa1-8466-4235-b10e-9ee53523bc61.pdf"
+    }
+   ],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/84fa8fa1-8466-4235-b10e-9ee53523bc61.pdf",
+    "https://www.bseindia.com/bseplus/AnnualReport/517041/5170410319.pdf",
+    "https://adorwelding.blogspot.com/2012/03/ador-welding-limited-history.html",
+    "https://www.adorgroup.com/our_journey",
+    "https://yourstory.com/smbstory/mumbai-ador-multiproducts-betting-beauty-skincare"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Systematic Industries (Agarwal family)",
+   "family": "Agarwal family (Systematic Industries)",
+   "display_name": "Agarwal family (Systematic Industries): Siddharth Rajendra Agarwal",
+   "decision_office": "Mumbai (Mulund)",
+   "founder": {
+    "name": "Siddharth Rajendra Agarwal (on board since incorporation)",
+    "year_founded": 2000,
+    "native_place": null
+   },
+   "head": {
+    "name": "Siddharth Rajendra Agarwal",
+    "role": "Chairman and Managing Director"
+   },
+   "next_gen": [],
+   "control_summary": "Promoters Siddharth Rajendra Agarwal and Satya Rajendra Agrawal and the promoter group held about 73% after the October 2025 SME IPO; Siddhant Ispat Pvt Ltd sold shares in the offer.",
+   "background": "Systematic Industries was incorporated in March 2000 and began at Village Sayli, Silvassa, making steel wire for power transmission, telecom and infrastructure. CareEdge's industry report calls it India's third-largest steel wire group. It added units at Sarigam (Umbergaon) and a cable armour wire plant at Vapi, and has announced a site in Chhattisgarh. It listed on BSE SME on 1 October 2025 after an IPO of about Rs 116 crore.",
+   "milestones": [
+    {
+     "year": 2000,
+     "event": "Incorporated (March 2000)"
+    },
+    {
+     "year": 2025,
+     "event": "BSE SME IPO and listing (1 October 2025)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Rajendra Agarwal",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Father of both promoters (patronymic only)",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Siddharth Rajendra Agarwal",
+     "generation": 2,
+     "parent": "Rajendra Agarwal",
+     "spouse": null,
+     "role": "Chairman and MD",
+     "certainty": "verified"
+    },
+    {
+     "name": "Satya Rajendra Agrawal",
+     "generation": 2,
+     "parent": "Rajendra Agarwal",
+     "spouse": null,
+     "role": "Promoter; relation to Siddharth inferred (same father's name)",
+     "certainty": "inferred"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Systematic Industries Ltd",
+     "listed": "yes",
+     "chain_stage": "galvanised steel wire, cable armour wire",
+     "state": "Dadra and Nagar Haveli (Silvassa); Gujarat (Sarigam, Vapi); Chhattisgarh (announced)",
+     "ownership_note": "Agarwal family about 73%"
+    },
+    {
+     "name": "Siddhant Ispat Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "promoter group company",
+     "state": "not checked",
+     "ownership_note": "selling shareholder in IPO"
+    },
+    {
+     "name": "Two group companies in similar business (names not checked)",
+     "listed": "no",
+     "chain_stage": "steel wire",
+     "state": "not checked",
+     "ownership_note": "IPO risk factor: potential conflict of interest"
+    }
+   ],
+   "chain_summary": "Bought steel wire rod -> drawing and galvanising -> steel wire for transmission conductors, cable armouring and telecom.",
+   "splits_disputes": "IPO document flags legal proceedings of about Rs 1.75 crore against the company and promoters (reported).",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e194fe51-9acb-49f8-8fd2-12c8dfdbc241.pdf",
+    "https://www.chittorgarh.com/ipo_review/systematic-industries-ipo/4748/",
+    "https://groww.in/ipo/systematic-industries-ipo",
+    "https://www.equentis.com/ipos/systematic-industries-ltd-ipo_66693"
+   ],
+   "certainty": "reported"
+  },
+  {
+   "group": "Saint-Gobain (Grindwell Norton)",
+   "family": null,
+   "display_name": "Grindwell Norton (Saint-Gobain, France)",
+   "decision_office": "Mumbai (India); Paris La Defense (parent)",
+   "owner": "Compagnie de Saint-Gobain, France: 51.6% held through the group, including 24.6% via Societe de Participations Financieres et Industrielles (FY26)",
+   "indian_leadership": "Venugopal Shanbhag, Managing Director since 1 April 2025 (succeeded B Santhanam); Sreedhar Natarajan, Saint-Gobain nominee director",
+   "control_summary": "Saint-Gobain controls Grindwell Norton with 51.6%; the rest is public.",
+   "companies": [
+    {
+     "name": "Grindwell Norton Ltd",
+     "listed": "yes",
+     "chain_stage": "abrasives, silicon carbide, performance ceramics and plastics",
+     "state": "Karnataka (Bengaluru), Andhra Pradesh (Tirupati), Maharashtra (Nagpur), Gujarat (Halol) and others",
+     "ownership_note": "Saint-Gobain 51.6%"
+    },
+    {
+     "name": "Saint-Gobain India Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "glass, gypsum, building products",
+     "state": "various",
+     "ownership_note": "Saint-Gobain group (separate)"
+    }
+   ],
+   "chain_summary": "Bauxite / alumina and silica inputs -> fused abrasives and silicon carbide -> grinding wheels, coated abrasives and ceramics.",
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/39f8ca02-f396-440c-9b65-d8eeb9a0de38.pdf"
+   ],
+   "certainty": "verified"
+  }
+ ],
+ "links": [
+  {
+   "from_group": "Man group (R C Mansukhani)",
+   "to_group": "Man Infraprojects (J C Mansukhani)",
+   "type": "split",
+   "description": "2013 settlement of the Mansukhani brothers' dispute: R C kept Man Industries; J C took the demerged real estate company Man Infraprojects (hived off with effect from 1 April 2014). J C's stake in Man Industries fell from 18.7% (FY15) to about 0.02% (FY26).",
+   "source": "https://www.business-standard.com/article/companies/man-industries-promoters-split-businesses-113091600007_1.html",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Man group (R C Mansukhani)",
+   "to_group": "Man Infraconstruction (Parag Shah family)",
+   "type": "cross-holding",
+   "description": "No link found. Our company file lists Man Infraconstruction as a group company, but its promoters are the Parag Shah family and Man Industries' filings do not show it as a related party. Treat as unrelated unless shown otherwise.",
+   "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9627e5dc-a6a3-40e6-b412-2313a0e99f33.pdf",
+   "certainty": "inferred"
+  },
+  {
+   "from_group": "RR Global group (Kabra family)",
+   "to_group": "RR Global group (Kabra family)",
+   "type": "cross-holding",
+   "description": "Ram Ratna Wires and RR Kabel are run by different branches of the same Kabra family (Mahendrakumar at RRW; Tribhuvanprasad and Shreegopal and sons at RR Kabel). RR Kabel held 4.1% of RRW (FY19) and carries an RRW investment of about Rs 163 crore (FY26).",
+   "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d03c1b22-d5c8-467d-958d-810cbe0aff3d.pdf",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "RR Global group (Kabra family)",
+   "to_group": "Loya family",
+   "type": "marriage",
+   "description": "Satyanarayan Loya, RRW director until March 2019, is disclosed as father-in-law of Tribhuvanprasad Kabra.",
+   "source": "https://www.bseindia.com/bseplus/AnnualReport/522281/5222810319.pdf",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "Endurance group (Anurang Jain)",
+   "to_group": "Bajaj group (Jamnalal Bajaj family)",
+   "type": "marriage",
+   "description": "Anurang Jain's mother, Suman Jain, is reported as a sister of the late Rahul Bajaj, so Rahul Bajaj was his maternal uncle. Endurance began in 1985 supplying castings to Bajaj Auto.",
+   "source": "https://www.forbesindia.com/article/billionaires/how-anurang-jain-turned-endurance-into-a-global-auto-components-powerhouseby-samar-srivastava/2989407/1",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Endurance group (Anurang Jain)",
+   "to_group": "Varroc group (Tarang Jain)",
+   "type": "shared ancestry",
+   "description": "Anurang Jain and Varroc founder Tarang Jain are identical twins, sons of Naresh Chandra Jain and Suman Jain. Naresh Chandra was non-executive Chairman of both Endurance and Varroc in 2019; Varroc is disclosed as an enterprise controlled by KMP relatives.",
+   "source": "https://www.bseindia.com/bseplus/AnnualReport/540153/5401530319.pdf",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "Taparia Tools (Taparia family)",
+   "to_group": "Bangur family",
+   "type": "marriage",
+   "description": "Shashi Devi Bangur is in the Taparia promoter group (5.9%) and Virendraa Bangur has been a non-executive director since 2004; Shree Kumar Bangur and Saurabh Bangur were shareholders in FY19. A marriage link is likely but the exact tie and Bangur branch are not stated.",
+   "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/de8de034-bfd6-439e-9966-3aac0430934b.pdf",
+   "certainty": "inferred"
+  },
+  {
+   "from_group": "Taparia Tools (Taparia family)",
+   "to_group": "Supreme Industries (Taparia family)",
+   "type": "shared ancestry",
+   "description": "No link found in filings read; same surname only. Do not assume a connection.",
+   "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/de8de034-bfd6-439e-9966-3aac0430934b.pdf",
+   "certainty": "inferred"
+  },
+  {
+   "from_group": "Alicon Castalloy (Rai family)",
+   "to_group": "Enkei Corporation (Japan)",
+   "type": "cross-holding",
+   "description": "Alicon began as Enkei Castalloy, a JV of Pegasus Castalloy and Enkei; Enkei still holds about 14% and the wheels business went to Enkei Wheels (India) in 2009, where S Rai is a director.",
+   "source": "https://www.bseindia.com/bseplus/AnnualReport/531147/5311470319.pdf",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "Bharat Wire Ropes (Mittal family)",
+   "to_group": "Shah group (former BWR owners)",
+   "type": "asset transfer",
+   "description": "Bharat Wire Ropes was owned by a Shah group until July 2010, when Gaji Mercantile, an SPV of Murarilal Mittal, bought it.",
+   "source": "https://www.careratings.com/upload/CompanyFiles/PR/Bharat%20Wire%20Rope%20Ltd.-03-20-2017.pdf",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "Ador group (J B Advani)",
+   "to_group": "Ador group (J B Advani)",
+   "type": "shared ancestry",
+   "description": "The Advani, Malkani, Mirchandani and Lalvani families descend from the five 1908 Karachi partners of J B Advani and Co, which holds 45.2% of Ador Welding; fourth-generation members run the group.",
+   "source": "https://yourstory.com/smbstory/mumbai-ador-multiproducts-betting-beauty-skincare",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Alicon Castalloy (Rai family)",
+   "to_group": "Alicon Castalloy (Rai family)",
+   "type": "split",
+   "description": "S Rai's sisters Vinita Chandra and Meenal Gidwani asked to leave the promoter group in April 2019 (reclassified to public).",
+   "source": "https://www.bseindia.com/bseplus/AnnualReport/531147/5311470319.pdf",
+   "certainty": "verified"
+  }
+ ]
+}

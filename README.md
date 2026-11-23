@@ -12,7 +12,7 @@ Rules: see CLAUDE.md. Claude maintains everything here.
 | Central ministries | Not started |
 | Regional schemes | Not started |
 | States | **Gujarat decoded.** Industrial policy 2026 (full tier), state profile, source register. State sectoral policies not yet decoded |
-| Sectors | **Metals and mining head-office map** (23 Nov 2026): West Bengal done and verified (45 companies, 33 promoter groups); 15 states queued. `outputs/metals-mining-hq-map.html`. Earlier plant-led **market map v1** (23 Nov 2026): 62 companies, 165 sites, tiered, with registered office, decision office and plant states. Inferred, verification pending. `outputs/metals-mining-market-map-2026.html` / `.xlsx`. Sector incentive map not started |
+| Sectors | **Metals and mining head-office map** (23 Nov 2026): West Bengal (45 companies, 39 families) and Maharashtra (58 companies, 46 families) done; 14 states queued, Delhi next with the Vedanta carry-over. `outputs/metals-mining-hq-map.html`. Earlier plant-led **market map v1** (23 Nov 2026): 62 companies, 165 sites, tiered, with registered office, decision office and plant states. Inferred, verification pending. `outputs/metals-mining-market-map-2026.html` / `.xlsx`. Sector incentive map not started |
 | Deals database | Not started |
 | Plays (the brain) | Three candidate plays drafted inside the Gujarat decode, not yet written into `plays/` |
 | Watch list | Entries identified in the Gujarat decode, not yet written into `watch/pipeline.md` |

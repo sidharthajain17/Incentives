@@ -1,5 +1,17 @@
 # Changelog
 
+## 23 Nov 2026 (evening) — Maharashtra added; family cards reworked
+
+- **West Bengal family cards reworked at Sid's request.** Each family now shows its founder, current head, the next generation and what each person runs, a background, a milestone timeline, a parent-to-child family tree with spouses, and marriage clues (daughters' married surnames from promoter filings). An at-a-glance table opens the Families tab. 39 Kolkata groups are covered, including six new ones (Beekay, KIC, Bengal Energy, Rungta Sons, Cosmic CRF, Supershakti). The Cosmic CRF promoter is flagged as unrelated to the Aditya Birla Group.
+- **Maharashtra added:** 58 companies (38 listed, 11 of them adjacent; 20 unlisted), 46 promoter groups and 45 family links, including 11 marriage links.
+  - The Jindal daughters' married surnames are verified from JSW Steel's promoter-group list.
+  - Kirloskar, Lloyds and Kalyani details are corrected against filings.
+  - Vedanta and its two demerged companies are carried over to Delhi, where their filings point for decisions.
+- **Takeaways now sit inside each state's panel.** For states with many links, the family-links view shows grouped cards instead of the network diagram.
+- **Per-state Excel built by `outputs/data/metals-mining-hq/make_xlsx.py`:** `metals-mining-hq-maharashtra.xlsx`.
+- **New evidence:** `evidence/maharashtra-disbursement.md` records SRJ Peety, Jalna: ₹278 crore of Industrial Promotion Subsidy received against ₹545 crore invested (CARE, Nov 2025).
+- **Network:** the request to add press sites was rejected by the environment service, so Sid is adding them manually. Press-based points remain tagged "reported".
+
 ## 23 Nov 2026 (later) — Head-office map: West Bengal first
 
 - **Method changed at Sid's direction.** Companies are now placed by **decision office** (corporate or head office), not by plant. The list starts from every BSE/NSE listed company in metals and mining, then adds unlisted companies, with a revenue floor of ₹500 crore. Every promoter group is mapped: family members by generation, links between families, splits and disputes, and each group's chain from mine to finished product, by state.
