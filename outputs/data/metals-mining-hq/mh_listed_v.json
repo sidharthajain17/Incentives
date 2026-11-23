@@ -1,0 +1,2299 @@
+[
+ {
+  "name": "Tata Steel Ltd",
+  "exchange": "both",
+  "bse_code": "500470",
+  "nse_code": "TATASTEEL",
+  "category": "core",
+  "segment": "Integrated steel (flat and long), iron ore and coal mining",
+  "revenue_inr_cr": 232140,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Bombay House, 24 Homi Mody Street, Fort, Mumbai, Maharashtra",
+  "decision_office": "Mumbai, Maharashtra (Bombay House: registered office, board, chairman). Operations leadership largely at Jamshedpur (Jharkhand) and Kolkata",
+  "plants": [
+   {
+    "site": "Jamshedpur",
+    "state": "Jharkhand",
+    "what": "integrated steel works"
+   },
+   {
+    "site": "Kalinganagar",
+    "state": "Odisha",
+    "what": "integrated steel works"
+   },
+   {
+    "site": "Meramandali / Angul",
+    "state": "Odisha",
+    "what": "integrated steel (ex-Bhushan Steel)"
+   },
+   {
+    "site": "Gamharia",
+    "state": "Jharkhand",
+    "what": "long products"
+   },
+   {
+    "site": "Khopoli and Tarapur",
+    "state": "Maharashtra",
+    "what": "cold rolling, coated, wire (downstream)"
+   },
+   {
+    "site": "Ludhiana",
+    "state": "Punjab",
+    "what": "scrap-based EAF (under construction)"
+   },
+   {
+    "site": "IJmuiden / Port Talbot",
+    "state": "Netherlands / UK",
+    "what": "overseas steel"
+   }
+  ],
+  "promoter_group": "Tata group (Tata Sons Pvt Ltd)",
+  "promoters": [
+   {
+    "name": "Tata Sons Pvt Ltd",
+    "role": "promoter holding company"
+   },
+   {
+    "name": "N Chandrasekaran",
+    "role": "Chairman"
+   },
+   {
+    "name": "T V Narendran",
+    "role": "CEO and MD"
+   },
+   {
+    "name": "Koushik Chatterjee",
+    "role": "Executive Director and CFO"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Tata Sons Pvt Ltd",
+    "role_in_chain": "promoter holdco",
+    "listed": "no"
+   },
+   {
+    "name": "Tata Power",
+    "role_in_chain": "power supplier / group",
+    "listed": "yes"
+   },
+   {
+    "name": "Tata Motors",
+    "role_in_chain": "downstream customer / group",
+    "listed": "yes"
+   },
+   {
+    "name": "Tata Steel Netherlands, Tata Steel UK",
+    "role_in_chain": "overseas steel",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/TATASTEEL/consolidated/",
+   "https://www.tatasteel.com"
+  ],
+  "certainty": "verified",
+  "notes": "FY26 consolidated sales from screener. Mumbai is the corporate seat; much operating leadership sits in Jamshedpur. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "JSW Steel Ltd",
+  "exchange": "both",
+  "bse_code": "500228",
+  "nse_code": "JSWSTEEL",
+  "category": "core",
+  "segment": "Integrated steel (flat, long, coated)",
+  "revenue_inr_cr": 185470,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "JSW Centre, Bandra Kurla Complex, Bandra (East), Mumbai, Maharashtra",
+  "decision_office": "Mumbai, Maharashtra (JSW Centre, BKC)",
+  "plants": [
+   {
+    "site": "Vijayanagar (Toranagallu)",
+    "state": "Karnataka",
+    "what": "integrated steel"
+   },
+   {
+    "site": "Dolvi",
+    "state": "Maharashtra",
+    "what": "integrated steel"
+   },
+   {
+    "site": "Salem",
+    "state": "Tamil Nadu",
+    "what": "special steel"
+   },
+   {
+    "site": "Jharsuguda (Bhushan Power and Steel)",
+    "state": "Odisha",
+    "what": "integrated steel"
+   },
+   {
+    "site": "Vasind, Tarapur, Kalmeshwar",
+    "state": "Maharashtra",
+    "what": "coated and cold-rolled (JSW Steel Coated)"
+   },
+   {
+    "site": "Raigarh (ex-Monnet)",
+    "state": "Chhattisgarh",
+    "what": "special steel"
+   },
+   {
+    "site": "Iron ore mines",
+    "state": "Karnataka / Odisha",
+    "what": "captive iron ore"
+   }
+  ],
+  "promoter_group": "JSW group (Sajjan Jindal family)",
+  "promoters": [
+   {
+    "name": "Sajjan Jindal",
+    "role": "Chairman and MD"
+   },
+   {
+    "name": "Jayant Acharya",
+    "role": "Joint MD and CEO"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "JSW Energy",
+    "role_in_chain": "power",
+    "listed": "yes"
+   },
+   {
+    "name": "JSW Infrastructure",
+    "role_in_chain": "ports / logistics",
+    "listed": "yes"
+   },
+   {
+    "name": "JSW Cement",
+    "role_in_chain": "slag-based cement (downstream user of slag)",
+    "listed": "yes"
+   },
+   {
+    "name": "JSW Holdings",
+    "role_in_chain": "investment holdco",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/JSWSTEEL/consolidated/",
+   "https://www.jsw.in"
+  ],
+  "certainty": "verified",
+  "notes": "FY26 consolidated. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "Hindalco Industries Ltd",
+  "exchange": "both",
+  "bse_code": "500440",
+  "nse_code": "HINDALCO",
+  "category": "core",
+  "segment": "Aluminium (alumina to rolled products) and copper",
+  "revenue_inr_cr": 274944,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "21st Floor, One Unity Center, Senapati Bapat Marg, Prabhadevi, Mumbai 400013, Maharashtra",
+  "decision_office": "Mumbai, Maharashtra (Aditya Birla group corporate centre)",
+  "plants": [
+   {
+    "site": "Renukoot",
+    "state": "Uttar Pradesh",
+    "what": "aluminium smelter"
+   },
+   {
+    "site": "Hirakud, Aditya (Lapanga), Utkal Alumina",
+    "state": "Odisha",
+    "what": "smelters, alumina refinery"
+   },
+   {
+    "site": "Mahan (Bargawan)",
+    "state": "Madhya Pradesh",
+    "what": "aluminium smelter"
+   },
+   {
+    "site": "Muri",
+    "state": "Jharkhand",
+    "what": "alumina refinery"
+   },
+   {
+    "site": "Belagavi",
+    "state": "Karnataka",
+    "what": "alumina refinery"
+   },
+   {
+    "site": "Dahej",
+    "state": "Gujarat",
+    "what": "copper smelter and refinery"
+   },
+   {
+    "site": "Taloja and Mouda (Nagpur)",
+    "state": "Maharashtra",
+    "what": "aluminium rolling / foil"
+   },
+   {
+    "site": "Novelis plants",
+    "state": "USA / Europe / Asia",
+    "what": "rolled aluminium"
+   }
+  ],
+  "promoter_group": "Aditya Birla group",
+  "promoters": [
+   {
+    "name": "Kumar Mangalam Birla",
+    "role": "Chairman"
+   },
+   {
+    "name": "Satish Pai",
+    "role": "MD"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Novelis Inc",
+    "role_in_chain": "downstream rolled aluminium",
+    "listed": "no"
+   },
+   {
+    "name": "Grasim Industries",
+    "role_in_chain": "group holdco",
+    "listed": "yes"
+   },
+   {
+    "name": "UltraTech Cement",
+    "role_in_chain": "group",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/HINDALCO/consolidated/",
+   "https://www.hindalco.com"
+  ],
+  "certainty": "verified",
+  "notes": "Registered office read from company letterhead on BSE filing. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "Welspun Corp Ltd",
+  "exchange": "both",
+  "bse_code": "532144",
+  "nse_code": "WELCORP",
+  "category": "core",
+  "segment": "Line pipes (LSAW, HSAW, ERW), DI pipes, TMT, plates and coils",
+  "revenue_inr_cr": 16770,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Welspun City, Village Versamedi, Anjar, Kutch, Gujarat",
+  "decision_office": "Mumbai, Maharashtra (Welspun House, Kamala Mills, Lower Parel)",
+  "plants": [
+   {
+    "site": "Anjar",
+    "state": "Gujarat",
+    "what": "pipes, DI pipes, plates and coils (Welspun Metallics, Steel)"
+   },
+   {
+    "site": "Dahej",
+    "state": "Gujarat",
+    "what": "pipes"
+   },
+   {
+    "site": "Bhopal",
+    "state": "Madhya Pradesh",
+    "what": "pipes"
+   },
+   {
+    "site": "Sintex BAPL plants",
+    "state": "Gujarat and others",
+    "what": "plastics (subsidiary)"
+   },
+   {
+    "site": "Little Rock",
+    "state": "USA",
+    "what": "pipes"
+   },
+   {
+    "site": "Dammam (EPIC)",
+    "state": "Saudi Arabia",
+    "what": "pipes (associate)"
+   }
+  ],
+  "promoter_group": "Welspun group (B K Goenka family)",
+  "promoters": [
+   {
+    "name": "Balkrishan Goenka",
+    "role": "Chairman"
+   },
+   {
+    "name": "Vipul Mathur",
+    "role": "MD and CEO"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Welspun Specialty Solutions",
+    "role_in_chain": "stainless steel bars and pipes (subsidiary)",
+    "listed": "yes"
+   },
+   {
+    "name": "Welspun Living",
+    "role_in_chain": "group (textiles)",
+    "listed": "yes"
+   },
+   {
+    "name": "Welspun Enterprises",
+    "role_in_chain": "group (infra)",
+    "listed": "yes"
+   },
+   {
+    "name": "East Pipes Integrated (EPIC)",
+    "role_in_chain": "Saudi associate",
+    "listed": "yes (Saudi)"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/WELCORP/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Registered in Gujarat; decisions in Mumbai (reported). Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "Lloyds Metals & Energy Ltd",
+  "exchange": "both",
+  "bse_code": "512455",
+  "nse_code": "LLOYDSME",
+  "category": "core",
+  "segment": "Iron ore mining (Surjagarh), sponge iron, pellets, steel",
+  "revenue_inr_cr": 17113,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Plot A 1-2, MIDC Area, Ghugus, Chandrapur 442505, Maharashtra",
+  "decision_office": "Mumbai, Maharashtra (A-2, Madhu Estate, Pandurang Budhkar Marg, Lower Parel)",
+  "plants": [
+   {
+    "site": "Surjagarh, Gadchiroli",
+    "state": "Maharashtra",
+    "what": "iron ore mine"
+   },
+   {
+    "site": "Ghugus, Chandrapur",
+    "state": "Maharashtra",
+    "what": "sponge iron and captive power"
+   },
+   {
+    "site": "Konsari / Hedri, Gadchiroli",
+    "state": "Maharashtra",
+    "what": "pellet, DRI and steel plant (under build)"
+   }
+  ],
+  "promoter_group": "Lloyds group (Gupta family) with Thriveni Earthmovers",
+  "promoters": [
+   {
+    "name": "Mukesh Gupta",
+    "role": "Chairman / promoter"
+   },
+   {
+    "name": "Rajesh Gupta",
+    "role": "promoter"
+   },
+   {
+    "name": "B Prabhakaran",
+    "role": "MD (Thriveni)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Lloyds Enterprises Ltd",
+    "role_in_chain": "promoter group holding and steel trading",
+    "listed": "yes"
+   },
+   {
+    "name": "Lloyds Engineering Works Ltd",
+    "role_in_chain": "engineering equipment",
+    "listed": "yes"
+   },
+   {
+    "name": "Thriveni Earthmovers Pvt Ltd",
+    "role_in_chain": "mine developer and operator, shareholder",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/LLOYDSME/consolidated/",
+   "https://nsearchives.nseindia.com/corporate/LLOYDSME_30032026183629_20260330_Notice_of_postal_ballot.pdf"
+  ],
+  "certainty": "verified",
+  "notes": "All operations in Maharashtra (Gadchiroli, Chandrapur). Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "Lloyds Enterprises Ltd",
+  "exchange": "both",
+  "bse_code": "512463",
+  "nse_code": "LLOYDSENT",
+  "category": "core",
+  "segment": "Steel trading and holding company (Lloyds group)",
+  "revenue_inr_cr": 1756,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "A-2, 2nd Floor, Madhu Estate, Pandurang Budhkar Marg, Lower Parel, Mumbai 400013, Maharashtra",
+  "decision_office": "Mumbai, Maharashtra",
+  "plants": [
+   {
+    "site": "n/a",
+    "state": "Maharashtra",
+    "what": "trading; consolidates group subsidiaries"
+   }
+  ],
+  "promoter_group": "Lloyds group (Gupta family)",
+  "promoters": [
+   {
+    "name": "Shree Global Tradefin / Gupta family",
+    "role": "promoter"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Lloyds Metals & Energy",
+    "role_in_chain": "associate / investee",
+    "listed": "yes"
+   },
+   {
+    "name": "Lloyds Engineering Works",
+    "role_in_chain": "subsidiary",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/LLOYDSENT/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Consolidated FY26 1,756 cr; standalone only 463 cr (trading). Partly a holding company, so overlaps Lloyds Metals. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use. | Holding company: revenue consolidates a listed operating company also in this list; do not add.",
+  "holding": true
+ },
+ {
+  "name": "Mukand Ltd",
+  "exchange": "both",
+  "bse_code": "500460",
+  "nse_code": "MUKANDLTD",
+  "category": "core",
+  "segment": "Alloy and special steel long products; stainless",
+  "revenue_inr_cr": 4890,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Bajaj Bhavan, 3rd Floor, Jamnalal Bajaj Marg, 226 Nariman Point, Mumbai 400021, Maharashtra",
+  "decision_office": "Mumbai, Maharashtra",
+  "plants": [
+   {
+    "site": "Kalwe (Thane-Belapur Road)",
+    "state": "Maharashtra",
+    "what": "alloy and stainless steel"
+   },
+   {
+    "site": "Hospet (Ginigera)",
+    "state": "Karnataka",
+    "what": "steel (part of works)"
+   }
+  ],
+  "promoter_group": "Bajaj group (Jamnalal Bajaj family) with Shah family",
+  "promoters": [
+   {
+    "name": "Niraj Bajaj",
+    "role": "Chairman and MD"
+   },
+   {
+    "name": "Rajesh V Shah",
+    "role": "Co-Chairman and MD"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Bajaj Auto and Bajaj group companies",
+    "role_in_chain": "downstream users / group",
+    "listed": "yes"
+   },
+   {
+    "name": "Mukand Sumi Special Steel",
+    "role_in_chain": "former JV, Hospet",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/MUKANDLTD/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Registered office and works read from letterhead. FY26 consolidated equals FY25 on screener (4,890); check. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "Bharat Forge Ltd",
+  "exchange": "both",
+  "bse_code": "500493",
+  "nse_code": "BHARATFORG",
+  "category": "core",
+  "segment": "Forgings (auto, industrial, defence, aerospace)",
+  "revenue_inr_cr": 16812,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Mundhwa, Pune Cantonment, Pune 411036, Maharashtra",
+  "decision_office": "Pune, Maharashtra",
+  "plants": [
+   {
+    "site": "Mundhwa, Chakan, Baramati",
+    "state": "Maharashtra",
+    "what": "forgings and machining"
+   },
+   {
+    "site": "Germany, Sweden, USA, France",
+    "state": "overseas",
+    "what": "forgings and aluminium (subsidiaries)"
+   }
+  ],
+  "promoter_group": "Kalyani group",
+  "promoters": [
+   {
+    "name": "Baba N Kalyani",
+    "role": "Chairman and MD"
+   },
+   {
+    "name": "Amit B Kalyani",
+    "role": "Vice Chairman and Joint MD"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Kalyani Steels Ltd",
+    "role_in_chain": "upstream special steel supplier",
+    "listed": "yes"
+   },
+   {
+    "name": "BF Utilities",
+    "role_in_chain": "group",
+    "listed": "yes"
+   },
+   {
+    "name": "Kalyani Strategic Systems",
+    "role_in_chain": "defence subsidiary",
+    "listed": "no"
+   },
+   {
+    "name": "Hikal",
+    "role_in_chain": "group (chemicals)",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/BHARATFORG/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "CIN registered in Pune. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "Kalyani Steels Ltd",
+  "exchange": "both",
+  "bse_code": "500235",
+  "nse_code": "KSL",
+  "category": "core",
+  "segment": "Forging and engineering quality carbon and alloy steel (blast furnace route)",
+  "revenue_inr_cr": 1846,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Mundhwa, Pune 411036, Maharashtra",
+  "decision_office": "Pune, Maharashtra",
+  "plants": [
+   {
+    "site": "Ginigera, Koppal (Hospet)",
+    "state": "Karnataka",
+    "what": "integrated mini blast furnace steel plant"
+   }
+  ],
+  "promoter_group": "Kalyani group",
+  "promoters": [
+   {
+    "name": "Baba N Kalyani",
+    "role": "Chairman"
+   },
+   {
+    "name": "R K Goyal",
+    "role": "MD"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Bharat Forge",
+    "role_in_chain": "downstream customer (forgings)",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/KSL/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Letterhead read. Plant in Karnataka; decisions Pune. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "Kirloskar Ferrous Industries Ltd",
+  "exchange": "both",
+  "bse_code": "500245",
+  "nse_code": "KIRLFER",
+  "category": "core",
+  "segment": "Pig iron, grey iron castings, special steel, seamless tubes (ISMT merged)",
+  "revenue_inr_cr": 6889,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "One Avante, Level 5, Karve Road, Kothrud, Pune 411038, Maharashtra",
+  "decision_office": "Pune, Maharashtra",
+  "plants": [
+   {
+    "site": "Bevinahalli, Koppal",
+    "state": "Karnataka",
+    "what": "pig iron, mini blast furnace, steel"
+   },
+   {
+    "site": "Solapur",
+    "state": "Maharashtra",
+    "what": "castings"
+   },
+   {
+    "site": "Hiriyur",
+    "state": "Karnataka",
+    "what": "castings"
+   },
+   {
+    "site": "Ahmednagar, Baramati, Jejuri (ex-ISMT)",
+    "state": "Maharashtra",
+    "what": "seamless tubes and alloy steel"
+   }
+  ],
+  "promoter_group": "Kirloskar group (Atul Kirloskar family) via Kirloskar Industries",
+  "promoters": [
+   {
+    "name": "Kirloskar Industries Ltd",
+    "role": "promoter holdco"
+   },
+   {
+    "name": "Atul C Kirloskar",
+    "role": "Chairman"
+   },
+   {
+    "name": "R V Gumaste",
+    "role": "MD"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Kirloskar Industries Ltd",
+    "role_in_chain": "holding company",
+    "listed": "yes"
+   },
+   {
+    "name": "Kirloskar Oil Engines",
+    "role_in_chain": "customer / group",
+    "listed": "yes"
+   },
+   {
+    "name": "Kirloskar Pneumatic",
+    "role_in_chain": "group",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/KIRLFER/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Letterhead read. FY26 figure (6,889) is screener; consolidated and standalone align. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "Kirloskar Industries Ltd",
+  "exchange": "both",
+  "bse_code": "500243",
+  "nse_code": "KIRLOSIND",
+  "category": "core",
+  "segment": "Holding company consolidating Kirloskar Ferrous (pig iron, castings, tubes)",
+  "revenue_inr_cr": 6958,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "One Avante, Level 14, Karve Road, Kothrud, Pune 411038, Maharashtra",
+  "decision_office": "Pune, Maharashtra",
+  "plants": [
+   {
+    "site": "Via Kirloskar Ferrous",
+    "state": "Karnataka / Maharashtra",
+    "what": "see Kirloskar Ferrous"
+   }
+  ],
+  "promoter_group": "Kirloskar group (Atul Kirloskar family)",
+  "promoters": [
+   {
+    "name": "Atul C Kirloskar",
+    "role": "Chairman"
+   },
+   {
+    "name": "Mahesh R Chhabria",
+    "role": "MD"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Kirloskar Ferrous Industries",
+    "role_in_chain": "subsidiary",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/KIRLOSIND/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Holding company; revenue is mostly Kirloskar Ferrous, so do not double count. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use. | Holding company: revenue consolidates a listed operating company also in this list; do not add.",
+  "holding": true
+ },
+ {
+  "name": "MOIL Ltd",
+  "exchange": "both",
+  "bse_code": "533286",
+  "nse_code": "MOIL",
+  "category": "core",
+  "segment": "Manganese ore mining, electrolytic manganese dioxide, ferro manganese (central PSU)",
+  "revenue_inr_cr": 1470,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "MOIL Bhavan, 1A Katol Road, Nagpur 440013, Maharashtra",
+  "decision_office": "Nagpur, Maharashtra",
+  "plants": [
+   {
+    "site": "Mines in Nagpur and Bhandara districts",
+    "state": "Maharashtra",
+    "what": "manganese ore"
+   },
+   {
+    "site": "Mines in Balaghat and Chhindwara districts",
+    "state": "Madhya Pradesh",
+    "what": "manganese ore"
+   },
+   {
+    "site": "Dongri Buzurg, Bhandara",
+    "state": "Maharashtra",
+    "what": "EMD plant"
+   }
+  ],
+  "promoter_group": "Government of India (Ministry of Steel) with Governments of Maharashtra and Madhya Pradesh",
+  "promoters": [
+   {
+    "name": "President of India through Ministry of Steel",
+    "role": "majority shareholder"
+   },
+   {
+    "name": "Governments of Maharashtra and Madhya Pradesh",
+    "role": "shareholders"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Ferro-alloy JVs with SAIL",
+    "role_in_chain": "downstream",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/MOIL/",
+   "https://www.moil.nic.in"
+  ],
+  "certainty": "verified",
+  "notes": "Standalone FY26 1,470 cr (consolidated 1,473). Letterhead read. CMD name not given; date-stamp before use."
+ },
+ {
+  "name": "Sunflag Iron & Steel Company Ltd",
+  "exchange": "both",
+  "bse_code": "500404",
+  "nse_code": "SUNFLAG",
+  "category": "core",
+  "segment": "Special and alloy steel long products",
+  "revenue_inr_cr": 3939,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "33/1 Mount Road, Sadar, Nagpur 440001, Maharashtra",
+  "decision_office": "Nagpur, Maharashtra (registered office); letterhead also shows a corporate office at Cerebrum IT Park (Pune)",
+  "plants": [
+   {
+    "site": "Warthi, Bhandara",
+    "state": "Maharashtra",
+    "what": "integrated special steel plant"
+   },
+   {
+    "site": "Belgaon coal block (Chandrapur)",
+    "state": "Maharashtra",
+    "what": "captive coal"
+   }
+  ],
+  "promoter_group": "Sunflag group (Bhardwaj family)",
+  "promoters": [
+   {
+    "name": "Ravi Bhushan Bhardwaj",
+    "role": "Chairman (to verify)"
+   },
+   {
+    "name": "Pranav Bhardwaj",
+    "role": "MD (to verify)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Daido Steel",
+    "role_in_chain": "technical partner / shareholder (historic)",
+    "listed": "yes (Japan)"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/SUNFLAG/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Letterhead read. Promoter roles to verify. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "Man Industries (India) Ltd",
+  "exchange": "both",
+  "bse_code": "513269",
+  "nse_code": "MANINDS",
+  "category": "core",
+  "segment": "Large diameter LSAW / HSAW pipes, stainless pipes",
+  "revenue_inr_cr": 3564,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Man House, 101 S V Road, Vile Parle (West), Mumbai, Maharashtra",
+  "decision_office": "Mumbai, Maharashtra",
+  "plants": [
+   {
+    "site": "Anjar",
+    "state": "Gujarat",
+    "what": "LSAW / HSAW pipes"
+   },
+   {
+    "site": "Pithampur",
+    "state": "Madhya Pradesh",
+    "what": "HSAW pipes"
+   },
+   {
+    "site": "Dammam",
+    "state": "Saudi Arabia",
+    "what": "pipes (subsidiary)"
+   }
+  ],
+  "promoter_group": "Mansukhani family",
+  "promoters": [
+   {
+    "name": "R C Mansukhani",
+    "role": "Chairman"
+   },
+   {
+    "name": "Nikhil Mansukhani",
+    "role": "MD"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Man Infraconstruction",
+    "role_in_chain": "group (real estate)",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/MANINDS/consolidated/"
+  ],
+  "certainty": "reported",
+  "notes": "Revenue verified on screener; registered office from memory (letterhead read was not this company). Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "CIE Automotive India Ltd",
+  "exchange": "both",
+  "bse_code": "532756",
+  "nse_code": "CIEINDIA",
+  "category": "adjacent",
+  "segment": "Forgings, castings, stampings, gears (auto components)",
+  "revenue_inr_cr": 9406,
+  "revenue_year": "CY2025 (Dec 2025 year end)",
+  "reg_office": "G Block, Bhosari Industrial Estate, Bhosari, Pune 411026, Maharashtra",
+  "decision_office": "Pune, Maharashtra (India HQ; parent CIE Automotive SA, Spain)",
+  "plants": [
+   {
+    "site": "Pune, Chakan, Kanhe, Nashik",
+    "state": "Maharashtra",
+    "what": "forgings, castings, stampings"
+   },
+   {
+    "site": "Hosur, Rudrapur, Pithampur and others",
+    "state": "various",
+    "what": "components"
+   },
+   {
+    "site": "Mexico / Europe (forgings)",
+    "state": "overseas",
+    "what": "forgings"
+   }
+  ],
+  "promoter_group": "CIE Automotive SA (Spain); Mahindra & Mahindra a shareholder",
+  "promoters": [
+   {
+    "name": "CIE Automotive SA",
+    "role": "promoter"
+   },
+   {
+    "name": "Ander Arenaza Alvarez",
+    "role": "Executive Director / CEO"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Mahindra & Mahindra",
+    "role_in_chain": "customer and shareholder",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/CIEINDIA/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Calendar-year reporter; FY26 equivalent not available. Letterhead read. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use. | Adjacent: metal-intensive downstream (auto components, fabrication, tools)."
+ },
+ {
+  "name": "Technocraft Industries (India) Ltd",
+  "exchange": "both",
+  "bse_code": "532804",
+  "nse_code": "TIIL",
+  "category": "core",
+  "segment": "Steel drum closures, scaffolding and formwork, pipes (plus textiles)",
+  "revenue_inr_cr": 2759,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Technocraft House, A-25, Road No. 3, MIDC Industrial Estate, Andheri (East), Mumbai, Maharashtra",
+  "decision_office": "Mumbai, Maharashtra",
+  "plants": [
+   {
+    "site": "Murbad, Thane",
+    "state": "Maharashtra",
+    "what": "drum closures, scaffolding, pipes, yarn"
+   },
+   {
+    "site": "Tarapur",
+    "state": "Maharashtra",
+    "what": "steel products"
+   },
+   {
+    "site": "overseas (Australia, USA)",
+    "state": "overseas",
+    "what": "scaffolding (subsidiaries)"
+   }
+  ],
+  "promoter_group": "Saraf family",
+  "promoters": [
+   {
+    "name": "Sharad Kumar Saraf",
+    "role": "Chairman and MD"
+   },
+   {
+    "name": "Sudarshan Kumar Saraf",
+    "role": "Co-Chairman and MD"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Technosoft Engineering",
+    "role_in_chain": "engineering services subsidiary",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/TIIL/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Part of revenue is textiles. Letterhead read. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "Precision Wires India Ltd",
+  "exchange": "both",
+  "bse_code": "523539",
+  "nse_code": "PRECWIRE",
+  "category": "core",
+  "segment": "Copper winding wire (enamelled, CTC, paper insulated)",
+  "revenue_inr_cr": 5410,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Saiman House, J A Raul Street, off Sayani Road, Prabhadevi, Mumbai, Maharashtra",
+  "decision_office": "Mumbai, Maharashtra",
+  "plants": [
+   {
+    "site": "Silvassa",
+    "state": "Dadra and Nagar Haveli",
+    "what": "winding wire"
+   },
+   {
+    "site": "Palej, Bharuch",
+    "state": "Gujarat",
+    "what": "winding wire"
+   }
+  ],
+  "promoter_group": "Mehta family",
+  "promoters": [
+   {
+    "name": "Mahendra R Mehta",
+    "role": "Chairman"
+   },
+   {
+    "name": "Milan M Mehta",
+    "role": "MD"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/PRECWIRE/"
+  ],
+  "certainty": "verified",
+  "notes": "Standalone only (no consolidated). Letterhead read. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "Ram Ratna Wires Ltd",
+  "exchange": "both",
+  "bse_code": "522281",
+  "nse_code": "RAMRAT",
+  "category": "core",
+  "segment": "Copper winding wire, copper tubes, copper rod (via subsidiary)",
+  "revenue_inr_cr": 5177,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Ram Ratna House, Victoria Mill Compound, Worli, Mumbai, Maharashtra",
+  "decision_office": "Mumbai, Maharashtra",
+  "plants": [
+   {
+    "site": "Silvassa",
+    "state": "Dadra and Nagar Haveli",
+    "what": "winding wire"
+   },
+   {
+    "site": "Bharuch (Global Copper)",
+    "state": "Gujarat",
+    "what": "copper rod and wire (subsidiary)"
+   },
+   {
+    "site": "Bhiwadi / others",
+    "state": "Rajasthan",
+    "what": "to verify"
+   }
+  ],
+  "promoter_group": "Kabra family (RR Global)",
+  "promoters": [
+   {
+    "name": "Tribhuvanprasad Kabra",
+    "role": "Chairman"
+   },
+   {
+    "name": "Mahendrakumar Kabra",
+    "role": "MD"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "RR Kabel Ltd",
+    "role_in_chain": "sister company (cables)",
+    "listed": "yes"
+   },
+   {
+    "name": "Global Copper Pvt Ltd",
+    "role_in_chain": "copper rod subsidiary",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/RAMRAT/consolidated/"
+  ],
+  "certainty": "reported",
+  "notes": "Revenue verified on screener; office and plants from memory. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "Jayaswal Neco Industries Ltd",
+  "exchange": "both",
+  "bse_code": "522285",
+  "nse_code": "JAYNECOIND",
+  "category": "core",
+  "segment": "Integrated alloy steel, sponge iron, castings",
+  "revenue_inr_cr": 7085,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "F-8, MIDC Industrial Area, Hingna Road, Nagpur 440016, Maharashtra",
+  "decision_office": "Nagpur, Maharashtra",
+  "plants": [
+   {
+    "site": "Siltara, Raipur",
+    "state": "Chhattisgarh",
+    "what": "integrated steel plant"
+   },
+   {
+    "site": "Hingna, Nagpur",
+    "state": "Maharashtra",
+    "what": "foundry"
+   },
+   {
+    "site": "Anjora, Durg",
+    "state": "Chhattisgarh",
+    "what": "foundry"
+   },
+   {
+    "site": "Iron ore / coal blocks",
+    "state": "Chhattisgarh",
+    "what": "captive mining"
+   }
+  ],
+  "promoter_group": "NECO group (Jayaswal family)",
+  "promoters": [
+   {
+    "name": "Basant Lall Shaw",
+    "role": "Chairman"
+   },
+   {
+    "name": "Arbind Jayaswal",
+    "role": "MD"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "NECO group companies",
+    "role_in_chain": "group",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/JAYNECOIND/"
+  ],
+  "certainty": "verified",
+  "notes": "Standalone (no consolidated). Letterhead read. Plants mainly Chhattisgarh. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "Bedmutha Industries Ltd",
+  "exchange": "both",
+  "bse_code": "533270",
+  "nse_code": "BEDMUTHA",
+  "category": "core",
+  "segment": "Steel wire, copper wire and conductors",
+  "revenue_inr_cr": 1466,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "A 70/71/72, STICE, Musalgaon, Sinnar-Shirdi Road, Sinnar, Nashik 422103, Maharashtra",
+  "decision_office": "Nashik, Maharashtra",
+  "plants": [
+   {
+    "site": "Sinnar (STICE)",
+    "state": "Maharashtra",
+    "what": "steel and copper wire"
+   },
+   {
+    "site": "Nardana, Dhule",
+    "state": "Maharashtra",
+    "what": "wire (to verify)"
+   }
+  ],
+  "promoter_group": "Bedmutha family",
+  "promoters": [
+   {
+    "name": "Kachardas R Bedmutha",
+    "role": "Chairman (to verify)"
+   },
+   {
+    "name": "Ajay K Vedmutha",
+    "role": "MD (to verify)"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/BEDMUTHA/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Registered office read from filing. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "Balu Forge Industries Ltd",
+  "exchange": "both",
+  "bse_code": "531112",
+  "nse_code": "BALUFORGE",
+  "category": "core",
+  "segment": "Forged crankshafts and forged components",
+  "revenue_inr_cr": 1107,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "506 Imperial Palace, 45 Telly Park Road, Andheri (East), Mumbai 400069, Maharashtra",
+  "decision_office": "Mumbai, Maharashtra",
+  "plants": [
+   {
+    "site": "Belagavi",
+    "state": "Karnataka",
+    "what": "forging and machining"
+   }
+  ],
+  "promoter_group": "Chandock family",
+  "promoters": [
+   {
+    "name": "Jaspalsingh Chandock",
+    "role": "Chairman and MD"
+   },
+   {
+    "name": "Trimaan Chandock",
+    "role": "Director"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/BALUFORGE/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Address from letterhead. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "Ashapura Minechem Ltd",
+  "exchange": "both",
+  "bse_code": "527001",
+  "nse_code": "ASHAPURMIN",
+  "category": "core",
+  "segment": "Mineral mining (bauxite, bentonite, kaolin) and processing",
+  "revenue_inr_cr": 5237,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Jeevan Udyog Building, 278 D N Road, Fort, Mumbai, Maharashtra",
+  "decision_office": "Mumbai, Maharashtra",
+  "plants": [
+   {
+    "site": "Kutch",
+    "state": "Gujarat",
+    "what": "bentonite, bauxite mines and processing"
+   },
+   {
+    "site": "Boke region",
+    "state": "Guinea",
+    "what": "bauxite mining (subsidiary)"
+   },
+   {
+    "site": "Overseas processing",
+    "state": "China / Netherlands / UAE",
+    "what": "minerals"
+   }
+  ],
+  "promoter_group": "Shah family (Ashapura group)",
+  "promoters": [
+   {
+    "name": "Chetan Shah",
+    "role": "Chairman"
+   },
+   {
+    "name": "Hemul Shah",
+    "role": "Executive Director (to verify)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Ashapura International / Guinea subsidiaries",
+    "role_in_chain": "bauxite",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/ASHAPURMIN/consolidated/"
+  ],
+  "certainty": "reported",
+  "notes": "Revenue verified (consolidated FY26 5,237; standalone 432). Address from memory. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "MMP Industries Ltd",
+  "exchange": "NSE",
+  "bse_code": null,
+  "nse_code": "MMP",
+  "category": "core",
+  "segment": "Aluminium powder, paste and conductors",
+  "revenue_inr_cr": 824,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "211 Shrimohini, 345 Kingsway, Nagpur 440001, Maharashtra",
+  "decision_office": "Nagpur, Maharashtra (corporate office B-24, Hingna MIDC)",
+  "plants": [
+   {
+    "site": "Umred MIDC",
+    "state": "Maharashtra",
+    "what": "aluminium powder"
+   },
+   {
+    "site": "Bhandara (Maregaon, Mohadi)",
+    "state": "Maharashtra",
+    "what": "aluminium powder / paste"
+   },
+   {
+    "site": "Butibori and Hingna, Nagpur",
+    "state": "Maharashtra",
+    "what": "conductors and units"
+   }
+  ],
+  "promoter_group": "Bhandari family",
+  "promoters": [
+   {
+    "name": "Arun Raghuvirraj Bhandari",
+    "role": "Chairman and MD"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/MMP/consolidated/",
+   "https://archives.nseindia.com/annual_reports/AR_30399_MMP_2025_2026_A_6952096_18082026122854.pdf"
+  ],
+  "certainty": "reported",
+  "notes": "Revenue verified on screener; offices from annual report via search summary."
+ },
+ {
+  "name": "Tembo Global Industries Ltd",
+  "exchange": "both",
+  "bse_code": "544987",
+  "nse_code": "TEMBO",
+  "category": "adjacent",
+  "segment": "Pipe supports, fasteners, fabricated steel products",
+  "revenue_inr_cr": 1090,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Plot D-146/147, Turbhe MIDC, TTC Industrial Estate, Navi Mumbai, Maharashtra",
+  "decision_office": "Navi Mumbai, Maharashtra",
+  "plants": [
+   {
+    "site": "Turbhe, Navi Mumbai",
+    "state": "Maharashtra",
+    "what": "fabricated metal products"
+   },
+   {
+    "site": "other units",
+    "state": "to verify",
+    "what": "to verify"
+   }
+  ],
+  "promoter_group": "Shah family (to verify)",
+  "promoters": [
+   {
+    "name": "Sanjay Shah",
+    "role": "MD (to verify)"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/TEMBO/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Letterhead read. Material share of revenue may be trading. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use. | Adjacent: metal-intensive downstream (auto components, fabrication, tools)."
+ },
+ {
+  "name": "Bharat Wire Ropes Ltd",
+  "exchange": "both",
+  "bse_code": "539799",
+  "nse_code": "BHARATWIRE",
+  "category": "core",
+  "segment": "Steel wire ropes, strands, slings",
+  "revenue_inr_cr": 591,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Plot No. 4, MIDC Chalisgaon, Jalgaon, Maharashtra (to verify)",
+  "decision_office": "Mumbai, Maharashtra (corporate office 10th Floor, Times Tower, Kamala City, Lower Parel)",
+  "plants": [
+   {
+    "site": "Chalisgaon, Jalgaon",
+    "state": "Maharashtra",
+    "what": "wire ropes"
+   },
+   {
+    "site": "Atgaon, Thane",
+    "state": "Maharashtra",
+    "what": "wire ropes"
+   }
+  ],
+  "promoter_group": "Mittal family",
+  "promoters": [
+   {
+    "name": "Murarilal Mittal",
+    "role": "MD"
+   },
+   {
+    "name": "Mayank Mittal",
+    "role": "Director"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/BHARATWIRE/"
+  ],
+  "certainty": "verified",
+  "notes": "Standalone FY26 591 cr. Corporate office read from filing; registered office from memory. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "Welspun Specialty Solutions Ltd",
+  "exchange": "both",
+  "bse_code": "500365",
+  "nse_code": "WELSPLSOL",
+  "category": "core",
+  "segment": "Stainless steel long products, seamless pipes and tubes",
+  "revenue_inr_cr": 886,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Jhagadia, Bharuch, Gujarat (to verify)",
+  "decision_office": "Mumbai, Maharashtra (Welspun group, Lower Parel) - reported",
+  "plants": [
+   {
+    "site": "Jhagadia, Bharuch",
+    "state": "Gujarat",
+    "what": "stainless steel melt shop, bars, seamless tubes"
+   }
+  ],
+  "promoter_group": "Welspun group (B K Goenka family)",
+  "promoters": [
+   {
+    "name": "Welspun Corp Ltd",
+    "role": "promoter / parent"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Welspun Corp",
+    "role_in_chain": "parent",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/WELSPLSOL/"
+  ],
+  "certainty": "reported",
+  "notes": "Revenue verified; offices reported. Plant entirely in Gujarat."
+ },
+ {
+  "name": "Taparia Tools Ltd",
+  "exchange": "BSE",
+  "bse_code": "505685",
+  "nse_code": null,
+  "category": "adjacent",
+  "segment": "Steel hand tools",
+  "revenue_inr_cr": 1023,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "52 MIDC, Satpur, Nashik 422007, Maharashtra",
+  "decision_office": "Nashik / Mumbai, Maharashtra",
+  "plants": [
+   {
+    "site": "Satpur, Nashik",
+    "state": "Maharashtra",
+    "what": "hand tools"
+   }
+  ],
+  "promoter_group": "Taparia family",
+  "promoters": [
+   {
+    "name": "Taparia family",
+    "role": "promoters (names to verify)"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/505685/"
+  ],
+  "certainty": "verified",
+  "notes": "Borderline fit: hand tools are an engineering product; screener classes it under iron and steel products. Letterhead read. | Adjacent: metal-intensive downstream (auto components, fabrication, tools)."
+ },
+ {
+  "name": "Euro Panel Products Ltd",
+  "exchange": "NSE",
+  "bse_code": "544461",
+  "nse_code": "EUROBOND",
+  "category": "adjacent",
+  "segment": "Aluminium composite panels",
+  "revenue_inr_cr": 503,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "12th Floor, Solitaire Business Centre, Borivali (West), Mumbai 400092, Maharashtra",
+  "decision_office": "Mumbai, Maharashtra",
+  "plants": [
+   {
+    "site": "Manekpur, Sanjan, Valsad (Umbergaon)",
+    "state": "Gujarat",
+    "what": "ACP manufacturing"
+   }
+  ],
+  "promoter_group": "Shah family",
+  "promoters": [
+   {
+    "name": "Rajesh Nanalal Shah",
+    "role": "Chairman and MD"
+   },
+   {
+    "name": "Divyam Shah",
+    "role": "Whole Time Director"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Divya Ply Agency Pvt Ltd",
+    "role_in_chain": "promoter group",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/EUROBOND/consolidated/",
+   "https://nsearchives.nseindia.com/corporate/EUROPANEL_14112026140729_Euro_outcome_14112026.pdf"
+  ],
+  "certainty": "reported",
+  "notes": "Just above threshold (503). Aluminium downstream; borderline fit. Address via search summary of NSE filing. | Adjacent: metal-intensive downstream (auto components, fabrication, tools)."
+ },
+ {
+  "name": "KSH International Ltd",
+  "exchange": "both",
+  "bse_code": "544664",
+  "nse_code": "KSHINTL",
+  "category": "core",
+  "segment": "Copper and aluminium magnet winding wire",
+  "revenue_inr_cr": 3107,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Pune, Maharashtra (to verify street address)",
+  "decision_office": "Pune, Maharashtra",
+  "plants": [
+   {
+    "site": "Chakan / Ranjangaon / Supa (Pune-Ahmednagar belt)",
+    "state": "Maharashtra",
+    "what": "winding wire (to verify sites)"
+   }
+  ],
+  "promoter_group": "Hegde family",
+  "promoters": [
+   {
+    "name": "Kushal Subbayya Hegde",
+    "role": "Chairman (to verify)"
+   },
+   {
+    "name": "Rajesh Kushal Hegde",
+    "role": "MD (to verify)"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/KSHINTL/",
+   "https://kshinternational.com/investor-relations-documents/Red%20Herring%20Prospectus_10.12.2025.pdf"
+  ],
+  "certainty": "reported",
+  "notes": "Listed Dec 2025. Revenue (standalone) verified; locations reported."
+ },
+ {
+  "name": "Caliber Mining and Logistics Ltd",
+  "exchange": "both",
+  "bse_code": "544833",
+  "nse_code": "CMLL",
+  "category": "core",
+  "segment": "Contract coal mining and overburden removal (for WCL, NCL), coal logistics",
+  "revenue_inr_cr": 1678,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Plot B-38/B-48, MIDC Chandrapur, Chinchala, Chandrapur, Maharashtra",
+  "decision_office": "Nagpur, Maharashtra (1101 Naniks Ashtavinayak Park Avenue)",
+  "plants": [
+   {
+    "site": "WCL mines e.g. Dhoptala OCM",
+    "state": "Maharashtra",
+    "what": "contract mining"
+   },
+   {
+    "site": "NCL mines",
+    "state": "Madhya Pradesh / Uttar Pradesh",
+    "what": "contract mining"
+   }
+  ],
+  "promoter_group": "Chadda family",
+  "promoters": [
+   {
+    "name": "Mohit Satishkumar Chadda",
+    "role": "promoter"
+   },
+   {
+    "name": "Anuj Krishanlal Chadda",
+    "role": "promoter"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/CMLL/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Listed July 2026. Service provider, not a mine owner. Letterhead read."
+ },
+ {
+  "name": "Systematic Industries Ltd",
+  "exchange": "BSE SME",
+  "bse_code": "544541",
+  "nse_code": null,
+  "category": "core",
+  "segment": "Steel wire (armour, galvanised) for cables and power",
+  "revenue_inr_cr": 553,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "418, Nirmal Corporate Centre, L B S Marg, Mulund (West), Mumbai 400080, Maharashtra",
+  "decision_office": "Mumbai, Maharashtra",
+  "plants": [
+   {
+    "site": "Silvassa",
+    "state": "Dadra and Nagar Haveli",
+    "what": "steel wire"
+   },
+   {
+    "site": "Sarigam, Umbergaon",
+    "state": "Gujarat",
+    "what": "steel wire"
+   },
+   {
+    "site": "Vapi",
+    "state": "Gujarat",
+    "what": "new cable armour wire plant"
+   },
+   {
+    "site": "new site",
+    "state": "Chhattisgarh",
+    "what": "announced"
+   }
+  ],
+  "promoter_group": "to verify",
+  "promoters": [],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/544541/",
+   "https://www.angelone.in/ipo/systematic-industries-ipo"
+  ],
+  "certainty": "reported",
+  "notes": "SME listed Oct 2025. Revenue verified on screener; offices from IPO listing pages."
+ },
+ {
+  "name": "Alicon Castalloy Ltd",
+  "exchange": "both",
+  "bse_code": "531147",
+  "nse_code": "ALICON",
+  "category": "adjacent",
+  "segment": "Aluminium castings (auto)",
+  "revenue_inr_cr": 1776,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Gat 1426, Shikrapur, Pune 412208, Maharashtra",
+  "decision_office": "Pune, Maharashtra",
+  "plants": [
+   {
+    "site": "Shikrapur and Chinchwad, Pune",
+    "state": "Maharashtra",
+    "what": "aluminium castings"
+   },
+   {
+    "site": "Binola",
+    "state": "Haryana",
+    "what": "aluminium castings"
+   },
+   {
+    "site": "Illichmann Castalloy",
+    "state": "Slovakia",
+    "what": "castings (subsidiary)"
+   }
+  ],
+  "promoter_group": "Rai family",
+  "promoters": [
+   {
+    "name": "S Rai",
+    "role": "Chairman and MD (to verify)"
+   },
+   {
+    "name": "Rajeev Sikand",
+    "role": "CEO (to verify)"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/ALICON/consolidated/"
+  ],
+  "certainty": "reported",
+  "notes": "Revenue verified; CIN Pune. Office street from memory. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use. | Adjacent: metal-intensive downstream (auto components, fabrication, tools)."
+ },
+ {
+  "name": "Precision Camshafts Ltd",
+  "exchange": "both",
+  "bse_code": "539636",
+  "nse_code": "PRECAM",
+  "category": "adjacent",
+  "segment": "Camshaft castings and machined components",
+  "revenue_inr_cr": 773,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "D-6, MIDC Chincholi, Solapur, Maharashtra",
+  "decision_office": "Solapur, Maharashtra",
+  "plants": [
+   {
+    "site": "Chincholi MIDC, Solapur",
+    "state": "Maharashtra",
+    "what": "castings and machining"
+   },
+   {
+    "site": "MEMCO / EMOSS",
+    "state": "Germany / Netherlands",
+    "what": "subsidiaries"
+   }
+  ],
+  "promoter_group": "Shah family",
+  "promoters": [
+   {
+    "name": "Yatin S Shah",
+    "role": "Chairman and MD"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/PRECAM/consolidated/"
+  ],
+  "certainty": "reported",
+  "notes": "Revenue verified; address from memory. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use. | Adjacent: metal-intensive downstream (auto components, fabrication, tools)."
+ },
+ {
+  "name": "Endurance Technologies Ltd",
+  "exchange": "both",
+  "bse_code": "540153",
+  "nse_code": "ENDURANCE",
+  "category": "adjacent",
+  "segment": "Aluminium die castings (largest line), suspension, braking (auto components)",
+  "revenue_inr_cr": 14596,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "E-92, MIDC Industrial Area, Waluj, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra",
+  "decision_office": "Chhatrapati Sambhajinagar (Aurangabad), Maharashtra",
+  "plants": [
+   {
+    "site": "Waluj, Shendra, Chakan",
+    "state": "Maharashtra",
+    "what": "castings and components"
+   },
+   {
+    "site": "Pantnagar, Manesar, Sanand, Chennai, Bengaluru",
+    "state": "various",
+    "what": "components"
+   },
+   {
+    "site": "Italy / Germany",
+    "state": "overseas",
+    "what": "castings (subsidiaries)"
+   }
+  ],
+  "promoter_group": "Jain family",
+  "promoters": [
+   {
+    "name": "Anurang Jain",
+    "role": "MD"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/ENDURANCE/consolidated/"
+  ],
+  "certainty": "reported",
+  "notes": "AMBIGUOUS FIT: an auto-component system maker; included because die casting is its largest line. Caller may drop it. CIN Maharashtra verified. | Adjacent: metal-intensive downstream (auto components, fabrication, tools)."
+ },
+ {
+  "name": "Everest Kanto Cylinder Ltd",
+  "exchange": "both",
+  "bse_code": "532684",
+  "nse_code": "EKC",
+  "category": "adjacent",
+  "segment": "High-pressure seamless steel gas cylinders",
+  "revenue_inr_cr": 1471,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "204 Raheja Centre, Free Press Journal Marg, Nariman Point, Mumbai, Maharashtra",
+  "decision_office": "Mumbai, Maharashtra",
+  "plants": [
+   {
+    "site": "Tarapur",
+    "state": "Maharashtra",
+    "what": "cylinders"
+   },
+   {
+    "site": "Gandhidham (Kandla SEZ)",
+    "state": "Gujarat",
+    "what": "cylinders"
+   },
+   {
+    "site": "Pithampur",
+    "state": "Madhya Pradesh",
+    "what": "cylinders"
+   },
+   {
+    "site": "CP Industries, Pennsylvania",
+    "state": "USA",
+    "what": "jumbo cylinders"
+   },
+   {
+    "site": "Thailand",
+    "state": "overseas",
+    "what": "cylinders"
+   }
+  ],
+  "promoter_group": "Khurana family",
+  "promoters": [
+   {
+    "name": "P K Khurana",
+    "role": "Chairman"
+   },
+   {
+    "name": "Puneet Khurana",
+    "role": "MD"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/EKC/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Borderline fit (steel product made from seamless tube). Letterhead read. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use. | Adjacent: metal-intensive downstream (auto components, fabrication, tools)."
+ },
+ {
+  "name": "Solar Industries India Ltd",
+  "exchange": "both",
+  "bse_code": "532725",
+  "nse_code": "SOLARINDS",
+  "category": "adjacent",
+  "segment": "Industrial explosives and initiating systems for mining (plus defence)",
+  "revenue_inr_cr": 9838,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Solar House, 14 Kachimet, Amravati Road, Nagpur, Maharashtra",
+  "decision_office": "Nagpur, Maharashtra",
+  "plants": [
+   {
+    "site": "Chakdoh and other Nagpur units",
+    "state": "Maharashtra",
+    "what": "explosives, defence"
+   },
+   {
+    "site": "plants across India",
+    "state": "various",
+    "what": "bulk explosives"
+   },
+   {
+    "site": "Turkey, South Africa, Zambia, Australia and others",
+    "state": "overseas",
+    "what": "explosives"
+   }
+  ],
+  "promoter_group": "Nuwal family",
+  "promoters": [
+   {
+    "name": "Satyanarayan Nuwal",
+    "role": "Chairman"
+   },
+   {
+    "name": "Manish Nuwal",
+    "role": "MD and CEO"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Economic Explosives Ltd",
+    "role_in_chain": "defence subsidiary",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/SOLARINDS/consolidated/"
+  ],
+  "certainty": "reported",
+  "notes": "Mining consumable supplier. Revenue verified; address from memory. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use."
+ },
+ {
+  "name": "Grindwell Norton Ltd",
+  "exchange": "both",
+  "bse_code": "506076",
+  "nse_code": "GRINDWELL",
+  "category": "adjacent",
+  "segment": "Abrasives, silicon carbide, ceramics (incl. refractories)",
+  "revenue_inr_cr": 3073,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "5th Level, Leela Business Park, Andheri-Kurla Road, Marol, Andheri (East), Mumbai 400059, Maharashtra",
+  "decision_office": "Mumbai, Maharashtra",
+  "plants": [
+   {
+    "site": "Bengaluru, Tirupati, Nagpur (Butibori), Halol and others",
+    "state": "various",
+    "what": "abrasives, ceramics, silicon carbide"
+   }
+  ],
+  "promoter_group": "Saint-Gobain (France)",
+  "promoters": [
+   {
+    "name": "Saint-Gobain Abrasives and group entities",
+    "role": "promoter"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Saint-Gobain India",
+    "role_in_chain": "group",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/GRINDWELL/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Weak fit; only part of output is metal-specific. Letterhead read."
+ },
+ {
+  "name": "Ador Welding Ltd",
+  "exchange": "both",
+  "bse_code": "517041",
+  "nse_code": "ADOR",
+  "category": "adjacent",
+  "segment": "Welding electrodes, wires, equipment",
+  "revenue_inr_cr": 1140,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "Ador House, 6 K Dubash Marg, Fort, Mumbai 400001, Maharashtra",
+  "decision_office": "Mumbai, Maharashtra",
+  "plants": [
+   {
+    "site": "Chinchwad, Pune",
+    "state": "Maharashtra",
+    "what": "welding equipment"
+   },
+   {
+    "site": "Silvassa",
+    "state": "Dadra and Nagar Haveli",
+    "what": "electrodes"
+   },
+   {
+    "site": "Raipur",
+    "state": "Chhattisgarh",
+    "what": "electrodes"
+   }
+  ],
+  "promoter_group": "Ador group (Advani / Malkani families)",
+  "promoters": [
+   {
+    "name": "J B Advani and Co",
+    "role": "promoter"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/ADOR/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Weak fit: welding consumables serve fabrication, not metal making. Letterhead read."
+ },
+ {
+  "near_miss": [
+   {
+    "name": "Aeroflex Industries Ltd",
+    "segment": "Stainless steel flexible hoses",
+    "revenue_inr_cr": 442,
+    "revenue_year": "FY26",
+    "decision_office": "Mumbai, Maharashtra",
+    "reason": "FY26 consolidated 442 cr; TTM 599 cr, likely to cross 500 in FY27. Sat Industries group.",
+    "code": "AEROFLEX / 543972",
+    "sources": [
+     "https://www.screener.in/company/AEROFLEX/"
+    ]
+   },
+   {
+    "name": "Diffusion Engineers Ltd",
+    "segment": "Wear-resistant welding consumables and wear parts for steel, cement (adjacent)",
+    "revenue_inr_cr": 407,
+    "revenue_year": "FY26",
+    "decision_office": "Nagpur, Maharashtra",
+    "reason": "FY26 consolidated 407 cr; TTM 478 cr.",
+    "code": "DIFFNKG / 544264",
+    "sources": [
+     "https://www.screener.in/company/DIFFNKG/"
+    ]
+   },
+   {
+    "name": "La Tim Metal & Industries Ltd",
+    "segment": "Steel trading and manufacturing",
+    "revenue_inr_cr": 390,
+    "revenue_year": "FY26",
+    "decision_office": "Mumbai, Maharashtra (Vile Parle)",
+    "reason": "FY26 390 cr; TTM 501 cr. Mostly trading.",
+    "code": "505693",
+    "sources": [
+     "https://www.screener.in/company/505693/"
+    ]
+   },
+   {
+    "name": "Synergy Green Industries Ltd",
+    "segment": "SG and CI castings (wind, industrial)",
+    "revenue_inr_cr": 366,
+    "revenue_year": "FY26",
+    "decision_office": "Kolhapur, Maharashtra (CIN Pune)",
+    "reason": "FY26 366 cr; TTM 402 cr.",
+    "code": "SGIL / 541929",
+    "sources": [
+     "https://www.screener.in/company/SGIL/"
+    ]
+   },
+   {
+    "name": "Sharvaya Metals Ltd",
+    "segment": "Aluminium ingots, billets, sheets (SME)",
+    "revenue_inr_cr": 230,
+    "revenue_year": "FY26",
+    "decision_office": "Ahmednagar, Maharashtra (Bhalwani)",
+    "reason": "FY26 230 cr; TTM 319 cr; growing fast.",
+    "code": "544506",
+    "sources": [
+     "https://www.screener.in/company/544506/"
+    ]
+   }
+  ],
+  "excluded": [
+   {
+    "name": "Maharashtra Seamless Ltd",
+    "segment": "Seamless and ERW pipes",
+    "revenue_inr_cr": 4674,
+    "revenue_year": "FY26",
+    "decision_office": "Gurugram, Haryana",
+    "reason": "Registered office shifted from Maharashtra to Haryana (Plot 106, Sector 44, Gurugram, letterhead read); D P Jindal group. Plant at Nagothane, Raigad (MH) only.",
+    "code": "MAHSEAMLES",
+    "sources": [
+     "https://www.screener.in/company/MAHSEAMLES/"
+    ]
+   },
+   {
+    "name": "Scan Steels Ltd",
+    "segment": "Sponge iron, billets, TMT",
+    "revenue_inr_cr": 838,
+    "revenue_year": "FY26",
+    "decision_office": "Bhubaneswar, Odisha (corporate office)",
+    "reason": "Registered in Mumbai (Vile Parle) but corporate office Bhubaneswar and plant Rajgangpur, Odisha. Decisions appear Odisha; include only if registered office is enough.",
+    "code": "SCANSTL",
+    "sources": [
+     "https://www.screener.in/company/SCANSTL/"
+    ]
+   },
+   {
+    "name": "Chaman Metallics Ltd",
+    "segment": "Sponge iron, pellets (SME)",
+    "revenue_inr_cr": 541,
+    "revenue_year": "FY26",
+    "decision_office": "Raipur, Chhattisgarh (GR group corporate office)",
+    "reason": "Registered office and plant at Tadali, Chandrapur (MH), but promoter GR group runs it from Raipur.",
+    "code": "CMNL",
+    "sources": [
+     "https://www.screener.in/company/CMNL/"
+    ]
+   },
+   {
+    "name": "RHI Magnesita India Ltd",
+    "segment": "Refractories (adjacent)",
+    "revenue_inr_cr": 4020,
+    "revenue_year": "FY26",
+    "decision_office": "Gurugram, Haryana (corporate office DLF Square)",
+    "reason": "Registered office Kanjurmarg, Mumbai (letterhead read) but corporate office and CEO in Gurugram. Ambiguous; caller may move it to adjacent.",
+    "code": "RHIM",
+    "sources": [
+     "https://www.screener.in/company/RHIM/"
+    ]
+   },
+   {
+    "name": "AM/NS India (ArcelorMittal Nippon Steel India)",
+    "segment": "Integrated steel",
+    "revenue_inr_cr": null,
+    "revenue_year": "FY26",
+    "decision_office": "Hazira, Gujarat (registered); some leadership in Mumbai",
+    "reason": "Equity not listed (only debt securities). Out of a listed-company list.",
+    "code": null,
+    "sources": [
+     "https://www.amns.in"
+    ]
+   },
+   {
+    "name": "Western Coalfields Ltd",
+    "segment": "Coal mining (Coal India subsidiary)",
+    "revenue_inr_cr": null,
+    "revenue_year": "FY26",
+    "decision_office": "Nagpur, Maharashtra",
+    "reason": "Unlisted subsidiary of Coal India (Kolkata).",
+    "code": null,
+    "sources": [
+     "https://www.westerncoal.in"
+    ]
+   },
+   {
+    "name": "IREL (India) Ltd",
+    "segment": "Rare earths and mineral sands (central PSU)",
+    "revenue_inr_cr": null,
+    "revenue_year": "FY26",
+    "decision_office": "Mumbai, Maharashtra",
+    "reason": "Unlisted.",
+    "code": null,
+    "sources": [
+     "https://www.irel.co.in"
+    ]
+   },
+   {
+    "name": "Mineral Exploration and Consultancy Ltd (MECL)",
+    "segment": "Mineral exploration (central PSU)",
+    "revenue_inr_cr": null,
+    "revenue_year": "FY26",
+    "decision_office": "Nagpur, Maharashtra",
+    "reason": "Unlisted.",
+    "code": null,
+    "sources": [
+     "https://www.mecl.co.in"
+    ]
+   },
+   {
+    "name": "Evonith Value Steels Ltd (formerly Uttam Value Steels)",
+    "segment": "HR steel, Wardha plant",
+    "revenue_inr_cr": null,
+    "revenue_year": "FY26",
+    "decision_office": "Mumbai / Wardha, Maharashtra",
+    "reason": "Screener shows no financials after FY2020; trading appears suspended or not reporting. Revenue for FY26 not available.",
+    "code": "UVSL",
+    "sources": [
+     "https://www.screener.in/company/UVSL/"
+    ]
+   },
+   {
+    "name": "Polycab India Ltd",
+    "segment": "Wires and cables (makes own copper and aluminium rod)",
+    "revenue_inr_cr": 28884,
+    "revenue_year": "FY26",
+    "decision_office": "Mumbai, Maharashtra (registered Halol, Gujarat)",
+    "reason": "Cables are electrical equipment, outside metals scope. Caller may add as copper downstream.",
+    "code": "POLYCAB",
+    "sources": [
+     "https://www.screener.in/company/POLYCAB/"
+    ]
+   },
+   {
+    "name": "Apar Industries Ltd",
+    "segment": "Aluminium conductors, cables, speciality oils",
+    "revenue_inr_cr": 22902,
+    "revenue_year": "FY26",
+    "decision_office": "Mumbai, Maharashtra (registered Vadodara, Gujarat)",
+    "reason": "Conductors and cables, outside scope; largest aluminium conductor maker, so flag as optional.",
+    "code": "APARINDS",
+    "sources": [
+     "https://www.screener.in/company/APARINDS/"
+    ]
+   },
+   {
+    "name": "R R Kabel Ltd",
+    "segment": "Wires and cables",
+    "revenue_inr_cr": 9722,
+    "revenue_year": "FY26",
+    "decision_office": "Mumbai, Maharashtra",
+    "reason": "Cables, outside scope. Sister of Ram Ratna Wires.",
+    "code": "RRKABEL",
+    "sources": [
+     "https://www.screener.in/company/RRKABEL/"
+    ]
+   },
+   {
+    "name": "Finolex Cables Ltd",
+    "segment": "Cables (makes own copper rod)",
+    "revenue_inr_cr": 6321,
+    "revenue_year": "FY26",
+    "decision_office": "Pune, Maharashtra",
+    "reason": "Cables, outside scope.",
+    "code": "FINCABLES",
+    "sources": [
+     "https://www.screener.in/company/FINCABLES/"
+    ]
+   },
+   {
+    "name": "Karamtara Engineering Ltd",
+    "segment": "Transmission towers, fasteners, galvanised structures",
+    "revenue_inr_cr": 4312,
+    "revenue_year": "FY26",
+    "decision_office": "Mumbai, Maharashtra (reported)",
+    "reason": "Engineering / transmission structures; borderline steel-structurals fit. Listed 2026. Office not verified.",
+    "code": "KARAMTARA",
+    "sources": [
+     "https://www.screener.in/company/KARAMTARA/"
+    ]
+   },
+   {
+    "name": "Varroc Engineering Ltd",
+    "segment": "Auto lighting and electronics",
+    "revenue_inr_cr": 8890,
+    "revenue_year": "FY26",
+    "decision_office": "Chhatrapati Sambhajinagar, Maharashtra",
+    "reason": "Auto components, not metals.",
+    "code": "VARROC",
+    "sources": [
+     "https://www.screener.in/company/VARROC/"
+    ]
+   },
+   {
+    "name": "Lloyds Engineering Works Ltd",
+    "segment": "Heavy engineering equipment",
+    "revenue_inr_cr": 1301,
+    "revenue_year": "FY26",
+    "decision_office": "Mumbai, Maharashtra",
+    "reason": "Engineering, not metals; Lloyds group company.",
+    "code": "LLOYDSENGG",
+    "sources": [
+     "https://www.screener.in/company/LLOYDSENGG/"
+    ]
+   },
+   {
+    "name": "Aeroflex Enterprises Ltd (formerly Sat Industries)",
+    "segment": "Holding / diversified",
+    "revenue_inr_cr": 697,
+    "revenue_year": "FY26",
+    "decision_office": "Mumbai, Maharashtra",
+    "reason": "Diversified holding; metal revenue is Aeroflex Industries (near miss).",
+    "code": "AEROENTER",
+    "sources": [
+     "https://www.screener.in/company/AEROENTER/"
+    ]
+   },
+   {
+    "name": "ABans Enterprises Ltd",
+    "segment": "Commodity and precious metals trading",
+    "revenue_inr_cr": 13813,
+    "revenue_year": "FY26",
+    "decision_office": "Mumbai, Maharashtra",
+    "reason": "Trading, not production.",
+    "code": "ABANSENT",
+    "sources": [
+     "https://www.screener.in/company/ABANSENT/"
+    ]
+   },
+   {
+    "name": "Augmont Enterprises Ltd",
+    "segment": "Gold and silver bullion",
+    "revenue_inr_cr": 94186,
+    "revenue_year": "FY26",
+    "decision_office": "Mumbai, Maharashtra",
+    "reason": "Precious metals, outside scope.",
+    "code": "AUGMONT",
+    "sources": [
+     "https://www.screener.in/company/AUGMONT/"
+    ]
+   },
+   {
+    "name": "Remi Edelstahl Tubulars Ltd",
+    "segment": "Stainless pipes and tubes",
+    "revenue_inr_cr": 142,
+    "revenue_year": "FY26",
+    "decision_office": "Mumbai, Maharashtra",
+    "reason": "Revenue far below threshold.",
+    "code": "513043",
+    "sources": [
+     "https://www.screener.in/company/513043/"
+    ]
+   },
+   {
+    "name": "Gandhi Special Tubes Ltd",
+    "segment": "Seamless and welded tubes",
+    "revenue_inr_cr": 192,
+    "revenue_year": "FY26",
+    "decision_office": "Mumbai, Maharashtra",
+    "reason": "Revenue far below threshold.",
+    "code": "GANDHITUBE",
+    "sources": [
+     "https://www.screener.in/company/GANDHITUBE/"
+    ]
+   },
+   {
+    "name": "Jindal Saw Ltd",
+    "segment": "Pipes",
+    "revenue_inr_cr": null,
+    "revenue_year": "FY26",
+    "decision_office": "New Delhi",
+    "reason": "Not Maharashtra.",
+    "code": "JINDALSAW",
+    "sources": [
+     "https://www.screener.in/company/JINDALSAW/"
+    ]
+   },
+   {
+    "name": "Shah Metacorp Ltd",
+    "segment": "Stainless steel",
+    "revenue_inr_cr": null,
+    "revenue_year": "FY26",
+    "decision_office": "Ahmedabad, Gujarat",
+    "reason": "Not Maharashtra; small.",
+    "code": null,
+    "sources": [
+     "https://www.screener.in"
+    ]
+   },
+   {
+    "name": "Systematic check of other large listed metals names",
+    "segment": "various",
+    "revenue_inr_cr": null,
+    "revenue_year": "FY26",
+    "decision_office": "outside Maharashtra",
+    "reason": "SAIL, NMDC, Jindal Steel, Jindal Stainless (Delhi / Hyderabad); NALCO, IMFA (Odisha); Hindustan Zinc (Udaipur); Hindustan Copper, Shyam Metalics, Maithan, Usha Martin, Electrosteel, Graphite India (Kolkata); APL Apollo, Hi-Tech Pipes (Delhi NCR); Ratnamani, Gravita, GMDC, CMR Green Tech (Gujarat / Rajasthan / Haryana); Godawari, Sarda, Jayaswal-type Raipur names; Sunlite Recycling, Parmeshwar Metal, Rajputana Stainless (Gujarat); Jindal Supreme (Hisar).",
+    "code": null,
+    "sources": [
+     "https://www.screener.in/market/IN01/IN0103/"
+    ]
+   }
+  ]
+ }
+]

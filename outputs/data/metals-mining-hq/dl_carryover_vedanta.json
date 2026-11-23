@@ -1,0 +1,191 @@
+[
+ {
+  "name": "Vedanta Ltd",
+  "exchange": "both",
+  "bse_code": "500295",
+  "nse_code": "VEDL",
+  "category": "core",
+  "segment": "Diversified metals after 2026 demerger (zinc via Hindustan Zinc, copper, ferro-chrome and others)",
+  "revenue_inr_cr": 78437,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "1st Floor, C Wing, Unit 103, Corporate Avenue, Atul Projects, Chakala, Andheri (East), Mumbai 400093, Maharashtra",
+  "decision_office": "AMBIGUOUS: registered in Mumbai, but filings give corporate office as Core-6, Scope Complex, Lodhi Road, New Delhi. Treat decisions as New Delhi (with London links to Vedanta Resources)",
+  "plants": [
+   {
+    "site": "Hindustan Zinc mines and smelters",
+    "state": "Rajasthan",
+    "what": "zinc, lead, silver (subsidiary)"
+   },
+   {
+    "site": "Silvassa",
+    "state": "Dadra and Nagar Haveli",
+    "what": "copper rod / refinery"
+   },
+   {
+    "site": "FACOR, Bhadrak",
+    "state": "Odisha",
+    "what": "ferro-chrome"
+   },
+   {
+    "site": "Zinc International",
+    "state": "South Africa / Namibia",
+    "what": "zinc"
+   }
+  ],
+  "promoter_group": "Vedanta group (Anil Agarwal family, via Vedanta Resources)",
+  "promoters": [
+   {
+    "name": "Anil Agarwal",
+    "role": "Chairman"
+   },
+   {
+    "name": "Navin Agarwal",
+    "role": "Vice Chairman"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Hindustan Zinc Ltd",
+    "role_in_chain": "zinc-lead subsidiary, Udaipur",
+    "listed": "yes"
+   },
+   {
+    "name": "Vedanta Aluminium Metal Ltd",
+    "role_in_chain": "demerged aluminium",
+    "listed": "yes"
+   },
+   {
+    "name": "Vedanta Iron & Steel Ltd",
+    "role_in_chain": "demerged iron ore and steel",
+    "listed": "yes"
+   },
+   {
+    "name": "Vedanta Power Ltd, Vedanta Oil and Gas Ltd",
+    "role_in_chain": "demerged",
+    "listed": "yes"
+   },
+   {
+    "name": "Vedanta Resources Ltd",
+    "role_in_chain": "promoter holdco (UK)",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/VEDL/consolidated/",
+   "https://nsearchives.nseindia.com/corporate/BRSR_500295_19062026172329.pdf"
+  ],
+  "certainty": "verified",
+  "notes": "FY26 figure is screener consolidated after the demerger restatement. Exact post-demerger perimeter should be checked against the FY26 annual report. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use. | Moved to Delhi: filings point to New Delhi as decision office."
+ },
+ {
+  "name": "Vedanta Aluminium Metal Ltd",
+  "exchange": "both",
+  "bse_code": "544780",
+  "nse_code": "VAML",
+  "category": "core",
+  "segment": "Aluminium (alumina, smelting, value-added)",
+  "revenue_inr_cr": 66891,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "C-103, Atul Projects, Corporate Avenue, New Link Road, Chakala MIDC, Mumbai 400093, Maharashtra",
+  "decision_office": "AMBIGUOUS: registered Mumbai; letterhead phone is New Delhi (+91 11), operations HQ Jharsuguda. Likely Delhi / Odisha",
+  "plants": [
+   {
+    "site": "Jharsuguda",
+    "state": "Odisha",
+    "what": "aluminium smelter"
+   },
+   {
+    "site": "Lanjigarh",
+    "state": "Odisha",
+    "what": "alumina refinery"
+   },
+   {
+    "site": "Korba (BALCO)",
+    "state": "Chhattisgarh",
+    "what": "aluminium smelter (subsidiary)"
+   }
+  ],
+  "promoter_group": "Vedanta group",
+  "promoters": [
+   {
+    "name": "Vedanta Resources / Anil Agarwal family",
+    "role": "promoter"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Bharat Aluminium Co (BALCO)",
+    "role_in_chain": "subsidiary smelter",
+    "listed": "no"
+   },
+   {
+    "name": "Vedanta Ltd",
+    "role_in_chain": "former parent",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/VAML/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Listed 2026 after demerger. FY26 is screener consolidated (pro forma of the demerged undertaking); standalone shows zero. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use. | Moved to Delhi: filings point to New Delhi as decision office."
+ },
+ {
+  "name": "Vedanta Iron & Steel Ltd",
+  "exchange": "both",
+  "bse_code": "544784",
+  "nse_code": "VISL",
+  "category": "core",
+  "segment": "Iron ore mining, pig iron, steel",
+  "revenue_inr_cr": 13587,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "C-103, Atul Projects, Corporate Avenue, New Link Road, Chakala MIDC, Mumbai 400093, Maharashtra",
+  "decision_office": "AMBIGUOUS: registered Mumbai; business historically run from Goa (Sesa) and Bokaro (ESL); group decisions Delhi",
+  "plants": [
+   {
+    "site": "Goa",
+    "state": "Goa",
+    "what": "iron ore mining, pig iron (Amona)"
+   },
+   {
+    "site": "Karnataka mines",
+    "state": "Karnataka",
+    "what": "iron ore"
+   },
+   {
+    "site": "Bokaro (ESL Steel)",
+    "state": "Jharkhand",
+    "what": "integrated steel"
+   },
+   {
+    "site": "Western Cluster",
+    "state": "Liberia",
+    "what": "iron ore"
+   }
+  ],
+  "promoter_group": "Vedanta group",
+  "promoters": [
+   {
+    "name": "Vedanta Resources / Anil Agarwal family",
+    "role": "promoter"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "ESL Steel Ltd",
+    "role_in_chain": "steel subsidiary",
+    "listed": "no"
+   },
+   {
+    "name": "Vedanta Ltd",
+    "role_in_chain": "former parent",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/VISL/consolidated/"
+  ],
+  "certainty": "verified",
+  "notes": "Listed 2026 after demerger. Revenue figure is screener consolidated FY26 (pro forma); verify against annual report. Promoter names and plant lists are from public knowledge and company profiles, not re-read line by line; date-stamp before client use. | Moved to Delhi: filings point to New Delhi as decision office."
+ }
+]

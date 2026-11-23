@@ -16,7 +16,13 @@ for st, code in STATES.items():
     if not os.path.exists(os.path.join(S, f"{code}_listed_v.json")): continue
     L = load(f"{code}_listed_v.json") or load(f"{code}_listed.json") or []
     U = load(f"{code}_unlisted_v.json") or load(f"{code}_unlisted.json") or []
-    F = load(f"{code}_families.json") or {"groups": [], "links": []}
+    F = load(f"{code}_families.json")
+    if F is None:
+        F = {"groups": [], "links": []}
+        for part in ("A", "B", "C", "D"):
+            x = load(f"{code}_families_{part}.json")
+            if x:
+                F["groups"] += x.get("groups", []); F["links"] += x.get("links", [])
     for part in ("A", "B", "C"):
         for e in (load(f"{code}_fam_enrich_{part}.json") or []):
             i = e.get("index")
