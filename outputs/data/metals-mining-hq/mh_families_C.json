@@ -1,0 +1,1623 @@
+{
+ "prepared": "2026-11-23",
+ "batch": "C: Nagpur, Jalna and others",
+ "notes": "Jalna cluster: the five Jalna groups (SRJ Peety, Om Sairam, Kalika, Rajuri, Bhagyalaxmi) are first-generation-to-second-generation promoter companies, several growing out of scrap trading and rerolling. Surnames (Peety, Bharuka, Goyal, Agrawal, Jindal, Loya, Mundada, Lohiya, Toshniwal, Bharadiya, Kabra) are common Marwari surnames, but no source read states community, shared ancestry or marriages between these families; none recorded. Hosts sebi.gov.in, bseindia.com and 360.one were not reachable; annual reports and the Caliber DRHP were not read directly. Govt and MNC leadership is date-stamped Nov 2026 and should be re-checked before use.",
+ "groups": [
+  {
+   "group": "Sunflag group",
+   "family": "Bhardwaj family (Sunflag group)",
+   "display_name": "Bhardwaj family (Sunflag group): Ravi Bhushan Bhardwaj",
+   "decision_office": "Nagpur (registered office); corporate office in Pune",
+   "founder": {
+    "name": "Satya Dev Bhardwaj",
+    "year_founded": 1937,
+    "native_place": null
+   },
+   "head": {
+    "name": "Ravi Bhushan Bhardwaj",
+    "role": "Non-executive Chairman, Sunflag Iron & Steel (since about 2016, aggregator profile) [reported]"
+   },
+   "next_gen": [
+    {
+     "name": "Pranav Ravi Bhushan Bhardwaj",
+     "relation": "son of Ravi Bhushan Bhardwaj (inferred from patronymic)",
+     "runs": "Managing Director, Sunflag Iron & Steel; 0.89%",
+     "since": "Board 2011; MD 2015 (aggregator)"
+    },
+    {
+     "name": "Suhrit Ravi Bhushan Bhardwaj",
+     "relation": "son of Ravi Bhushan Bhardwaj (inferred from patronymic)",
+     "runs": "Director, Sunflag Iron & Steel (7.33%); Group MD, Sunflag Textile & Knitwear Mills, Nairobi; director, Supra Corp",
+     "since": "not stated"
+    }
+   ],
+   "control_summary": "Promoter group holds 51.16% of Sunflag Iron & Steel (Mar 2026), including Suhrit 7.33% and Pranav 0.89% [reported, shareholding trackers]. Daido Steel of Japan holds 10% as a public shareholder, not a promoter [reported]. The rest of the promoter stake sits in family or overseas group entities not identified here.",
+   "background": "The Sunflag group began in Kenya in the 1930s, when Satya Dev Bhardwaj set up a knitting factory; the group still runs textiles in East Africa (Sunflag Textile & Knitwear Mills, Nairobi). Sunflag Iron & Steel was incorporated in Maharashtra on 12 September 1984 to build a special steel plant near Nagpur, at Warthi in Bhandara district, with Daido Steel as technical partner and shareholder. It makes alloy and special steel long products for auto and engineering users and has a captive coal block at Belgaon, Chandrapur. Day-to-day control is with the third generation, Pranav Bhardwaj as MD; FY26 revenue was about Rs 3,939 crore.",
+   "milestones": [
+    {
+     "year": 1937,
+     "event": "Sunflag group founded in Kenya by Satya Dev Bhardwaj (knitting); some sources say early 1930s"
+    },
+    {
+     "year": 1984,
+     "event": "Sunflag Iron & Steel incorporated in Maharashtra (12 Sept 1984)"
+    },
+    {
+     "year": 2015,
+     "event": "Pranav Bhardwaj becomes Managing Director (aggregator)"
+    },
+    {
+     "year": 2016,
+     "event": "Chair passes from Priya Bhushan Bhardwaj to Ravi Bhushan Bhardwaj (aggregator; dates unclear)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Satya Dev Bhardwaj",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Founder; Chairman Emeritus of the Sunflag group",
+     "certainty": "reported"
+    },
+    {
+     "name": "Ravi Bhushan Bhardwaj",
+     "generation": 2,
+     "parent": "Satya Dev Bhardwaj",
+     "spouse": null,
+     "role": "Chairman, Sunflag Iron & Steel",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Priya Bhushan Bhardwaj",
+     "generation": 2,
+     "parent": "Satya Dev Bhardwaj",
+     "spouse": null,
+     "role": "Non-executive Chairman 1984 to 2016 (aggregator profile; may overlap with Ravi Bhushan's record)",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Pranav Ravi Bhushan Bhardwaj",
+     "generation": 3,
+     "parent": "Ravi Bhushan Bhardwaj",
+     "spouse": null,
+     "role": "Managing Director, Sunflag Iron & Steel",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Suhrit Ravi Bhushan Bhardwaj",
+     "generation": 3,
+     "parent": "Ravi Bhushan Bhardwaj",
+     "spouse": null,
+     "role": "Director, Sunflag Iron & Steel; Group MD, Sunflag Textile (Kenya)",
+     "certainty": "inferred"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sunflag Iron & Steel Company Ltd",
+     "listed": "yes",
+     "chain_stage": "steel making (special and alloy steel long products)",
+     "state": "Maharashtra",
+     "ownership_note": "Flagship; promoters 51.16%"
+    },
+    {
+     "name": "Belgaon coal block (Sunflag)",
+     "listed": "no",
+     "chain_stage": "coal mining (captive)",
+     "state": "Maharashtra",
+     "ownership_note": "Captive block held by Sunflag Iron & Steel"
+    },
+    {
+     "name": "Sunflag Textile & Knitwear Mills Ltd",
+     "listed": "no",
+     "chain_stage": "textiles (non-metal)",
+     "state": "overseas (Kenya)",
+     "ownership_note": "Family group company, Nairobi"
+    },
+    {
+     "name": "Supra Corp Ltd",
+     "listed": "no",
+     "chain_stage": "holding / other (not identified)",
+     "state": "not stated",
+     "ownership_note": "Suhrit Bhardwaj is a director"
+    }
+   ],
+   "chain_summary": "Captive coal (Belgaon, Chandrapur) to DRI and melt shop at Warthi, Bhandara, to rolled special and alloy steel bars for auto and engineering.",
+   "splits_disputes": "None found.",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.goodreturns.in/company/sunflag-iron-steel/history.html",
+    "https://www.marketscreener.com/insider/RAVI-BHUSHAN-S-D-BHARDWAJ-A0RQB9/",
+    "https://www.marketscreener.com/insider/PRANAV-RAVI-BHUSHAN-BHARDWAJ-A0MRQY/",
+    "https://uk.marketscreener.com/insider/SUHRIT-RAVI-BHUSHAN-BHARDWAJ-A1B99L/",
+    "https://uk.marketscreener.com/insider/PRIYA-BHUSHAN-S-D-BHARDWAJ-A0S3HO/",
+    "https://trendlyne.com/equity/share-holding/1314/SUNFLAG/latest/sunflag-iron-steel-company-ltd",
+    "https://www.screener.in/company/SUNFLAG/consolidated/"
+   ],
+   "certainty": "reported"
+  },
+  {
+   "group": "MMP group",
+   "family": "Bhandari family (MMP Industries)",
+   "display_name": "Bhandari family (MMP Industries): Arun Raghuvirraj Bhandari",
+   "decision_office": "Nagpur",
+   "founder": {
+    "name": "Arun Raghuvirraj Bhandari (founder status not confirmed in sources read)",
+    "year_founded": 1973,
+    "native_place": null
+   },
+   "head": {
+    "name": "Arun Raghuvirraj Bhandari",
+    "role": "Chairman and Managing Director, MMP Industries"
+   },
+   "next_gen": [
+    {
+     "name": "Mayank Arun Bhandari",
+     "relation": "relative of Arun under Companies Act s.2(77); son by patronymic (inferred)",
+     "runs": "Non-executive director, MMP Industries; promoter-group entity Mayank Fasteners",
+     "since": "not stated"
+    },
+    {
+     "name": "Rohini Arun Bhandari",
+     "relation": "promoter group; likely daughter (inferred, not stated)",
+     "runs": "Non-executive director, MMP Industries (FY26)",
+     "since": "not stated"
+    }
+   ],
+   "control_summary": "Promoter group (NSE disclosure, April 2026) is Arun, Saroj Arun, Mayank, Sakshi Mayank, Rohini Arun and Vivaan Mayank Bhandari, with entities Rohini Farms and Agriculture, Mayank Fasteners and Star Circlips and Engineering [reported, search summary of NSE filing]. Exact promoter percentage not read.",
+   "background": "The company was incorporated in Nagpur on 8 October 1973 as Semi Conductor Packages Pvt Ltd, later traded as Maharashtra Metal Powders, and was renamed MMP Industries in 2012. It makes atomised and flake aluminium powder and paste (for explosives, paints, autoclaved blocks and metallurgy) and aluminium conductors. Operations are all in the Nagpur belt: Hingna, Butibori, Umred (commercial production October 2019) and Bhandara. It is a family-run listed company (NSE) with FY26 revenue of about Rs 824 crore.",
+   "milestones": [
+    {
+     "year": 1973,
+     "event": "Incorporated as Semi Conductor Packages Pvt Ltd (8 Oct 1973)"
+    },
+    {
+     "year": 1983,
+     "event": "Starts aluminium powder production (aggregator; dates conflict)"
+    },
+    {
+     "year": 2012,
+     "event": "Renamed MMP Industries from Maharashtra Metal Powders"
+    },
+    {
+     "year": 2019,
+     "event": "Umred powder plant begins commercial operation (Oct 2019)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Arun Raghuvirraj Bhandari",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Saroj Arun Bhandari (inferred)",
+     "role": "Chairman and MD",
+     "certainty": "verified"
+    },
+    {
+     "name": "Saroj Arun Bhandari",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Arun Raghuvirraj Bhandari (inferred)",
+     "role": "Promoter group",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Mayank Arun Bhandari",
+     "generation": 2,
+     "parent": "Arun Raghuvirraj Bhandari",
+     "spouse": "Sakshi Mayank Bhandari (inferred)",
+     "role": "Non-executive director",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Sakshi Mayank Bhandari",
+     "generation": 2,
+     "parent": null,
+     "spouse": "Mayank Arun Bhandari (inferred)",
+     "role": "Promoter group",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Rohini Arun Bhandari",
+     "generation": 2,
+     "parent": "Arun Raghuvirraj Bhandari",
+     "spouse": null,
+     "role": "Non-executive director",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Vivaan Mayank Bhandari",
+     "generation": 3,
+     "parent": "Mayank Arun Bhandari",
+     "spouse": null,
+     "role": "Promoter group (minor or young member, inferred)",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Lalit Bhandari",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "Whole-time director; relation to Arun not stated",
+     "certainty": "inferred"
+    }
+   ],
+   "companies": [
+    {
+     "name": "MMP Industries Ltd",
+     "listed": "yes",
+     "chain_stage": "aluminium powder, paste and conductors",
+     "state": "Maharashtra",
+     "ownership_note": "Flagship, NSE listed"
+    },
+    {
+     "name": "Mayank Fasteners",
+     "listed": "no",
+     "chain_stage": "fasteners (adjacent)",
+     "state": "not stated",
+     "ownership_note": "Promoter-group entity"
+    },
+    {
+     "name": "Star Circlips and Engineering",
+     "listed": "no",
+     "chain_stage": "engineering components (adjacent)",
+     "state": "not stated",
+     "ownership_note": "Promoter-group entity"
+    },
+    {
+     "name": "Rohini Farms and Agriculture",
+     "listed": "no",
+     "chain_stage": "agriculture (non-metal)",
+     "state": "not stated",
+     "ownership_note": "Promoter-group entity"
+    }
+   ],
+   "chain_summary": "Bought-in aluminium ingot to atomised and flake powder and paste, and to aluminium conductors.",
+   "splits_disputes": "None found.",
+   "marriage_clues": [
+    {
+     "person": "Sakshi Mayank Bhandari",
+     "detail": "In promoter group under married surname; maiden family not given",
+     "possibly_linked_family": "married surname Bhandari; family not identified",
+     "certainty": "inferred",
+     "source": "https://nsearchives.nseindia.com/corporate/team_sandeshc_11062026115901_46.pdf"
+    }
+   ],
+   "sources": [
+    "https://nsearchives.nseindia.com/corporate/team_sandeshc_11062026115901_46.pdf",
+    "https://archives.nseindia.com/annual_reports/AR_24852_MMP_2023_2024_07082024161240.pdf",
+    "https://archives.nseindia.com/annual_reports/AR_30399_MMP_2025_2026_A_6952096_18082026122854.pdf",
+    "https://www.tofler.in/mmp-industries-limited/company/L32300MH1973PLC030813",
+    "https://www.screener.in/company/MMP/consolidated/"
+   ],
+   "certainty": "reported"
+  },
+  {
+   "group": "Caliber group",
+   "family": "Chadda family (Caliber Mining and Logistics)",
+   "display_name": "Chadda family (Caliber Mining): Mohit Satishkumar Chadda",
+   "decision_office": "Nagpur (registered office Chandrapur MIDC)",
+   "founder": {
+    "name": "Chadda family (Mohit, Anuj, Manish and Rahul Chadda as promoters); earlier founder not named in sources read",
+    "year_founded": 2014,
+    "native_place": null
+   },
+   "head": {
+    "name": "Mohit Satishkumar Chadda",
+    "role": "Chairman and Managing Director; about 34% pre-IPO"
+   },
+   "next_gen": [
+    {
+     "name": "Anuj Krishanlal Chadda",
+     "relation": "promoter; cousin line (Krishanlal branch, inferred)",
+     "runs": "Promoter, about 24% pre-IPO",
+     "since": "not stated"
+    },
+    {
+     "name": "Manish Krishanlal Chadda",
+     "relation": "promoter; Krishanlal branch (inferred brother of Anuj)",
+     "runs": "Whole-time director, about 18.5% pre-IPO",
+     "since": "not stated"
+    },
+    {
+     "name": "Rahul Roshanlal Chadda",
+     "relation": "promoter; Roshanlal branch (inferred)",
+     "runs": "Whole-time director, about 11.9% pre-IPO",
+     "since": "not stated"
+    },
+    {
+     "name": "Priya Anuj Chadda",
+     "relation": "promoter; wife of Anuj (inferred from name)",
+     "runs": "Whole-time director",
+     "since": "not stated"
+    }
+   ],
+   "control_summary": "Five promoters held about 91 to 95% before the July 2026 IPO (sources differ), split across three Chadda branches: Mohit (Satishkumar line) about 34%, Anuj and Manish (Krishanlal line) about 42.6%, Rahul (Roshanlal line) about 11.9% [reported]. Post-IPO holding not read.",
+   "background": "The company was incorporated on 3 July 2014 as Caliber Mercantile Pvt Ltd, a coal trading and transport business based at Ghugus Road, Chandrapur, and was later renamed Caliber Mining and Logistics. It grew into contract coal mining and overburden removal for Coal India subsidiaries, chiefly Western Coalfields in Maharashtra and Northern Coalfields in Madhya Pradesh and Uttar Pradesh, plus road and rail coal logistics. It listed on NSE and BSE on 24 July 2026 after a Rs 450 crore IPO (Rs 400 crore fresh, Rs 50 crore offer for sale). FY26 revenue was about Rs 1,678 crore.",
+   "milestones": [
+    {
+     "year": 2014,
+     "event": "Incorporated as Caliber Mercantile Pvt Ltd (3 July 2014)"
+    },
+    {
+     "year": 2020,
+     "event": "CS Coal Mining Pvt Ltd set up (later struck off)"
+    },
+    {
+     "year": 2025,
+     "event": "Draft IPO papers filed (about Rs 600 crore planned)"
+    },
+    {
+     "year": 2026,
+     "event": "IPO of Rs 450 crore; listed 24 July 2026"
+    }
+   ],
+   "people": [
+    {
+     "name": "Satishkumar Chadda",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Father of Mohit (patronymic); no role found",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Krishanlal Chadda",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Father of Anuj and Manish (patronymic); no role found",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Roshanlal Chadda",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Father of Rahul (patronymic); no role found",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Mohit Satishkumar Chadda",
+     "generation": 2,
+     "parent": "Satishkumar Chadda",
+     "spouse": null,
+     "role": "CMD, Caliber Mining",
+     "certainty": "verified"
+    },
+    {
+     "name": "Anuj Krishanlal Chadda",
+     "generation": 2,
+     "parent": "Krishanlal Chadda",
+     "spouse": "Priya Anuj Chadda (inferred)",
+     "role": "Promoter",
+     "certainty": "verified"
+    },
+    {
+     "name": "Priya Anuj Chadda",
+     "generation": 2,
+     "parent": null,
+     "spouse": "Anuj Krishanlal Chadda (inferred)",
+     "role": "Whole-time director, promoter",
+     "certainty": "reported"
+    },
+    {
+     "name": "Manish Krishanlal Chadda",
+     "generation": 2,
+     "parent": "Krishanlal Chadda",
+     "spouse": null,
+     "role": "Whole-time director, promoter",
+     "certainty": "reported"
+    },
+    {
+     "name": "Rahul Roshanlal Chadda",
+     "generation": 2,
+     "parent": "Roshanlal Chadda",
+     "spouse": null,
+     "role": "Whole-time director, promoter",
+     "certainty": "reported"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Caliber Mining and Logistics Ltd",
+     "listed": "yes",
+     "chain_stage": "contract coal mining and logistics",
+     "state": "Maharashtra; Madhya Pradesh; Uttar Pradesh",
+     "ownership_note": "Flagship; service contractor to WCL and NCL, not a mine owner"
+    },
+    {
+     "name": "CS Coal Mining Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "coal mining (contract)",
+     "state": "Maharashtra",
+     "ownership_note": "Struck off; Mohit was a director"
+    },
+    {
+     "name": "Caliber Mines and Minerals Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "mining (new entity, 2025)",
+     "state": "Maharashtra",
+     "ownership_note": "Name match; ownership not confirmed"
+    }
+   ],
+   "chain_summary": "Overburden removal and coal extraction on PSU mines, then road and rail coal logistics to consumers.",
+   "splits_disputes": "Company and promoters are party to ongoing tax and legal proceedings disclosed in the offer document [reported]. No family split found.",
+   "marriage_clues": [
+    {
+     "person": "Priya Anuj Chadda",
+     "detail": "Promoter under married surname; maiden family not given",
+     "possibly_linked_family": "married surname Chadda; family not identified",
+     "certainty": "inferred",
+     "source": "https://www.chittorgarh.com/ipo/caliber-mining-ipo/1999/"
+    }
+   ],
+   "sources": [
+    "https://www.chittorgarh.com/ipo/caliber-mining-ipo/1999/",
+    "https://www.businesstoday.in/markets/ipo-corner/story/caliber-mining-ipo-opens-july-17-price-band-issue-size-lot-size-key-dates-more-542752-2026-07-14",
+    "https://www.angelone.in/ipo/caliber-mining-logistics-ipo",
+    "https://tofler.in/caliber-mercantile-private-limited/company/U74999MH2014PTC255811",
+    "https://www.screener.in/company/CMLL/consolidated/"
+   ],
+   "certainty": "reported"
+  },
+  {
+   "group": "Solar group",
+   "family": "Nuwal family (Solar Industries)",
+   "display_name": "Nuwal family (Solar Industries): Satyanarayan Nandlal Nuwal",
+   "decision_office": "Nagpur",
+   "founder": {
+    "name": "Satyanarayan Nandlal Nuwal (with Kailashchandra Nuwal; Nandlal Nuwal named as co-promoter)",
+    "year_founded": 1995,
+    "native_place": "Bhilwara, Rajasthan (born 25 July 1952, Padma award citation 2026)"
+   },
+   "head": {
+    "name": "Satyanarayan Nandlal Nuwal",
+    "role": "Founder and Chairman, Solar Industries India"
+   },
+   "next_gen": [
+    {
+     "name": "Manish Satyanarayan Nuwal",
+     "relation": "son of Satyanarayan Nuwal",
+     "runs": "MD and CEO, Solar Industries; largest promoter holder 38.93%; led the push into defence (Economic Explosives)",
+     "since": "CEO from Aug 2012 (aggregator)"
+    }
+   ],
+   "control_summary": "Promoter group holds 73.15%. Manish Nuwal holds 38.93% directly; in March 2026 Kailash Chandra Nuwal and Indira Kailashchandra Nuwal moved their 29.23% into the Sohan Devi Nand Lal Nuwal Family Trust, of which they are trustees [reported, exchange-filing summaries].",
+   "background": "Satyanarayan Nuwal, born in Bhilwara in 1952 and a school dropout, started in explosives trading and is widely reported to have spent nights on railway platforms in his early years before settling in Nagpur, close to the coal and mineral belt. Solar Industries was set up in 1995 by Satyanarayan, Nandlal and Kailashchandra Nuwal, first trading and then making industrial explosives for coal and mineral mining. It became India's largest maker of bulk and packaged explosives and initiating systems, with plants across India and overseas (Turkey, South Africa, Zambia, Australia and others). Under Manish Nuwal it moved into defence (propellants, ammunition, drones) through Economic Explosives Ltd. FY26 revenue was about Rs 9,838 crore; Satyanarayan received a Padma award in 2026.",
+   "milestones": [
+    {
+     "year": 1995,
+     "event": "Solar Industries set up in Nagpur (some profiles date the founder's start to 1983)"
+    },
+    {
+     "year": 2012,
+     "event": "Manish Nuwal becomes CEO (Aug 2012)"
+    },
+    {
+     "year": 2026,
+     "event": "Kailash Chandra and Indira Nuwal move 29.23% to Sohan Devi Nand Lal Nuwal Family Trust (March)"
+    },
+    {
+     "year": 2026,
+     "event": "Padma award to Satyanarayan Nuwal"
+    }
+   ],
+   "people": [
+    {
+     "name": "Nandlal Nuwal",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Sohan Devi Nuwal (inferred from trust name)",
+     "role": "Named co-promoter in company history; father of Satyanarayan and Kailashchandra (inferred from patronymics)",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Sohan Devi Nuwal",
+     "generation": 1,
+     "parent": null,
+     "spouse": "Nandlal Nuwal (inferred)",
+     "role": "Name of family trust holding 29.23%",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Satyanarayan Nandlal Nuwal",
+     "generation": 2,
+     "parent": "Nandlal Nuwal",
+     "spouse": null,
+     "role": "Founder and Chairman",
+     "certainty": "verified"
+    },
+    {
+     "name": "Kailash Chandra Nuwal",
+     "generation": 2,
+     "parent": "Nandlal Nuwal",
+     "spouse": "Indira Kailashchandra Nuwal",
+     "role": "Co-promoter; Vice Chairman 2011 to 2020 (aggregator); trustee of family trust",
+     "certainty": "reported"
+    },
+    {
+     "name": "Indira Kailashchandra Nuwal",
+     "generation": 2,
+     "parent": null,
+     "spouse": "Kailash Chandra Nuwal",
+     "role": "Promoter; trustee of family trust",
+     "certainty": "reported"
+    },
+    {
+     "name": "Manish Satyanarayan Nuwal",
+     "generation": 3,
+     "parent": "Satyanarayan Nandlal Nuwal",
+     "spouse": null,
+     "role": "MD and CEO; 38.93%",
+     "certainty": "reported"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Solar Industries India Ltd",
+     "listed": "yes",
+     "chain_stage": "mining explosives and initiating systems",
+     "state": "Maharashtra; plants in many states and overseas",
+     "ownership_note": "Flagship; promoters 73.15%"
+    },
+    {
+     "name": "Economic Explosives Ltd",
+     "listed": "no",
+     "chain_stage": "defence explosives and ammunition",
+     "state": "Maharashtra",
+     "ownership_note": "Subsidiary of Solar Industries"
+    },
+    {
+     "name": "Overseas explosives subsidiaries (Turkey, South Africa, Zambia, Australia and others)",
+     "listed": "no",
+     "chain_stage": "mining explosives",
+     "state": "overseas",
+     "ownership_note": "Subsidiaries of Solar Industries"
+    }
+   ],
+   "chain_summary": "Ammonium nitrate and chemicals to bulk and packaged explosives and detonators supplied to coal and mineral mines; defence munitions alongside.",
+   "splits_disputes": "No dispute found. The March 2026 inter-se transfer of the Kailash Chandra branch's 29.23% to a family trust is a succession move, not a split [interpretation].",
+   "marriage_clues": [
+    {
+     "person": "Indira Kailashchandra Nuwal",
+     "detail": "Promoter under married surname; maiden family not given",
+     "possibly_linked_family": "married surname Nuwal; family not identified",
+     "certainty": "inferred",
+     "source": "https://scanx.trade/stock-market-news/orders-deals/solar-industries-family-trust-acquires-29-23-stake-through-inter-se-transfer/34685595"
+    }
+   ],
+   "sources": [
+    "https://padmaawards.gov.in/Document/pdf/CitationsForTickets\\2026\\English\\2026111.pdf",
+    "https://www.kotaksecurities.com/stocks/solar-industries-india-ltd/",
+    "https://scanx.trade/stock-market-news/orders-deals/solar-industries-family-trust-acquires-29-23-stake-through-inter-se-transfer/34685595",
+    "https://www.businesstoday.in/magazine/deep-dive/story/how-manish-satyanarayan-nuwal-is-turning-solar-industries-to-a-serious-player-in-defence-market-469801-2025-04-02",
+    "https://marketscreener.com/insider/KAILASHCHANDRA-N-NUWAL-A0JAXO",
+    "https://www.screener.in/company/SOLARINDS/consolidated/"
+   ],
+   "certainty": "reported"
+  },
+  {
+   "group": "SRJ group",
+   "family": "Peety family (SRJ group)",
+   "display_name": "Peety family (SRJ group): Surendra Shantilal Peety",
+   "decision_office": "Jalna",
+   "founder": {
+    "name": "Peety family (Shantilal Peety line; individual founder not named in ratings)",
+    "year_founded": 1985,
+    "native_place": null
+   },
+   "head": {
+    "name": "Surendra Shantilal Peety",
+    "role": "Managing Director, SRJ Peety Steels (director since 1991, aggregator)"
+   },
+   "next_gen": [],
+   "control_summary": "Both group companies are closely held by the Peety family, which supports them with unsecured loans [verified, CARE Nov 2025]. Directors are three Shantilal Peety sons (inferred brothers): Surendra, Jitendra and Ravindra.",
+   "background": "SRJ Peety Steels was incorporated in February 1985 to make MS ingots in Jalna, moved to MS bars in 1994, billets in 2007 and hot rolling in 2012, growing from about 60,000 tonnes a year (FY2010) to 5 lakh tonnes each of billets and TMT. It sells TMT under the Shree Om brand. A sister company, SRJ Strips and Pipes (incorporated Dec 2021, production from March 2024), adds billets, TMT and MS pipes under the Kapila brand. Group revenue was Rs 3,034 crore in FY25; SRJ Peety has drawn Rs 278 crore of Maharashtra Industrial Promotion Subsidy since FY15 against Rs 545 crore of investment.",
+   "milestones": [
+    {
+     "year": 1985,
+     "event": "SRJ Peety Steels incorporated (Feb 1985) for MS ingots"
+    },
+    {
+     "year": 1994,
+     "event": "Starts MS bars"
+    },
+    {
+     "year": 2007,
+     "event": "Starts MS billets"
+    },
+    {
+     "year": 2012,
+     "event": "Adopts hot rolling for TMT"
+    },
+    {
+     "year": 2022,
+     "event": "Income tax search (Aug 2022); Rs 27.8 crore seized cash set off against tax"
+    },
+    {
+     "year": 2024,
+     "event": "SRJ Strips and Pipes starts commercial production (29 Mar 2024)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Shantilal Peety",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Father of the three directors (patronymic); role not found",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Surendra Shantilal Peety",
+     "generation": 2,
+     "parent": "Shantilal Peety",
+     "spouse": null,
+     "role": "MD, SRJ Peety Steels; also a director of Jalna Steel Manufacturers Association and Graham Firth Steel Products (India) (aggregator)",
+     "certainty": "reported"
+    },
+    {
+     "name": "Jitendra Shantilal Peety",
+     "generation": 2,
+     "parent": "Shantilal Peety",
+     "spouse": null,
+     "role": "Whole-time director (status unclear)",
+     "certainty": "reported"
+    },
+    {
+     "name": "Ravindra Shantilal Peety",
+     "generation": 2,
+     "parent": "Shantilal Peety",
+     "spouse": null,
+     "role": "Director since 1990",
+     "certainty": "reported"
+    }
+   ],
+   "companies": [
+    {
+     "name": "SRJ Peety Steels Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "billets and TMT rolling",
+     "state": "Maharashtra",
+     "ownership_note": "Flagship; brand Shree Om"
+    },
+    {
+     "name": "SRJ Strips and Pipes Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "billets, TMT, strips and pipes",
+     "state": "Maharashtra",
+     "ownership_note": "Sister concern; brand Kapila"
+    }
+   ],
+   "chain_summary": "Scrap and sponge iron bought in, melted to billets, rolled to TMT bars, strips and MS pipes in Jalna.",
+   "splits_disputes": "Income tax search in August 2022 (ICRA). No family split found.",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.careratings.com/upload/CompanyFiles/PR/202511141127_SRJ_Strips_And_Pipes_Private_Limited.pdf",
+    "https://www.icra.in/Rating/GetRationalReportFilePdf?id=128809",
+    "https://www.tofler.in/s-r-j-peety-steels-private-limited/company/U27300MH1985PTC035293/directors"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Om Sairam group",
+   "family": "Bharuka family (Om Sairam group)",
+   "display_name": "Bharuka family (Om Sairam group): Rajendra and Dinesh Bharuka",
+   "decision_office": "Jalna",
+   "founder": {
+    "name": "Rajendra Satyanarayan Bharuka and Dinesh Satyanarayan Bharuka (brothers)",
+    "year_founded": 2003,
+    "native_place": null
+   },
+   "head": {
+    "name": "Rajendra Satyanarayan Bharuka and Dinesh Satyanarayan Bharuka",
+    "role": "Promoter directors (brothers)"
+   },
+   "next_gen": [],
+   "control_summary": "Om Sairam Steels and Alloys is promoted and run by brothers Rajendra and Dinesh Bharuka; promoters had lent Rs 161 crore to the group by March 2024 [verified, Acuite June 2024]. Sanvijay Alloys and Power is a subsidiary.",
+   "background": "Dinesh Bharuka began in 1986 in the family business of trading scrap metal to steel plants in Maharashtra. In 2003 he and his brother Rajendra incorporated Om Sairam Steels and Alloys and built a semi-integrated plant in Jalna (5 lakh tonnes of billets, 5.5 lakh tonnes of TMT), selling under the Uma TMT 500 brand across Maharashtra, Gujarat, Goa, Karnataka and Andhra Pradesh. In FY23 they bought Sanvijay Alloys and Power (sponge iron and power, Chandrapur) for backward integration, and in FY24 acquired a 40 MW thermal power plant. Group revenue was about Rs 1,524 crore in FY24.",
+   "milestones": [
+    {
+     "year": 1986,
+     "event": "Dinesh Bharuka starts in family scrap trading"
+    },
+    {
+     "year": 2003,
+     "event": "Om Sairam Steels and Alloys incorporated"
+    },
+    {
+     "year": 2023,
+     "event": "Acquires Sanvijay Alloys and Power, Chandrapur (FY23)"
+    },
+    {
+     "year": 2024,
+     "event": "Acquires 40 MW thermal power plant (FY24)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Satyanarayan Bharuka",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Father of the promoters (patronymic); ran family scrap business (inferred)",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Rajendra Satyanarayan Bharuka",
+     "generation": 2,
+     "parent": "Satyanarayan Bharuka",
+     "spouse": null,
+     "role": "Promoter director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Dinesh Satyanarayan Bharuka",
+     "generation": 2,
+     "parent": "Satyanarayan Bharuka",
+     "spouse": null,
+     "role": "Promoter director",
+     "certainty": "verified"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Om Sairam Steels and Alloys Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "billets and TMT rolling",
+     "state": "Maharashtra",
+     "ownership_note": "Flagship; brand Uma TMT 500"
+    },
+    {
+     "name": "Sanvijay Alloys and Power Ltd",
+     "listed": "no",
+     "chain_stage": "sponge iron and power",
+     "state": "Maharashtra",
+     "ownership_note": "Subsidiary, acquired FY23"
+    },
+    {
+     "name": "40 MW thermal power plant (acquired FY24)",
+     "listed": "no",
+     "chain_stage": "power",
+     "state": "not stated",
+     "ownership_note": "Owned by group"
+    }
+   ],
+   "chain_summary": "Sponge iron and power at Chandrapur feed billet melting and TMT rolling at Jalna.",
+   "splits_disputes": "None found.",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.acuite.in/documents/ratings/revised/28663-RR-20240603.pdf"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Kalika group",
+   "family": "Goyal, Agrawal and Jindal families (Kalika group)",
+   "display_name": "Goyal, Agrawal and Jindal families (Kalika group): Ghanshyamdas Goyal",
+   "decision_office": "Jalna",
+   "founder": {
+    "name": "Ghanshyamdas Chunilalji Goyal, Arun Agrawal, Anil Goyal and Manoj Jaibhagwan Jindal (first-generation promoters)",
+    "year_founded": 2002,
+    "native_place": null
+   },
+   "head": {
+    "name": "Ghanshyamdas (Ghansham) Chunilalji Goyal",
+    "role": "Director; manages Kalika Steel Alloys"
+   },
+   "next_gen": [
+    {
+     "name": "Govind Goyal",
+     "relation": "second-generation Goyal; exact parent not stated",
+     "runs": "Kalika Steel (joined 2016)",
+     "since": "2016"
+    }
+   ],
+   "control_summary": "Closely held by Ghansham Goyal, Arun Agrawal, Anil Goyal and Manoj Jindal; Goyal and Agrawal are active in management [verified, CARE April 2026]. Shareholding split not disclosed.",
+   "background": "Kalika Steel Alloys (incorporated 2002) runs billet and TMT capacity in Jalna under the Kalika brand, sold mainly in Pune, Jalna, Aurangabad and Mumbai. The promoters came from rerolling and scrap supply through promoter-owned Giriraj Rerolls and Bhoomi Rerolls, and also trade textiles through Sagar Paridhan. The group added Kalika Steel Jalna (2020) and Kalika Steel and Power (2023). FY25 standalone revenue was Rs 1,457 crore; CARE withdrew its rating in April 2026.",
+   "milestones": [
+    {
+     "year": 2002,
+     "event": "Kalika Steel Alloys incorporated"
+    },
+    {
+     "year": 2016,
+     "event": "Govind Goyal joins (second generation)"
+    },
+    {
+     "year": 2020,
+     "event": "Kalika Steel Jalna Pvt Ltd incorporated (15 Dec 2020)"
+    },
+    {
+     "year": 2023,
+     "event": "Kalika Steel and Power Pvt Ltd incorporated"
+    },
+    {
+     "year": 2026,
+     "event": "CARE rating withdrawn (April)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Chunilal Goyal",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Father of Ghanshyamdas (patronymic)",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Ghanshyamdas Chunilalji Goyal",
+     "generation": 2,
+     "parent": "Chunilal Goyal",
+     "spouse": null,
+     "role": "Director, manages company",
+     "certainty": "verified"
+    },
+    {
+     "name": "Anil N Goyal",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "Shareholder; three decades in steel trading (trade article); relation to Ghanshyamdas not stated",
+     "certainty": "reported"
+    },
+    {
+     "name": "Arun Agrawal",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "Director (MBA)",
+     "certainty": "verified"
+    },
+    {
+     "name": "Manoj Jaibhagwan Jindal",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "Shareholder; director, Kalika Steel Jalna",
+     "certainty": "verified"
+    },
+    {
+     "name": "Govind Goyal",
+     "generation": 3,
+     "parent": null,
+     "spouse": null,
+     "role": "Second-generation; joined 2016",
+     "certainty": "reported"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Kalika Steel Alloys Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "billets and TMT rolling",
+     "state": "Maharashtra",
+     "ownership_note": "Flagship; brand Kalika"
+    },
+    {
+     "name": "Kalika Steel Jalna Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "billets and TMT rolling",
+     "state": "Maharashtra",
+     "ownership_note": "Sister; Goyal and Jindal directors"
+    },
+    {
+     "name": "Kalika Steel and Power Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "steel and power (new, 2023)",
+     "state": "Maharashtra",
+     "ownership_note": "Sister"
+    },
+    {
+     "name": "Giriraj Rerolls Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "rerolling and scrap supply",
+     "state": "Maharashtra",
+     "ownership_note": "Promoter company"
+    },
+    {
+     "name": "Bhoomi Rerolls Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "rerolling",
+     "state": "Maharashtra",
+     "ownership_note": "Promoter company"
+    },
+    {
+     "name": "Sagar Paridhan Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "textile trading (non-metal)",
+     "state": "Maharashtra",
+     "ownership_note": "Promoter company"
+    }
+   ],
+   "chain_summary": "Scrap to billets to TMT and MS bars in Jalna; rerolling companies alongside.",
+   "splits_disputes": "None found. CARE had rated the company issuer-not-cooperating before withdrawing.",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.careratings.com/upload/CompanyFiles/PR/202604130436_Kalika_Steel_Alloys_Private_Limited.pdf",
+    "https://tofler.in/ghanshyamdas-chunilalji-goyal/director/00115743",
+    "https://tofler.in/manoj-jaibhagwan-jindal/director/02891013",
+    "https://corporatecitizen.in/v10-issue8/conversation-steel-sustainability-and-success.html"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Rajuri group",
+   "family": "Loya and associated families (Rajuri Steels)",
+   "display_name": "Loya family and partners (Rajuri Steels): Kailash Rameshwar Loya",
+   "decision_office": "Jalna",
+   "founder": {
+    "name": "Kailash Rameshwar Loya with partner directors (founder not named in sources)",
+    "year_founded": 2004,
+    "native_place": null
+   },
+   "head": {
+    "name": "Kailash Rameshwar Loya",
+    "role": "Managing Director"
+   },
+   "next_gen": [
+    {
+     "name": "Kaustubh Kailash Loya",
+     "relation": "son of Kailash Loya (inferred from patronymic)",
+     "runs": "Director in Loya-linked companies (aggregator)",
+     "since": "not stated"
+    }
+   ],
+   "control_summary": "Managed by Kailash Loya (MD) with directors Santosh Mundada, Shivkumar Lohiya, Purushottam Toshniwal and Vijay Bharadiya [verified, Acuite Jan 2025]: a multi-family promoter board. Directors and promoters had lent about Rs 96 crore unsecured by March 2024.",
+   "background": "Rajuri Steels and TMT Bars was incorporated on 15 July 2004 and runs a 30-acre plant at Jalna MIDC Phase II (Daregaon), making billets and TMT under the Rajuri 500 and Rajuri Fe550 brands. It sells through more than 1,200 dealers and 400 distributors across six states. Capacity was 3.3 lakh tonnes of TMT and 1.86 lakh tonnes of billets in December 2024, with a Rs 265 crore two-phase expansion eligible for Industrial Promotion Subsidy and electricity duty exemption. Revenue was Rs 1,152 crore in FY24.",
+   "milestones": [
+    {
+     "year": 2004,
+     "event": "Incorporated (15 July 2004)"
+    },
+    {
+     "year": 2010,
+     "event": "Rajyog Steel and Alloys set up by Kailash and Savita Loya"
+    },
+    {
+     "year": 2024,
+     "event": "Expansion phase 1 spends Rs 152 crore"
+    },
+    {
+     "year": 2025,
+     "event": "Acuite BB+/Stable (Jan 2025)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Rameshwar Loya",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Father of Kailash (patronymic)",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Kailash Rameshwar Loya",
+     "generation": 2,
+     "parent": "Rameshwar Loya",
+     "spouse": "Savita Kailash Loya (inferred)",
+     "role": "MD, Rajuri Steels; director, Rajyog Steel and Alloys",
+     "certainty": "verified"
+    },
+    {
+     "name": "Savita Kailash Loya",
+     "generation": 2,
+     "parent": null,
+     "spouse": "Kailash Rameshwar Loya (inferred)",
+     "role": "Director, Rajyog Steel and Alloys",
+     "certainty": "reported"
+    },
+    {
+     "name": "Kaustubh Kailash Loya",
+     "generation": 3,
+     "parent": "Kailash Rameshwar Loya",
+     "spouse": null,
+     "role": "Director (aggregator)",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Santosh Mundada",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "Director, Rajuri Steels",
+     "certainty": "verified"
+    },
+    {
+     "name": "Shivkumar Lohiya",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Purushottam Biharilal Toshniwal",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "Director",
+     "certainty": "verified"
+    },
+    {
+     "name": "Vijay Bharadiya",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "Director",
+     "certainty": "verified"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Rajuri Steels and TMT Bars Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "billets and TMT rolling",
+     "state": "Maharashtra",
+     "ownership_note": "Flagship"
+    },
+    {
+     "name": "Rajyog Steel and Alloys Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "steel (Jalna)",
+     "state": "Maharashtra",
+     "ownership_note": "Kailash and Savita Loya are directors"
+    },
+    {
+     "name": "Rathi Steel and Metal Pvt Ltd (formerly Rajuri Steels Pvt Ltd)",
+     "listed": "no",
+     "chain_stage": "steel",
+     "state": "Maharashtra",
+     "ownership_note": "Possible related company by former name; not confirmed"
+    }
+   ],
+   "chain_summary": "Scrap and sponge iron to captive billets to TMT bars in Jalna.",
+   "splits_disputes": "Possible earlier entity Rajuri Steels Pvt Ltd now carries the Rathi name; whether this was a split is not confirmed.",
+   "marriage_clues": [
+    {
+     "person": "Savita Kailash Loya",
+     "detail": "Director under married surname",
+     "possibly_linked_family": "married surname Loya; family not identified",
+     "certainty": "inferred",
+     "source": "https://www.tofler.in/rajyog-steel-and-alloys-private-limited/company/U28112MH2010PTC209429"
+    }
+   ],
+   "sources": [
+    "https://www.acuite.in/documents/ratings/revised/29581-RR-20250117.pdf",
+    "https://www.tofler.in/rajyog-steel-and-alloys-private-limited/company/U28112MH2010PTC209429",
+    "https://www.tofler.in/kaustubh-loya-kailash/director/07470965",
+    "https://www.tofler.in/rajuri-steels-and-tmt-bars-private-limited/company/U27300MH2004PTC147506"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "Bhagyalaxmi group (Jalna)",
+   "family": "Agarwal, Kabra and Khichade promoters (Bhagyalaxmi Rolling Mill)",
+   "display_name": "Agarwal, Kabra and Khichade promoters (Bhagyalaxmi Rolling Mill): Vishal K. Agarwal",
+   "decision_office": "Jalna",
+   "founder": {
+    "name": "Vishal Kashmirilal Agarwal, Nitin Rambilas Kabra and Shivshankar Khichade",
+    "year_founded": 2004,
+    "native_place": null
+   },
+   "head": {
+    "name": "Vishal Kashmirilal Agarwal",
+    "role": "Promoter director (aggregator); a trade listing names Ram Mohanlal Gandhi as MD (unverified)"
+   },
+   "next_gen": [],
+   "control_summary": "Founded in 2004 by Vishal K. Agarwal, Nitin Kabra and Shivshankar Khichade [reported, Infomerics March 2023 via search summary]. Current shareholding not read; Khichade's present role not confirmed.",
+   "background": "Bhagyalaxmi Rolling Mill was incorporated on 18 August 2004 and runs a billet and TMT plant at Gut No. 30, Daregaon, next to Jalna MIDC, now 5.86 lakh tonnes a year of each. It is one of the larger Jalna secondary steel units, with revenue of Rs 1,738 crore in FY25 and a provisional Rs 2,522 crore in FY26. Infomerics rates it IVR A-/Stable (July 2026). A near-identical sister, Bhagyalaxmi Steel Alloy Pvt Ltd (also 2004), is no longer active.",
+   "milestones": [
+    {
+     "year": 2004,
+     "event": "Incorporated (18 Aug 2004); Bhagyalaxmi Steel Alloy set up alongside"
+    },
+    {
+     "year": 2022,
+     "event": "Expansion public hearing (MPCB, May 2022)"
+    },
+    {
+     "year": 2025,
+     "event": "Infomerics reaffirms on Rs 610 crore facilities (May)"
+    },
+    {
+     "year": 2026,
+     "event": "Infomerics IVR A-/Stable (July)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Kashmirilal Agarwal",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Father of Vishal (patronymic)",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Vishal Kashmirilal Agarwal",
+     "generation": 2,
+     "parent": "Kashmirilal Agarwal",
+     "spouse": null,
+     "role": "Co-founder, director",
+     "certainty": "reported"
+    },
+    {
+     "name": "Rambilas Kabra",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Father of Nitin (patronymic)",
+     "certainty": "inferred"
+    },
+    {
+     "name": "Nitin Rambilas Kabra",
+     "generation": 2,
+     "parent": "Rambilas Kabra",
+     "spouse": null,
+     "role": "Co-founder, director",
+     "certainty": "reported"
+    },
+    {
+     "name": "Shivshankar Khichade",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "Co-founder; director of Bhagyalaxmi Steel Alloy",
+     "certainty": "reported"
+    },
+    {
+     "name": "Ram Mohanlal Gandhi",
+     "generation": 2,
+     "parent": null,
+     "spouse": null,
+     "role": "Named MD in a trade listing (unverified)",
+     "certainty": "inferred"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Bhagyalaxmi Rolling Mill Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "billets and TMT rolling",
+     "state": "Maharashtra",
+     "ownership_note": "Flagship"
+    },
+    {
+     "name": "Bhagyalaxmi Steel Alloy Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "steel (inactive)",
+     "state": "Maharashtra",
+     "ownership_note": "Sister, inactive"
+    }
+   ],
+   "chain_summary": "Scrap and sponge iron to billets to TMT bars at Daregaon, Jalna.",
+   "splits_disputes": "None found. Not to be confused with Bhagyalaxmi Steeltech Pvt Ltd, an Ahmedabad steel trader promoted by Hanumanaram Vishnoi (CARE Nov 2024).",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.infomerics.com/admin/uploads/pr-Bhagyalaxmi-RollingMill-21mar23.pdf",
+    "https://infomericstorage.blob.core.windows.net/uploads/Pr_Bhagyalaxmi_Rolling_Mill28_Jul26_ac17f22abe.pdf",
+    "https://www.tofler.in/bhagyalaxmi-rolling-mill-private-limited/company/U27100MH2004PTC148074",
+    "https://www.careratings.com/upload/CompanyFiles/PR/202411121108_Bhagyalaxmi_Steeltech_Private_Limited.pdf"
+   ],
+   "certainty": "reported"
+  },
+  {
+   "group": "Sound Castings group",
+   "family": "Deshpande family (Sound Castings)",
+   "display_name": "Deshpande family (Sound Castings): Anand Vilas Deshpande",
+   "decision_office": "Kolhapur",
+   "founder": {
+    "name": "V.N. Deshpande with N.S. Wagh (company profile)",
+    "year_founded": 1987,
+    "native_place": null
+   },
+   "head": {
+    "name": "Anand Vilas Deshpande",
+    "role": "Managing Director (since April 2003)"
+   },
+   "next_gen": [
+    {
+     "name": "Abhijeet Vilas Deshpande",
+     "relation": "brother of Anand (inferred, shared patronymic)",
+     "runs": "Whole-time Director",
+     "since": "2007"
+    }
+   ],
+   "control_summary": "Board of three to four, led by the Deshpande family: Anand Vilas Deshpande (MD), Abhijeet Vilas Deshpande (WTD) and Umesh Krishnaji Deshpande (longest-serving director) [reported, registry aggregators]. Shareholding not read.",
+   "background": "Sound Castings was incorporated on 20 October 1987 and started as a foundry making about 50 tonnes a month, founded by V.N. Deshpande with N.S. Wagh. It grew at MIDC Shiroli, Kolhapur, added a second plant at Kagal MIDC in the 2000s and a high-pressure moulding line in 2010-11, reaching about 5,000 tonnes a month of iron castings for auto and engineering buyers. The company claims revenue above Rs 1,000 crore. No rating rationale was found.",
+   "milestones": [
+    {
+     "year": 1987,
+     "event": "Incorporated (20 Oct 1987); 50 tonnes a month foundry"
+    },
+    {
+     "year": 2003,
+     "event": "Anand Deshpande becomes MD"
+    },
+    {
+     "year": 2007,
+     "event": "Abhijeet Deshpande joins board as WTD"
+    },
+    {
+     "year": 2011,
+     "event": "High-pressure moulding line added (2010-11)"
+    }
+   ],
+   "people": [
+    {
+     "name": "V.N. Deshpande",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Co-founder; possibly Vilas N. Deshpande, father of Anand and Abhijeet (inferred)",
+     "certainty": "inferred"
+    },
+    {
+     "name": "N.S. Wagh",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Co-founder (not family)",
+     "certainty": "reported"
+    },
+    {
+     "name": "Umesh Krishnaji Deshpande",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Longest-serving director; relation not stated",
+     "certainty": "reported"
+    },
+    {
+     "name": "Anand Vilas Deshpande",
+     "generation": 2,
+     "parent": "V.N. Deshpande",
+     "spouse": null,
+     "role": "Managing Director",
+     "certainty": "reported"
+    },
+    {
+     "name": "Abhijeet Vilas Deshpande",
+     "generation": 2,
+     "parent": "V.N. Deshpande",
+     "spouse": null,
+     "role": "Whole-time Director",
+     "certainty": "reported"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sound Castings Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "iron castings (foundry)",
+     "state": "Maharashtra",
+     "ownership_note": "Flagship; plants at Shiroli and Kagal MIDC, Kolhapur"
+    },
+    {
+     "name": "Sound Diecastings Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "die castings",
+     "state": "Maharashtra",
+     "ownership_note": "Pune; struck off; Abhijeet was a director"
+    }
+   ],
+   "chain_summary": "Pig iron and scrap melted to grey and ductile iron castings for automotive and engineering customers.",
+   "splits_disputes": "None found.",
+   "marriage_clues": [],
+   "sources": [
+    "https://m.indiamart.com/sound-casting",
+    "https://www.tofler.in/sound-castings-pvt-ltd/company/U27310MH1987PTC045065/directors",
+    "https://paperli.ai/company/sound-castings-pvt-ltd-U27310MH1987PTC045065",
+    "https://www.soundcastings.com/"
+   ],
+   "certainty": "reported"
+  },
+  {
+   "group": "Evonith group (Nithia Capital)",
+   "family": "Nithia Capital (Jai Saraf); assets formerly Uttam group (Miglani family)",
+   "display_name": "Evonith (Nithia Capital): Jai Saraf; formerly Uttam group of the Miglani family",
+   "decision_office": "Mumbai / Wardha (inferred); Nithia offices in Singapore, London, Mumbai, Dubai",
+   "founder": {
+    "name": "Jai Saraf (founded Nithia Capital, 2010)",
+    "year_founded": 2010,
+    "native_place": null
+   },
+   "head": {
+    "name": "Jai Saraf",
+    "role": "Founder and CEO, Nithia Capital; Chairman, Evonith"
+   },
+   "next_gen": [],
+   "control_summary": "Wardha Steel Holding Pte Ltd, Singapore, is promoter of both Evonith Metallics and Evonith Value Steel; it was held 60.1% Nithia and 39.9% CarVal [verified, CARE Nov 2024]. CarVal is reported to have since exited [reported, earlier CRISIL May 2026 note in company file].",
+   "background": "The Wardha (Bhugaon) complex has two roots. Evonith Value Steel was Lloyds Steel Industries, the R.N. Gupta-promoted Lloyds group's flat steel company (from Gupta Tubes and Pipes, 1970); the Miglani family's Uttam Galva group took 58.35% in December 2012 and renamed it Uttam Value Steels in 2013. Evonith Metallics was Uttam Galva Metallics, the Uttam group's blast furnace unit next door. Both went into insolvency and were bought through NCLT by Nithia Capital and CarVal for about Rs 2,000 crore, completed in January 2021, and rebranded Evonith. The complex now has about 1.29 to 1.4 MTPA of hot metal, earns Package Scheme of Incentives support, and Nithia plans expansion to 3.5 MTPA; it also bought Topworth Urja and Metals for Rs 300 crore [reported].",
+   "milestones": [
+    {
+     "year": 1970,
+     "event": "Gupta Tubes and Pipes, later Lloyds Steel Industries (R.N. Gupta)"
+    },
+    {
+     "year": 2012,
+     "event": "Uttam Galva group (Miglani) takes 58.35% of Lloyds Steel (Dec)"
+    },
+    {
+     "year": 2013,
+     "event": "Lloyds Steel renamed Uttam Value Steels"
+    },
+    {
+     "year": 2021,
+     "event": "Nithia and CarVal complete NCLT purchase of UGML and UVSL (Jan), about Rs 2,000 crore"
+    },
+    {
+     "year": 2024,
+     "event": "Refinances Rs 1,700 crore of debt (Oct)"
+    },
+    {
+     "year": 2025,
+     "event": "Expansion to 3.5 MTPA and Topworth Urja acquisition announced (reported)"
+    }
+   ],
+   "people": [
+    {
+     "name": "Jai Saraf",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Founder and CEO, Nithia Capital; Chairman, Evonith",
+     "certainty": "reported"
+    },
+    {
+     "name": "Rajinder K. Miglani",
+     "generation": 1,
+     "parent": null,
+     "spouse": null,
+     "role": "Founder-chairman, Uttam Galva group (former owner)",
+     "certainty": "reported"
+    },
+    {
+     "name": "Ankit Miglani",
+     "generation": 2,
+     "parent": "Rajinder K. Miglani",
+     "spouse": null,
+     "role": "Son of Rajinder Miglani; former Uttam Galva executive; joined Lloyds Steel board 2012",
+     "certainty": "reported"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Evonith Metallics Ltd (ex-Uttam Galva Metallics)",
+     "listed": "no",
+     "chain_stage": "pig iron and hot metal (blast furnace)",
+     "state": "Maharashtra",
+     "ownership_note": "Held by Wardha Steel Holding Pte Ltd"
+    },
+    {
+     "name": "Evonith Value Steel Ltd (ex-Uttam Value Steels, ex-Lloyds Steel Industries)",
+     "listed": "no",
+     "chain_stage": "steel making, HRC, CRC, galvanised",
+     "state": "Maharashtra",
+     "ownership_note": "Held by Wardha Steel Holding Pte Ltd"
+    },
+    {
+     "name": "Wardha Steel Holding Pte Ltd",
+     "listed": "no",
+     "chain_stage": "holding",
+     "state": "overseas (Singapore)",
+     "ownership_note": "Nithia 60.1%, CarVal 39.9% (Nov 2024)"
+    },
+    {
+     "name": "Topworth Urja and Metals Ltd",
+     "listed": "no",
+     "chain_stage": "steel / power (acquired)",
+     "state": "not stated",
+     "ownership_note": "Acquired by Nithia/Evonith for Rs 300 crore (reported)"
+    }
+   ],
+   "chain_summary": "Bought-in iron ore and coke to hot metal at EML, to steel, HRC, CRC and galvanised coil at EVSL, Wardha.",
+   "splits_disputes": "Uttam Galva history: ArcelorMittal became co-promoter in 2009, then sold its 29% to the Miglanis' Sainath Trading at Re 1 a share in 2018 ahead of bidding for Essar Steel; Uttam Galva Steels itself was later bought by AM/NS India through NCLT (resolution Rs 4,020 crore, 2022) [reported]. The Wardha units were resolved separately to Nithia.",
+   "marriage_clues": [],
+   "sources": [
+    "https://www.careratings.com/upload/CompanyFiles/PR/202411141147_Evonith_Value_Steel_Limited.pdf",
+    "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/EvonithValueSteelLimited_May%2006_%202026_RR_394205.html",
+    "https://business-standard.com/article/companies/nithia-capital-carval-investors-complete-purchase-of-two-uttam-group-firms-121010500605_1.html",
+    "https://www.business-standard.com/article/companies/lloyds-steel-to-be-renamed-as-uttam-value-steels-113021700200_1.html",
+    "https://www.dnaindia.com/business/report-miglanis-pick-up-24-stake-in-lloyds-steel-1646352",
+    "https://business-standard.com/article/companies/arcelormittal-sells-entire-29-stake-in-uttam-galva-for-rs-1-per-share-118020501526_1.html",
+    "https://www.indiainfoline.com/news/business/nithia-capital-announces-launch-of-evonith-brand"
+   ],
+   "certainty": "verified"
+  },
+  {
+   "group": "MOIL Ltd (Government of India)",
+   "family": null,
+   "display_name": "MOIL Ltd (Government of India)",
+   "owner": "President of India through Ministry of Steel (majority), with Governments of Maharashtra and Madhya Pradesh",
+   "indian_leadership": "Vishwanath Suresh, Chairman-cum-MD (ACC approval 7 Jan 2026; ex-Director Commercial, NMDC); predecessor Ajit Kumar Saxena (Dec 2022 to Dec 2025) [reported; date-stamp before use]",
+   "decision_office": "Nagpur",
+   "companies": [
+    {
+     "name": "MOIL Ltd",
+     "listed": "yes",
+     "chain_stage": "manganese ore mining, EMD, ferro manganese",
+     "state": "Maharashtra; Madhya Pradesh",
+     "ownership_note": "Central PSU; Maharashtra and MP governments are shareholders"
+    },
+    {
+     "name": "Ferro-alloy JVs with SAIL",
+     "listed": "no",
+     "chain_stage": "ferro alloys",
+     "state": "not stated",
+     "ownership_note": "JV with SAIL"
+    }
+   ],
+   "control_summary": "Central PSU under Ministry of Steel; mines in Nagpur and Bhandara (Maharashtra) and Balaghat and Chhindwara (MP).",
+   "sources": [
+    "https://www.angelone.in/news/stocks/moil-appoints-vishwanath-suresh-as-chairman-and-managing-director",
+    "https://indianmasterminds.com/news/moil-new-cmd-appointment-vishwanath-suresh-acc-approval-174881/",
+    "https://www.moil.nic.in"
+   ],
+   "certainty": "reported"
+  },
+  {
+   "group": "Western Coalfields Ltd (Coal India)",
+   "family": null,
+   "display_name": "Western Coalfields Ltd (Coal India)",
+   "owner": "Coal India Ltd (100%), Government of India",
+   "indian_leadership": "Dr Hemant Sharad Pande, CMD from May 2026 (ex-Director HR, WCL; mining engineer, VNIT Nagpur); SECL CMD Harish Duhan held additional charge from Feb 2026 [reported; date-stamp]",
+   "decision_office": "Nagpur (Coal Estate, Civil Lines)",
+   "companies": [
+    {
+     "name": "Western Coalfields Ltd",
+     "listed": "no",
+     "chain_stage": "coal mining",
+     "state": "Maharashtra; Madhya Pradesh",
+     "ownership_note": "100% Coal India subsidiary"
+    }
+   ],
+   "control_summary": "Coal India subsidiary; key customer of contractor Caliber Mining.",
+   "sources": [
+    "https://www.thehitavada.com/Encyc/2026/5/10/dr-pande-assumes-charge-of-cmd-western-coalfields-ltd.html",
+    "https://psuwatch.com/psu-appointments/secl-cmd-harish-duhan-assumes-additional-charge-as-cmd-of-wcl"
+   ],
+   "certainty": "reported"
+  },
+  {
+   "group": "IREL (India) Ltd (Department of Atomic Energy)",
+   "family": null,
+   "display_name": "IREL (India) Ltd (Department of Atomic Energy)",
+   "owner": "Government of India, Department of Atomic Energy (100%)",
+   "indian_leadership": "CMD post reported vacant since Dec 2024 after Deependra Singh left; S.B. Mohanty (Director Finance) holding interim charge (Mint, undated) [evolving; check irel.co.in]",
+   "decision_office": "Mumbai (Prabhadevi)",
+   "companies": [
+    {
+     "name": "IREL (India) Ltd",
+     "listed": "no",
+     "chain_stage": "mineral sands and rare earths mining and processing",
+     "state": "Kerala; Tamil Nadu; Odisha; Andhra Pradesh",
+     "ownership_note": "Central PSU; no Maharashtra plant"
+    }
+   ],
+   "control_summary": "Decision office Mumbai; operations outside Maharashtra.",
+   "sources": [
+    "https://www.magzter.com/en/stories/newspaper/Mint-Mumbai/WANTED-A-FULLTIME-CHAIRPERSON-FOR-INDIAS-RARE-EARTHS-CHAMPION",
+    "https://irel.co.in/cmd-desk"
+   ],
+   "certainty": "reported"
+  },
+  {
+   "group": "POSCO Maharashtra Steel (POSCO, Korea)",
+   "family": null,
+   "display_name": "POSCO Maharashtra Steel (POSCO, Korea)",
+   "owner": "POSCO Holdings / POSCO, Korea (100%)",
+   "indian_leadership": "No Indian MD found; board listed as Korean nominees Namhaeng Heo, Hoyoung Kim, Dae Up Kim, In Kyo Bae and Sang Min Han (registry aggregator, latest change April 2023) [reported; gap]",
+   "decision_office": "Vile Bhagad MIDC, Mangaon, Raigad (plant-cum-office); strategic control in Korea (inferred)",
+   "companies": [
+    {
+     "name": "POSCO Maharashtra Steel Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "cold rolling and coated steel (CR, GI, GA, CRNO)",
+     "state": "Maharashtra",
+     "ownership_note": "100% POSCO"
+    },
+    {
+     "name": "POSCO-India Pune Processing Center Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "steel service centre",
+     "state": "Maharashtra",
+     "ownership_note": "POSCO group"
+    }
+   ],
+   "control_summary": "Incorporated 12 March 2009; separate from POSCO's 2026 Odisha JV plan with JSW.",
+   "sources": [
+    "https://tofler.in/posco-maharashtra-steel-private-limited/company/U27100MH2009PTC190873/directors",
+    "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/PoscoMaharashtraSteelPrivateLimited_July%2015,%202022_RR_296753.html"
+   ],
+   "certainty": "reported"
+  }
+ ],
+ "links": [
+  {
+   "from_group": "Evonith group (Nithia Capital)",
+   "to_group": "Uttam Galva group (Miglani family)",
+   "type": "asset transfer",
+   "description": "Uttam Galva Metallics and Uttam Value Steels (Wardha) bought through NCLT by Nithia Capital and CarVal, completed Jan 2021, about Rs 2,000 crore; renamed Evonith Metallics and Evonith Value Steel.",
+   "source": "https://business-standard.com/article/companies/nithia-capital-carval-investors-complete-purchase-of-two-uttam-group-firms-121010500605_1.html",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Uttam Galva group (Miglani family)",
+   "to_group": "Lloyds group (Gupta family)",
+   "type": "asset transfer",
+   "description": "Miglani-led Uttam Galva group acquired 58.35% of Lloyds Steel Industries (R.N. Gupta-promoted) in Dec 2012; renamed Uttam Value Steels in 2013. This is the plant now held by Evonith Value Steel.",
+   "source": "https://www.business-standard.com/article/companies/lloyds-steel-to-be-renamed-as-uttam-value-steels-113021700200_1.html",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Uttam Galva group (Miglani family)",
+   "to_group": "ArcelorMittal / AM-NS India",
+   "type": "cross-holding",
+   "description": "ArcelorMittal became co-promoter of Uttam Galva Steels in 2009, sold its 29% to the Miglanis' Sainath Trading at Re 1 a share in 2018, and AM/NS India later took over Uttam Galva Steels through NCLT (Rs 4,020 crore).",
+   "source": "https://business-standard.com/article/companies/arcelormittal-sells-entire-29-stake-in-uttam-galva-for-rs-1-per-share-118020501526_1.html",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Sunflag group",
+   "to_group": "Daido Steel (Japan)",
+   "type": "cross-holding",
+   "description": "Daido Steel holds 10% of Sunflag Iron & Steel as a public (non-promoter) shareholder; historic technical partner.",
+   "source": "https://trendlyne.com/equity/share-holding/1314/SUNFLAG/latest/sunflag-iron-steel-company-ltd",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Kalika group",
+   "to_group": "O.P. Jindal group (Jindal family)",
+   "type": "shared ancestry",
+   "description": "No link found. Kalika's Manoj Jaibhagwan Jindal (father Jaibhagwan) is not linked to the Hisar-origin O.P. Jindal family in any source read; treat as unrelated unless proved.",
+   "source": "https://www.careratings.com/upload/CompanyFiles/PR/202604130436_Kalika_Steel_Alloys_Private_Limited.pdf",
+   "certainty": "inferred"
+  },
+  {
+   "from_group": "Om Sairam group",
+   "to_group": "Om Sairam group",
+   "type": "asset transfer",
+   "description": "Acquired Sanvijay Alloys and Power (sponge iron and power, Chandrapur) in FY23 and a 40 MW thermal plant in FY24 for backward integration; seller not named.",
+   "source": "https://www.acuite.in/documents/ratings/revised/28663-RR-20240603.pdf",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "Bhagyalaxmi group (Jalna)",
+   "to_group": "Bhagyalaxmi Steeltech (Vishnoi family, Ahmedabad)",
+   "type": "shared ancestry",
+   "description": "No link. Same name only: Bhagyalaxmi Steeltech is an Ahmedabad steel trader promoted by Hanumanaram Vishnoi.",
+   "source": "https://www.careratings.com/upload/CompanyFiles/PR/202411121108_Bhagyalaxmi_Steeltech_Private_Limited.pdf",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "SRJ group",
+   "to_group": "Jalna secondary-steel cluster",
+   "type": "shared ancestry",
+   "description": "Surendra Peety is a director of the Jalna Steel Manufacturers Association (incorporated 2023), whose register also lists Kalika Steel Jalna and Kalika Steel and Power directors. This is a shared trade body, not a family tie. No marriage or kinship link between SRJ, Om Sairam, Kalika, Rajuri or Bhagyalaxmi families was found in any source.",
+   "source": "https://paperli.ai/company/jalna-steel-manufacturers-association-U85500MH2023NPL406960",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Caliber group",
+   "to_group": "Western Coalfields Ltd (Coal India)",
+   "type": "cross-holding",
+   "description": "Not equity: Caliber is a contract miner and overburden contractor on WCL mines (e.g. Dhoptala OCM) and NCL mines; WCL is its main customer. Recorded for chain context.",
+   "source": "https://www.chittorgarh.com/ipo/caliber-mining-ipo/1999/",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Western Coalfields Ltd (Coal India)",
+   "to_group": "Coal India Ltd",
+   "type": "cross-holding",
+   "description": "100% subsidiary of Coal India.",
+   "source": "https://d3u7ubx0okog7j.cloudfront.net/documents/WCL_Annual_Report_2024_-_Website_Version.pdf",
+   "certainty": "reported"
+  }
+ ]
+}
