@@ -39,6 +39,15 @@ th{font-size:11.5px;color:var(--muted);font-weight:600;position:sticky;top:0;bac
 .lk{display:inline-block;width:18px;height:3px;vertical-align:middle;margin-right:4px}
 .vc td.c{text-align:center;font-size:11.5px}.vc td.c span{background:var(--accent2);border-radius:4px;padding:1px 5px;display:inline-block;margin:1px}
 a{color:var(--accent)}
+.wrap.focus{grid-template-columns:1fr}.wrap.focus .mapcard{display:none}
+.bar{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:10px;padding-bottom:10px;border-bottom:1px solid var(--line)}
+.back{font:inherit;font-size:13px;padding:6px 12px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink);cursor:pointer}.back:hover{border-color:var(--accent)}
+.bar select{font:inherit;font-size:13px;padding:5px 8px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink);margin-left:6px}
+.scards{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px;margin:12px 0}
+.scard{font:inherit;text-align:left;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:8px;padding:10px 12px;background:var(--card);color:var(--ink);cursor:pointer;display:flex;flex-direction:column;gap:3px}
+.scard:hover{background:var(--accent2)}.scard span{font-size:12px;color:var(--muted)}
+.wrap.focus td{max-width:380px}
+
 .fl{margin-top:4px;font-size:13px;display:flex;gap:14px;flex-wrap:wrap}
 .bg{font-size:14px;line-height:1.6}
 .tl{display:flex;gap:0;overflow-x:auto;margin:8px 0 12px;border-top:2px solid var(--accent);padding-top:6px}.tl div{min-width:150px;padding:0 10px 0 0;font-size:12px}.tl div b{display:block;color:var(--accent)}
@@ -54,7 +63,7 @@ a{color:var(--accent)}
 <div class="m">Prepared {{DATE}} · Companies are placed by <b>decision office</b> (corporate / head office); registered office shown where different · Revenue floor ₹500 crore · Listed (BSE/NSE) first, then unlisted</div>
 <!--TAKEAWAYS-->
 </header>
-<div class="wrap">
+<div class="wrap" id="wrap">
  <div class="mapcard"><svg class="map" viewBox="0 0 560 640" id="map" role="img" aria-label="Map of India by state"></svg>
   <div class="legend"><span><i class="sw" style="background:var(--accent)"></i>Mapped (click)</span><span><i class="sw" style="background:var(--queue)"></i>Queued</span><span><i class="sw" style="background:var(--land)"></i>Not in scope yet</span></div>
   <div class="m" style="margin-top:6px">Boundaries per official map of India; state outlines simplified for display.</div></div>
@@ -74,13 +83,16 @@ function office(o){if(!o)return"—";return typeof o==="string"?o:[o.address,o.c
 function plantsTxt(pl){if(!pl||!pl.length)return"—";return [...new Set(pl.map(x=>x.state).filter(Boolean))].join(", ")}
 function show(nm,el){if(sel)sel.classList.remove("sel");if(el){el.classList.add("sel");sel=el}
  const pn=document.getElementById("panel");const d=D[nm];
- if(!d){pn.innerHTML=`<h2>${esc(nm)}</h2><div class="empty">${Q.includes(nm)?"Queued: this state will be mapped after sign-off on West Bengal.":"No metals and mining head offices mapped for this state yet."}</div>`;return}
+ if(!d){pn.innerHTML=`<h2>${esc(nm)}</h2><div class="empty">${Q.includes(nm)?"Queued: this state will be mapped next, one state at a time.":"No metals and mining head offices mapped for this state yet."}</div>`;return}
  const L=d.companies.filter(c=>c.kind==="Listed"),U=d.companies.filter(c=>c.kind==="Unlisted");
  const tot=d.companies.reduce((a,c)=>a+(c.revenue_inr_cr||0),0);
- pn.innerHTML=`<h2>${esc(nm)}</h2><div class="m">Metals and mining companies whose decisions are made from this state</div>
+ document.getElementById("wrap").classList.add("focus");window.scrollTo(0,0);
+ const opts=Object.keys(D).map(s=>`<option ${s===nm?"selected":""}>${esc(s)}</option>`).join("");
+ pn.innerHTML=`<div class="bar"><button class="back" onclick="overview()">← India map</button><label class="m">Switch state <select onchange="pick(this.value)">${opts}</select></label></div>
+ <h2>${esc(nm)}</h2><div class="m">Metals and mining companies whose decisions are made from this state</div>
  <div class="kpis"><div class="kpi"><b>${L.length}</b><span>Listed companies</span></div><div class="kpi"><b>${U.length}</b><span>Unlisted companies</span></div>
  <div class="kpi"><b>${d.groups.length}</b><span>Promoter groups mapped</span></div><div class="kpi"><b>${d.links.length}</b><span>Links between families</span></div></div>
- ${d.takeaways?`<div class="box"><b>Key takeaways: ${esc(nm)}</b>${d.takeaways}</div>`:""}
+ ${d.takeaways?`<details class="box" open><summary style="cursor:pointer"><b>Key takeaways: ${esc(nm)}</b> <span class="m">(click to fold)</span></summary>${d.takeaways}</details>`:""}
  <div class="tabs">${["Companies","Families","Family links","Value chain"].map((t,i)=>`<button data-t="${i}" class="${i?"":"act"}">${t}</button>`).join("")}</div><div id="tab"></div>`;
  pn.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>{pn.querySelectorAll(".tabs button").forEach(x=>x.classList.remove("act"));b.classList.add("act");render(d,+b.dataset.t)});
  render(d,0)}
@@ -143,5 +155,13 @@ function render(d,t){const T=document.getElementById("tab");
   if(!rows.length){T.innerHTML='<div class="empty">Value chain mapping in progress.</div>';return}
   T.innerHTML=`<div class="m">Where each family group operates along the chain, and in which state. Read left to right: mine to finished product.</div><div class="scroll vc"><table><thead><tr><th>Group</th>${ST.map(s=>`<th>${s[0]}</th>`).join("")}</tr></thead><tbody>
   ${rows.map(r=>`<tr><td><b>${esc(r.g.family||r.g.group)}</b></td>${r.cells.map(c=>`<td class="c">${c.length?c.map(s=>`<span>${esc(s)}</span>`).join(""):'<span style="background:none;color:var(--line)">–</span>'}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`}}
-show("West Bengal",[...svg.querySelectorAll("path")].find(p=>p.querySelector("title").textContent.startsWith("West Bengal")));
+function pathOf(nm){return [...svg.querySelectorAll("path")].find(p=>p.querySelector("title").textContent.split(" — ")[0]===nm)}
+function pick(nm){show(nm,pathOf(nm))}
+function overview(){document.getElementById("wrap").classList.remove("focus");if(sel){sel.classList.remove("sel");sel=null}
+ const pn=document.getElementById("panel");
+ pn.innerHTML=`<h2>India: states mapped so far</h2><div class="m">Click a state on the map, or a card below, to open it full screen.</div>
+ <div class="scards">${Object.entries(D).map(([s,d])=>{const L=d.companies.filter(c=>c.kind==="Listed").length,U=d.companies.length-L;
+  return `<button class="scard" onclick="pick('${esc(s)}')"><b>${esc(s)}</b><span>${d.companies.length} companies · ${L} listed, ${U} unlisted</span><span>${d.groups.length} promoter groups · ${d.links.length} family links</span></button>`}).join("")}</div>
+ <h4>Queued next</h4><div class="m">${Q.map(esc).join(" · ")}</div>`}
+overview();
 </script></body></html>
