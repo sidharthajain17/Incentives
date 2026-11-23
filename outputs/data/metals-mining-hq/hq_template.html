@@ -38,6 +38,16 @@ th{font-size:11.5px;color:var(--muted);font-weight:600;position:sticky;top:0;bac
 .lk{display:inline-block;width:18px;height:3px;vertical-align:middle;margin-right:4px}
 .vc td.c{text-align:center;font-size:11.5px}.vc td.c span{background:var(--accent2);border-radius:4px;padding:1px 5px;display:inline-block;margin:1px}
 a{color:var(--accent)}
+.fl{margin-top:4px;font-size:13px;display:flex;gap:14px;flex-wrap:wrap}
+.bg{font-size:14px;line-height:1.6}
+.tl{display:flex;gap:0;overflow-x:auto;margin:8px 0 12px;border-top:2px solid var(--accent);padding-top:6px}.tl div{min-width:150px;padding:0 10px 0 0;font-size:12px}.tl div b{display:block;color:var(--accent)}
+.tree ul{padding-left:18px;margin:0;list-style:none;position:relative}.tree>ul{padding-left:0}
+.tree li{position:relative;padding:4px 0 4px 14px}.tree li::before{content:"";position:absolute;left:0;top:0;bottom:0;border-left:1px solid var(--line)}
+.tree li::after{content:"";position:absolute;left:0;top:18px;width:12px;border-top:1px solid var(--line)}.tree>ul>li{padding-left:0}.tree>ul>li::before,.tree>ul>li::after{display:none}
+.tn{display:inline-block;border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:6px;padding:4px 9px;background:var(--card);font-size:12.5px}
+.tn i{display:block;font-style:normal;color:var(--muted);font-size:11.5px}.sp{color:#c0507a;font-size:11.5px}
+.mc li{margin:4px 0;font-size:13px}h4{margin:12px 0 4px;font-size:13px}
+
 </style></head><body>
 <header><h1>Metals and mining: head-office map of India</h1>
 <div class="m">Prepared {{DATE}} · Companies are placed by <b>decision office</b> (corporate / head office); registered office shown where different · Revenue floor ₹500 crore · Listed (BSE/NSE) first, then unlisted</div>
@@ -84,16 +94,34 @@ function render(d,t){const T=document.getElementById("tab");
    <td title="${esc(office(c.decision_office))}">${esc(dov)}</td><td title="${esc(office(c.reg_office))}">${ro===dov?'<span class="m">Same</span>':esc(ro)}</td><td>${esc(plantsTxt(c.plants))}</td><td>${esc(c.promoter_group)}</td><td>${tag(c.certainty)}</td></tr>`}).join("")};
   document.getElementById("fq").oninput=draw;document.getElementById("fk").onchange=draw;draw();return}
  if(t===1){if(!d.groups.length){T.innerHTML='<div class="empty">Family mapping in progress.</div>';return}
-  T.innerHTML=d.groups.map(g=>{const gens={};(g.people||[]).forEach(p=>{const k=p.generation||"Other";(gens[k]=gens[k]||[]).push(p)});
-   const gk=Object.keys(gens).sort();
-   return `<details class="fam"><summary><b>${esc(g.family||g.group)}</b> <span class="m">· ${esc(g.group)} · ${(g.companies||[]).length} companies · decision office ${esc(g.decision_office||"")}</span> ${tag(g.certainty)}</summary><div class="body">
-   <p>${esc(g.control_summary)}</p>
-   ${gk.length?`<div class="gens">${gk.map(k=>`<div class="gen"><h5>${esc(isNaN(k)?k:"Generation "+k)}</h5>${gens[k].map(p=>`<div class="person"><b>${esc(p.name)}</b><i>${esc(p.role||"")}${p.relation?" · "+esc(p.relation):""}</i></div>`).join("")}</div>`).join("")}</div>`:""}
+  const fam=d.groups.filter(g=>!/government/i.test(g.family||""));
+  const nm=x=>x&&typeof x==="object"?x.name:x;
+  const ng=g=>(g.next_gen||[]).map(n=>`<b>${esc(n.name)}</b>${n.runs?` <span class="m">runs ${esc(n.runs)}</span>`:""}`).join("<br>");
+  const glance=`<div class="m">At a glance: who heads each family, and who in the next generation runs what. Click a family below for the background, the family tree and the marriage clues.</div>
+  <div class="scroll" style="margin:6px 0 14px"><table><thead><tr><th>Family (group)</th><th>Head today</th><th>Next generation and what they run</th><th>Founded / origin</th></tr></thead><tbody>
+  ${fam.map((g,i)=>`<tr><td><a href="#f${i}" onclick="document.getElementById('f${i}').open=true">${esc(g.family)}</a><br><span class="m">${esc(g.group)}</span></td>
+  <td>${g.head?`<b>${esc(nm(g.head))}</b><br><span class="m">${esc(g.head.role||"")}</span>`:'<span class="m">—</span>'}</td><td>${ng(g)||'<span class="m">—</span>'}</td>
+  <td>${g.founder?`${esc(nm(g.founder))}${g.founder.year_founded?", "+esc(g.founder.year_founded):""}${g.founder.native_place?`<br><span class="m">${esc(g.founder.native_place)}</span>`:""}`:'<span class="m">—</span>'}</td></tr>`).join("")}</tbody></table></div>`;
+  const tree=g=>{const ppl=g.people||[];if(!ppl.length)return"";const byP={};const names=new Set(ppl.map(p=>p.name));
+   ppl.forEach(p=>{const k=p.parent&&names.has(p.parent)?p.parent:"__root";(byP[k]=byP[k]||[]).push(p)});
+   const node=p=>`<li><div class="tn"><b>${esc(p.name)}</b>${p.spouse?` <span class="sp">♥ ${esc(p.spouse)}</span>`:""}<i>${esc(p.role||"")}</i>${p.certainty&&!/^verif|^high/i.test(p.certainty)?`<span class="tag inferred">${esc(String(p.certainty).split(" ")[0])}</span>`:""}</div>${byP[p.name]?`<ul>${byP[p.name].map(node).join("")}</ul>`:""}</li>`;
+   const roots=(byP.__root||[]).sort((a,b)=>(+a.generation||9)-(+b.generation||9));
+   return `<div class="tree scroll"><ul>${roots.map(node).join("")}</ul></div>`};
+  T.innerHTML=glance+fam.map((g,i)=>`<details class="fam" id="f${i}"><summary>
+   <b>${esc(g.display_name||g.family)}</b> ${tag(g.certainty)}<br>
+   <span class="m">${esc(g.group)} · ${(g.companies||[]).length} companies · decision office ${esc(g.decision_office||"")}</span>
+   <div class="fl">${g.founder?`<span><b>Founder:</b> ${esc(nm(g.founder))}${g.founder.year_founded?" ("+esc(g.founder.year_founded)+")":""}</span>`:""}${g.head?`<span><b>Head:</b> ${esc(nm(g.head))}${g.head.role?", "+esc(g.head.role):""}</span>`:""}</div>
+   ${(g.next_gen||[]).length?`<div class="fl"><span><b>Next generation:</b> ${g.next_gen.map(n=>esc(n.name)+(n.runs?" ("+esc(n.runs)+")":"")).join("; ")}</span></div>`:""}
+   </summary><div class="body">
+   ${g.background?`<p class="bg">${esc(g.background)}</p>`:`<p>${esc(g.control_summary)}</p>`}
+   ${(g.milestones||[]).length?`<div class="tl">${g.milestones.map(m=>`<div><b>${esc(m.year)}</b><span>${esc(m.event)}</span></div>`).join("")}</div>`:""}
+   <h4>Family tree</h4>${tree(g)}
+   ${(g.marriage_clues||[]).length?`<h4>Marriage links and clues</h4><ul class="mc">${g.marriage_clues.map(c=>`<li><b>${esc(c.person)}</b>: ${esc(c.detail)}${c.possibly_linked_family?` → <b>${esc(c.possibly_linked_family)}</b>`:""} ${tag(c.certainty)}${c.source?` <a href="${esc(c.source)}" target="_blank" rel="noopener">source</a>`:""}</li>`).join("")}</ul>`:""}
    ${g.chain_summary?`<p><b>Upstream to downstream:</b> ${esc(g.chain_summary)}</p>`:""}
    ${(g.companies||[]).length?`<div class="scroll"><table><thead><tr><th>Group company</th><th>Stage in chain</th><th>State</th><th>Listed</th><th>Note</th></tr></thead><tbody>${g.companies.map(c=>`<tr><td>${esc(c.name)}</td><td>${esc(c.chain_stage)}</td><td>${esc(c.state)}</td><td>${esc(c.listed)}</td><td>${esc(c.ownership_note||"")}</td></tr>`).join("")}</tbody></table></div>`:""}
    ${g.splits_disputes?`<p><b>Splits, disputes, transfers:</b> ${esc(g.splits_disputes)}</p>`:""}
-   ${(g.sources||[]).length?`<div class="m">Sources: ${g.sources.slice(0,6).map((s,i)=>`<a href="${esc(s)}" target="_blank" rel="noopener">[${i+1}]</a>`).join(" ")}</div>`:""}
-   </div></details>`}).join("");return}
+   ${(g.sources||[]).length?`<div class="m">Sources: ${g.sources.slice(0,8).map((s,i)=>`<a href="${esc(s)}" target="_blank" rel="noopener">[${i+1}]</a>`).join(" ")}</div>`:""}
+   </div></details>`).join("")+`<p class="m">Government-owned and multinational companies (Coal India, Hindustan Copper, Vesuvius India) have no promoter family and are not shown here.</p>`;return}
  if(t===2){if(!d.links.length){T.innerHTML='<div class="empty">No inter-family links mapped yet.</div>';return}
   const names=[...new Set(d.links.flatMap(l=>[l.from_short,l.to_short]))];const n=names.length,R=Math.min(210,60+n*9),W=2*R+260,H=2*R+80,cx=W/2,cy=H/2;
   const pos={};names.forEach((nm,i)=>{const a=-Math.PI/2+2*Math.PI*i/n;pos[nm]=[cx+R*Math.cos(a),cy+R*Math.sin(a),a]});

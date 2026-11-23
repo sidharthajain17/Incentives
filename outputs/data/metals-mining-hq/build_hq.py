@@ -16,6 +16,13 @@ for st, code in STATES.items():
     L = load(f"{code}_listed_v.json") or load(f"{code}_listed.json") or []
     U = load(f"{code}_unlisted_v.json") or load(f"{code}_unlisted.json") or []
     F = load(f"{code}_families.json") or {"groups": [], "links": []}
+    for part in ("A", "B", "C"):
+        for e in (load(f"{code}_fam_enrich_{part}.json") or []):
+            i = e.get("index")
+            if isinstance(i, int) and i < len(F["groups"]) and i < 100:
+                F["groups"][i].update({k: v for k, v in e.items() if v not in (None, "", [])})
+            elif isinstance(i, int):
+                F["groups"].append(e)
     def clean(rows, kind):
         out = []
         for r in rows:
@@ -27,13 +34,23 @@ for st, code in STATES.items():
     short = lambda x: re.sub(r"\s*\(.*?\)", "", x or "").strip()
     GEN = {"1st":"1st generation","2nd":"2nd generation","3rd":"3rd generation","1st/2nd":"1st generation"}
     for g in F.get("groups", []):
+        g.setdefault("companies", []); g.setdefault("people", [])
         for p_ in g.get("people", []):
-            p_["generation"] = GEN.get(str(p_.get("generation")), "Next generation / other")
+            gv = str(p_.get("generation"))
+            p_["gen_label"] = GEN.get(gv, {"1":"1st generation","2":"2nd generation","3":"3rd generation","4":"4th generation"}.get(gv, "Next generation / other"))
+        head = (g.get("head") or {}).get("name") if isinstance(g.get("head"), dict) else None
+        sur = short(g.get("family") or "")
+        g["label"] = (sur + (" · " + head if head else "")) or g.get("group", "")
         for c in g.get("companies", []):
             c["state_short"] = re.split(r"[(;,]", c.get("state") or "")[0].strip()
     checked, links = [], []
     for l in F.get("links", []):
-        l["from_short"], l["to_short"] = short(l["from_group"]), short(l["to_group"])
+        def lab(x):
+            for g in F.get("groups", []):
+                if x in (g.get("group"), g.get("family")) or short(x) in (short(g.get("group") or ""), short(g.get("family") or "")):
+                    return g["label"]
+            return short(x)
+        l["from_short"], l["to_short"] = lab(l["from_group"]), lab(l["to_group"])
         if (l.get("description") or "").lower().startswith("no link"):
             checked.append(l)
         else:
@@ -72,7 +89,7 @@ TK = """<div class="box"><b>Key takeaways: West Bengal (Kolkata)</b><ul>
 <li><b>The same surname does not mean the same family.</b> Five separate Agarwal steel groups were identified. MSP Steel and Manaksia each have a different "Suresh Kumar Agrawal". It is worth mapping each company to the right branch before any outreach. <span class="tag verified">verified</span></li>
 <li><b>No marriage links between these families could be sourced.</b> Company filings list relatives within a family, but not marriages across families. Those links typically come from the community and press; they can be added as you confirm them. <span class="tag">evolving</span></li>
 </ul></div>"""
-page = open(os.path.join(os.path.dirname(__file__), "hq_template.html")).read()
+page = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "hq_template.html")).read()
 page = (page.replace("/*PATHS*/", json.dumps(paths))
             .replace("/*DATA*/", json.dumps(data, ensure_ascii=False))
             .replace("/*QUEUE*/", json.dumps(QUEUE))
