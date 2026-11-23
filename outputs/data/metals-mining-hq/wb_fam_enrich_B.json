@@ -1,0 +1,2503 @@
+[
+ {
+  "index": 16,
+  "display_name": "Bansal family (Skipper): Sajan Kumar Bansal",
+  "family": "Bansal family (Sadhuram Bansal line)",
+  "group": "Skipper (S.K. Bansal group)",
+  "founder": {
+   "name": "Sadhuram Bansal (late)",
+   "year_founded": 1969,
+   "native_place": null
+  },
+  "head": {
+   "name": "Sajan Kumar Bansal",
+   "role": "Chairman and Managing Director, Skipper Ltd"
+  },
+  "next_gen": [
+   {
+    "name": "Sharan Bansal",
+    "relation": "Son of Sajan Kumar Bansal",
+    "runs": "Power transmission and distribution (T&D) structures vertical, Skipper Ltd; Whole-time Director",
+    "since": "2003"
+   },
+   {
+    "name": "Devesh Bansal",
+    "relation": "Son of Sajan Kumar Bansal",
+    "runs": "Telecom, railways, transmission monopoles and polymer expansion, Skipper Ltd; designated partner of Skipper-Metzer irrigation JV",
+    "since": "c.2004 (over 22 years at Skipper per FY26 report)"
+   },
+   {
+    "name": "Siddharth Bansal",
+    "relation": "Son of Sajan Kumar Bansal",
+    "runs": "Polymer (PVC pipes) division, Skipper Ltd",
+    "since": "c.2016 (heading polymer division for about 10 years per FY26 report)"
+   }
+  ],
+  "background": "The late Sadhuram Bansal set up a galvanised iron (GI) pipe unit in 1969, which the company describes as the first foundation of the Bansal group. Skipper was incorporated in Kolkata in 1981 (originally as Skipper Investments Ltd) and is run by his son Sajan Kumar Bansal. Sharan Bansal started the power transmission tower business in 2003 and built it into one of India's largest T&D structure makers; brothers Devesh and Siddharth later took telecom, railway and polymer pipe lines. Shares are held largely through four S.K. Bansal family trusts and family companies such as Skipper Plastics Ltd. Ram Gopal Bansal of BMW Industries is a director of Sadhuram Bansal & Sons Ltd, and press reports a split of a three-brother family business, so the two groups are likely branches of one family (not confirmed by filings).",
+  "milestones": [
+   {
+    "year": 1969,
+    "event": "Sadhuram Bansal sets up a GI pipe manufacturing unit (company history; reported)"
+   },
+   {
+    "year": 1981,
+    "event": "Company incorporated in Kolkata as Skipper Investments Ltd (reported)"
+   },
+   {
+    "year": 2003,
+    "event": "Sharan Bansal starts the power transmission tower vertical (verified, FY26 annual report)"
+   },
+   {
+    "year": 2018,
+    "event": "Agreement of 14 February 2018 with Metzer (Israel) for micro-irrigation JV (verified, FY26 annual report)"
+   },
+   {
+    "year": 2026,
+    "event": "Promoter stake held through four S.K. Bansal family trusts of about 9.6% each plus family companies (verified, FY26 annual report)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Sadhuram Bansal",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Founder (late); started GI pipe unit 1969",
+    "certainty": "reported"
+   },
+   {
+    "name": "Sajan Kumar Bansal",
+    "generation": 2,
+    "parent": "Sadhuram Bansal",
+    "spouse": "Meera Bansal",
+    "role": "Chairman and Managing Director; trustee of S.K. Bansal Heritage and Legacy Trusts",
+    "certainty": "verified"
+   },
+   {
+    "name": "Meera Bansal",
+    "generation": 2,
+    "parent": null,
+    "spouse": "Sajan Kumar Bansal",
+    "role": "Promoter; trustee of S.K. Bansal Unity and Family Trusts",
+    "certainty": "verified"
+   },
+   {
+    "name": "Ram Gopal Bansal",
+    "generation": 2,
+    "parent": "Sadhuram Bansal",
+    "spouse": null,
+    "role": "Chairman, BMW Industries; director of Sadhuram Bansal & Sons Ltd (sibling link inferred)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Sharan Bansal",
+    "generation": 3,
+    "parent": "Sajan Kumar Bansal",
+    "spouse": "Sumedha Bansal",
+    "role": "Whole-time Director; heads T&D structures. Mechanical engineering, Georgia Tech",
+    "certainty": "verified"
+   },
+   {
+    "name": "Sumedha Bansal",
+    "generation": 3,
+    "parent": null,
+    "spouse": "Sharan Bansal",
+    "role": "Promoter group",
+    "certainty": "verified"
+   },
+   {
+    "name": "Devesh Bansal",
+    "generation": 3,
+    "parent": "Sajan Kumar Bansal",
+    "spouse": "Reshu Bansal",
+    "role": "Whole-time Director; telecom, railways, monopoles, polymer. B.Com St Xavier's 2004; master's De Montfort, UK; Harvard OPM",
+    "certainty": "verified"
+   },
+   {
+    "name": "Reshu Bansal",
+    "generation": 3,
+    "parent": null,
+    "spouse": "Devesh Bansal",
+    "role": "Promoter group",
+    "certainty": "verified"
+   },
+   {
+    "name": "Siddharth Bansal",
+    "generation": 3,
+    "parent": "Sajan Kumar Bansal",
+    "spouse": "Shruti M. Bansal",
+    "role": "Whole-time Director; polymer division. Bachelor's Univ. of Illinois; master's Aston Univ.",
+    "certainty": "verified"
+   },
+   {
+    "name": "Shruti M. Bansal",
+    "generation": 3,
+    "parent": null,
+    "spouse": "Siddharth Bansal",
+    "role": "Promoter group",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Meera Bansal",
+    "detail": "Wife of Sajan Kumar Bansal (related-party list); maiden name not disclosed",
+    "possibly_linked_family": "married surname Bansal; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/20deec22-ccc2-4b86-ab32-98840cb2b2a5.pdf"
+   },
+   {
+    "person": "Sumedha Bansal",
+    "detail": "Wife of Sharan Bansal; maiden name not disclosed",
+    "possibly_linked_family": "married surname Bansal; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/20deec22-ccc2-4b86-ab32-98840cb2b2a5.pdf"
+   },
+   {
+    "person": "Reshu Bansal",
+    "detail": "Wife of Devesh Bansal; maiden name not disclosed",
+    "possibly_linked_family": "married surname Bansal; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/20deec22-ccc2-4b86-ab32-98840cb2b2a5.pdf"
+   },
+   {
+    "person": "Shruti M. Bansal",
+    "detail": "Wife of Siddharth Bansal; middle initial 'M' may be her maiden or father's name",
+    "possibly_linked_family": "married surname Bansal; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/20deec22-ccc2-4b86-ab32-98840cb2b2a5.pdf"
+   },
+   {
+    "person": "Sajan Kumar Bansal",
+    "detail": "Likely brother of Ram Gopal Bansal (BMW Industries): Ram Gopal and sons are directors of Sadhuram Bansal & Sons Ltd; press says BMW began as a three-brother family business later split, with the other brothers taking pipes, tubes, poles and structures",
+    "possibly_linked_family": "Bansal family of BMW Industries (same family, not a marriage link)",
+    "certainty": "inferred",
+    "source": "https://businessindia.co/magazine/corporate-report/bmwil-is-on-a-transition-path-but-will-it-effectively-navigate-challenges"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/20deec22-ccc2-4b86-ab32-98840cb2b2a5.pdf",
+   "https://indiankanoon.org/doc/1100200/",
+   "https://www.skipperlimited.com/about-us/our-story/our-founder",
+   "https://en.wikipedia.org/wiki/Skipper_Limited",
+   "https://businessindia.co/magazine/corporate-report/bmwil-is-on-a-transition-path-but-will-it-effectively-navigate-challenges"
+  ]
+ },
+ {
+  "index": 17,
+  "display_name": "Bansal family (BMW Industries): Ram Gopal Bansal",
+  "family": "Bansal family (Ram Gopal Bansal line)",
+  "group": "BMW Industries",
+  "founder": {
+   "name": "Ram Gopal Bansal with two brothers",
+   "year_founded": 1981,
+   "native_place": null
+  },
+  "head": {
+   "name": "Ram Gopal Bansal",
+   "role": "Chairman and Whole-time Director, BMW Industries Ltd (16% holder)"
+  },
+  "next_gen": [
+   {
+    "name": "Harsh Kumar Bansal",
+    "relation": "Son of Ram Gopal Bansal",
+    "runs": "Managing Director, BMW Industries Ltd",
+    "since": null
+   },
+   {
+    "name": "Vivek Kumar Bansal",
+    "relation": "Son of Ram Gopal Bansal",
+    "runs": "Managing Director, BMW Industries Ltd",
+    "since": null
+   }
+  ],
+  "background": "BMW Industries was incorporated on 21 October 1981 as Bansal Mechanical Works Pvt Ltd and renamed BMW Industries Ltd in June 1999. Press reports say Ram Gopal Bansal started it with his two brothers as a family business; on the family separation he kept steel processing, while the brothers took pipes, tubes, poles and structures. The company grew as a steel processor and converter (cold rolled, galvanised, tubes, TMT conversion) with about seven processing centres in Jamshedpur and Howrah, much of it job work for large mills. Ram Gopal is still chairman, with sons Harsh and Vivek as joint MDs; the family also holds Sadhuram Bansal & Sons Ltd, which ties it to the Sadhuram Bansal (Skipper) family.",
+  "milestones": [
+   {
+    "year": 1981,
+    "event": "Incorporated as Bansal Mechanical Works Pvt Ltd (reported)"
+   },
+   {
+    "year": 1988,
+    "event": "Sadhuram Bansal & Sons Ltd incorporated; Ram Gopal, Harsh and Vivek are its directors (market view, Zauba)"
+   },
+   {
+    "year": 1999,
+    "event": "Renamed BMW Industries Ltd (reported)"
+   },
+   {
+    "year": 2025,
+    "event": "Group transferor companies amalgamated into BMW Industries with effect from 1 April 2024 (verified, FY26 annual report)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Sadhuram Bansal",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Name of family holding company Sadhuram Bansal & Sons Ltd; father of Ram Gopal (inferred)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Ram Gopal Bansal",
+    "generation": 2,
+    "parent": "Sadhuram Bansal",
+    "spouse": "Premlata Bansal",
+    "role": "Chairman and Whole-time Director",
+    "certainty": "verified"
+   },
+   {
+    "name": "Premlata Bansal",
+    "generation": 2,
+    "parent": null,
+    "spouse": "Ram Gopal Bansal",
+    "role": "Promoter (4.18%); listed as relative of a director; wife of Ram Gopal inferred",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Harsh Kumar Bansal",
+    "generation": 3,
+    "parent": "Ram Gopal Bansal",
+    "spouse": null,
+    "role": "Managing Director (8.2%)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Vivek Kumar Bansal",
+    "generation": 3,
+    "parent": "Ram Gopal Bansal",
+    "spouse": null,
+    "role": "Managing Director (6.24%)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Shalini Bansal",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter (1.24%); relative of a director; likely daughter-in-law (inferred)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Pratiti Bansal",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter (0.89%); relative of a director; likely daughter-in-law (inferred)",
+    "certainty": "inferred"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Premlata Bansal",
+    "detail": "Promoter and 'relative of a director'; exact relation not disclosed",
+    "possibly_linked_family": "married surname Bansal; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6f244c3b-d4d5-43c3-b8e1-4c4b95439490.pdf"
+   },
+   {
+    "person": "Shalini Bansal",
+    "detail": "Promoter and 'relative of a director'; probably wife of Harsh or Vivek",
+    "possibly_linked_family": "married surname Bansal; family not identified",
+    "certainty": "inferred",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6f244c3b-d4d5-43c3-b8e1-4c4b95439490.pdf"
+   },
+   {
+    "person": "Pratiti Bansal",
+    "detail": "Promoter and 'relative of a director'; probably wife of Harsh or Vivek",
+    "possibly_linked_family": "married surname Bansal; family not identified",
+    "certainty": "inferred",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6f244c3b-d4d5-43c3-b8e1-4c4b95439490.pdf"
+   },
+   {
+    "person": "Ram Gopal Bansal",
+    "detail": "Press says a three-brother family business split; other brothers took pipes, tubes, poles and structures (fits Skipper)",
+    "possibly_linked_family": "Sadhuram Bansal / Skipper family (kin, not marriage)",
+    "certainty": "inferred",
+    "source": "https://businessindia.co/magazine/corporate-report/bmwil-is-on-a-transition-path-but-will-it-effectively-navigate-challenges"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6f244c3b-d4d5-43c3-b8e1-4c4b95439490.pdf",
+   "https://www.zaubacorp.com/SADHURAM-BANSAL-AND-SONS-LIMITED-U27103WB1988PLC044303",
+   "https://businessindia.co/magazine/corporate-report/bmwil-is-on-a-transition-path-but-will-it-effectively-navigate-challenges",
+   "https://tofler.in/bmw-industries-limited/company/L51109WB1981PLC034212"
+  ]
+ },
+ {
+  "index": 18,
+  "display_name": "Jajodia family (Jai Balaji): Aditya Jajodia",
+  "family": "Jajodia family (Late Keshar Deo Jajodia line)",
+  "group": "Jai Balaji group",
+  "founder": {
+   "name": "Keshar Deo Jajodia (late) and sons",
+   "year_founded": 1999,
+   "native_place": null
+  },
+  "head": {
+   "name": "Aditya Jajodia",
+   "role": "Chairman and Managing Director, Jai Balaji Industries Ltd"
+  },
+  "next_gen": [
+   {
+    "name": "Aditya Jajodia",
+    "relation": "Grandson of Keshar Deo (son of a brother of Sanjiv and Rajiv)",
+    "runs": "Chairman and MD, Jai Balaji Industries",
+    "since": "2013 (market view)"
+   },
+   {
+    "name": "Gaurav (Gourav) Jajodia",
+    "relation": "Brother of Aditya; nephew of Sanjiv and Rajiv",
+    "runs": "Executive Director, Jai Balaji Industries",
+    "since": "2022 (market view)"
+   },
+   {
+    "name": "Sanjiv Jajodia",
+    "relation": "Son of late Keshar Deo Jajodia",
+    "runs": "Whole-time Director (finance, accounts, legal, HR), Jai Balaji Industries",
+    "since": "2002"
+   },
+   {
+    "name": "Rajiv Jajodia",
+    "relation": "Son of late Keshar Deo Jajodia",
+    "runs": "Director, Jai Balaji Industries",
+    "since": "1999 (market view)"
+   }
+  ],
+  "background": "Jai Balaji Industries was incorporated on 1 July 1999 as Jai Balaji Sponge Ltd in Kolkata and grew from sponge iron into an integrated steel group with plants at Durgapur and elsewhere in West Bengal and Chhattisgarh. The family descends from the late Keshar Deo Jajodia: his sons Sanjiv and Rajiv are directors, and his grandsons Aditya (CMD) and Gaurav are sons of a third brother whom the filings do not name. Sanjiv joined in 2002 and handles finance and compliance. After a long debt restructuring, the group has returned to growth with ductile iron (DI) pipes and value-added steel. Promoter shares sit mainly in Jai Salasar Balaji Industries, Hariaksh Industries and K.D. Jajodia Steel Industries.",
+  "milestones": [
+   {
+    "year": 1999,
+    "event": "Incorporated 1 July 1999 as Jai Balaji Sponge Ltd (verified year; name reported)"
+   },
+   {
+    "year": 2002,
+    "event": "Sanjiv Jajodia joins the company (verified, FY26 notice)"
+   },
+   {
+    "year": 2013,
+    "event": "Aditya Jajodia becomes Chairman and MD (market view)"
+   },
+   {
+    "year": 2026,
+    "event": "Promoter group includes three holding companies with about 40% of shares (verified, FY26 annual report)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Keshar Deo Jajodia",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Shashi Devi Jajodia (inferred)",
+    "role": "Founder of family line (late)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Shashi Devi Jajodia",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Keshar Deo Jajodia (inferred)",
+    "role": "Promoter group; relation not stated",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Sanjiv Jajodia",
+    "generation": 2,
+    "parent": "Keshar Deo Jajodia",
+    "spouse": null,
+    "role": "Whole-time Director; commerce graduate, 30+ years in steel",
+    "certainty": "verified"
+   },
+   {
+    "name": "Rajiv Jajodia",
+    "generation": 2,
+    "parent": "Keshar Deo Jajodia",
+    "spouse": null,
+    "role": "Director",
+    "certainty": "verified"
+   },
+   {
+    "name": "Unnamed third brother",
+    "generation": 2,
+    "parent": "Keshar Deo Jajodia",
+    "spouse": null,
+    "role": "Father of Aditya and Gaurav; not named in filings",
+    "certainty": "verified"
+   },
+   {
+    "name": "Aditya Jajodia",
+    "generation": 3,
+    "parent": "Unnamed third brother",
+    "spouse": null,
+    "role": "Chairman and MD; St Xavier's College graduate (market view)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Gaurav Jajodia",
+    "generation": 3,
+    "parent": "Unnamed third brother",
+    "spouse": null,
+    "role": "Director",
+    "certainty": "verified"
+   },
+   {
+    "name": "Aashish Jajodia",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group; relation not stated",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Vedang Jajodia",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group; relation not stated",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Devendra Prasad Jajodia",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group (sold holding FY26); relation not stated",
+    "certainty": "inferred"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Sangeeta, Seema, Rina and Kanchan Jajodia",
+    "detail": "Women in the promoter group, probably wives of the brothers and grandsons; maiden names not disclosed",
+    "possibly_linked_family": "married surname Jajodia; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7b86c78e-ab53-4c5c-b20a-67b4561b4b83.pdf"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7b86c78e-ab53-4c5c-b20a-67b4561b4b83.pdf",
+   "https://nsearchives.nseindia.com/corporate/JAIBALAJI_25082025181842_Notice2025SEsigned.pdf",
+   "https://en.wikipedia.org/wiki/Jai_Balaji_group"
+  ]
+ },
+ {
+  "index": 19,
+  "display_name": "Saran / Agarwal family (VISA): Vishambhar Saran",
+  "family": "Saran / Agarwal family",
+  "group": "VISA group",
+  "founder": {
+   "name": "Vishambhar Saran (with wife Saroj Agarwal)",
+   "year_founded": 1994,
+   "native_place": "Kanpur (hometown, reported)"
+  },
+  "head": {
+   "name": "Vishambhar Saran",
+   "role": "Chairman, VISA Chrome Ltd (formerly VISA Steel)"
+  },
+  "next_gen": [
+   {
+    "name": "Vishal Agarwal",
+    "relation": "Son of Vishambhar Saran",
+    "runs": "Vice Chairman and MD, VISA Chrome Ltd (formerly VISA Steel)",
+    "since": null
+   },
+   {
+    "name": "Vikas Agarwal",
+    "relation": "Son of Vishambhar Saran (reported)",
+    "runs": "VISA Power (as of 2011, reported)",
+    "since": null
+   },
+   {
+    "name": "Vivek Agarwal",
+    "relation": "Son of Vishambhar Saran (reported)",
+    "runs": "Group trading business (as of 2011, reported)",
+    "since": null
+   }
+  ],
+  "background": "Vishambhar Saran is an engineer from Banaras Hindu University (1969) who spent about 33 years at Tata Steel, rising to Director of Raw Materials. He took voluntary retirement in March 1994 and founded the VISA group in April 1994; the name joins the first letters of Vishambhar and his wife Saroj, who already ran a firm called VISA Ltd in Kolkata. The group built a special steel and ferro chrome complex at Kalinganagar, Odisha, and spread into power, mining, trading, shipping and logistics. Heavy debt later forced the exit from special steel, and the listed company is now VISA Chrome (ferro chrome and coke), run by his son Vishal Agarwal.",
+  "milestones": [
+   {
+    "year": 1969,
+    "event": "Engineering degree, BHU; joins Tata group (reported)"
+   },
+   {
+    "year": 1994,
+    "event": "Retires from Tata Steel 31 March; founds VISA group in April (reported)"
+   },
+   {
+    "year": 2011,
+    "event": "Business Today profiles VISA as a Rs 5,000 crore group with three sons in the business (reported)"
+   },
+   {
+    "year": 2026,
+    "event": "VISA Steel renamed VISA Chrome; special steel business exited (verified, annual report)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Vishambhar Saran",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Saroj Agarwal",
+    "role": "Founder and Chairman",
+    "certainty": "verified"
+   },
+   {
+    "name": "Saroj Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Vishambhar Saran",
+    "role": "Co-founder; ran VISA Ltd before 1994",
+    "certainty": "reported"
+   },
+   {
+    "name": "Vishal Agarwal",
+    "generation": 2,
+    "parent": "Vishambhar Saran",
+    "spouse": null,
+    "role": "Vice Chairman and MD, VISA Chrome",
+    "certainty": "verified"
+   },
+   {
+    "name": "Vikas Agarwal",
+    "generation": 2,
+    "parent": "Vishambhar Saran",
+    "spouse": null,
+    "role": "VISA Power (2011)",
+    "certainty": "reported"
+   },
+   {
+    "name": "Vivek Agarwal",
+    "generation": 2,
+    "parent": "Vishambhar Saran",
+    "spouse": null,
+    "role": "Group trading (2011)",
+    "certainty": "reported"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Saroj Agarwal",
+    "detail": "Wife of founder; maiden family not reported",
+    "possibly_linked_family": "family not identified",
+    "certainty": "reported",
+    "source": "https://www.businesstoday.in/magazine/cover-story/story/indias-new-business-families-vishambhar-saran-agarwal-18453-2011-04-13"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/32a051c4-574c-468e-94b7-900f6dc77f37.pdf",
+   "https://www.businesstoday.in/magazine/cover-story/story/indias-new-business-families-vishambhar-saran-agarwal-18453-2011-04-13",
+   "https://theorg.com/org/visa-steel-ltd/org-chart/vishambhar-saran"
+  ]
+ },
+ {
+  "index": 20,
+  "display_name": "Jalan family (Ramkrishna Forgings): Naresh Jalan",
+  "family": "Jalan family",
+  "group": "Ramkrishna Forgings group",
+  "founder": {
+   "name": "Mahabir Prasad Jalan",
+   "year_founded": 1981,
+   "native_place": null
+  },
+  "head": {
+   "name": "Naresh Jalan",
+   "role": "Managing Director, Ramkrishna Forgings Ltd (Mahabir Prasad Jalan is Chairman Emeritus)"
+  },
+  "next_gen": [
+   {
+    "name": "Naresh Jalan",
+    "relation": "Son of Mahabir Prasad Jalan",
+    "runs": "Managing Director, Ramkrishna Forgings",
+    "since": "Director since 1995 (market view)"
+   },
+   {
+    "name": "Chaitanya Jalan",
+    "relation": "Son of Naresh Jalan",
+    "runs": "Whole-time Director, Ramkrishna Forgings (third generation)",
+    "since": null
+   }
+  ],
+  "background": "Mahabir Prasad Jalan founded Ramkrishna Forgings, incorporated in Kolkata on 12 November 1981, and has been on the board since that day. His son Naresh Jalan took it from a domestic forging shop to a global supplier of auto, rail and oil-and-gas forgings, with plants in Jamshedpur, Saraikela and Liluah. Grandson Chaitanya Jalan is a whole-time director and leads newer lines. The group has added machining and castings units and a rail wheel JV with Titagarh. Family shares are held mainly through Riddhi Portfolio Pvt Ltd.",
+  "milestones": [
+   {
+    "year": 1981,
+    "event": "Incorporated 12 November 1981; M.P. Jalan a director from day one (verified, AR)"
+   },
+   {
+    "year": 1995,
+    "event": "Naresh Jalan joins the board (market view, Tofler)"
+   },
+   {
+    "year": 2026,
+    "event": "Three generations on the board; promoter holding mainly through Riddhi Portfolio (verified, AR)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Mahabir Prasad Jalan",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Founder; Chairman Emeritus",
+    "certainty": "verified"
+   },
+   {
+    "name": "Naresh Jalan",
+    "generation": 2,
+    "parent": "Mahabir Prasad Jalan",
+    "spouse": "Rashmi Jalan",
+    "role": "Managing Director",
+    "certainty": "verified"
+   },
+   {
+    "name": "Rashmi Jalan",
+    "generation": 2,
+    "parent": null,
+    "spouse": "Naresh Jalan",
+    "role": "Promoter group",
+    "certainty": "verified"
+   },
+   {
+    "name": "Chaitanya Jalan",
+    "generation": 3,
+    "parent": "Naresh Jalan",
+    "spouse": "Radhika Jalan",
+    "role": "Whole-time Director",
+    "certainty": "verified"
+   },
+   {
+    "name": "Radhika Jalan",
+    "generation": 3,
+    "parent": null,
+    "spouse": "Chaitanya Jalan",
+    "role": "Promoter group",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Rashmi Jalan",
+    "detail": "Wife of Naresh Jalan (related-party list); maiden name not disclosed",
+    "possibly_linked_family": "married surname Jalan; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fb1d65c3-9f41-4dd2-bdcd-bb49fca4e064.pdf"
+   },
+   {
+    "person": "Radhika Jalan",
+    "detail": "Wife of Chaitanya Jalan; became a shareholder in FY26; maiden name not disclosed",
+    "possibly_linked_family": "married surname Jalan; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fb1d65c3-9f41-4dd2-bdcd-bb49fca4e064.pdf"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fb1d65c3-9f41-4dd2-bdcd-bb49fca4e064.pdf",
+   "https://www.ibef.org/economy/quarterly-newsletter/forging-ahead-ramkrishna-forgings-global-growth-story",
+   "https://india.entrepreneur.com/leadership/the-man-of-metal-chaitanya-jalan-executive-director/501781"
+  ]
+ },
+ {
+  "index": 21,
+  "display_name": "Patni family (Ankit Metal, Impex, Rohit Ferro-Tech): Suresh Kumar Patni",
+  "family": "Patni family",
+  "group": "Patni group (Ankit Metal, Impex Ferro Tech, Rohit Ferro-Tech)",
+  "founder": {
+   "name": "Suresh Kumar Patni",
+   "year_founded": null,
+   "native_place": null
+  },
+  "head": {
+   "name": "Suresh Kumar Patni",
+   "role": "Promoter and guarantor; former chairman of group companies"
+  },
+  "next_gen": [
+   {
+    "name": "Rohit Patni",
+    "relation": "Family member; son of Suresh Kumar Patni (inferred)",
+    "runs": "Former Joint MD, Ankit Metal & Power",
+    "since": null
+   },
+   {
+    "name": "Ankit Patni",
+    "relation": "Family member; son of Suresh Kumar Patni (inferred)",
+    "runs": "Former CMD, Ankit Metal & Power",
+    "since": "MD from 2004 or 2015 (sources conflict)"
+   }
+  ],
+  "background": "The Patni family built a Kolkata ferro-alloy and long-steel group: Rohit Ferro-Tech, Impex Ferro Tech, Impex Metal & Ferro Alloys (Andhra Pradesh) and Ankit Metal & Power (incorporated 2002 as Ankit Steel Works, Bankura). Suresh Kumar Patni chaired the companies, with Rohit and Ankit Patni as managing directors. The group ran into debt trouble in the late 2010s. Impex Metal went to Maithan Alloys in 2021, Rohit Ferro-Tech is in liquidation and Impex Ferro Tech has been in insolvency since May 2024. The family's remaining role is mainly as personal guarantors.",
+  "milestones": [
+   {
+    "year": 2002,
+    "event": "Ankit Steel Works (later Ankit Metal & Power) incorporated 7 August (reported)"
+   },
+   {
+    "year": 2021,
+    "event": "Impex Metal & Ferro Alloys acquired by Maithan Alloys through insolvency (reported)"
+   },
+   {
+    "year": 2023,
+    "event": "Suresh, Rohit, Ankit and Sarita Patni named as personal guarantors (verified, Ankit Metal AR)"
+   },
+   {
+    "year": 2024,
+    "event": "Impex Ferro Tech admitted to insolvency 2 May 2024 (existing entry)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Suresh Kumar Patni",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Sarita Patni (inferred)",
+    "role": "Promoter and guarantor",
+    "certainty": "verified"
+   },
+   {
+    "name": "Sarita Patni",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Suresh Kumar Patni (inferred)",
+    "role": "Promoter and guarantor",
+    "certainty": "verified"
+   },
+   {
+    "name": "Rohit Patni",
+    "generation": 2,
+    "parent": "Suresh Kumar Patni",
+    "spouse": null,
+    "role": "Promoter; former Joint MD (parent link inferred)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Ankit Patni",
+    "generation": 2,
+    "parent": "Suresh Kumar Patni",
+    "spouse": null,
+    "role": "Promoter; former CMD Ankit Metal (parent link inferred)",
+    "certainty": "inferred"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Sarita Patni",
+    "detail": "Promoter and guarantor; relation to Suresh not stated in filings",
+    "possibly_linked_family": "married surname Patni; family not identified",
+    "certainty": "inferred",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f807fe05-0207-4963-bdbe-e916cf3960c2.pdf"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f807fe05-0207-4963-bdbe-e916cf3960c2.pdf",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/caf508a9-19ca-46f4-bb24-c71f49e434a9.pdf",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/95e8dd4c-36a5-4871-b230-a5306b53a615.pdf",
+   "https://www.marketscreener.com/insider/ANKIT-PATNI-A0K91A/"
+  ]
+ },
+ {
+  "index": 22,
+  "display_name": "Jindal family, B.C. Jindal line (Jindal India): Shyam Sunder Jindal",
+  "family": "Jindal family (B.C. Jindal line)",
+  "group": "B.C. Jindal group (Jindal India)",
+  "founder": {
+   "name": "B.C. (Bhavi Chand) Jindal",
+   "year_founded": 1952,
+   "native_place": null
+  },
+  "head": {
+   "name": "Shyam Sunder Jindal",
+   "role": "Promoter and head of B.C. Jindal Group"
+  },
+  "next_gen": [
+   {
+    "name": "Shyam Sunder Jindal",
+    "relation": "Son of B.C. Jindal",
+    "runs": "Leads B.C. Jindal Group",
+    "since": null
+   },
+   {
+    "name": "Bhavesh Jindal",
+    "relation": "Grandson of B.C. Jindal",
+    "runs": "Promoter family; role not confirmed",
+    "since": null
+   }
+  ],
+  "background": "B.C. Jindal, a brother of O.P. Jindal, founded the B.C. Jindal Group in 1952. Its first venture, Jindal (India) Ltd, was set up in Howrah to make ERW and galvanised steel pipes; the group later added a 240,000 tonne pipe mill at Jangalpur (2008), metal coating and colour coating at Jangalpur and Ranihati, a thermal power company and Jindal Poly Films. In 2026 Jindal India completed a Rs 1,500 crore expansion in West Bengal with a new colour coating line. The group is separate from the JSW, Jindal Steel, Jindal Stainless and Jindal Saw groups of O.P. Jindal's sons. The Enforcement Directorate searched group companies in September 2025 (allegation).",
+  "milestones": [
+   {
+    "year": 1952,
+    "event": "B.C. Jindal Group founded; Jindal (India) Ltd set up in Howrah (reported, group site)"
+   },
+   {
+    "year": 2008,
+    "event": "240,000 tonne pipe mill at Jangalpur, Howrah (reported)"
+   },
+   {
+    "year": 2025,
+    "event": "ED searches on B.C. Jindal group companies, September (allegation)"
+   },
+   {
+    "year": 2026,
+    "event": "Rs 1,500 crore West Bengal expansion and new colour coating line completed (reported)"
+   }
+  ],
+  "people": [
+   {
+    "name": "B.C. (Bhavi Chand) Jindal",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Founder; brother of O.P. Jindal",
+    "certainty": "reported"
+   },
+   {
+    "name": "Shyam Sunder Jindal",
+    "generation": 2,
+    "parent": "B.C. (Bhavi Chand) Jindal",
+    "spouse": null,
+    "role": "Promoter, B.C. Jindal Group",
+    "certainty": "reported"
+   },
+   {
+    "name": "Bhavesh Jindal",
+    "generation": 3,
+    "parent": "Shyam Sunder Jindal",
+    "spouse": null,
+    "role": "Promoter family; grandson of B.C. Jindal (parent assumed Shyam Sunder, inferred)",
+    "certainty": "inferred"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "B.C. Jindal",
+    "detail": "Brother of O.P. Jindal",
+    "possibly_linked_family": "O.P. Jindal family (kin, not marriage)",
+    "certainty": "reported",
+    "source": "https://en.wikipedia.org/wiki/Devi_Sahai_Jindal"
+   }
+  ],
+  "sources": [
+   "https://www.jindal.com/group-history.html",
+   "https://www.business-standard.com/article/companies/tale-of-incomplete-disclosures-behind-jindals-49-stake-in-jpfl-dutch-arm-117072800486_1.html",
+   "https://en.wikipedia.org/wiki/Devi_Sahai_Jindal",
+   "https://www.outlookbusiness.com/corporate/steel-product-maker-jindal-india-completes-1500-crore-expansion-in-bengal",
+   "https://www.industrialinfo.com/news/article/jindal-india-commissions-240000-ton-pipe-mill-in-west-bengal-indian-pipe-industry-bullish-on-growth---139906",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c5ec1720-4350-4f08-b3ac-71b806be1e94.pdf",
+   "https://www.enforcementdirectorate.gov.in/media/press-release-documents/e2d0a1a3-a053-4f9f-87dc-022e8c578f0b_Press%20Release-Search-%20BC%20Jindal%2024.09.2025.pdf"
+  ]
+ },
+ {
+  "index": 23,
+  "display_name": "Mohanka family (Tega): Madan Mohan Mohanka",
+  "family": "Mohanka family",
+  "group": "Tega group",
+  "founder": {
+   "name": "Madan Mohan Mohanka",
+   "year_founded": 1976,
+   "native_place": null
+  },
+  "head": {
+   "name": "Madan Mohan Mohanka",
+   "role": "Executive Chairman, Tega Industries Ltd"
+  },
+  "next_gen": [
+   {
+    "name": "Mehul Mohanka",
+    "relation": "Son of Madan Mohan Mohanka",
+    "runs": "MD and Group CEO, Tega Industries",
+    "since": null
+   },
+   {
+    "name": "Manish Mohanka",
+    "relation": "Promoter; son of Madan Mohan Mohanka (inferred)",
+    "runs": "Promoter shareholder (about 9.7%); not on board",
+    "since": null
+   }
+  ],
+  "background": "Madan Mohan Mohanka (born 1943) grew up in Jamshedpur and graduated from IIM Ahmedabad in 1967. In 1976 he set up Tega India with Swedish firm Skega AB to make rubber mill liners for mining and mineral processing; the family later bought out Skega's stake (1998 or 2001, sources differ) and renamed the company Tega Industries in 2002. His son Mehul Mohanka, now MD and Group CEO, took Tega global through overseas plants and acquisitions, including McNally Sayaji and, with Apollo funds, Molycop in 2026. Family control sits in Nihal Fiscal Services and family trusts; a SEBI exemption order of January 2026 allowed an inter-se transfer of shares within the promoter group.",
+  "milestones": [
+   {
+    "year": 1967,
+    "event": "M.M. Mohanka graduates from IIM Ahmedabad (reported)"
+   },
+   {
+    "year": 1976,
+    "event": "Tega founded in collaboration with Skega AB, Sweden (reported)"
+   },
+   {
+    "year": 2002,
+    "event": "Renamed Tega Industries Ltd after family buys out Skega (reported)"
+   },
+   {
+    "year": 2023,
+    "event": "Biography 'I Did What I Had To Do' released (reported)"
+   },
+   {
+    "year": 2026,
+    "event": "SEBI exemption order for inter-se promoter transfer; Molycop deal with Apollo funds (verified, AR; existing entry)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Madan Mohan Mohanka",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Manju Mohanka (inferred)",
+    "role": "Founder; Executive Chairman",
+    "certainty": "verified"
+   },
+   {
+    "name": "Manju Mohanka",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Madan Mohan Mohanka (inferred)",
+    "role": "Promoter",
+    "certainty": "verified"
+   },
+   {
+    "name": "Mehul Mohanka",
+    "generation": 2,
+    "parent": "Madan Mohan Mohanka",
+    "spouse": null,
+    "role": "MD and Group CEO",
+    "certainty": "verified"
+   },
+   {
+    "name": "Manish Mohanka",
+    "generation": 2,
+    "parent": "Madan Mohan Mohanka",
+    "spouse": null,
+    "role": "Promoter; beneficiary of Manish Mohanka Benefit Trust (parent link inferred)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Amayra Mohanka",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Beneficiary of a promoter-group trust; likely grandchild (inferred)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Arvan Mohanka",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Beneficiary of a promoter-group trust; likely grandchild (inferred)",
+    "certainty": "inferred"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Manju Mohanka",
+    "detail": "Promoter; maiden name not disclosed",
+    "possibly_linked_family": "married surname Mohanka; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/044b03ab-584b-4944-8346-d1c5e012972c.pdf"
+   },
+   {
+    "person": "Mehul Mohanka",
+    "detail": "Spouse not named in filings or press found",
+    "possibly_linked_family": "family not identified",
+    "certainty": "inferred",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/044b03ab-584b-4944-8346-d1c5e012972c.pdf"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/044b03ab-584b-4944-8346-d1c5e012972c.pdf",
+   "https://www.sebi.gov.in/sebi_data/attachdocs/jan-2026/exemption_order_tgil.pdf",
+   "https://archives.iima.ac.in/oralhistory/Madan-Mohanka.html",
+   "https://wimwian.iima.ac.in/madan-mohanka-pgp-1967-an-industrialists-quest-to-offer-holistic-education-to-all/",
+   "https://doi.org/10.1108/CASE.IIMA.2023.000021"
+  ]
+ },
+ {
+  "index": 24,
+  "display_name": "Choudhary family (Himadri): Anurag Choudhary",
+  "family": "Choudhary family",
+  "group": "Himadri group",
+  "founder": {
+   "name": "Shyam Sundar Choudhary with Damodar Prasad and Bankey Lal Choudhary",
+   "year_founded": 1987,
+   "native_place": null
+  },
+  "head": {
+   "name": "Anurag Choudhary",
+   "role": "Chairman, MD and CEO, Himadri Speciality Chemical Ltd (father Shyam Sundar Choudhary is an executive director)"
+  },
+  "next_gen": [
+   {
+    "name": "Anurag Choudhary",
+    "relation": "Son of Shyam Sundar Choudhary",
+    "runs": "Chairman, MD and CEO, Himadri Speciality Chemical",
+    "since": null
+   },
+   {
+    "name": "Amit Choudhary",
+    "relation": "Son of Shyam Sundar Choudhary",
+    "runs": "Executive Director, Himadri Speciality Chemical",
+    "since": null
+   }
+  ],
+  "background": "Himadri was incorporated on 28 July 1987 as Himadri Casting Pvt Ltd by the Choudhary family and commissioned its first coal tar distillation plant in Howrah in 1990. Market data names Shyam Sundar, Damodar Prasad and Bankey Lal Choudhary as founders; how the latter two relate to Shyam Sundar is not stated in filings. It grew into India's main maker of coal tar pitch for aluminium smelters and graphite electrodes, then into carbon black and, more recently, battery materials. It was renamed Himadri Speciality Chemical in 2016. Shyam Sundar's sons Anurag (CMD) and Amit run it; the main promoter vehicle is Modern Hi-Rise Pvt Ltd.",
+  "milestones": [
+   {
+    "year": 1987,
+    "event": "Incorporated 28 July as Himadri Casting Pvt Ltd (reported)"
+   },
+   {
+    "year": 1990,
+    "event": "First coal tar distillation plant, Howrah (company site; reported)"
+   },
+   {
+    "year": 2016,
+    "event": "Renamed Himadri Speciality Chemical Ltd (reported)"
+   },
+   {
+    "year": 2026,
+    "event": "Anurag and Amit raise stakes; promoter group includes daughter Anooshka C. Bathwal (verified, FY26 AR)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Shyam Sundar Choudhary",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Sheela Devi Choudhary",
+    "role": "Co-founder; Executive Director",
+    "certainty": "verified"
+   },
+   {
+    "name": "Sheela Devi Choudhary",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Shyam Sundar Choudhary",
+    "role": "Promoter group",
+    "certainty": "verified"
+   },
+   {
+    "name": "Damodar Prasad Choudhary",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Named as a founder (market view); relation not stated",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Bankey Lal Choudhary",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Named as a founder (market view); relation not stated",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Anurag Choudhary",
+    "generation": 2,
+    "parent": "Shyam Sundar Choudhary",
+    "spouse": "Shikha Choudhary",
+    "role": "Chairman, MD and CEO",
+    "certainty": "verified"
+   },
+   {
+    "name": "Shikha Choudhary",
+    "generation": 2,
+    "parent": null,
+    "spouse": "Anurag Choudhary",
+    "role": "Promoter group",
+    "certainty": "verified"
+   },
+   {
+    "name": "Amit Choudhary",
+    "generation": 2,
+    "parent": "Shyam Sundar Choudhary",
+    "spouse": "Rinku Choudhary",
+    "role": "Executive Director",
+    "certainty": "verified"
+   },
+   {
+    "name": "Rinku Choudhary",
+    "generation": 2,
+    "parent": null,
+    "spouse": "Amit Choudhary",
+    "role": "Promoter group",
+    "certainty": "verified"
+   },
+   {
+    "name": "Anooshka C. Bathwal",
+    "generation": 3,
+    "parent": "Anurag Choudhary",
+    "spouse": null,
+    "role": "Promoter group (daughter of Anurag)",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Anooshka C. Bathwal",
+    "detail": "Daughter of Anurag Choudhary (related-party list); married surname Bathwal",
+    "possibly_linked_family": "married surname Bathwal; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8cbe5c4e-369b-466b-8197-fbebde03cb8c.pdf"
+   },
+   {
+    "person": "Sheela Devi, Shikha and Rinku Choudhary",
+    "detail": "Wives of Shyam Sundar, Anurag and Amit; maiden names not disclosed",
+    "possibly_linked_family": "married surname Choudhary; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8cbe5c4e-369b-466b-8197-fbebde03cb8c.pdf"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8cbe5c4e-369b-466b-8197-fbebde03cb8c.pdf",
+   "https://himadri.com/milestone.php",
+   "https://www.marketscreener.com/insider/SHYAM-SUNDAR-CHOUDHARY-A0D3M2/",
+   "https://marketscreener.com/insider/BANKEY-LAL-CHOUDHARY-A0D3M0"
+  ]
+ },
+ {
+  "index": 25,
+  "display_name": "Bangur family, K.K. Bangur line (Graphite India): Krishna Kumar Bangur",
+  "family": "Bangur family",
+  "group": "K.K. Bangur group (Graphite India)",
+  "founder": {
+   "name": "Mungee Ram and Ram Coowar Bangur (clan); Balbhadra Das Bangur (this branch)",
+   "year_founded": null,
+   "native_place": null
+  },
+  "head": {
+   "name": "Krishna Kumar (K.K.) Bangur",
+   "role": "Chairman, Graphite India Ltd; also on GKW and other boards"
+  },
+  "next_gen": [
+   {
+    "name": "Siddhant Bangur",
+    "relation": "Son of K.K. Bangur",
+    "runs": "Senior Vice President, Business Development, Graphite India",
+    "since": "1 August 2024"
+   }
+  ],
+  "background": "The Bangur business was founded by the brothers Mungee Ram and Ram Coowar Bangur towards the end of the 19th century and later split among their grandsons. In that split, Balbhadra Das Bangur, father of K.K. Bangur, kept Graphite India, Graphite Vicarb, Carbon Corporation and Carbo Ceramics. Graphite India makes graphite electrodes for electric arc furnace steelmaking, with Durgapur its main Bengal plant and a German subsidiary. K.K. Bangur chairs the company; his son Siddhant (BSc Finance, aged 26) joined senior management in August 2024 as the next generation. Control sits in Emerald Company Pvt Ltd (about 61%) and family trusts.",
+  "milestones": [
+   {
+    "year": 1997,
+    "event": "Business Standard describes the Bangur split; Balbhadra Das Bangur's branch keeps Graphite India (reported)"
+   },
+   {
+    "year": 2024,
+    "event": "Siddhant Bangur joins as Senior Vice President, 1 August (verified, AR)"
+   },
+   {
+    "year": 2026,
+    "event": "Emerald Company Pvt Ltd holds 61.33%; family trusts hold small stakes (verified, AR)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Balbhadra Das Bangur",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Father of K.K. Bangur; kept Graphite India in the family split",
+    "certainty": "reported"
+   },
+   {
+    "name": "Rukmani Devi Bangur",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group; relation not stated (possibly K.K. Bangur's mother, inferred)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Krishna Kumar Bangur",
+    "generation": 2,
+    "parent": "Balbhadra Das Bangur",
+    "spouse": "Manjushree Bangur (inferred)",
+    "role": "Chairman, Graphite India",
+    "certainty": "verified"
+   },
+   {
+    "name": "Manjushree Bangur",
+    "generation": 2,
+    "parent": null,
+    "spouse": "Krishna Kumar Bangur (inferred)",
+    "role": "Promoter group",
+    "certainty": "verified"
+   },
+   {
+    "name": "Siddhant Bangur",
+    "generation": 3,
+    "parent": "Krishna Kumar Bangur",
+    "spouse": null,
+    "role": "Senior Vice President, Business Development",
+    "certainty": "verified"
+   },
+   {
+    "name": "Aparna Bangur",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group; relation not stated",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Divya Bagri",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group; relation not stated (possibly a married daughter, inferred)",
+    "certainty": "inferred"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Divya Bagri",
+    "detail": "Individual in Graphite India promoter group with surname Bagri",
+    "possibly_linked_family": "married surname Bagri; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/05906612-3e23-4372-a823-6772a01ba067.pdf"
+   },
+   {
+    "person": "Manjushree Bangur and Aparna Bangur",
+    "detail": "Women in the promoter group; relations not stated",
+    "possibly_linked_family": "married surname Bangur; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/05906612-3e23-4372-a823-6772a01ba067.pdf"
+   },
+   {
+    "person": "Wider Bangur clan",
+    "detail": "Puja Bangur, daughter of H.M. Bangur of Shree Cement (a different Bangur branch), married Agnivesh Agarwal, son of Vedanta's Anil Agarwal, in 2013",
+    "possibly_linked_family": "Agarwal (Vedanta) family, linked to the Shree Cement branch, not to the K.K. Bangur line",
+    "certainty": "reported",
+    "source": "https://www.patrika.com/en/lifestyle-news/agnivesh-agarwals-wife-who-is-pooja-bangur-daughter-in-law-of-anil-agarwal-y-she-belongs-to-and-why-she-is-considered-part-of-indias-prominent-and-respected-business-d-20243919"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/05906612-3e23-4372-a823-6772a01ba067.pdf",
+   "https://www.business-standard.com/article/specials/the-problems-of-an-ageing-tree-197021801044_1.html",
+   "https://www.jktyre.com/investor/board-of-directors/5"
+  ]
+ },
+ {
+  "index": 26,
+  "display_name": "Bajoria family (IFGL, S.K. Bajoria group): Shishir Bajoria",
+  "family": "Bajoria family",
+  "group": "S.K. Bajoria group (IFGL)",
+  "founder": {
+   "name": "B.P. Bajoria (father); Shishir Kumar Bajoria founded the S.K. Bajoria group",
+   "year_founded": null,
+   "native_place": null
+  },
+  "head": {
+   "name": "Shishir Kumar Bajoria",
+   "role": "Executive Chairman, IFGL Refractories Ltd; head of S.K. Bajoria group"
+  },
+  "next_gen": [
+   {
+    "name": "Mihir Prakash (M.P.) Bajoria",
+    "relation": "Son of Shishir Bajoria",
+    "runs": "Executive Director, IFGL Refractories",
+    "since": null
+   }
+  ],
+  "background": "Shishir Bajoria, born in Kolkata in the mid-1950s, is the youngest son of industrialist B.P. Bajoria, once Honorary Consul General of Denmark in Kolkata, and comes from one of the city's oldest Marwari families. He built the S.K. Bajoria group, which makes specialised refractories for steel plants (IFGL, in partnership with Japan's Krosaki Harima since about 1990) and also runs insurance broking and health claims administration businesses. IFGL Refractories, incorporated in Odisha in 2007, has plants in India and subsidiaries in the UK and Germany. He joined the BJP in August 2014 and is a party leader in West Bengal. His son Mihir is an executive director, and the family consolidated its holding in Bajoria Financial Services Pvt Ltd in 2025.",
+  "milestones": [
+   {
+    "year": 1990,
+    "event": "Relationship with Krosaki Harima Corporation begins (reported)"
+   },
+   {
+    "year": 2007,
+    "event": "IFGL Refractories Ltd incorporated; Shishir Bajoria on board since 7 September 2007 (reported)"
+   },
+   {
+    "year": 2014,
+    "event": "Shishir Bajoria joins BJP (reported)"
+   },
+   {
+    "year": 2025,
+    "event": "1:1 bonus issue on 21 July; Mihir's shares moved within promoter group to Bajoria Financial Services (verified, AR)"
+   }
+  ],
+  "people": [
+   {
+    "name": "B.P. Bajoria",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Industrialist; father of Shishir",
+    "certainty": "reported"
+   },
+   {
+    "name": "Shishir Kumar Bajoria",
+    "generation": 2,
+    "parent": "B.P. Bajoria",
+    "spouse": "Smita Bajoria",
+    "role": "Executive Chairman, IFGL",
+    "certainty": "verified"
+   },
+   {
+    "name": "Smita Bajoria",
+    "generation": 2,
+    "parent": null,
+    "spouse": "Shishir Kumar Bajoria",
+    "role": "Promoter; director of Bajoria Financial Services; owner of Ganges Art Gallery (reported)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Mihir Prakash Bajoria",
+    "generation": 3,
+    "parent": "Shishir Kumar Bajoria",
+    "spouse": null,
+    "role": "Executive Director, IFGL",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Smita Bajoria",
+    "detail": "Wife of Shishir Bajoria; art gallery owner; maiden family not reported",
+    "possibly_linked_family": "married surname Bajoria; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e40d6334-4c7e-4aa8-8ae4-5cc1ec2bdfc6.pdf"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e40d6334-4c7e-4aa8-8ae4-5cc1ec2bdfc6.pdf",
+   "https://en.wikipedia.org/wiki/Shishir_Bajoria",
+   "https://nsearchives.nseindia.com/corporate/team_bbodade_26112025193343_IFGLEXPOR.pdf",
+   "https://www.marketscreener.com/insider/SMITA-BAJORIA-A0H8A5/relations/"
+  ]
+ },
+ {
+  "index": 27,
+  "display_name": "Adukia family (AIC group): Dinesh Adukia",
+  "family": "Adukia family",
+  "group": "AIC group (N N Ispat, AIC Iron, RAIC)",
+  "founder": {
+   "name": "Adukia family (Gyan Adukia earliest director on record)",
+   "year_founded": 1993,
+   "native_place": null
+  },
+  "head": {
+   "name": "Dinesh Adukia",
+   "role": "Manages the AIC group with his brothers; director of group companies"
+  },
+  "next_gen": [
+   {
+    "name": "Vivek Adukia",
+    "relation": "Family member; relation not stated",
+    "runs": "Director, AIC Iron Industries and AIC Casting",
+    "since": "2007 (AIC Casting, market view)"
+   }
+  ],
+  "background": "The AIC group belongs to the Adukia family of West Bengal, which the rating agency says has more than two decades in iron and steel. Its oldest entity on record, AIC Casting Pvt Ltd, dates from 1993, with Gyan Adukia a director since 1995. The group grew through RAIC Integrated Sponge and Power (2003, Burdwan), N N Ispat (2004, Burdwan) and AIC Iron Industries (Purulia), which it took over in February 2008. Today it makes sponge iron, billets, TMT bars, MS strips and pipes and silico manganese, and is rated A/A1 (Stable) by Acuite. Dinesh Adukia and his brothers manage the group and have funded it with unsecured loans when needed.",
+  "milestones": [
+   {
+    "year": 1993,
+    "event": "AIC Casting Pvt Ltd incorporated (CIN; market view)"
+   },
+   {
+    "year": 2003,
+    "event": "RAIC Integrated Sponge and Power and AIC Iron Industries incorporated (verified, Acuite)"
+   },
+   {
+    "year": 2004,
+    "event": "N N Ispat incorporated (verified, Acuite)"
+   },
+   {
+    "year": 2008,
+    "event": "Adukia group takes over AIC Iron Industries, February (verified, Acuite)"
+   },
+   {
+    "year": 2025,
+    "event": "Acuite reaffirms A (Stable)/A1 on Rs 265.68 crore facilities, October (verified)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Gyan Adukia",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Director of AIC group companies; on AIC Casting board since 1995; generation and relation not stated",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Dinesh Adukia",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Runs group affairs with his brothers; 20+ years in steel",
+    "certainty": "verified"
+   },
+   {
+    "name": "Vivek Adukia",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Director, AIC Iron Industries; relation not stated",
+    "certainty": "inferred"
+   }
+  ],
+  "marriage_clues": [],
+  "sources": [
+   "https://www.acuite.in/documents/ratings/revised/29199-RR-20251014.pdf",
+   "https://www.careratings.com/upload/CompanyFiles/PR/20042022052458_AIC_Iron_Industries_Private_Limited.pdf",
+   "https://www.infyner.com/company/aic-casting/U27109WB1993PTC059065"
+  ]
+ },
+ {
+  "index": 28,
+  "display_name": "Atha and Misra families (Topworth / Amalgam group)",
+  "family": "Atha and Misra families",
+  "group": "Topworth group",
+  "founder": {
+   "name": "Atha group (Narbheram Power & Steel) and Misra group (Ghanshyam Misra & Sons), Odisha iron ore miners",
+   "year_founded": null,
+   "native_place": null
+  },
+  "head": {
+   "name": "Atha and Misra families jointly (50:50)",
+   "role": "Promoters; Vishal Atha reported as co-MD of Amalgam Steel & Power"
+  },
+  "next_gen": [
+   {
+    "name": "Vishal Atha",
+    "relation": "Atha family",
+    "runs": "Co-Managing Director, Amalgam Steel & Power (market view)",
+    "since": "2019"
+   },
+   {
+    "name": "Gaurav Atha",
+    "relation": "Atha family",
+    "runs": "Director, Amalgam Steel & Power",
+    "since": "2019"
+   },
+   {
+    "name": "Sourav Misra",
+    "relation": "Misra family",
+    "runs": "Director, Amalgam Steel & Power and Amalgam Steel Pvt Ltd",
+    "since": "2019"
+   }
+  ],
+  "background": "Two Kolkata-based mining families, the Atha and Misra groups, have about five decades in iron ore mining in Odisha through Narbheram Power & Steel (Atha) and Ghanshyam Misra & Sons (Misra), with approval to mine about 4.2 million tonnes a year. Each also runs its own sponge iron, billet and rebar plants. Together, as a 50:50 joint venture, they have bought distressed steel assets cheaply: Amalgam Steel and Amalgam Steel & Power near Jamshedpur (pellets, sponge iron, billets) from the Adhunik group through insolvency in November 2018, then Crest Steel and Topworth Steels & Power (Chhattisgarh) in December 2023. ICRA rates the combined group and credits the promoters with quick turnarounds.",
+  "milestones": [
+   {
+    "year": 2018,
+    "event": "Atha-Misra JV acquires Adhunik group pellet and steel assets near Jamshedpur through insolvency, November (verified, ICRA)"
+   },
+   {
+    "year": 2019,
+    "event": "Atha and Misra family members join Amalgam Steel & Power board, March (market view)"
+   },
+   {
+    "year": 2023,
+    "event": "Topworth Steels & Power acquired through insolvency, December (verified, ICRA)"
+   },
+   {
+    "year": 2026,
+    "event": "ICRA reaffirms group ratings, outlook to Stable, October (reported)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Bharat Atha",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Atha group; director (market view); generation inferred",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Vishal Atha",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Co-MD, Amalgam Steel & Power (market view)",
+    "certainty": "reported"
+   },
+   {
+    "name": "Gaurav Atha",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Director, Amalgam Steel & Power",
+    "certainty": "reported"
+   },
+   {
+    "name": "Susil Kumar Misra",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Whole-time Director, Amalgam Steel Pvt Ltd (market view); generation inferred",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Sourav Misra",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Director, Amalgam Steel & Power",
+    "certainty": "reported"
+   }
+  ],
+  "marriage_clues": [],
+  "sources": [
+   "https://www.icra.in/Rating/GetRationalReportFilePdf?id=139247",
+   "https://www.icra.in/Rating/GetRationalReportFilePdf?id=95705",
+   "https://www.icra.in/Rating/ShowRationalReportFilePdfViewer/146283",
+   "https://tofler.in/company/U27104WB2003PLC096616/vitals"
+  ]
+ },
+ {
+  "index": 29,
+  "display_name": "Gupta family (Berry Alloys): Vijay Gupta",
+  "family": "Vijay Gupta",
+  "group": "Berry Alloys",
+  "founder": {
+   "name": "Vijay Gupta (company aggregators also name a late Dashrath Kumar Gupta as founder)",
+   "year_founded": 2006,
+   "native_place": null
+  },
+  "head": {
+   "name": "Vijay Gupta",
+   "role": "Promoter and Whole-time Director, Berry Alloys Ltd"
+  },
+  "next_gen": [],
+  "background": "Berry Alloys was incorporated in Kolkata on 29 September 2006 by Vijay Gupta to make ferro alloys, mainly silico manganese, at Bobbili in Vizianagaram district, Andhra Pradesh, near Vizag port. It has about 81 MVA of furnace capacity (nine 9 MVA furnaces) and exports about half its sales, to Japan, Korea, the Middle East and Europe. After a payment default rating in 2016, it recovered strongly and ICRA upgraded it to A+ (Stable)/A1 in December 2025. It holds 54.34% of Gajanan Ferro Pvt Ltd. Next-generation family members are not identified in public sources.",
+  "milestones": [
+   {
+    "year": 2006,
+    "event": "Incorporated 29 September in Kolkata (reported/verified ICRA)"
+   },
+   {
+    "year": 2016,
+    "event": "SMERA rates D for delayed debt servicing (reported)"
+   },
+   {
+    "year": 2025,
+    "event": "ICRA upgrades to A+ (Stable)/A1, December (reported)"
+   },
+   {
+    "year": 2026,
+    "event": "Exports about 53% of sales in H1 FY2026 (verified, ICRA)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Dashrath Kumar Gupta",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Described as late founder by an aggregator; relation to Vijay not confirmed",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Vijay Gupta",
+    "generation": 2,
+    "parent": "Dashrath Kumar Gupta",
+    "spouse": null,
+    "role": "Promoter; leads operations; over three decades in ferro alloys and steel (parent link inferred)",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Radha Bagaria",
+    "detail": "Listed as a director of Berry Alloys by aggregators; relation to promoters not stated",
+    "possibly_linked_family": "Bagaria surname; family not identified",
+    "certainty": "inferred",
+    "source": "https://www.tofler.in/berry-alloys-limited/company/U27310WB2006PLC145016"
+   }
+  ],
+  "sources": [
+   "https://www.icra.in/Rating/GetRationalReportFilePdf?id=140038",
+   "https://www.icra.in/Rating/ShowRationalReportFilePdf/110730",
+   "https://www.acuite.in/documents/ratings/revised/19057-RR-20160808.pdf",
+   "https://www.tofler.in/berry-alloys-limited/company/U27310WB2006PLC145016"
+  ]
+ },
+ {
+  "index": 30,
+  "display_name": "Birla family (Aditya Birla Group): Essel Mining, overseen by Kumar Mangalam Birla",
+  "family": "Birla family (Kumar Mangalam Birla)",
+  "group": "Essel Mining (Aditya Birla group)",
+  "founder": {
+   "name": "Essel Mining began iron ore mining in Odisha in 1950; joined the Aditya Birla Group in 1990",
+   "year_founded": 1950,
+   "native_place": null
+  },
+  "head": {
+   "name": "Kumar Mangalam Birla",
+   "role": "Chairman, Aditya Birla Group (parent of Essel Mining)"
+  },
+  "next_gen": [
+   {
+    "name": "Thomas Cherian",
+    "relation": "Professional (not family)",
+    "runs": "Managing Director, Essel Mining & Industries (reported; date not confirmed)",
+    "since": null
+   }
+  ],
+  "background": "Essel Mining & Industries (EMIL), based in Kolkata, has mined iron ore in Odisha since 1950 and became part of the Aditya Birla Group in 1990. It is a closely held group company run by professional managers and serves as the group's mining arm, including coal mining as India's first private mine developer and operator (Bhubaneswari mine). Through its subsidiary IGH Holdings it also holds about Rs 35,700 crore (March 2024) of shares in listed Aditya Birla companies, which makes it a key holding company for the Birla family.",
+  "milestones": [
+   {
+    "year": 1950,
+    "event": "Iron ore mining in Odisha begins (reported, company site)"
+   },
+   {
+    "year": 1990,
+    "event": "Becomes part of the Aditya Birla Group (reported)"
+   },
+   {
+    "year": 2024,
+    "event": "Group investment holdings via IGH Holdings worth about Rs 35,707 crore, 31 March (verified, ICRA)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Kumar Mangalam Birla",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Chairman, Aditya Birla Group",
+    "certainty": "reported"
+   },
+   {
+    "name": "Thomas Cherian",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Managing Director, EMIL (professional; reported)",
+    "certainty": "reported"
+   }
+  ],
+  "marriage_clues": [],
+  "sources": [
+   "https://www.icra.in/Rating/GetRationalReportFilePdf?id=129573",
+   "https://www.adityabirla.com/Businesses/Profile/essel-mining-and-industries-limited",
+   "https://www.esselmining.com/75-years-young.php"
+  ]
+ },
+ {
+  "index": 31,
+  "display_name": "Dhanuka family (Lalbaba Engineering): Kishan Dhanuka",
+  "family": "Dhanuka family (Kishan Dhanuka)",
+  "group": "Lalbaba Engineering",
+  "founder": {
+   "name": "Murari Lal Dhanuka (one source only)",
+   "year_founded": 1964,
+   "native_place": null
+  },
+  "head": {
+   "name": "Kishan Dhanuka",
+   "role": "Chairman and Managing Director, Lalbaba Engineering Ltd"
+  },
+  "next_gen": [
+   {
+    "name": "Amit Dhanuka",
+    "relation": "Dhanuka family; relation not stated",
+    "runs": "Whole-time Director, Lalbaba Engineering",
+    "since": null
+   },
+   {
+    "name": "Nikunj Dhanuka",
+    "relation": "Dhanuka family; relation not stated",
+    "runs": "Whole-time Director, Lalbaba Engineering",
+    "since": null
+   },
+   {
+    "name": "Nishit Dhanuka",
+    "relation": "Dhanuka family; relation not stated",
+    "runs": "Whole-time Director, Lalbaba Engineering",
+    "since": null
+   }
+  ],
+  "background": "Lalbaba Engineering (formerly Lalbaba Seamless Tubes Pvt Ltd, incorporated 2006, registered at Haldia) makes seamless carbon and alloy steel tubes, precision forgings and rail systems for railways, automotive, boilers and oil and gas. One IPO blog dates the family business to 1964 under Murari Lal Dhanuka; this is not confirmed. The promoters are the Dhanuka family (Kishan, Amit, Nikunj and Nishit) and their holding company LBIC Engineering. In 2025 it began buying a majority of DTL Ancillaries (Haldia, railway CRF components) after that firm's promoter died. It filed for a Rs 1,000 crore IPO with SEBI in late 2025.",
+  "milestones": [
+   {
+    "year": 1964,
+    "event": "Family business said to start under Murari Lal Dhanuka (inferred, single blog)"
+   },
+   {
+    "year": 2006,
+    "event": "Lalbaba Seamless Tubes Pvt Ltd incorporated (verified, Acuite)"
+   },
+   {
+    "year": 2025,
+    "event": "Renamed Lalbaba Engineering Ltd; buys 30% of DTL Ancillaries by 30 June, heading to 61.32% (verified, Acuite)"
+   },
+   {
+    "year": 2025,
+    "event": "DRHP filed for about Rs 1,000 crore IPO (reported)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Murari Lal Dhanuka",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Said to be founder (single source)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Kishan Dhanuka",
+    "generation": 2,
+    "parent": "Murari Lal Dhanuka",
+    "spouse": null,
+    "role": "Promoter; Chairman and MD (parent link inferred)",
+    "certainty": "reported"
+   },
+   {
+    "name": "Amit Dhanuka",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter; Whole-time Director",
+    "certainty": "reported"
+   },
+   {
+    "name": "Nikunj Dhanuka",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter; Whole-time Director",
+    "certainty": "reported"
+   },
+   {
+    "name": "Nishit Dhanuka",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter; Whole-time Director",
+    "certainty": "reported"
+   },
+   {
+    "name": "Pratik Dhanuka",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Director, DTL Ancillaries (relation not stated)",
+    "certainty": "inferred"
+   }
+  ],
+  "marriage_clues": [],
+  "sources": [
+   "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791355329958.PDF",
+   "https://www.acuite.in/documents/ratings/revised/9-RR-20250922.pdf",
+   "https://trendlyne.com/ipo/detail/2226/lalbaba-engineering-ltd",
+   "https://www.indiaipo.in/ipo-blogs/lalbaba-engineering-ipo",
+   "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/Lal_Baba_Seamless_Tubes_Private_Limited_December_14_2018_RR.html"
+  ]
+ },
+ {
+  "index": 100,
+  "display_name": "Bansal family (Beekay Steel): Suresh Chand Bansal",
+  "family": "Bansal family (Suresh Chand and Mukesh Chand Bansal; B.L. Bansal line)",
+  "group": "Beekay group (Beekay Steel Industries)",
+  "founder": {
+   "name": "Suresh Chand Bansal and Mukesh Chand Bansal (brothers); family HUF named after B.L. Bansal",
+   "year_founded": 1974,
+   "native_place": null
+  },
+  "head": {
+   "name": "Suresh Chand Bansal",
+   "role": "Executive Chairman, Beekay Steel Industries Ltd"
+  },
+  "next_gen": [
+   {
+    "name": "Vikas Bansal",
+    "relation": "Son of Suresh Chand Bansal",
+    "runs": "Executive Director, Beekay Steel",
+    "since": null
+   },
+   {
+    "name": "Manav Bansal",
+    "relation": "Son of Suresh Chand Bansal",
+    "runs": "Whole-time Director and CFO, Beekay Steel",
+    "since": null
+   },
+   {
+    "name": "Gautam Bansal",
+    "relation": "Son of Mukesh Chand Bansal",
+    "runs": "Whole-time Director, Beekay Steel",
+    "since": null
+   }
+  ],
+  "background": "The family started with a rolling mill in Howrah in 1974 and incorporated Beekay Steel Industries in Kolkata on 28 March 1981. It grew by buying Radice Ispat (India), which started a unit at Chengalpattu, Tamil Nadu in 1999, and AKC Steel Industries (1998), and opened TMT mills in Jamshedpur in 2001. Beekay makes hot rolled sections, bright bars, structurals and TMT bars and does conversion work for Tata Steel and others. Brothers Suresh Chand (Executive Chairman) and Mukesh Chand Bansal (Executive Director) run it with Suresh's sons Vikas and Manav and Mukesh's son Gautam. A family HUF in the name of B.L. Bansal suggests he was the father of the brothers (inferred).",
+  "milestones": [
+   {
+    "year": 1974,
+    "event": "Rolling mill commissioned in Howrah (verified, AR timeline)"
+   },
+   {
+    "year": 1981,
+    "event": "Beekay Steel Industries incorporated 28 March (verified, CIN)"
+   },
+   {
+    "year": 1998,
+    "event": "AKC Steel Industries acquired (verified, AR timeline)"
+   },
+   {
+    "year": 1999,
+    "event": "Production at Chengalpattu, Tamil Nadu, through Radice Ispat (verified, AR timeline)"
+   },
+   {
+    "year": 2001,
+    "event": "TMT I and TMT II units in Jamshedpur start production (verified, AR timeline)"
+   }
+  ],
+  "people": [
+   {
+    "name": "B.L. Bansal",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Name of promoter HUF 'B L Bansal & Sons'; father of the brothers (inferred)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Suresh Chand Bansal",
+    "generation": 2,
+    "parent": "B.L. Bansal",
+    "spouse": "Indu Bansal or Aruna Bansal (not stated)",
+    "role": "Executive Chairman; promoter (10.56%)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Mukesh Chand Bansal",
+    "generation": 2,
+    "parent": "B.L. Bansal",
+    "spouse": "Indu Bansal or Aruna Bansal (not stated)",
+    "role": "Executive Director (MD earlier); promoter (6.26%)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Vikas Bansal",
+    "generation": 3,
+    "parent": "Suresh Chand Bansal",
+    "spouse": null,
+    "role": "Executive Director",
+    "certainty": "verified"
+   },
+   {
+    "name": "Manav Bansal",
+    "generation": 3,
+    "parent": "Suresh Chand Bansal",
+    "spouse": null,
+    "role": "Whole-time Director and CFO",
+    "certainty": "verified"
+   },
+   {
+    "name": "Gautam Bansal",
+    "generation": 3,
+    "parent": "Mukesh Chand Bansal",
+    "spouse": null,
+    "role": "Whole-time Director",
+    "certainty": "verified"
+   },
+   {
+    "name": "Kirti Bhagchandka",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter (1.08%); likely married daughter of the family (inferred)",
+    "certainty": "inferred"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Kirti Bhagchandka",
+    "detail": "Individual promoter with a different surname, Bhagchandka; relation not stated",
+    "possibly_linked_family": "married surname Bhagchandka; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f080bf97-26d3-448e-838a-8db8a96f01e9.pdf"
+   },
+   {
+    "person": "Indu Bansal and Aruna Bansal",
+    "detail": "Listed as close family members of directors; probably the brothers' wives",
+    "possibly_linked_family": "married surname Bansal; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f080bf97-26d3-448e-838a-8db8a96f01e9.pdf"
+   },
+   {
+    "person": "Ritu, Sarika, Bhawani, Ishita and Shaurya Bansal",
+    "detail": "Further promoter-group individuals; relations not stated",
+    "possibly_linked_family": "married surname Bansal; family not identified",
+    "certainty": "inferred",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f080bf97-26d3-448e-838a-8db8a96f01e9.pdf"
+   }
+  ],
+  "companies": [
+   {
+    "name": "Beekay Steel Industries Ltd",
+    "listed": "yes",
+    "chain_stage": "Hot rolled sections, bright bars, structurals, TMT; conversion for large mills",
+    "state": "West Bengal (Howrah), Jharkhand (Jamshedpur), Tamil Nadu (Chengalpattu)"
+   },
+   {
+    "name": "AKC Steel Industries Ltd",
+    "listed": "no",
+    "chain_stage": "Steel rolling (group company)",
+    "state": "West Bengal"
+   },
+   {
+    "name": "Century Vision Pvt Ltd; Manvik Estates; Tirumala Holdings; Emerald Suppliers",
+    "listed": "no",
+    "chain_stage": "Promoter holding companies",
+    "state": "West Bengal"
+   }
+  ],
+  "chain_summary": "Downstream long products: buys billets and blooms and rolls them into sections, bars and TMT, plus job rolling for Tata Steel.",
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f080bf97-26d3-448e-838a-8db8a96f01e9.pdf",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/364d99a0-9a9f-4eff-a641-d0da07b2aeae.pdf",
+   "https://www.tofler.in/beekay-steel-industries-ltd/company/L27106WB1981PLC033490"
+  ]
+ },
+ {
+  "index": 101,
+  "display_name": "Jalan family (KIC Metaliks): Radhey Shyam Jalan",
+  "family": "Jalan family (Radhey Shyam Jalan); originally Kajaria",
+  "group": "KIC Metaliks (Karni Syntex)",
+  "founder": {
+   "name": "Founded 1986 as Kajaria Iron Castings (Ravi Kajaria named as founder by an aggregator); now led by Radhey Shyam Jalan",
+   "year_founded": 1986,
+   "native_place": null
+  },
+  "head": {
+   "name": "Radhey Shyam Jalan",
+   "role": "Chairman and Managing Director, K I C Metaliks Ltd (director since 16 January 2009)"
+  },
+  "next_gen": [],
+  "background": "KIC Metaliks was incorporated in August 1986 as Kajaria Iron Castings Ltd and renamed in 2003. In February 1998 it commissioned a mini blast furnace for pig iron at Raturia, near Durgapur. The company calls Radhey Shyam Jalan, a commerce graduate with over 35 years' experience, a first-generation entrepreneur; he has been on the board since January 2009 and is CMD. Promoter control (66%) sits mainly in Karni Syntex Pvt Ltd. A related company, Apex Fuels Pvt Ltd, has a Jalan relative as a director. Next-generation family roles are not disclosed.",
+  "milestones": [
+   {
+    "year": 1986,
+    "event": "Incorporated as Kajaria Iron Castings Ltd, August (reported)"
+   },
+   {
+    "year": 1998,
+    "event": "Mini blast furnace at Raturia, Durgapur commissioned, February (reported)"
+   },
+   {
+    "year": 2003,
+    "event": "Renamed KIC Metaliks Ltd (reported)"
+   },
+   {
+    "year": 2009,
+    "event": "Radhey Shyam Jalan joins board, 16 January (verified, AR)"
+   },
+   {
+    "year": 2024,
+    "event": "Karni Syntex holds 64.74% and R.S. Jalan 1.45% (verified, FY24 AR)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Ravi Kajaria",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Named founder and promoter of original Kajaria Iron Castings (market view)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Radhey Shyam Jalan",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "CMD; first-generation entrepreneur; B.Com (Hons)",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Radhey Shyam Jalan",
+    "detail": "A relative is a director of Apex Fuels Pvt Ltd (related party); name not given",
+    "possibly_linked_family": "Jalan relative; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1ad1786f-9004-4888-9ed8-541b8d08ff92.pdf"
+   }
+  ],
+  "companies": [
+   {
+    "name": "K I C Metaliks Ltd",
+    "listed": "yes",
+    "chain_stage": "Pig iron (mini blast furnace) with sinter plant and captive power",
+    "state": "West Bengal (Raturia, Durgapur)"
+   },
+   {
+    "name": "Karni Syntex Pvt Ltd",
+    "listed": "no",
+    "chain_stage": "Promoter holding company",
+    "state": "West Bengal"
+   },
+   {
+    "name": "KIC Minerals Pvt Ltd",
+    "listed": "no",
+    "chain_stage": "Subsidiary (reported to be sold)",
+    "state": "to verify"
+   }
+  ],
+  "chain_summary": "Upstream ironmaking: buys iron ore and coke, makes foundry and steel-grade pig iron.",
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1ad1786f-9004-4888-9ed8-541b8d08ff92.pdf",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/dece58aa-a5e7-4825-828c-e32c3d2dd41e.pdf",
+   "https://www.gem.wiki/KIC_Metaliks_Durgapur_steel_plant",
+   "https://www.crunchbase.com/organization/kic-metaliks"
+  ]
+ },
+ {
+  "index": 102,
+  "display_name": "Jalan family (Bengal Energy): Om Prakash Jalan",
+  "family": "Jalan family (Om Prakash Jalan) with Maheshwari co-promoters",
+  "group": "Bengal Energy",
+  "founder": {
+   "name": "Om Prakash Jalan with Navin Maheshwari",
+   "year_founded": 2007,
+   "native_place": null
+  },
+  "head": {
+   "name": "Om Prakash Jalan",
+   "role": "Key promoter and Managing Director, Bengal Energy Ltd"
+  },
+  "next_gen": [],
+  "background": "Om Prakash Jalan has traded coke and coking coal since 1993 and knows the Chinese, Australian and Indian met coke markets. He set up Bengal Energy Ltd in May 2007 with Navin Maheshwari, a chartered accountant who handles day-to-day running (an earlier rating also named Rajeev Maheshwari). Its plant at Narayangarh, Paschim Medinipur, is one of eastern India's largest low-ash metallurgical (LAM) coke units (6 lakh tonnes a year), with pig iron, ferro alloys, iron ore pellets, sinter and waste-heat power added later. Revenue was about Rs 3,578 crore in FY2025. No family successors are named in rating reports.",
+  "milestones": [
+   {
+    "year": 1993,
+    "event": "Om Prakash Jalan starts coke and coking coal trading (verified, CRISIL)"
+   },
+   {
+    "year": 2007,
+    "event": "Bengal Energy Ltd incorporated, May (verified, CRISIL)"
+   },
+   {
+    "year": 2017,
+    "event": "Proposes a 1 MTPA integrated steel project at Narayangarh (reported, environment clearance filing)"
+   },
+   {
+    "year": 2025,
+    "event": "Revenue about Rs 3,578 crore in FY2025 (verified, CRISIL)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Om Prakash Jalan",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Key promoter; MD",
+    "certainty": "verified"
+   },
+   {
+    "name": "Navin Maheshwari",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Co-promoter (not family); runs day-to-day operations",
+    "certainty": "verified"
+   },
+   {
+    "name": "Rajeev Maheshwari",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Named as promoter in a 2023 rating (not family of Jalan)",
+    "certainty": "reported"
+   }
+  ],
+  "marriage_clues": [],
+  "companies": [
+   {
+    "name": "Bengal Energy Ltd",
+    "listed": "no",
+    "chain_stage": "LAM coke, pig iron, ferro alloys, iron ore pellets, sinter, waste heat power; coal and ore trading",
+    "state": "West Bengal (Narayangarh, Paschim Medinipur)"
+   }
+  ],
+  "chain_summary": "Upstream inputs to steel: coke and pellets, plus some pig iron and ferro alloys; integrated backwards into sinter and forwards into captive power.",
+  "sources": [
+   "https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/BengalEnergyLimited_August%2006_%202026_RR_399632.html",
+   "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/BengalEnergyLimited_May%2002,%202022_RR_293286.html",
+   "https://www.careratings.com/upload/CompanyFiles/PR/202501140125_Bengal_Energy_Limited.pdf",
+   "https://environmentclearance.nic.in/writereaddata/Online/TOR/15_May_2017_165223737M0Q7T1JFTEFRBEL.pdf"
+  ]
+ },
+ {
+  "index": 103,
+  "display_name": "Rungta family (Rungta Sons / Rungta Mines): Nandlal and Mukund Rungta",
+  "family": "Rungta family (S.R. Rungta group; Nandlal and Mukund Rungta)",
+  "group": "S.R. Rungta group (Rungta Mines / Rungta Sons)",
+  "founder": {
+   "name": "Rungta family; S.R. Rungta group (founder's full name not confirmed)",
+   "year_founded": 1943,
+   "native_place": null
+  },
+  "head": {
+   "name": "Nandlal Rungta and Mukund Rungta",
+   "role": "Directors of Rungta Sons Pvt Ltd and Rungta Mines Ltd; named founders of Rungta Mines in Fortune India's rich list (reported)"
+  },
+  "next_gen": [
+   {
+    "name": "Siddharth Rungta",
+    "relation": "Rungta family; relation not stated",
+    "runs": "Director, Rungta Sons Pvt Ltd",
+    "since": null
+   }
+  ],
+  "background": "Rungta Sons Pvt Ltd was incorporated in West Bengal in 1943 (per its company number) and is the older of the S.R. Rungta group's two main companies; Rungta Mines Ltd followed in 1962. The two share about eight directors, including Nandlal, Mukund and Siddharth Rungta, and press describes them as related companies of one group that mines iron ore and makes steel, mainly in Odisha and Jharkhand. Rungta Sons holds iron ore leases such as the Jhumka-Pathiriposhi West block in Jharkhand. Fortune India ranked Nandlal and Mukund Rungta 61st among India's richest, with about Rs 40,000 crore combined. This group is separate from the Jharkhand Rungta group of Ram Chandra, Alok and Abhishek Rungta (Aloke Steels, Araanya Mines); no filing links the two.",
+  "milestones": [
+   {
+    "year": 1943,
+    "event": "Rungta Sons Pvt Ltd incorporated (company number; reported)"
+   },
+   {
+    "year": 1962,
+    "event": "Rungta Mines Ltd incorporated (company number; reported)"
+   },
+   {
+    "year": 2025,
+    "event": "Nandlal and Mukund Rungta enter Fortune India's top 100 rich list at 61 (reported)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Nandlal Rungta",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Director, Rungta Sons and Rungta Mines",
+    "certainty": "reported"
+   },
+   {
+    "name": "Mukund Rungta",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Director, Rungta Sons and Rungta Mines; relation to Nandlal not confirmed",
+    "certainty": "reported"
+   },
+   {
+    "name": "Siddharth Rungta",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Director, Rungta Sons; relation not stated",
+    "certainty": "reported"
+   }
+  ],
+  "marriage_clues": [],
+  "companies": [
+   {
+    "name": "Rungta Sons Pvt Ltd",
+    "listed": "no",
+    "chain_stage": "Iron ore mining",
+    "state": "Jharkhand, Odisha (registered West Bengal)"
+   },
+   {
+    "name": "Rungta Mines Ltd",
+    "listed": "no",
+    "chain_stage": "Iron ore mining, sponge iron, steel",
+    "state": "Odisha, Jharkhand (registered West Bengal)"
+   }
+  ],
+  "chain_summary": "Upstream: captive and merchant iron ore mining, with integration into sponge iron and steel through Rungta Mines.",
+  "sources": [
+   "https://www.zaubacorp.com/RUNGTA-SONS-PVT-LTD-U02005WB1943PTC011231",
+   "https://www.tofler.in/rungta-sons-pvt-ltd/company/U02005WB1943PTC011231",
+   "https://indianewsdiary.com/nandlal-rungta-and-mukund-rungta-founders-of-rungta-mines-ltd-made-their-debut-on-fortune-indias-list-of-the-top-100-billionaires-securing-61st-position-with-a-combined-estimated-wealth-of/",
+   "https://ibm.gov.in/writereaddata/files/176492247369329469ee175Signed_MCDR_Jhumki_Pathiriposhi_Rungta_Sons_P_Ltd.pdf",
+   "https://www.acuite.in/documents/ratings/revised/28376-RR-20241022.pdf"
+  ]
+ },
+ {
+  "index": 104,
+  "display_name": "Birla family, Ravi Kumar Birla line (Cosmic CRF): Aditya Vikram Birla, not related to the Aditya Birla Group",
+  "family": "Birla family (Ravi Kumar Birla line; not the Aditya Birla Group family)",
+  "group": "Cosmic group (Cosmic CRF, Cosmic Ferro Alloys)",
+  "founder": {
+   "name": "Aditya Vikram Birla (Cosmic CRF); CRF unit carved out of Cosmic Ferro Alloys Ltd",
+   "year_founded": 2021,
+   "native_place": null
+  },
+  "head": {
+   "name": "Aditya Vikram Birla (son of Ravi Kumar Birla; not the Aditya Birla Group)",
+   "role": "Promoter and Managing Director, Cosmic CRF Ltd"
+  },
+  "next_gen": [
+   {
+    "name": "Purvi Birla",
+    "relation": "Wife of Aditya Vikram Birla",
+    "runs": "Whole-time Director (business development), Cosmic CRF",
+    "since": null
+   }
+  ],
+  "background": "Cosmic CRF Ltd was incorporated in Kolkata on 21 December 2021 and in January 2022 took over the cold roll formed (CRF) sections unit at Ajabnagar, Singur from Cosmic Ferro Alloys Ltd. It makes CRF sections and components for railway wagons, serving Texmaco, Titagarh and Indian Railways, and listed on the BSE SME platform in 2023. Promoter Aditya Vikram Birla (BBA, Jadavpur; postgraduate diploma, Cardiff) is the son of Ravi Kumar and Suranjana Birla and has over a decade in railway components. His wife Purvi is a whole-time director and her father, chartered accountant Pawan Kumar Tibrewalla, is a non-executive director. No source links this family to the Aditya Birla Group.",
+  "milestones": [
+   {
+    "year": 2021,
+    "event": "Cosmic CRF incorporated, 21 December (verified, RHP)"
+   },
+   {
+    "year": 2022,
+    "event": "CRF business bought from Cosmic Ferro Alloys under transfer agreement of 19 January (verified, RHP)"
+   },
+   {
+    "year": 2023,
+    "event": "SME IPO on BSE; RHP dated 5 June 2023 (verified)"
+   },
+   {
+    "year": 2025,
+    "event": "Promoter-group firms Comet Technocom and Asansol Steel Castings buy shares, July (reported, BSE disclosure)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Ravi Kumar Birla",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Suranjana Birla",
+    "role": "Father of promoter; promoter group",
+    "certainty": "verified"
+   },
+   {
+    "name": "Suranjana Birla",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Ravi Kumar Birla",
+    "role": "Mother of promoter; promoter group",
+    "certainty": "verified"
+   },
+   {
+    "name": "Aditya Vikram Birla",
+    "generation": 2,
+    "parent": "Ravi Kumar Birla",
+    "spouse": "Purvi Birla",
+    "role": "Promoter and MD (63.99% pre-IPO)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Purvi Birla",
+    "generation": 2,
+    "parent": null,
+    "spouse": "Aditya Vikram Birla",
+    "role": "Whole-time Director; daughter of Pawan Kumar Tibrewalla",
+    "certainty": "verified"
+   },
+   {
+    "name": "Gayatri Birla",
+    "generation": 2,
+    "parent": "Ravi Kumar Birla",
+    "spouse": null,
+    "role": "Sister of promoter; promoter group",
+    "certainty": "verified"
+   },
+   {
+    "name": "Kabir Aditya Birla",
+    "generation": 3,
+    "parent": "Aditya Vikram Birla",
+    "spouse": null,
+    "role": "Son of promoter; promoter group",
+    "certainty": "verified"
+   },
+   {
+    "name": "Pawan Kumar Tibrewalla",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Seema Tibrewalla",
+    "role": "Non-Executive Director; father-in-law of promoter; chartered accountant",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Purvi Birla",
+    "detail": "Daughter of Pawan Kumar Tibrewalla and Seema Tibrewalla; sister Disha Tibrewalla; PK Tibrewalla & Co. is in the promoter group",
+    "possibly_linked_family": "Tibrewalla family (Pawan Kumar Tibrewalla, Kolkata chartered accountant)",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/corporates/download/331313/SME_IPO%20BasisOfAllotment/2.%20RHP_20230623153550.pdf"
+   },
+   {
+    "person": "Aditya Vikram Birla",
+    "detail": "Birla surname; son of Ravi Kumar Birla. No source connects this line to the G.D. Birla / Aditya Birla Group families",
+    "possibly_linked_family": "Birla surname; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/corporates/download/331313/SME_IPO%20BasisOfAllotment/2.%20RHP_20230623153550.pdf"
+   }
+  ],
+  "companies": [
+   {
+    "name": "Cosmic CRF Ltd",
+    "listed": "yes (BSE SME)",
+    "chain_stage": "Cold roll formed sections and wagon components",
+    "state": "West Bengal (Singur, Hooghly)"
+   },
+   {
+    "name": "Cosmic Ferro Alloys Ltd",
+    "listed": "no (to verify)",
+    "chain_stage": "Former owner of the CRF unit",
+    "state": "West Bengal"
+   },
+   {
+    "name": "Prilika Enterprises; AVB Entech; Comet Technocom; Asansol Steel Castings; Cosmic Steel",
+    "listed": "no",
+    "chain_stage": "Promoter-group companies",
+    "state": "West Bengal"
+   }
+  ],
+  "chain_summary": "Downstream: buys HR coil and strip and roll-forms sections for railway wagon builders.",
+  "sources": [
+   "https://www.bseindia.com/corporates/download/331313/SME_IPO%20BasisOfAllotment/2.%20RHP_20230623153550.pdf",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2631014c-5afb-49b7-9846-7f1678f65661.pdf",
+   "https://www.tofler.in/cosmic-crf-limited/company/U27100WB2021PLC250447"
+  ]
+ },
+ {
+  "index": 105,
+  "display_name": "Agarwal family (Sai group / Supershakti): Sitaram Agarwal",
+  "family": "Agarwal family (Sitaram Agarwal; Super Smelters)",
+  "group": "Sai group (Super Smelters, Supershakti Metaliks, Giridhan Metal)",
+  "founder": {
+   "name": "Sitaram Agarwal",
+   "year_founded": null,
+   "native_place": null
+  },
+  "head": {
+   "name": "Sitaram Agarwal",
+   "role": "Founder of Sai group; Whole-time Director, Super Smelters (reported)"
+  },
+  "next_gen": [
+   {
+    "name": "Dilipp Agarwal",
+    "relation": "Son of Sitaram Agarwal",
+    "runs": "Chairman, Supershakti Metaliks; MD of Super Smelters (sources differ)",
+    "since": "Chairman since 4 May 2018"
+   },
+   {
+    "name": "Deepak Kumar Agarwal",
+    "relation": "Son of Sitaram Agarwal",
+    "runs": "Director, Supershakti Metaliks; MD of Super Smelters from 2021 (market view)",
+    "since": null
+   }
+  ],
+  "background": "The link is confirmed: CARE Ratings (July 2023) says Supershakti Metaliks is part of the Sai group promoted by Sitaram Agarwal, with day-to-day work handled by his sons Dilipp and Deepak Kumar Agarwal, and names Super Smelters Ltd and Giridhan Metal Pvt Ltd as group manufacturing companies. Supershakti was incorporated on 12 December 2012, began as a wholly owned subsidiary of Super Smelters in 2013, and makes billets (about 142,800 tonnes a year) and rolled products (252,000 tonnes a year) at Durgapur. Its filings list Sitaram Agarwal as a relative of key managers and Super Smelters as a related enterprise and major customer. It is listed on the BSE SME platform.",
+  "milestones": [
+   {
+    "year": 2012,
+    "event": "Supershakti Metaliks incorporated, 12 December (verified, CARE)"
+   },
+   {
+    "year": 2013,
+    "event": "Wholly owned subsidiary of Super Smelters (reported)"
+   },
+   {
+    "year": 2018,
+    "event": "Dilipp Agarwal becomes chairman, 4 May (market view)"
+   },
+   {
+    "year": 2023,
+    "event": "CARE confirms Sai group link and Sitaram Agarwal as promoter (verified)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Sitaram Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Sabita Agarwal (inferred)",
+    "role": "Founder, Sai group; 30+ years in iron and steel",
+    "certainty": "verified"
+   },
+   {
+    "name": "Sabita Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Sitaram Agarwal (inferred)",
+    "role": "Relative of key managers (related-party list)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Dilipp Agarwal",
+    "generation": 2,
+    "parent": "Sitaram Agarwal",
+    "spouse": null,
+    "role": "Chairman, Supershakti",
+    "certainty": "verified"
+   },
+   {
+    "name": "Deepak Kumar Agarwal",
+    "generation": 2,
+    "parent": "Sitaram Agarwal",
+    "spouse": null,
+    "role": "Director, Supershakti",
+    "certainty": "verified"
+   },
+   {
+    "name": "Vibha Agarwal",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Relative of key managers; likely daughter-in-law (inferred)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Priti Agarwal",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Relative of key managers; relation not stated",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Rachana Agarwal",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Relative of key managers; relation not stated",
+    "certainty": "inferred"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Sabita, Vibha, Priti and Rachana Agarwal",
+    "detail": "Listed as relatives of key managers in the FY22 related-party note; relations not stated",
+    "possibly_linked_family": "married surname Agarwal; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0e9f085c-64fa-4291-880a-a122a45e9f8f.pdf"
+   }
+  ],
+  "companies": [
+   {
+    "name": "Supershakti Metaliks Ltd",
+    "listed": "yes (BSE SME)",
+    "chain_stage": "Billets and rolled products (TMT)",
+    "state": "West Bengal (Durgapur)"
+   },
+   {
+    "name": "Super Smelters Ltd",
+    "listed": "no",
+    "chain_stage": "Sponge iron, billets, TMT (group flagship)",
+    "state": "West Bengal"
+   },
+   {
+    "name": "Giridhan Metal Pvt Ltd; Sai Electrocasting Pvt Ltd",
+    "listed": "no",
+    "chain_stage": "Group steel and casting companies",
+    "state": "West Bengal"
+   }
+  ],
+  "chain_summary": "Mid-to-downstream long steel: melting to billets and rolling to TMT, with Super Smelters supplying and buying within the group.",
+  "sources": [
+   "https://www.careratings.com/upload/CompanyFiles/PR/202307150748_Supershakti_Metaliks_Limited.pdf",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0e9f085c-64fa-4291-880a-a122a45e9f8f.pdf",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9fa0c8bc-402a-4db9-82bd-ff1e26339bb6.pdf",
+   "https://www.tofler.in/super-smelters-ltd/company/U27109WB1995PLC072223"
+  ]
+ }
+]

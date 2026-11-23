@@ -96,7 +96,7 @@ function render(d,t){const T=document.getElementById("tab");
  if(t===1){if(!d.groups.length){T.innerHTML='<div class="empty">Family mapping in progress.</div>';return}
   const fam=d.groups.filter(g=>!/government/i.test(g.family||""));
   const nm=x=>x&&typeof x==="object"?x.name:x;
-  const ng=g=>(g.next_gen||[]).map(n=>`<b>${esc(n.name)}</b>${n.runs?` <span class="m">runs ${esc(n.runs)}</span>`:""}`).join("<br>");
+  const ng=g=>(g.next_gen||[]).map(n=>`<b>${esc(n.name)}</b>${n.runs?`<br><span class="m">${esc(n.runs)}</span>`:""}`).join("<br>");
   const glance=`<div class="m">At a glance: who heads each family, and who in the next generation runs what. Click a family below for the background, the family tree and the marriage clues.</div>
   <div class="scroll" style="margin:6px 0 14px"><table><thead><tr><th>Family (group)</th><th>Head today</th><th>Next generation and what they run</th><th>Founded / origin</th></tr></thead><tbody>
   ${fam.map((g,i)=>`<tr><td><a href="#f${i}" onclick="document.getElementById('f${i}').open=true">${esc(g.family)}</a><br><span class="m">${esc(g.group)}</span></td>

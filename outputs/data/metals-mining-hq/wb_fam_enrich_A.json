@@ -1,0 +1,2341 @@
+[
+ {
+  "index": 0,
+  "display_name": "Agrawal family (Manaksia): Suresh Kumar, Sushil Kumar and Sunil Kumar Agrawal branches",
+  "founder": {
+   "name": "Not named in the filings read; the business was built by the Agrawal brothers' generation (Basudeo, Suresh Kumar, Basant Kumar Agrawal) with elder Mahabir Prasad Agrawal",
+   "year_founded": 1972,
+   "native_place": null
+  },
+  "head": {
+   "name": "Suresh Kumar Agrawal",
+   "role": "Managing Director, Manaksia Ltd (b. 1953, chemical engineer); each listed company now has its own branch head"
+  },
+  "next_gen": [
+   {
+    "name": "Varun Agrawal",
+    "relation": "son of Suresh Kumar Agrawal",
+    "runs": "Managing Director, Manaksia Steels; 18.9% of Manaksia Ltd",
+    "since": "Board of Manaksia Ltd since Aug 2022; ~20 years in the business"
+   },
+   {
+    "name": "Karan Agrawal",
+    "relation": "son of Sushil Kumar Agrawal",
+    "runs": "Whole-time Director, Manaksia Coated Metals & Industries",
+    "since": "Nov 2014"
+   },
+   {
+    "name": "Tushar Agrawal",
+    "relation": "son of Sushil Kumar Agrawal",
+    "runs": "Senior Vice-President, Manaksia Coated Metals",
+    "since": "not stated"
+   },
+   {
+    "name": "Devansh Agrawal",
+    "relation": "relative of Sushil and Karan Agrawal (exact tie not stated)",
+    "runs": "Vice-President Business Development, Manaksia Coated Metals",
+    "since": "not stated (2026 remuneration resolution)"
+   },
+   {
+    "name": "Anirudha Agrawal",
+    "relation": "son of Sunil Kumar Agrawal",
+    "runs": "Whole-time Director and CEO, Manaksia Aluminium (37.1%)",
+    "since": "not stated"
+   }
+  ],
+  "background": "The business began in 1972 as Hindusthan Seals, making metal closures and packaging in Kolkata; it was incorporated in 1984 and renamed Manaksia Ltd in 2003-04 as it moved into galvanised and coated steel, aluminium and other products. It went abroad early, starting operations in Nigeria in 1996, and today runs plants in Nigeria and Ghana through subsidiaries. A court-approved scheme effective 2013-14 split the undertakings into Manaksia Steels, Manaksia Aluminium, Manaksia Coated Metals and Manaksia Industries, each now held by a separate family line. Manaksia Ltd stays with Suresh Kumar and Basudeo Agrawal, the coated-metals company with Sushil Kumar Agrawal and sons, and aluminium with Sunil Kumar Agrawal and son.",
+  "milestones": [
+   {
+    "year": 1972,
+    "event": "Started as Hindusthan Seals (metal closures and packaging)"
+   },
+   {
+    "year": 1984,
+    "event": "Hindusthan Seals incorporated as a company"
+   },
+   {
+    "year": 1996,
+    "event": "Operations begin in Nigeria"
+   },
+   {
+    "year": 2004,
+    "event": "Renamed Manaksia Ltd (2003-04) as it diversified"
+   },
+   {
+    "year": 2013,
+    "event": "Scheme splits the group into four listed companies by family line"
+   },
+   {
+    "year": 2025,
+    "event": "Manaksia Ltd scheme to demerge metal products into Manaksia Ferro Industries"
+   }
+  ],
+  "people": [
+   {
+    "name": "Mahabir Prasad Agrawal",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Former director of Manaksia Ltd (pre-2013); named relative of KMP in Manaksia Ltd, Manaksia Coated and Manaksia Aluminium",
+    "certainty": "verified"
+   },
+   {
+    "name": "Kanta Devi Agrawal",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter-group relative listed with Sushil Kumar Agrawal; possibly wife of Mahabir Prasad (not stated)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Basudeo Agrawal",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter; Co-ordinator Administration, Manaksia Ltd (3.47%); brother of Suresh Kumar",
+    "certainty": "verified"
+   },
+   {
+    "name": "Suresh Kumar Agrawal",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Managing Director, Manaksia Ltd (9.4%); b. 1953; chemical engineer; on board since 1998",
+    "certainty": "verified"
+   },
+   {
+    "name": "Chandrakala Agrawal",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Relative of Suresh Kumar Agrawal, 1.90% of Manaksia Ltd (relationship not stated; possibly his wife)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Basant Kumar Agrawal",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "MD of Manaksia Ltd until the 2013 split; associated with Manaksia Industries (relationship to others not stated)",
+    "certainty": "reported"
+   },
+   {
+    "name": "Sushil Kumar Agrawal",
+    "generation": 2,
+    "parent": "Mahabir Prasad Agrawal",
+    "spouse": null,
+    "role": "Managing Director, Manaksia Coated Metals (32.0%); b. 1960 (parent link inferred from relatives list)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Shailaja Agrawal",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Relative of Sushil Kumar Agrawal, 11.86% of Manaksia Coated (relationship not stated; possibly his wife)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Sunil Kumar Agrawal",
+    "generation": 2,
+    "parent": "Mahabir Prasad Agrawal",
+    "spouse": null,
+    "role": "Managing Director, Manaksia Aluminium (37.2%) (parent link inferred)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Varun Agrawal",
+    "generation": 3,
+    "parent": "Suresh Kumar Agrawal",
+    "spouse": null,
+    "role": "MD, Manaksia Steels; non-executive director, Manaksia Ltd; b. 1982; commerce graduate",
+    "certainty": "verified"
+   },
+   {
+    "name": "Payal Agrawal",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Relative of Suresh Kumar Agrawal, 2.85% of Manaksia Ltd (relationship not stated; possibly Varun's wife)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Vineet Agrawal",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Non-executive director, Manaksia Ltd and Manaksia Steels (~12.4%); tie not disclosed",
+    "certainty": "verified"
+   },
+   {
+    "name": "Karan Agrawal",
+    "generation": 3,
+    "parent": "Sushil Kumar Agrawal",
+    "spouse": null,
+    "role": "Whole-time Director, Manaksia Coated Metals; b. 1986; commerce graduate, IIM Bangalore management diploma",
+    "certainty": "verified"
+   },
+   {
+    "name": "Tushar Agrawal",
+    "generation": 3,
+    "parent": "Sushil Kumar Agrawal",
+    "spouse": null,
+    "role": "Senior Vice-President, Manaksia Coated Metals (6.0%)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Devansh Agrawal",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "VP Business Development, Manaksia Coated Metals; MBA Imperial College London, BS Univ. of Wisconsin-Madison; relative of Sushil and Karan",
+    "certainty": "verified"
+   },
+   {
+    "name": "Mruga Agrawal",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Relative of Sushil Kumar Agrawal (0.12%); relationship not stated",
+    "certainty": "verified"
+   },
+   {
+    "name": "Vidisha Agrawal",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Relative of Sushil Kumar Agrawal (0.11%); relationship not stated",
+    "certainty": "verified"
+   },
+   {
+    "name": "Anirudha Agrawal",
+    "generation": 3,
+    "parent": "Sunil Kumar Agrawal",
+    "spouse": null,
+    "role": "Whole-time Director and CEO, Manaksia Aluminium (37.1%)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Manju Agrawal",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Relative of KMP, Manaksia Aluminium (relationship not stated) [generation inferred]",
+    "certainty": "verified"
+   },
+   {
+    "name": "Sonia Agrawal",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Relative of KMP, Manaksia Aluminium (relationship not stated) [generation inferred]",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Chandrakala Agrawal and Payal Agrawal",
+    "detail": "Listed as relatives of Suresh Kumar Agrawal; maiden names not disclosed",
+    "possibly_linked_family": "family not identified",
+    "certainty": "inferred",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/020ddc3d-2b45-4e23-9037-28c831de7f4f.pdf"
+   },
+   {
+    "person": "Shailaja, Mruga and Vidisha Agrawal",
+    "detail": "Listed as relatives of Sushil Kumar Agrawal; likely wife and daughters-in-law; maiden names not disclosed",
+    "possibly_linked_family": "family not identified",
+    "certainty": "inferred",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3e1855ce-f42b-402f-9c1c-c6060517efc4.pdf"
+   },
+   {
+    "person": "Manju and Sonia Agrawal",
+    "detail": "Relatives of KMP of Manaksia Aluminium (Sunil and Anirudha line); maiden names not disclosed",
+    "possibly_linked_family": "family not identified",
+    "certainty": "inferred",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/92641cf5-9971-474d-9464-6ba1e9f8ee20.pdf"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/020ddc3d-2b45-4e23-9037-28c831de7f4f.pdf",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/574984b6-57e0-4511-b363-c5bb35f73045.pdf",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3e1855ce-f42b-402f-9c1c-c6060517efc4.pdf",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/92641cf5-9971-474d-9464-6ba1e9f8ee20.pdf",
+   "https://www.business-standard.com/article/markets/manaksia-industries-a-new-story-117041600773_1.html"
+  ]
+ },
+ {
+  "index": 1,
+  "display_name": "Agrawal family (MSP Steel & Power): Suresh Kumar Agrawal and Puranmal Agrawal",
+  "founder": {
+   "name": "Puranmal Agrawal (founder promoter; Chairman 2007-14)",
+   "year_founded": 1968,
+   "native_place": null
+  },
+  "head": {
+   "name": "Suresh Kumar Agrawal",
+   "role": "Chairman, MSP Steel & Power"
+  },
+  "next_gen": [
+   {
+    "name": "Saket Agrawal",
+    "relation": "same promoter family (exact tie not disclosed)",
+    "runs": "Managing Director, MSP Steel & Power",
+    "since": "not stated"
+   },
+   {
+    "name": "Manish Agrawal",
+    "relation": "son of Puranmal and Kiran Agrawal",
+    "runs": "Joint Managing Director, MSP Steel & Power",
+    "since": "not stated"
+   },
+   {
+    "name": "Pranay Agarwal",
+    "relation": "son of Suresh Kumar Agrawal",
+    "runs": "Promoter-group relative; no executive role disclosed",
+    "since": ""
+   }
+  ],
+  "background": "The listed company traces to Adhunik Rollers Pvt Ltd, incorporated in West Bengal in November 1968; it took the MSP Steel & Power name and became a public company in 2003. The family built an integrated long-steel complex at Raigarh, Chhattisgarh (pellets, sponge iron, billets, TMT and structurals, with captive power), adding a structural mill there in 2009-10. Mining, cement and a coal-block joint venture (Madanpur South) sit around the steel plant. The company is run from Kolkata by Chairman Suresh Kumar Agrawal, MD Saket Agrawal and Joint MD Manish Agrawal, who the company says belong to one promoter family.",
+  "milestones": [
+   {
+    "year": 1968,
+    "event": "Incorporated as Adhunik Rollers Pvt Ltd in West Bengal"
+   },
+   {
+    "year": 2003,
+    "event": "Renamed MSP Steel & Power; converted to a public company"
+   },
+   {
+    "year": 2010,
+    "event": "1.28 lakh tpa structural rolling mill commissioned at Raigarh (2009-10)"
+   },
+   {
+    "year": 2014,
+    "event": "Puranmal Agrawal steps down as Chairman"
+   }
+  ],
+  "people": [
+   {
+    "name": "Puranmal Agrawal",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Kiran Agrawal",
+    "role": "Founder promoter; former Chairman (2007-14)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Kiran Agrawal",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Puranmal Agrawal",
+    "role": "Mother of Manish Agrawal",
+    "certainty": "verified"
+   },
+   {
+    "name": "Suresh Kumar Agrawal",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Nisha Agrawal",
+    "role": "Chairman (different person from Manaksia's Suresh Kumar Agrawal)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Nisha Agrawal",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Suresh Kumar Agrawal",
+    "role": "Wife of Suresh Kumar Agrawal",
+    "certainty": "verified"
+   },
+   {
+    "name": "Saket Agrawal",
+    "generation": 2,
+    "parent": null,
+    "spouse": "Ekta Agrawal",
+    "role": "Managing Director; same promoter family (tie not disclosed)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Ekta Agrawal",
+    "generation": 2,
+    "parent": null,
+    "spouse": "Saket Agrawal",
+    "role": "Wife of Saket Agrawal",
+    "certainty": "verified"
+   },
+   {
+    "name": "Manish Agrawal",
+    "generation": 2,
+    "parent": "Puranmal Agrawal",
+    "spouse": "Richa Agrawal",
+    "role": "Joint Managing Director",
+    "certainty": "verified"
+   },
+   {
+    "name": "Richa Agrawal",
+    "generation": 2,
+    "parent": null,
+    "spouse": "Manish Agrawal",
+    "role": "Wife of Manish Agrawal",
+    "certainty": "verified"
+   },
+   {
+    "name": "Pranay Agarwal",
+    "generation": 2,
+    "parent": "Suresh Kumar Agrawal",
+    "spouse": null,
+    "role": "Son of Suresh Kumar Agrawal",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Nisha, Ekta, Richa and Kiran Agrawal",
+    "detail": "Wives disclosed in the related-party note; maiden names not disclosed",
+    "possibly_linked_family": "family not identified",
+    "certainty": "inferred",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/099ef7fb-0cc4-4340-b7eb-7ea483a45595.pdf"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/099ef7fb-0cc4-4340-b7eb-7ea483a45595.pdf",
+   "https://www.goodreturns.in/company/msp-steel-power/history.html"
+  ]
+ },
+ {
+  "index": 2,
+  "display_name": "Agarwal family (Shyam Metalics): Mahabir Prasad and Brij Bhushan Agarwal",
+  "founder": {
+   "name": "Mahabir Prasad Agarwal",
+   "year_founded": 1991,
+   "native_place": null
+  },
+  "head": {
+   "name": "Brij Bhushan Agarwal",
+   "role": "Chairman & Managing Director (Chairman since 10 May 2025)"
+  },
+  "next_gen": [
+   {
+    "name": "Sanjay Kumar Agarwal",
+    "relation": "son of Bajrang Lal Agarwal; nephew of Mahabir Prasad; cousin of Brij Bhushan",
+    "runs": "Joint Managing Director (operations and manufacturing)",
+    "since": "director since Dec 2002"
+   },
+   {
+    "name": "Sheetij Agarwal",
+    "relation": "son of Brij Bhushan Agarwal; nephew of Sanjay Kumar Agarwal",
+    "runs": "Whole-time Director; Head of Strategy and business development, ~40 export markets",
+    "since": "Nov 2023 (board)"
+   },
+   {
+    "name": "Subham Agarwal",
+    "relation": "son of Brij Bhushan Agarwal",
+    "runs": "Promoter group; no board role",
+    "since": ""
+   },
+   {
+    "name": "Deepak Agarwal",
+    "relation": "promoter family (relationship not stated in FY26 AR)",
+    "runs": "Whole-time Director & CFO",
+    "since": "not stated"
+   },
+   {
+    "name": "Divyansh Agarwal",
+    "relation": "son of Sanjay Kumar Agarwal",
+    "runs": "Promoter-group relative",
+    "since": ""
+   }
+  ],
+  "background": "Mahabir Prasad Agarwal laid the foundation over five decades in steel and ferro alloys; the first operating company, Shyam SEL and Power, was incorporated in September 1991, and the listed company followed in December 2002 as Shyam DRI Power. Sponge iron and integrated plants came up from 2005 at Jamuria and Mangalpur (West Bengal) and Sambalpur (Odisha), followed by ferro alloys, captive power and rail sidings. From 2016 it moved into TMT, wire rod and aluminium foil, listed on NSE and BSE in 2021, and then added stainless steel, colour-coated sheet and a blast furnace. Two cousin lines run it today: Brij Bhushan (with sons Sheetij and Subham) and Sanjay Kumar; Mahabir Prasad became Chairman Emeritus in May 2025.",
+  "milestones": [
+   {
+    "year": 1991,
+    "event": "Shyam SEL and Power incorporated (5 Sept 1991)"
+   },
+   {
+    "year": 2002,
+    "event": "Listed entity incorporated as Shyam DRI Power"
+   },
+   {
+    "year": 2005,
+    "event": "Sponge iron and integrated operations begin (2005-10)"
+   },
+   {
+    "year": 2021,
+    "event": "IPO; listed on NSE and BSE"
+   },
+   {
+    "year": 2024,
+    "event": "Crosses 15 Mtpa metal capacity; stainless and aluminium added"
+   },
+   {
+    "year": 2025,
+    "event": "Mahabir Prasad steps down; Brij Bhushan becomes Chairman"
+   }
+  ],
+  "people": [
+   {
+    "name": "Mahabir Prasad Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Sumitra Devi Agarwal",
+    "role": "Founder; Chairman Emeritus (from May 2025)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Sumitra Devi Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Mahabir Prasad Agarwal",
+    "role": "Wife of Mahabir Prasad Agarwal",
+    "certainty": "verified"
+   },
+   {
+    "name": "Bajrang Lal Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Bina Devi Agarwal",
+    "role": "Promoter group; father of Sanjay Kumar Agarwal; brother of Mahabir Prasad (inferred from 'nephew')",
+    "certainty": "verified"
+   },
+   {
+    "name": "Bina Devi Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Bajrang Lal Agarwal",
+    "role": "Mother of Sanjay Kumar Agarwal",
+    "certainty": "verified"
+   },
+   {
+    "name": "Brij Bhushan Agarwal",
+    "generation": 2,
+    "parent": "Mahabir Prasad Agarwal",
+    "spouse": "Mittu Agarwal",
+    "role": "Chairman & Managing Director (8.34%)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Mittu Agarwal",
+    "generation": 2,
+    "parent": null,
+    "spouse": "Brij Bhushan Agarwal",
+    "role": "Wife of Brij Bhushan Agarwal (0.41%)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Sanjay Kumar Agarwal",
+    "generation": 2,
+    "parent": "Bajrang Lal Agarwal",
+    "spouse": "Pooja Agarwal",
+    "role": "Joint Managing Director",
+    "certainty": "verified"
+   },
+   {
+    "name": "Pooja Agarwal",
+    "generation": 2,
+    "parent": null,
+    "spouse": "Sanjay Kumar Agarwal",
+    "role": "Wife of Sanjay Kumar Agarwal",
+    "certainty": "verified"
+   },
+   {
+    "name": "Anita Jhunjhunwala",
+    "generation": 2,
+    "parent": "Mahabir Prasad Agarwal",
+    "spouse": null,
+    "role": "Daughter; promoter group",
+    "certainty": "verified"
+   },
+   {
+    "name": "Sangeeta Agarwal",
+    "generation": 2,
+    "parent": "Mahabir Prasad Agarwal",
+    "spouse": null,
+    "role": "Daughter; promoter group (shown as Sangita Agarwal in shareholding)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Kiran Vimal Agarwal",
+    "generation": 2,
+    "parent": "Mahabir Prasad Agarwal",
+    "spouse": null,
+    "role": "Daughter; promoter group (Kirandevi Vimal Agrawal)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Sheetij Agarwal",
+    "generation": 3,
+    "parent": "Brij Bhushan Agarwal",
+    "spouse": null,
+    "role": "Whole-time Director; BS Business Administration, Northeastern University",
+    "certainty": "verified"
+   },
+   {
+    "name": "Subham Agarwal",
+    "generation": 3,
+    "parent": "Brij Bhushan Agarwal",
+    "spouse": null,
+    "role": "Promoter group",
+    "certainty": "verified"
+   },
+   {
+    "name": "Divyansh Agarwal",
+    "generation": 3,
+    "parent": "Sanjay Kumar Agarwal",
+    "spouse": null,
+    "role": "Promoter-group relative",
+    "certainty": "verified"
+   },
+   {
+    "name": "Deepak Agarwal",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Whole-time Director & CFO; family tie not stated in FY26 AR",
+    "certainty": "inferred"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Anita Jhunjhunwala",
+    "detail": "Daughter of Mahabir Prasad Agarwal; married surname Jhunjhunwala",
+    "possibly_linked_family": "married surname Jhunjhunwala; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/08f7bbef-7200-4d63-b9e2-0448e2848832.pdf"
+   },
+   {
+    "person": "Kiran Vimal Agarwal",
+    "detail": "Daughter of Mahabir Prasad Agarwal; husband's name appears to be Vimal Agarwal",
+    "possibly_linked_family": "married surname Agarwal (husband Vimal); family not identified",
+    "certainty": "inferred",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/08f7bbef-7200-4d63-b9e2-0448e2848832.pdf"
+   },
+   {
+    "person": "Sangeeta Agarwal",
+    "detail": "Daughter of Mahabir Prasad Agarwal, married within an Agarwal family",
+    "possibly_linked_family": "family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/08f7bbef-7200-4d63-b9e2-0448e2848832.pdf"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/08f7bbef-7200-4d63-b9e2-0448e2848832.pdf"
+  ]
+ },
+ {
+  "index": 3,
+  "display_name": "Agarwalla family of Asansol (Maithan Alloys): Subhas Chandra Agarwalla",
+  "founder": {
+   "name": "Subhas Chandra Agarwalla",
+   "year_founded": 1985,
+   "native_place": null
+  },
+  "head": {
+   "name": "Subhas Chandra Agarwalla",
+   "role": "Chairman & Managing Director (age 74; B.Com; MD since 1992)"
+  },
+  "next_gen": [
+   {
+    "name": "Subodh Agarwalla",
+    "relation": "son of S.C. Agarwalla",
+    "runs": "Whole-time Director & CEO, Maithan Alloys (MBA, B.Tech)",
+    "since": "~23 years in the business"
+   },
+   {
+    "name": "Sudhanshu Agarwalla",
+    "relation": "son of S.C. Agarwalla",
+    "runs": "President & CFO (MBA Finance)",
+    "since": "April 2004"
+   },
+   {
+    "name": "Siddhartha Shankar Agarwalla",
+    "relation": "promoter group (relationship not stated); 16.8% holder",
+    "runs": "Vice-President; earlier at Anjaney Ferro Alloys",
+    "since": "Oct 2016"
+   }
+  ],
+  "background": "Subhas Chandra Agarwalla incorporated Maithan Alloys in Kolkata in September 1985 and became its MD in 1992; the Agarwalla family is based in Asansol. The first ferro-alloy furnace (10 MVA) at Kalyaneshwari near Asansol was built from 1995 and began production in April 1997, and capacity was scaled to 49 MVA within a decade. Plants followed at Byrnihat in Meghalaya and Visakhapatnam, and the group bought Impex Metal & Ferro Alloys (Bobbili, Andhra Pradesh) under insolvency and merged it. It is a single-stage manganese-alloy maker with a large treasury book, and in 2025-26 set up new subsidiaries in food, capital and electronics.",
+  "milestones": [
+   {
+    "year": 1985,
+    "event": "Maithan Alloys incorporated (19 Sept 1985)"
+   },
+   {
+    "year": 1997,
+    "event": "Commercial production at Kalyaneshwari, 10 MVA"
+   },
+   {
+    "year": 2007,
+    "event": "Capacity scaled to 49 MVA; Meghalaya and Visakhapatnam plants follow (approx., next decade)"
+   },
+   {
+    "year": 2023,
+    "event": "Impex Metal & Ferro Alloys acquired under insolvency and merged (date approx.)"
+   },
+   {
+    "year": 2025,
+    "event": "New subsidiaries in food, capital and electronics (2025-26)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Shankar Lal Agarwalla",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Name of an HUF in the promoter group, dissolved Jan 2025; possibly the elder of the family (not stated)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Subhas Chandra Agarwalla",
+    "generation": 2,
+    "parent": null,
+    "spouse": "Sheela Devi Agarwalla",
+    "role": "Founder, Chairman & MD; 25.6%",
+    "certainty": "verified"
+   },
+   {
+    "name": "Sheela Devi Agarwalla",
+    "generation": 2,
+    "parent": null,
+    "spouse": "Subhas Chandra Agarwalla",
+    "role": "Close family member of S.C. Agarwalla; 25.6% (shown as his wife in earlier library data)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Prahlad Rai Agarwalla",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Relative of S.C. Agarwalla (nature not stated); stake cut from 10.9% to 2.4% in FY26",
+    "certainty": "verified"
+   },
+   {
+    "name": "Sarita Devi Agarwalla",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group, 2.29% (relationship not stated)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Subodh Agarwalla",
+    "generation": 3,
+    "parent": "Subhas Chandra Agarwalla",
+    "spouse": "Mitu Agarwalla",
+    "role": "Whole-time Director & CEO",
+    "certainty": "verified"
+   },
+   {
+    "name": "Mitu Agarwalla",
+    "generation": 3,
+    "parent": null,
+    "spouse": "Subodh Agarwalla",
+    "role": "Close family member of Subodh Agarwalla (likely wife; not stated)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Sudhanshu Agarwalla",
+    "generation": 3,
+    "parent": "Subhas Chandra Agarwalla",
+    "spouse": "Tripti Agarwalla",
+    "role": "President & CFO",
+    "certainty": "verified"
+   },
+   {
+    "name": "Tripti Agarwalla",
+    "generation": 3,
+    "parent": null,
+    "spouse": "Sudhanshu Agarwalla",
+    "role": "Close family member of Sudhanshu Agarwalla (likely wife; not stated)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Siddhartha Shankar Agarwalla",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Vice-President; 16.8%; relationship not stated",
+    "certainty": "verified"
+   },
+   {
+    "name": "Sonam Agarwalla",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group, 1.27%",
+    "certainty": "verified"
+   },
+   {
+    "name": "Avinash Agarwalla",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group, 0.07%",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Mitu and Tripti Agarwalla",
+    "detail": "Close family of Subodh and Sudhanshu, likely their wives; maiden names not disclosed",
+    "possibly_linked_family": "family not identified",
+    "certainty": "inferred",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/95e8dd4c-36a5-4871-b230-a5306b53a615.pdf"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/95e8dd4c-36a5-4871-b230-a5306b53a615.pdf",
+   "https://www.careratings.com/upload/CompanyFiles/PR/202512121221_Maithan_Alloys_Limited.pdf",
+   "https://www.dnb.co.in/events/indias-top-500/branded-content/case-studies/MAL-D&B-Casestudy-V3.pdf"
+  ]
+ },
+ {
+  "index": 4,
+  "display_name": "Agarwalla family (Maithan Steel & Power): Binod Kumar Agarwalla",
+  "founder": {
+   "name": "Binod Kumar Agarwalla",
+   "year_founded": 2001,
+   "native_place": null
+  },
+  "head": {
+   "name": "Binod Kumar Agarwalla",
+   "role": "Promoter (beneficial owner); day-to-day run by second generation"
+  },
+  "next_gen": [
+   {
+    "name": "Madhur Agarwalla",
+    "relation": "second-generation promoter (parent not stated)",
+    "runs": "Director, Maithan Steel & Power",
+    "since": "2017"
+   },
+   {
+    "name": "Kaushal Agarwalla",
+    "relation": "second-generation promoter (parent not stated)",
+    "runs": "Whole-time Director & CFO; finance, operations, projects",
+    "since": "not stated"
+   }
+  ],
+  "background": "Maithan Steel and Power was incorporated in June 2001 and has run for over two decades as a semi-integrated long-steel maker in West Bengal. It makes sponge iron, ferro alloys and captive power at Neturia (Purulia) and billets and TMT at Salanpur (Paschim Bardhaman). It was promoted by Binod Kumar Agarwalla and is now headed by second-generation promoters Madhur and Kaushal Agarwalla. Its registered office is in the same Kolkata building as Maithan Alloys (9 A.J.C. Bose Road), but no filing read shows a family or ownership link between the two.",
+  "milestones": [
+   {
+    "year": 2001,
+    "event": "Incorporated (19 June 2001)"
+   },
+   {
+    "year": 2017,
+    "event": "Madhur Agarwalla joins the board"
+   },
+   {
+    "year": 2025,
+    "event": "Acuite rating review: second generation heads the company"
+   }
+  ],
+  "people": [
+   {
+    "name": "Binod Kumar Agarwalla",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter; beneficial owner",
+    "certainty": "verified"
+   },
+   {
+    "name": "Madhur Agarwalla",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Director; second-generation promoter",
+    "certainty": "verified"
+   },
+   {
+    "name": "Kaushal Agarwalla",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Whole-time Director & CFO; second-generation promoter",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [],
+  "sources": [
+   "https://www.acuite.in/documents/ratings/revised/28524-RR-20251114.pdf",
+   "https://www.tofler.in/maithan-steel-and-power-limited/company/U27102WB2001PLC093321"
+  ]
+ },
+ {
+  "index": 5,
+  "display_name": "Agarwal family (Sai Group / Super Smelters): Sitaram Agarwal",
+  "founder": {
+   "name": "Sitaram Agarwal",
+   "year_founded": 1995,
+   "native_place": null
+  },
+  "head": {
+   "name": "Sitaram Agarwal",
+   "role": "Promoter of the Sai Group; manages operations with his sons"
+  },
+  "next_gen": [
+   {
+    "name": "Dilipp Agarwal",
+    "relation": "son of Sitaram Agarwal",
+    "runs": "Managing Director, Super Smelters (flagship); Chairman, Supershakti Metaliks board meetings",
+    "since": "not stated (MD per 2024 press release)"
+   },
+   {
+    "name": "Deepak Kumar Agarwal",
+    "relation": "son of Sitaram Agarwal",
+    "runs": "Chairman (non-executive), Supershakti Metaliks; group director",
+    "since": "Mar 2013 (Supershakti board)"
+   }
+  ],
+  "background": "Sitaram Agarwal, with over three decades in iron and steel, promoted the Sai Group; its flagship Super Smelters was incorporated in Kolkata in June 1995. Super Smelters built an integrated complex at Jamuria (pellets, sponge iron, billets and slabs, ferro alloys, HR coil, pipes, TMT and captive power). Supershakti Metaliks (Durgapur billets and TMT, listed on BSE) and Sai Electrocasting were demerged from it in 2016, and Giridhan Metal is the new integrated-capacity vehicle. The group is run by Sitaram Agarwal and sons Deepak and Dilipp; in 2024 it signed a green-power deal with Tata Power Renewables and in February 2026 announced a Rs 10,000 crore plant plan in Vidarbha, Maharashtra.",
+  "milestones": [
+   {
+    "year": 1995,
+    "event": "Super Smelters incorporated (20 June 1995)"
+   },
+   {
+    "year": 2012,
+    "event": "Supershakti Metaliks incorporated (Dec 2012)"
+   },
+   {
+    "year": 2016,
+    "event": "Supershakti and Sai Electrocasting demerged from Super Smelters"
+   },
+   {
+    "year": 2024,
+    "event": "Green power agreement with Tata Power Renewables"
+   },
+   {
+    "year": 2026,
+    "event": "Rs 10,000 crore steel plant proposed in Vidarbha (reported)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Sitaram Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter of Sai Group",
+    "certainty": "verified"
+   },
+   {
+    "name": "Deepak Kumar Agarwal",
+    "generation": 2,
+    "parent": "Sitaram Agarwal",
+    "spouse": null,
+    "role": "Director; b. 1973; B.Com; brother of Dilipp",
+    "certainty": "verified"
+   },
+   {
+    "name": "Dilipp Agarwal",
+    "generation": 2,
+    "parent": "Sitaram Agarwal",
+    "spouse": null,
+    "role": "Managing Director, Super Smelters",
+    "certainty": "verified"
+   },
+   {
+    "name": "Sabita Agarwal",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "12.8% holder of Supershakti (not classed as promoter; relationship not stated) [generation inferred]",
+    "certainty": "verified"
+   },
+   {
+    "name": "Priti Agarwal",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "11.7% holder of Supershakti (relationship not stated) [generation inferred]",
+    "certainty": "verified"
+   },
+   {
+    "name": "Vibha Agarwal",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "11.5% holder of Supershakti (relationship not stated) [generation inferred]",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [],
+  "sources": [
+   "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/SuperSmeltersLimited_July%2001,%202022_RR_297564.html",
+   "https://www.careratings.com/upload/CompanyFiles/PR/202507140720_Supershakti_Metaliks_Limited.pdf",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0a0fb958-58b2-418d-9f15-5ce682589df8.pdf",
+   "https://www.thehitavada.com/Encyc/2026/2/4/super-smelters-to-invest-rs-10000-cr-for-setting-up-steel-plant-in-vidarbha.html",
+   "https://www.prnewswire.com/in/news-releases/super-smelters-ltd-and-tata-power-renewables-partner-to-pioneer-100-green-power-for-steel-production-in-eastern-india-302160512.html"
+  ]
+ },
+ {
+  "index": 6,
+  "display_name": "Agarwal family (Shakambhari Group): Deepak Agarwal",
+  "founder": {
+   "name": "Deepak Agarwal",
+   "year_founded": 2010,
+   "native_place": null
+  },
+  "head": {
+   "name": "Deepak Agarwal",
+   "role": "Chairman & Managing Director, Shakambhari Group"
+  },
+  "next_gen": [],
+  "background": "The Kolkata-based Shakambhari Group, led by Deepak Agarwal (over three decades in the trade), grew almost entirely by buying and reviving shut or insolvent steel plants. It took over the closed Maa Chhinnamastika Steel & Power plant in Purulia in December 2010, Bravo Sponge Iron from the Bhalotia group in 2015, Eloquent Steel in fiscal 2018 and SPS Steels Rolling Mills (Elegant brand) through insolvency for about Rs 270 crore. In February 2023 it acquired Ess Dee Aluminium from the insolvency tribunal (later renamed Shakambhari Ispat and Power), adding aluminium foil, and it has since taken on Gontermann Peipers. Today it runs a pellet-to-rolled-products chain with ferro alloys and captive power; the next generation is not identified in sources read.",
+  "milestones": [
+   {
+    "year": 2010,
+    "event": "Takes over shut Maa Chhinnamastika plant, Purulia (Dec)"
+   },
+   {
+    "year": 2015,
+    "event": "Acquires Bravo Sponge Iron from the Bhalotia group"
+   },
+   {
+    "year": 2018,
+    "event": "Acquires Eloquent Steel (fiscal 2018)"
+   },
+   {
+    "year": 2020,
+    "event": "Acquires SPS Steels Rolling Mills through insolvency (fiscal 2020)"
+   },
+   {
+    "year": 2023,
+    "event": "Acquires Ess Dee Aluminium through insolvency (Feb)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Deepak Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Chairman & Managing Director",
+    "certainty": "verified"
+   },
+   {
+    "name": "Swati Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Director; co-acquirer of Eloquent Steel with Deepak Agarwal (relationship not stated)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Ramabatar Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Director (relationship not stated) [generation inferred]",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [],
+  "sources": [
+   "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ShakambhariIspatandPowerLimited_January%2005,%202022_RR_283544.html",
+   "https://www.acuite.in/documents/ratings/revised/28005-RR-20250327.pdf",
+   "https://theprint.in/economy/shakambhari-group-seeks-to-revive-gontermann-peipers-as-going-concern-after-acquisition/1201127",
+   "https://www.acuite.in/documents/ratings/revised/28085-RR-20250904.pdf"
+  ]
+ },
+ {
+  "index": 7,
+  "display_name": "Agarwal family (Gagan Group): Vinay Kumar Agarwal",
+  "founder": {
+   "name": "Vinay Kumar Agarwal (co-promoted with friend Deepak Agarwal, who later exited)",
+   "year_founded": 1993,
+   "native_place": null
+  },
+  "head": {
+   "name": "Vinay Kumar Agarwal",
+   "role": "Managing Director, Gagan Ferrotech; director across group entities"
+  },
+  "next_gen": [],
+  "background": "Gagan Ferrotech was incorporated in Kolkata in March 1993 but stayed dormant for over a decade, starting operations in 2006 with a 66,000 tpa sponge iron plant in Burdwan. It was co-promoted by two friends, Deepak Agarwal and Vinay Kumar Agarwal; under a mutual arrangement Deepak's entire stake moved to Vinay Kumar and family. The group took management control of Gajanan Iron (angles and billets) from its founders in October 2017, commissioned a rolling mill in July 2019, and set up Spintech Tubes at Jamuria (pellet plant and rolling mill from January 2024). Vinay Kumar Agarwal, with over two decades in iron and steel trading and manufacturing, runs the group with family directors.",
+  "milestones": [
+   {
+    "year": 1993,
+    "event": "Gagan Ferrotech incorporated (24 Mar 1993)"
+   },
+   {
+    "year": 2006,
+    "event": "66,000 tpa sponge iron plant, Burdwan"
+   },
+   {
+    "year": 2017,
+    "event": "Takes control of Gajanan Iron (Oct); Spintech Tubes incorporated (Feb)"
+   },
+   {
+    "year": 2019,
+    "event": "Rolling mill commissioned (July)"
+   },
+   {
+    "year": 2024,
+    "event": "Spintech pellet plant and rolling mill start (Jan)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Vinay Kumar Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter; Managing Director",
+    "certainty": "verified"
+   },
+   {
+    "name": "Suman Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Director, Gagan Ferrotech (relationship not stated) [generation inferred]",
+    "certainty": "verified"
+   },
+   {
+    "name": "Umang Agarwal",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Director, Shakambhari Overseas Trades (relationship not stated) [generation inferred]",
+    "certainty": "verified"
+   },
+   {
+    "name": "Sandeep Agarwal",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Director (relationship not stated) [generation inferred]",
+    "certainty": "verified"
+   },
+   {
+    "name": "Deepak Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Co-promoter (friend), exited before 2019; not family",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [],
+  "sources": [
+   "https://www.acuite.in/documents/ratings/revised/26914-RR-20250530.pdf",
+   "https://www.careratings.com/upload/CompanyFiles/PR/Gajanan%20Iron%20Private%20limited-12-25-2019.pdf",
+   "https://www.tofler.in/gagan-ferrotech-limited/company/U51109WB1993PLC058238/directors"
+  ]
+ },
+ {
+  "index": 8,
+  "display_name": "Agarwal family (Sree Metaliks): Mahesh Kumar Agarwal",
+  "founder": {
+   "name": "Mahesh Kumar Agarwal",
+   "year_founded": 1995,
+   "native_place": null
+  },
+  "head": {
+   "name": "Mahesh Kumar Agarwal",
+   "role": "Chairman, Sree Metaliks; Chairman & MD, S.A.L. Steel (b. 1965; science graduate)"
+  },
+  "next_gen": [
+   {
+    "name": "Kaustubh Agarwal",
+    "relation": "son of Mahesh Kumar Agarwal",
+    "runs": "Managing Director, S.A.L. Steel; director, Sree Metaliks (mining engineer)",
+    "since": "Sree Metaliks board Aug 2018; SAL MD Dec 2025"
+   }
+  ],
+  "background": "Mahesh Kumar Agarwal, with over 40 years in mining and steel, incorporated Sree Metaliks in 1995 and built it around a captive iron ore mine at Khandbandh near Barbil, Odisha. Under an MoU with the Odisha government it set up a 0.25 Mtpa integrated complex at Barbil, and now runs plants at Rugudi, Anra and Angul making pellets, sponge and pig iron, billets, TMT and captive power. In September 2025 it bought control of listed S.A.L. Steel in Gujarat to reach western markets. Mahesh runs the business with his wife Nalini and son Kaustubh; daughters Pearl and Tulina are disclosed family members.",
+  "milestones": [
+   {
+    "year": 1995,
+    "event": "Sree Metaliks incorporated"
+   },
+   {
+    "year": 2018,
+    "event": "Kaustubh Agarwal joins the board"
+   },
+   {
+    "year": 2025,
+    "event": "Acquires control of S.A.L. Steel, Gujarat (Sept)"
+   },
+   {
+    "year": 2025,
+    "event": "Mahesh and Kaustubh appointed to SAL board (23 Dec)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Mahesh Kumar Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Nalini Agarwal",
+    "role": "Founder; Chairman",
+    "certainty": "verified"
+   },
+   {
+    "name": "Nalini Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Mahesh Kumar Agarwal",
+    "role": "Director, Sree Metaliks; close family member of KMP",
+    "certainty": "verified"
+   },
+   {
+    "name": "Kaustubh Agarwal",
+    "generation": 2,
+    "parent": "Mahesh Kumar Agarwal",
+    "spouse": null,
+    "role": "Managing Director, S.A.L. Steel",
+    "certainty": "verified"
+   },
+   {
+    "name": "Pearl Agarwal",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Close family member of KMP (likely daughter; earlier library data)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Tulina Agarwal",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Close family member of KMP (likely daughter; a 'Tuhina Agarwal' is named as a Sree Metaliks director by Acuite, possibly the same person)",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/10ecedbf-3f2d-402a-a158-2627828592c4.pdf",
+   "https://www.acuite.in/documents/ratings/revised/29905-RR-20250701.pdf",
+   "https://sreemetaliks.com/our-history.php"
+  ]
+ },
+ {
+  "index": 9,
+  "display_name": "Agarwala brothers of Rupa (Neo Metaliks): Prahlad Rai, Ghanshyam Prasad and Kunj Bihari Agarwal(a)",
+  "founder": {
+   "name": "Prahlad Rai Agarwala, with younger brothers Ghanshyam Prasad Agarwala and Kunj Bihari Agarwal",
+   "year_founded": 1968,
+   "native_place": null
+  },
+  "head": {
+   "name": "Prahlad Rai Agarwala",
+   "role": "Chairman, Rupa & Company (b. 1945); eldest of the three founder brothers"
+  },
+  "next_gen": [
+   {
+    "name": "Ravi Agarwal",
+    "relation": "son of Kunj Bihari Agarwal",
+    "runs": "Director; runs Neo Metaliks day to day",
+    "since": "not stated"
+   },
+   {
+    "name": "Ramesh Agarwal",
+    "relation": "son of Prahlad Rai Agarwala",
+    "runs": "Whole-time Director, Rupa; supports Neo Metaliks",
+    "since": "not stated"
+   },
+   {
+    "name": "Manish Agarwal",
+    "relation": "son of Ghanshyam Prasad Agarwala",
+    "runs": "Supports Neo Metaliks management",
+    "since": "not stated"
+   },
+   {
+    "name": "Mukesh Agarwal",
+    "relation": "son of Ghanshyam Prasad Agarwala",
+    "runs": "Whole-time Director, Rupa",
+    "since": "not stated"
+   },
+   {
+    "name": "Vikash Agarwal",
+    "relation": "son of Kunj Bihari Agarwal",
+    "runs": "Rupa (director-level role per AGM notice)",
+    "since": "not stated"
+   }
+  ],
+  "background": "Prahlad Rai Agarwala learnt the trade at his father's hosiery shop in Kolkata's Burrabazar and started Binod Hosiery in 1968 with younger brothers Ghanshyam Prasad and Kunj Bihari; it became Rupa & Co. Pvt Ltd in 1985 and a public company in 1995, now one of India's largest innerwear makers. The family entered metals in 2003 through Neo Metaliks, a Durgapur pig-iron joint venture with the Madhogaria family, who exited in fiscal 2005. Neo Metaliks makes merchant pig iron with sinter and waste-heat power, and commissioned a new 422,000 tpa blast furnace in July 2025. Each brother's line has sons in the business: Kunj Bihari's son Ravi runs Neo Metaliks, supported by Prahlad Rai's son Ramesh and Ghanshyam Prasad's son Manish.",
+  "milestones": [
+   {
+    "year": 1968,
+    "event": "Binod Hosiery started by P.R. Agarwala and brothers"
+   },
+   {
+    "year": 1985,
+    "event": "Incorporated as Rupa & Co. Pvt Ltd"
+   },
+   {
+    "year": 1995,
+    "event": "Rupa becomes a public company"
+   },
+   {
+    "year": 2003,
+    "event": "Neo Metaliks set up as JV with the Madhogaria family"
+   },
+   {
+    "year": 2005,
+    "event": "Madhogarias exit; Agarwal family takes full control (fiscal 2005)"
+   },
+   {
+    "year": 2025,
+    "event": "New 422,000 tpa blast furnace commissioned (July)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Prahlad Rai Agarwala",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Shanti Devi Agarwal",
+    "role": "Founder; Chairman, Rupa",
+    "certainty": "verified"
+   },
+   {
+    "name": "Shanti Devi Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Prahlad Rai Agarwala",
+    "role": "Wife of Prahlad Rai Agarwala",
+    "certainty": "verified"
+   },
+   {
+    "name": "Ghanshyam Prasad Agarwala",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Pushpa Devi Agarwal",
+    "role": "Co-founder; Vice-Chairman, Rupa; brother of Prahlad Rai",
+    "certainty": "verified"
+   },
+   {
+    "name": "Pushpa Devi Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Ghanshyam Prasad Agarwala",
+    "role": "Wife of Ghanshyam Prasad Agarwala",
+    "certainty": "verified"
+   },
+   {
+    "name": "Kunj Bihari Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Lalita Devi Agarwal",
+    "role": "Co-founder; Managing Director, Rupa; brother of Prahlad Rai",
+    "certainty": "verified"
+   },
+   {
+    "name": "Lalita Devi Agarwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": "Kunj Bihari Agarwal",
+    "role": "Wife of Kunj Bihari Agarwal",
+    "certainty": "verified"
+   },
+   {
+    "name": "Ramesh Agarwal",
+    "generation": 2,
+    "parent": "Prahlad Rai Agarwala",
+    "spouse": "Seema Agarwal",
+    "role": "Whole-time Director, Rupa; supports Neo Metaliks",
+    "certainty": "verified"
+   },
+   {
+    "name": "Suresh Agarwal",
+    "generation": 2,
+    "parent": "Prahlad Rai Agarwala",
+    "spouse": "Sudha Agarwal",
+    "role": "Relative of KMP",
+    "certainty": "verified"
+   },
+   {
+    "name": "Rekha Patodia",
+    "generation": 2,
+    "parent": "Prahlad Rai Agarwala",
+    "spouse": null,
+    "role": "Daughter (married out)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Mukesh Agarwal",
+    "generation": 2,
+    "parent": "Ghanshyam Prasad Agarwala",
+    "spouse": "Seema Agarwal",
+    "role": "Whole-time Director, Rupa",
+    "certainty": "verified"
+   },
+   {
+    "name": "Manish Agarwal",
+    "generation": 2,
+    "parent": "Ghanshyam Prasad Agarwala",
+    "spouse": null,
+    "role": "Supports Neo Metaliks management",
+    "certainty": "verified"
+   },
+   {
+    "name": "Rajnish Agarwal",
+    "generation": 2,
+    "parent": "Ghanshyam Prasad Agarwala",
+    "spouse": null,
+    "role": "Relative of KMP",
+    "certainty": "verified"
+   },
+   {
+    "name": "Sarita Patwari",
+    "generation": 2,
+    "parent": "Ghanshyam Prasad Agarwala",
+    "spouse": null,
+    "role": "Daughter (married out)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Ravi Agarwal",
+    "generation": 2,
+    "parent": "Kunj Bihari Agarwal",
+    "spouse": null,
+    "role": "Director; runs Neo Metaliks",
+    "certainty": "verified"
+   },
+   {
+    "name": "Vikash Agarwal",
+    "generation": 2,
+    "parent": "Kunj Bihari Agarwal",
+    "spouse": "Shalini Agarwal",
+    "role": "Rupa director-level role",
+    "certainty": "verified"
+   },
+   {
+    "name": "Siddhant Agarwal",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Grandson of Prahlad Rai Agarwala (parent not stated)",
+    "certainty": "verified"
+   },
+   {
+    "name": "Aparesh Agarwal",
+    "generation": 3,
+    "parent": "Ramesh Agarwal",
+    "spouse": null,
+    "role": "Relative of KMP",
+    "certainty": "verified"
+   },
+   {
+    "name": "Vaaridhi Agarwal",
+    "generation": 3,
+    "parent": "Ramesh Agarwal",
+    "spouse": null,
+    "role": "Daughter of Ramesh",
+    "certainty": "verified"
+   },
+   {
+    "name": "Srishti Agarwal",
+    "generation": 3,
+    "parent": "Suresh Agarwal",
+    "spouse": null,
+    "role": "Daughter of Suresh",
+    "certainty": "verified"
+   },
+   {
+    "name": "Keshav Agarwal",
+    "generation": 3,
+    "parent": "Mukesh Agarwal",
+    "spouse": null,
+    "role": "Son of Mukesh",
+    "certainty": "verified"
+   },
+   {
+    "name": "Devanshi Agarwal",
+    "generation": 3,
+    "parent": "Mukesh Agarwal",
+    "spouse": null,
+    "role": "Daughter of Mukesh",
+    "certainty": "verified"
+   },
+   {
+    "name": "Avnish Agarwal",
+    "generation": 3,
+    "parent": "Ravi Agarwal",
+    "spouse": null,
+    "role": "Son of Ravi",
+    "certainty": "verified"
+   },
+   {
+    "name": "Anusha Agarwal",
+    "generation": 3,
+    "parent": "Ravi Agarwal",
+    "spouse": null,
+    "role": "Daughter of Ravi",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Rekha Patodia",
+    "detail": "Daughter of Prahlad Rai Agarwala; married surname Patodia",
+    "possibly_linked_family": "married surname Patodia; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/bseplus/AnnualReport/533552/73886533552.pdf"
+   },
+   {
+    "person": "Sarita Patwari",
+    "detail": "Daughter of Ghanshyam Prasad Agarwala; married surname Patwari. No source ties her to the Rashmi Group Patwaris",
+    "possibly_linked_family": "married surname Patwari; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/bseplus/AnnualReport/533552/73886533552.pdf"
+   },
+   {
+    "person": "Seema (two), Sudha, Shalini Agarwal",
+    "detail": "Wives of Ramesh, Mukesh, Suresh and Vikash; maiden names not disclosed",
+    "possibly_linked_family": "family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/bseplus/AnnualReport/533552/73886533552.pdf"
+   }
+  ],
+  "sources": [
+   "https://www.careratings.com/upload/CompanyFiles/PR/202512141237_Neo_Metaliks_Limited.pdf",
+   "https://www.bseindia.com/bseplus/AnnualReport/533552/73886533552.pdf",
+   "https://theprint.in/feature/brandma/how-marketing-comfort-for-the-common-man-made-rupa-standout-in-indias-innerwear-market/1247835"
+  ]
+ },
+ {
+  "index": 10,
+  "display_name": "Patwari family (Rashmi Group): Sajjan Kumar Patwari",
+  "founder": {
+   "name": "Sajjan Kumar Patwari",
+   "year_founded": 1966,
+   "native_place": null
+  },
+  "head": {
+   "name": "Sajjan Kumar Patwari",
+   "role": "Group Chairman"
+  },
+  "next_gen": [
+   {
+    "name": "Sunil Kumar Patwari",
+    "relation": "son of Sajjan Kumar Patwari (reported)",
+    "runs": "Leads group expansion, exports and pan-India growth; associated with Rashmi Rare Earth",
+    "since": "joined young after B.Com (date not stated)"
+   },
+   {
+    "name": "Sanjib Kumar Patwari",
+    "relation": "son of Sajjan Kumar Patwari (reported)",
+    "runs": "Director, group companies (role not specified)",
+    "since": "not stated"
+   },
+   {
+    "name": "Sanjay Kumar Patwari",
+    "relation": "son of Sajjan Kumar Patwari (reported)",
+    "runs": "Director, group companies (role not specified)",
+    "since": "not stated"
+   }
+  ],
+  "background": "Sajjan Kumar Patwari is credited with founding the Rashmi Group in 1966; the promoters have been in steel for over four decades. The group's early companies include Rashmi Cement (1991) and Rashmi Ispat (1992), followed by Rashmi Metaliks in 2004, which became India's largest ductile-iron pipe maker. Orissa Metaliks (incorporated 2006) took over steel assets from fiscal 2016 and a 2017 demerger, and is now the parent of a Kharagpur-Jhargram complex running from pellets and coke to sponge and pig iron, billets, TMT, DI and seamless pipes and slag cement. The family also runs iron-ore logistics (Kalinga Metalics) and electronics (Rashmi Rare Earth); revenue was about Rs 28,550 crore in FY24.",
+  "milestones": [
+   {
+    "year": 1966,
+    "event": "Rashmi Group founded (reported)"
+   },
+   {
+    "year": 1991,
+    "event": "Rashmi Cement, first group company"
+   },
+   {
+    "year": 2004,
+    "event": "Rashmi Metaliks incorporated"
+   },
+   {
+    "year": 2016,
+    "event": "Orissa Metaliks starts operations with assets from Rashmi Metaliks"
+   },
+   {
+    "year": 2017,
+    "event": "Demerger moves more steel assets to Orissa Metaliks"
+   },
+   {
+    "year": 2025,
+    "event": "Seamless pipe capacity starts; new DI pipe line from April 2025"
+   }
+  ],
+  "people": [
+   {
+    "name": "Sajjan Kumar Patwari",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Founder and Chairman",
+    "certainty": "reported"
+   },
+   {
+    "name": "Sunil Kumar Patwari",
+    "generation": 2,
+    "parent": "Sajjan Kumar Patwari",
+    "spouse": null,
+    "role": "Leads expansion; B.Com",
+    "certainty": "reported"
+   },
+   {
+    "name": "Sanjib Kumar Patwari",
+    "generation": 2,
+    "parent": "Sajjan Kumar Patwari",
+    "spouse": null,
+    "role": "Director",
+    "certainty": "reported"
+   },
+   {
+    "name": "Sanjay Kumar Patwari",
+    "generation": 2,
+    "parent": "Sajjan Kumar Patwari",
+    "spouse": null,
+    "role": "Director",
+    "certainty": "reported"
+   },
+   {
+    "name": "Santosh Devi Patwari",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Director, Rashmi Ispat (relationship not stated) [generation inferred]",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Rashmi Devi Patwari",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Director, Rashmi Ispat (relationship not stated; group name may derive from her, unconfirmed) [generation inferred]",
+    "certainty": "inferred"
+   }
+  ],
+  "marriage_clues": [],
+  "sources": [
+   "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/OrissaAlloySteelPrivateLimited_April%2007_%202025_RR_366302.html",
+   "https://www.newswire.com/news/sunil-kumar-patwari-crafting-the-success-story-for-rashmi-group",
+   "https://www.tofler.in/rashmi-ispat-limited/company/U51216WB1992PLC056200",
+   "https://yourstory.com/smbstory/electronic-manufacturing-services-rashmi-rare-earth-iot"
+  ]
+ },
+ {
+  "index": 11,
+  "display_name": "Rungta family (Rungta Mines): Nandlal, Mukund and Siddharth Rungta",
+  "founder": {
+   "name": "S.R. Rungta",
+   "year_founded": 1962,
+   "native_place": null
+  },
+  "head": {
+   "name": "Nandlal Rungta",
+   "role": "Senior promoter-director, Rungta Mines (on board since the early 1980s)"
+  },
+  "next_gen": [
+   {
+    "name": "Siddharth Rungta",
+    "relation": "son of Nandlal Rungta (market view)",
+    "runs": "Director, Rungta Mines; leads the Rungta Steel brand",
+    "since": "2001"
+   }
+  ],
+  "background": "Rungta Mines was incorporated in Kolkata in December 1962 and the older family company Rungta Sons Pvt Ltd dates to 1943; the corporate office is Rungta House, Chaibasa, Jharkhand. It began as an iron and manganese ore miner and exporter in Odisha and Jharkhand and has integrated forward into pellets, sponge iron, billets, TMT, wire rod and DI pipes, with a coal-block subsidiary. Founder S.R. Rungta's sons Nandlal and Mukund Rungta are directors, and Nandlal's son Siddharth leads the steel side. A 2025 wealth ranking lists 'Siddharth Rungta and family' at about Rs 35,757 crore, which would make it one of the largest unlisted Kolkata metal families.",
+  "milestones": [
+   {
+    "year": 1943,
+    "event": "Rungta Sons Pvt Ltd incorporated"
+   },
+   {
+    "year": 1962,
+    "event": "Rungta Mines incorporated (1 Dec 1962)"
+   },
+   {
+    "year": 1985,
+    "event": "Nandlal Rungta on the board (1983-85 per registry records)"
+   },
+   {
+    "year": 1992,
+    "event": "Mukund Rungta joins the board"
+   },
+   {
+    "year": 2001,
+    "event": "Siddharth Rungta joins the board"
+   }
+  ],
+  "people": [
+   {
+    "name": "S.R. Rungta",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Founder (1962)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Nandlal Rungta",
+    "generation": 2,
+    "parent": "S.R. Rungta",
+    "spouse": null,
+    "role": "Director / promoter",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Mukund Rungta",
+    "generation": 2,
+    "parent": "S.R. Rungta",
+    "spouse": null,
+    "role": "Director since 1992",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Siddharth Rungta",
+    "generation": 3,
+    "parent": "Nandlal Rungta",
+    "spouse": null,
+    "role": "Director since 2001; leads Rungta Steel",
+    "certainty": "inferred"
+   }
+  ],
+  "marriage_clues": [],
+  "sources": [
+   "https://www.acuite.in/documents/ratings/revised/29283-RR-20251120.pdf",
+   "https://www.tofler.in/rungta-mines-limited/company/U26911WB1962PLC025691",
+   "https://wealthcreatorslist.360.one/wealthiest-families-india/siddharth-rungta-and-family",
+   "https://www.gem.wiki/Rungta_Mines_Chaliyama_steel_plant"
+  ]
+ },
+ {
+  "index": 12,
+  "display_name": "Beriwala family (Shyam Steel): Shriram and Shyam Sunder Beriwala lines",
+  "founder": {
+   "name": "Shriram Beriwala (joined by younger brother Shyam Sunder Beriwala)",
+   "year_founded": 1953,
+   "native_place": null
+  },
+  "head": {
+   "name": "Not clearly sourced; second generation (Purushottam, Lalit and brothers) are promoter directors",
+   "role": "Two branches hold about 58:42"
+  },
+  "next_gen": [
+   {
+    "name": "Raghav Beriwala",
+    "relation": "third generation; cousin of Keshav and Sarvesh (parent not stated)",
+    "runs": "Director, Shyam Steel Industries",
+    "since": "not stated"
+   },
+   {
+    "name": "Keshav Beriwala",
+    "relation": "third generation (parent not stated)",
+    "runs": "Group leadership",
+    "since": "not stated"
+   },
+   {
+    "name": "Sarvesh Beriwala",
+    "relation": "third generation (parent not stated)",
+    "runs": "Group leadership",
+    "since": "not stated"
+   }
+  ],
+  "background": "Shriram Beriwala set up a small steel factory in Howrah in 1953 and was joined by his younger brother Shyam Sunder Beriwala. The second generation (Purushottam and Govind, sons of Shriram; Lalit, Brijesh, Ravi and Manish, sons of Shyam Sunder) built integrated capacity, with Shyam Steel Industries starting commercial operations in October 2003 at Durgapur. The group now runs four plants in West Bengal (Mejia, Angadpur, Bamunara, Raghunathpur) making sponge iron, billets, ferro alloys and Shyam Steel TMT, and has filed a draft prospectus for listing. Three third-generation cousins, Raghav, Keshav and Sarvesh, are reported to lead the current expansion.",
+  "milestones": [
+   {
+    "year": 1953,
+    "event": "Small steel factory set up in Howrah"
+   },
+   {
+    "year": 1960,
+    "event": "Shyam Sunder Beriwala joins (reported)"
+   },
+   {
+    "year": 2003,
+    "event": "Shyam Steel Industries begins commercial operation (Oct)"
+   },
+   {
+    "year": 2024,
+    "event": "Draft prospectus filed for IPO (approx.)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Shriram Beriwala",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Founder (1953); late",
+    "certainty": "reported"
+   },
+   {
+    "name": "Shyam Sunder Beriwala",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Co-founder; younger brother of Shriram",
+    "certainty": "reported"
+   },
+   {
+    "name": "Purushottam Beriwala",
+    "generation": 2,
+    "parent": "Shriram Beriwala",
+    "spouse": null,
+    "role": "Promoter director",
+    "certainty": "reported"
+   },
+   {
+    "name": "Govind Beriwal",
+    "generation": 2,
+    "parent": "Shriram Beriwala",
+    "spouse": null,
+    "role": "Promoter",
+    "certainty": "reported"
+   },
+   {
+    "name": "Lalit Beriwala",
+    "generation": 2,
+    "parent": "Shyam Sunder Beriwala",
+    "spouse": null,
+    "role": "Promoter director",
+    "certainty": "reported"
+   },
+   {
+    "name": "Brijesh Beriwala",
+    "generation": 2,
+    "parent": "Shyam Sunder Beriwala",
+    "spouse": null,
+    "role": "Director",
+    "certainty": "reported"
+   },
+   {
+    "name": "Ravi Beriwala",
+    "generation": 2,
+    "parent": "Shyam Sunder Beriwala",
+    "spouse": null,
+    "role": "Director",
+    "certainty": "reported"
+   },
+   {
+    "name": "Manish Beriwala",
+    "generation": 2,
+    "parent": "Shyam Sunder Beriwala",
+    "spouse": null,
+    "role": "Director",
+    "certainty": "reported"
+   },
+   {
+    "name": "Raghav Beriwala",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Director; third generation",
+    "certainty": "reported"
+   },
+   {
+    "name": "Keshav Beriwala",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Third generation",
+    "certainty": "reported"
+   },
+   {
+    "name": "Sarvesh Beriwala",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Third generation",
+    "certainty": "reported"
+   }
+  ],
+  "marriage_clues": [],
+  "sources": [
+   "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ShyamSteelIndustriesLimited_February%2018_%202025_RR_360455.html",
+   "https://www.careratings.com/upload/CompanyFiles/PR/Shyam%20Steel%20Industries%20Limited-10-30-2020.pdf",
+   "https://shyamsteel.com/about-us/",
+   "https://businessindia.co/magazine/corporate-report/shyam-steels-third-generation-leadership-drives-aggressive-expansion-and-diversification",
+   "https://www.axiscapital.co.in/public/contents/Shyam-Steel-Industries-Limited-DRHP-1.pdf"
+  ]
+ },
+ {
+  "index": 13,
+  "display_name": "Beriwala family (SRMB): Brij Mohan Beriwala",
+  "founder": {
+   "name": "Radha Kishan Beriwala (late)",
+   "year_founded": 1951,
+   "native_place": null
+  },
+  "head": {
+   "name": "Brij Mohan Beriwala",
+   "role": "Chairman & Managing Director, SRMB Srijan"
+  },
+  "next_gen": [
+   {
+    "name": "Nikunj Beriwala",
+    "relation": "son of Brij Mohan Beriwala (reported)",
+    "runs": "Director, SRMB Srijan",
+    "since": "not stated"
+   },
+   {
+    "name": "Ashish Beriwala",
+    "relation": "son of Brij Mohan Beriwala (reported)",
+    "runs": "Director, SRMB Srijan",
+    "since": "not stated"
+   }
+  ],
+  "background": "The group was promoted by the late Radha Kishan Beriwala; the company says it has been in steel since 1951 under the name The Steel Rolling Mills of Bengal. His son Brij Mohan Beriwala built the modern business, with the promoters spending over two decades in iron ore and coal trading before moving into steel making. In 2000 it installed what it calls the first private-sector TMT plant in India with HSE of Germany, and today SRMB Srijan runs an integrated billet and TMT plant at Durgapur under the SRMB brand. It bought Bhaskar Steel & Ferro Alloys in Rourkela in 2010 for backward integration but sold it in September 2021 to focus on branded TMT. No link to the Shyam Steel Beriwalas is shown in the sources read.",
+  "milestones": [
+   {
+    "year": 1951,
+    "event": "Steel Rolling Mills of Bengal (company's stated start)"
+   },
+   {
+    "year": 2000,
+    "event": "TMT plant with HSE, Germany"
+   },
+   {
+    "year": 2009,
+    "event": "Launches SRMB 500+ SR earthquake-resistant TMT"
+   },
+   {
+    "year": 2010,
+    "event": "Acquires Bhaskar Steel & Ferro Alloys, Rourkela (Oct)"
+   },
+   {
+    "year": 2021,
+    "event": "Sells Bhaskar Steel to the Sethia and Agarwal families of Odisha (Sept)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Radha Kishan Beriwala",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Founder (late)",
+    "certainty": "reported"
+   },
+   {
+    "name": "Brij Mohan Beriwala",
+    "generation": 2,
+    "parent": "Radha Kishan Beriwala",
+    "spouse": null,
+    "role": "Chairman & MD",
+    "certainty": "reported"
+   },
+   {
+    "name": "Nikunj Beriwala",
+    "generation": 3,
+    "parent": "Brij Mohan Beriwala",
+    "spouse": null,
+    "role": "Director",
+    "certainty": "reported"
+   },
+   {
+    "name": "Ashish Beriwala",
+    "generation": 3,
+    "parent": "Brij Mohan Beriwala",
+    "spouse": null,
+    "role": "Director",
+    "certainty": "reported"
+   }
+  ],
+  "marriage_clues": [],
+  "sources": [
+   "https://www.acuite.in/documents/ratings/revised/29430-RR-20231227.pdf",
+   "https://www.acuite.in/documents/ratings/revised/28662-RR-20240624.pdf",
+   "https://www.srmbsteel.com/node/70",
+   "https://en.wikipedia.org/wiki/SRMB_Steel"
+  ]
+ },
+ {
+  "index": 14,
+  "display_name": "Kejriwal family (Electrosteel): Umang and Mayank Kejriwal",
+  "founder": {
+   "name": "Ghanshyam Kejriwal (late; 'Bada Saab')",
+   "year_founded": 1955,
+   "native_place": null
+  },
+  "head": {
+   "name": "Umang Kejriwal",
+   "role": "Managing Director, Electrosteel Castings (with brother Mayank as Joint MD)"
+  },
+  "next_gen": [
+   {
+    "name": "Uddhav Kejriwal",
+    "relation": "son of Mayank Kejriwal",
+    "runs": "Whole-time Director, Electrosteel Castings",
+    "since": "not stated"
+   },
+   {
+    "name": "Priya Manjari Todi",
+    "relation": "daughter of Mayank Kejriwal",
+    "runs": "Whole-time Director (manufacturing, purchase, marketing, export); was director of Srikalahasthi Pipes from Jan 2018",
+    "since": "Board Feb 2022"
+   },
+   {
+    "name": "Radha Kejriwal Agarwal",
+    "relation": "daughter of Umang Kejriwal",
+    "runs": "Whole-time Director; earlier OSD at Electrosteel Steels (from 2011) and OSD Strategy for Khardah and Bansberia units (from Oct 2018)",
+    "since": "Board Feb 2022"
+   },
+   {
+    "name": "Nityangi Kejriwal Jaiswal",
+    "relation": "daughter of Umang Kejriwal",
+    "runs": "Whole-time Director",
+    "since": "not stated"
+   },
+   {
+    "name": "Madhav Kejriwal",
+    "relation": "son of Umang Kejriwal",
+    "runs": "Whole-time Director",
+    "since": "not stated"
+   }
+  ],
+  "background": "Electrosteel Castings was incorporated in 1955, with its registered office at Rajgangpur, Odisha; the company names the late Ghanshyam Kejriwal as its founder. It grew into one of India's largest ductile-iron pipe makers, with plants at Khardah, Haldia and Bansberia in West Bengal and Srikalahasthi in Andhra Pradesh (Srikalahasthi Pipes was later merged in). The family promoted Electrosteel Steels, an integrated plant at Bokaro, but lost it to Vedanta under insolvency in 2018, after a 2014 coal-block case. Brothers Umang (MD) and Mayank (Joint MD, on the board since 1977) run it with five of their children as whole-time directors, and in 2025 it bought Italy's T.I.S. Services group.",
+  "milestones": [
+   {
+    "year": 1955,
+    "event": "Electrosteel Castings incorporated"
+   },
+   {
+    "year": 1977,
+    "event": "Mayank Kejriwal joins the board"
+   },
+   {
+    "year": 2014,
+    "event": "CBI coal-block case names ECL and ESL"
+   },
+   {
+    "year": 2018,
+    "event": "Electrosteel Steels sold to Vedanta under insolvency (June)"
+   },
+   {
+    "year": 2022,
+    "event": "Priya Manjari Todi and Radha Kejriwal Agarwal join the board (Feb)"
+   },
+   {
+    "year": 2025,
+    "event": "T.I.S. Services S.p.A. (Italy) becomes a subsidiary (July)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Ghanshyam Kejriwal",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Founder (late), per company profile; parent link to Umang and Mayank not stated (G.K. & Sons Pvt Ltd suggests it)",
+    "certainty": "reported"
+   },
+   {
+    "name": "Umang Kejriwal",
+    "generation": 2,
+    "parent": "Ghanshyam Kejriwal",
+    "spouse": "Asha Kejriwal",
+    "role": "Managing Director (parent link inferred)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Asha Kejriwal",
+    "generation": 2,
+    "parent": null,
+    "spouse": "Umang Kejriwal",
+    "role": "Wife of Umang Kejriwal; beneficial owner in corporate promoters",
+    "certainty": "verified"
+   },
+   {
+    "name": "Mayank Kejriwal",
+    "generation": 2,
+    "parent": "Ghanshyam Kejriwal",
+    "spouse": null,
+    "role": "Joint Managing Director; brother of Umang (parent link inferred)",
+    "certainty": "inferred"
+   },
+   {
+    "name": "Radha Kejriwal Agarwal",
+    "generation": 3,
+    "parent": "Umang Kejriwal",
+    "spouse": null,
+    "role": "Whole-time Director; b. 1989; psychology graduate, Cardiff; PG HRM, King's College London",
+    "certainty": "verified"
+   },
+   {
+    "name": "Nityangi Kejriwal Jaiswal",
+    "generation": 3,
+    "parent": "Umang Kejriwal",
+    "spouse": null,
+    "role": "Whole-time Director",
+    "certainty": "verified"
+   },
+   {
+    "name": "Madhav Kejriwal",
+    "generation": 3,
+    "parent": "Umang Kejriwal",
+    "spouse": null,
+    "role": "Whole-time Director",
+    "certainty": "verified"
+   },
+   {
+    "name": "Priya Sakhi Kejriwal Mehta",
+    "generation": 3,
+    "parent": "Umang Kejriwal",
+    "spouse": null,
+    "role": "Daughter; relative of KMP",
+    "certainty": "verified"
+   },
+   {
+    "name": "Uddhav Kejriwal",
+    "generation": 3,
+    "parent": "Mayank Kejriwal",
+    "spouse": null,
+    "role": "Whole-time Director",
+    "certainty": "verified"
+   },
+   {
+    "name": "Priya Manjari Todi",
+    "generation": 3,
+    "parent": "Mayank Kejriwal",
+    "spouse": null,
+    "role": "Whole-time Director; b. 1980; B.Com (Hons) Calcutta University; BSc IT Manipal",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Priya Manjari Todi",
+    "detail": "Daughter of Mayank Kejriwal; married surname Todi",
+    "possibly_linked_family": "married surname Todi; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/22e0f11b-6f4e-42f5-9121-c0db9a2924b5.pdf"
+   },
+   {
+    "person": "Radha Kejriwal Agarwal",
+    "detail": "Daughter of Umang Kejriwal; married surname Agarwal",
+    "possibly_linked_family": "married surname Agarwal; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/22e0f11b-6f4e-42f5-9121-c0db9a2924b5.pdf"
+   },
+   {
+    "person": "Nityangi Kejriwal Jaiswal",
+    "detail": "Daughter of Umang Kejriwal; married surname Jaiswal",
+    "possibly_linked_family": "married surname Jaiswal; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/22e0f11b-6f4e-42f5-9121-c0db9a2924b5.pdf"
+   },
+   {
+    "person": "Priya Sakhi Kejriwal Mehta",
+    "detail": "Daughter of Umang Kejriwal; married surname Mehta",
+    "possibly_linked_family": "married surname Mehta; family not identified",
+    "certainty": "verified",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/22e0f11b-6f4e-42f5-9121-c0db9a2924b5.pdf"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/22e0f11b-6f4e-42f5-9121-c0db9a2924b5.pdf",
+   "https://www.sebi.gov.in/sebi_data/attachdocs/feb-2025/1740050136507.pdf",
+   "https://electrosteel.com/about/corporate-profile.php",
+   "https://www.business-standard.com/article/companies/vedanta-enters-steel-with-acquisition-of-electrosteel-steels-to-hold-90-118060401085_1.html",
+   "https://www.business-standard.com/article/news-cm/electrosteel-castings-electrosteel-steels-edge-lower-114122200207_1.html"
+  ]
+ },
+ {
+  "index": 15,
+  "display_name": "Jhawar family (Usha Martin): Brij Kishore Jhawar and Rajeev Jhawar",
+  "founder": {
+   "name": "Brij Kishore Jhawar and Basant Kumar Jhawar (brothers)",
+   "year_founded": 1960,
+   "native_place": null
+  },
+  "head": {
+   "name": "Rajeev Jhawar",
+   "role": "Managing Director, Usha Martin (MD since May 1998; current term to May 2028)"
+  },
+  "next_gen": [
+   {
+    "name": "Rajeev Jhawar",
+    "relation": "son of Brij Kishore Jhawar",
+    "runs": "Managing Director, Usha Martin",
+    "since": "May 1998"
+   },
+   {
+    "name": "Shreya Jhawar",
+    "relation": "daughter of Rajeev Jhawar",
+    "runs": "Promoter group; executive; council member in company governance bodies",
+    "since": "not stated"
+   },
+   {
+    "name": "Prashant Jhawar",
+    "relation": "son of Basant Kumar Jhawar",
+    "runs": "No executive role; removed as chairman April 2017",
+    "since": ""
+   }
+  ],
+  "background": "Usha Martin was founded in 1960 with a single wire-rope plant in Ranchi by the brothers Brij Kishore and Basant Kumar Jhawar. It grew into an integrated maker of steel, wire and wire ropes, with overseas rope plants in Thailand, the UK and the UAE. After the brothers' sons fell out (Prashant, Basant's son, was removed as chairman in 2017 and Basant was voted off the board in 2019), the steel business at Jamshedpur was sold to Tata Steel in 2019 to cut debt. Today it is a focused global wire-rope company run by Brij Kishore's son Rajeev Jhawar, while the Basant/Prashant side has been selling down its stake.",
+  "milestones": [
+   {
+    "year": 1960,
+    "event": "Founded with a single plant in Ranchi"
+   },
+   {
+    "year": 1998,
+    "event": "Rajeev Jhawar becomes Managing Director (May)"
+   },
+   {
+    "year": 2017,
+    "event": "Prashant Jhawar removed as chairman (April)"
+   },
+   {
+    "year": 2019,
+    "event": "Basant Kumar Jhawar voted off the board; steel business sold to Tata Steel"
+   },
+   {
+    "year": 2020,
+    "event": "Brij Kishore Jhawar leaves the board (Sept; market view)"
+   },
+   {
+    "year": 2024,
+    "event": "Basant/Prashant side down to about 22% (reported)"
+   }
+  ],
+  "people": [
+   {
+    "name": "Brij Kishore Jhawar",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Founder; former chairman",
+    "certainty": "reported"
+   },
+   {
+    "name": "Basant Kumar Jhawar",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Co-founder; chairman emeritus; voted off board 2019",
+    "certainty": "reported"
+   },
+   {
+    "name": "Rajeev Jhawar",
+    "generation": 2,
+    "parent": "Brij Kishore Jhawar",
+    "spouse": null,
+    "role": "Managing Director",
+    "certainty": "reported"
+   },
+   {
+    "name": "Prashant Jhawar",
+    "generation": 2,
+    "parent": "Basant Kumar Jhawar",
+    "spouse": null,
+    "role": "Former chairman (removed 2017)",
+    "certainty": "reported"
+   },
+   {
+    "name": "Shreya Jhawar",
+    "generation": 3,
+    "parent": "Rajeev Jhawar",
+    "spouse": null,
+    "role": "Promoter group; executive",
+    "certainty": "reported"
+   },
+   {
+    "name": "Uma Devi Jhawar",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group (relationship not stated) [generation inferred]",
+    "certainty": "verified"
+   },
+   {
+    "name": "Shanti Devi Jhawar",
+    "generation": 1,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group (relationship not stated) [generation inferred]",
+    "certainty": "verified"
+   },
+   {
+    "name": "Susmita Jhawar",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group, 0.56% (relationship not stated) [generation inferred]",
+    "certainty": "verified"
+   },
+   {
+    "name": "Anupama Jhawar",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group; also a trustee (relationship not stated) [generation inferred]",
+    "certainty": "verified"
+   },
+   {
+    "name": "Stuti Jhawar",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group, 0.43% [generation inferred]",
+    "certainty": "verified"
+   },
+   {
+    "name": "Amisha Jhawar",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group, 0.39% [generation inferred]",
+    "certainty": "verified"
+   },
+   {
+    "name": "Apurv Jhawar",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group [generation inferred]",
+    "certainty": "verified"
+   },
+   {
+    "name": "Madhushree Goenka",
+    "generation": 2,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group, 0.02% (relationship not stated) [generation inferred]",
+    "certainty": "verified"
+   },
+   {
+    "name": "Akshay Goenka",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group, 0.01% (relationship not stated) [generation inferred]",
+    "certainty": "verified"
+   },
+   {
+    "name": "Nidhi Rajgarhia",
+    "generation": 3,
+    "parent": null,
+    "spouse": null,
+    "role": "Promoter group, 0.08% (relationship not stated) [generation inferred]",
+    "certainty": "verified"
+   }
+  ],
+  "marriage_clues": [
+   {
+    "person": "Madhushree Goenka",
+    "detail": "Woman in the Jhawar promoter group with surname Goenka; likely a married daughter, with Akshay Goenka possibly her son",
+    "possibly_linked_family": "married surname Goenka; family not identified",
+    "certainty": "inferred",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e2f24421-61a1-46a4-a48a-614d15d8ac47.pdf"
+   },
+   {
+    "person": "Nidhi Rajgarhia",
+    "detail": "Woman in the Jhawar promoter group with surname Rajgarhia; likely a married daughter",
+    "possibly_linked_family": "married surname Rajgarhia; family not identified",
+    "certainty": "inferred",
+    "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e2f24421-61a1-46a4-a48a-614d15d8ac47.pdf"
+   }
+  ],
+  "sources": [
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e2f24421-61a1-46a4-a48a-614d15d8ac47.pdf",
+   "https://www.business-standard.com/article/companies/shareholders-deal-between-families-flouted-usha-martin-s-basant-jhawar-119040101287_1.html",
+   "https://www.business-standard.com/article/companies/tension-mounts-as-usha-martin-removes-prashant-jhawar-as-chairman-117042501343_1.html",
+   "https://www.business-standard.com/article/companies/tussle-at-usha-martin-sees-basant-kumar-jhawar-s-ouster-from-board-119033100702_1.html"
+  ]
+ }
+]
