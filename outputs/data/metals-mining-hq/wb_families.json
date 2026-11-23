@@ -1,0 +1,2054 @@
+{
+ "prepared": "2026-11-23",
+ "notes": "Public sources only. 'verified' = filing or company/rating source; 'reported' = reputable press or company documents seen only via search; 'inferred' = deduction. No marriage links between these families could be sourced, so none are listed.",
+ "groups": [
+  {
+   "group": "Manaksia group (pre-2013 single group; now four listed companies)",
+   "family": "Agrawal (Manaksia) family",
+   "decision_office": "Kolkata; each listed company has its own board",
+   "control_summary": "Until 2013 one listed company, Manaksia Ltd, with large holders Basudeo Agrawal (12.55%), Suresh Kumar Agrawal, Mahabir Prasad Agrawal and Basant Kumar Agrawal (MD) [fact, FY13 annual report]. The court-approved scheme (appointed date 1 Oct 2013) moved aluminium, steel, packaging and coated-metal/mosquito-coil undertakings into separate companies. Each company now sits with one family line [fact, FY26 annual reports]: Manaksia Ltd and Manaksia Steels with the Suresh Kumar Agrawal / Basudeo Agrawal line (brothers; Suresh's son Varun); Manaksia Coated Metals with Sushil Kumar Agrawal and sons Karan and Tushar; Manaksia Aluminium with Sunil Kumar Agrawal and son Anirudha. Sushil's disclosed relatives include Mahabir Prasad Agrawal, Kanta Devi Agrawal and Sunil Kumar Agrawal, so Sushil and Sunil appear to be one sub-branch under Mahabir Prasad [interpretation]. Manaksia Industries (packaging, mosquito coil) went to Basant Kumar Agrawal [reported].",
+   "people": [
+    {
+     "name": "Basudeo Agrawal",
+     "role": "Promoter; Co-ordinator Administration, Manaksia Ltd; 3.47%",
+     "relation": "Brother of Suresh Kumar Agrawal (Manaksia Ltd FY26 AR)",
+     "generation": "1st"
+    },
+    {
+     "name": "Suresh Kumar Agrawal",
+     "role": "Managing Director, Manaksia Ltd; non-executive director, Manaksia Steels; 9.42% of Manaksia Ltd",
+     "relation": "Brother of Basudeo; father of Varun",
+     "generation": "1st"
+    },
+    {
+     "name": "Varun Agrawal",
+     "role": "Managing Director, Manaksia Steels; non-executive director, Manaksia Ltd",
+     "relation": "Son of Suresh Kumar Agrawal (Manaksia Ltd FY26 AR)",
+     "generation": "2nd"
+    },
+    {
+     "name": "Vineet Agrawal",
+     "role": "Non-executive director, Manaksia Ltd and Manaksia Steels; ~12.4% of Manaksia Ltd",
+     "relation": "Promoter family; exact relationship not disclosed in the filings read",
+     "generation": "2nd"
+    },
+    {
+     "name": "Mahabir Prasad Agrawal",
+     "role": "Former director of Manaksia Ltd (pre-2013); listed as relative of KMP in Manaksia Ltd, Manaksia Coated and Manaksia Aluminium",
+     "relation": "Probably father of Sushil and Sunil (inferred from relatives list)",
+     "generation": "1st"
+    },
+    {
+     "name": "Sushil Kumar Agrawal",
+     "role": "Managing Director, Manaksia Coated Metals; 31.99%",
+     "relation": "Father of Karan and Tushar; relative of Sunil Kumar Agrawal and Mahabir Prasad Agrawal",
+     "generation": "1st/2nd"
+    },
+    {
+     "name": "Karan Agrawal",
+     "role": "Whole-time Director, Manaksia Coated Metals",
+     "relation": "Son of Sushil Kumar Agrawal",
+     "generation": "next gen"
+    },
+    {
+     "name": "Tushar Agrawal",
+     "role": "Senior Vice-President, Manaksia Coated Metals",
+     "relation": "Son of Sushil; brother of Karan",
+     "generation": "next gen"
+    },
+    {
+     "name": "Sunil Kumar Agrawal",
+     "role": "Managing Director, Manaksia Aluminium",
+     "relation": "Father of Anirudha; relative of Sushil",
+     "generation": "1st/2nd"
+    },
+    {
+     "name": "Anirudha Agrawal",
+     "role": "Whole-time Director & CEO, Manaksia Aluminium",
+     "relation": "Son of Sunil Kumar Agrawal",
+     "generation": "next gen"
+    },
+    {
+     "name": "Basant Kumar Agrawal",
+     "role": "MD of Manaksia Ltd until the 2013 split; associated with Manaksia Industries",
+     "relation": "Family relationship to the others not stated in filings read",
+     "generation": "1st"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Manaksia Ltd",
+     "listed": "yes",
+     "chain_stage": "Holding company; operations mainly through subsidiaries in Nigeria and Ghana (steel, packaging, paper)",
+     "state": "West Bengal (registered office); Nigeria, Ghana",
+     "ownership_note": "Suresh / Basudeo line"
+    },
+    {
+     "name": "Manaksia Steels Ltd",
+     "listed": "yes",
+     "chain_stage": "Cold rolled and galvanised / colour-coated steel",
+     "state": "West Bengal (Haldia, Bankura)",
+     "ownership_note": "Suresh / Varun line"
+    },
+    {
+     "name": "Manaksia Coated Metals & Industries Ltd",
+     "listed": "yes",
+     "chain_stage": "Galvanised and colour-coated sheets",
+     "state": "Gujarat (Anjar, Kutch)",
+     "ownership_note": "Sushil line"
+    },
+    {
+     "name": "Manaksia Aluminium Company Ltd",
+     "listed": "yes",
+     "chain_stage": "Aluminium rolled products and foil",
+     "state": "West Bengal (Haldia, Bankura)",
+     "ownership_note": "Sunil line"
+    },
+    {
+     "name": "Manaksia Industries Ltd",
+     "listed": "unlisted/uncertain",
+     "chain_stage": "Packaging, mosquito coil",
+     "state": "West Bengal (to verify)",
+     "ownership_note": "Basant Kumar Agrawal (reported)"
+    },
+    {
+     "name": "Manaksia Ferro Industries Ltd",
+     "listed": "no",
+     "chain_stage": "Proposed transferee of Manaksia Ltd metal products business (2025 scheme)",
+     "state": "West Bengal",
+     "ownership_note": "Manaksia Ltd group"
+    }
+   ],
+   "chain_summary": "No mining or iron making. All four companies are downstream flat-product converters (CR, galvanised, coated steel; aluminium sheet and foil). Manaksia Ltd is effectively an overseas (West Africa) holding company. There is little upstream-downstream link between the four; the sister companies still trade with each other (related-party sales and loans disclosed).",
+   "splits_disputes": "2013 court-approved demerger acted as a family separation into branch-controlled listed companies. No litigation between branches found. 2025 Manaksia Ltd scheme to demerge its metal products business into Manaksia Ferro Industries.",
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/020ddc3d-2b45-4e23-9037-28c831de7f4f.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/574984b6-57e0-4511-b363-c5bb35f73045.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3e1855ce-f42b-402f-9c1c-c6060517efc4.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/92641cf5-9971-474d-9464-6ba1e9f8ee20.pdf",
+    "https://www.bseindia.com/HIS_ANN_RPT/HISTANNR/2013/MANAKSIA_ALLUMINIUM_CO_LTD-539045-MARCH-2013.PDF",
+    "https://www.bseindia.com/HIS_ANN_RPT/HISTANNR/2014/MANAKSIA_ALLUMINIUM_CO_LTD-539045-MARCH-2014.PDF",
+    "https://www.business-standard.com/article/markets/manaksia-industries-a-new-story-117041600773_1.html"
+   ],
+   "certainty": "High for company-to-branch mapping (filings); medium for how Basudeo/Suresh and Mahabir Prasad/Sushil/Sunil are related to each other (filings say 'relatives' only)"
+  },
+  {
+   "group": "MSP group",
+   "family": "Agrawal family (MSP; not Manaksia)",
+   "decision_office": "Kolkata",
+   "control_summary": "MSP Steel & Power is run by Suresh Kumar Agrawal (Chairman; wife Nisha, son Pranay), Saket Agrawal (MD) and Manish Agrawal (Joint MD, son of Puranmal and Kiran Agrawal). The company says the three 'belong to the same promoter family' but does not spell out the relationships [fact]. This Suresh Kumar Agrawal is a different person from Manaksia's Suresh Kumar Agrawal (different spouse and son).",
+   "people": [
+    {
+     "name": "Puranmal Agrawal",
+     "role": "Founder promoter; former Chairman (2007-14)",
+     "relation": "Father of Manish Agrawal",
+     "generation": "1st"
+    },
+    {
+     "name": "Suresh Kumar Agrawal",
+     "role": "Chairman, MSP Steel & Power",
+     "relation": "Husband of Nisha; father of Pranay; same promoter family",
+     "generation": "1st"
+    },
+    {
+     "name": "Saket Agrawal",
+     "role": "Managing Director",
+     "relation": "Same promoter family (exact tie not disclosed)",
+     "generation": "2nd"
+    },
+    {
+     "name": "Manish Agrawal",
+     "role": "Joint Managing Director",
+     "relation": "Son of Puranmal Agrawal",
+     "generation": "2nd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "MSP Steel & Power Ltd",
+     "listed": "yes",
+     "chain_stage": "Pellets, sponge iron, billets, TMT, structurals, captive power",
+     "state": "Chhattisgarh (Raigarh)",
+     "ownership_note": ""
+    },
+    {
+     "name": "MSP Cement Ltd",
+     "listed": "no",
+     "chain_stage": "Wholly owned subsidiary; cement",
+     "state": "Chhattisgarh/WB (to verify)",
+     "ownership_note": ""
+    },
+    {
+     "name": "Prateek Mines & Minerals Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Subsidiary; mining",
+     "state": "to verify",
+     "ownership_note": ""
+    },
+    {
+     "name": "Madanpur South Coal Company Ltd",
+     "listed": "no",
+     "chain_stage": "Joint venture coal block",
+     "state": "Chhattisgarh",
+     "ownership_note": ""
+    },
+    {
+     "name": "MSP Mines & Minerals Ltd; MSP Sponge Iron Ltd",
+     "listed": "no",
+     "chain_stage": "Promoter-influenced entities",
+     "state": "to verify",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Integrated long-steel chain in Raigarh: pellets to sponge iron to billets to TMT and structurals, with captive power and a coal JV.",
+   "splits_disputes": "None found.",
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/099ef7fb-0cc4-4340-b7eb-7ea483a45595.pdf"
+   ],
+   "certainty": "High (filing)"
+  },
+  {
+   "group": "Shyam Metalics group",
+   "family": "Agarwal family (Mahabir Prasad and Bajrang Lal lines)",
+   "decision_office": "Kolkata",
+   "control_summary": "Two cousin lines run the company [fact, FY26 AR]: Brij Bhushan Agarwal (CMD; son of Mahabir Prasad Agarwal, now Chairman Emeritus) and Sanjay Kumar Agarwal (Joint MD; son of Bajrang Lal Agarwal). Brij Bhushan's sons Deepak (Director Finance & CFO), Sheetij and Subham are in the business. Mahabir Prasad's daughters include Anita Jhunjhunwala, Sangeeta Agarwal and Kiran Vimal Agarwal.",
+   "people": [
+    {
+     "name": "Mahabir Prasad Agarwal",
+     "role": "Chairman Emeritus (stepped down May 2025)",
+     "relation": "Father of Brij Bhushan; uncle of Sanjay",
+     "generation": "1st"
+    },
+    {
+     "name": "Bajrang Lal Agarwal",
+     "role": "Promoter group",
+     "relation": "Father of Sanjay Kumar Agarwal",
+     "generation": "1st"
+    },
+    {
+     "name": "Brij Bhushan Agarwal",
+     "role": "Chairman & Managing Director",
+     "relation": "Son of Mahabir Prasad; cousin of Sanjay",
+     "generation": "2nd"
+    },
+    {
+     "name": "Sanjay Kumar Agarwal",
+     "role": "Joint Managing Director",
+     "relation": "Son of Bajrang Lal; cousin of Brij Bhushan",
+     "generation": "2nd"
+    },
+    {
+     "name": "Deepak Agarwal",
+     "role": "Director Finance & CFO",
+     "relation": "Son of Brij Bhushan",
+     "generation": "3rd"
+    },
+    {
+     "name": "Sheetij Agarwal",
+     "role": "Whole-time Director",
+     "relation": "FY26 AR is internally inconsistent: related-party note says son of Brij Bhushan; remuneration table says Sanjay is his father and that he is nephew of Mahabir Prasad. Most likely son of Sanjay Kumar Agarwal; to resolve",
+     "generation": "3rd"
+    },
+    {
+     "name": "Subham Agarwal",
+     "role": "Promoter group",
+     "relation": "Son of Brij Bhushan",
+     "generation": "3rd"
+    },
+    {
+     "name": "Anita Jhunjhunwala",
+     "role": "Promoter group",
+     "relation": "Daughter of Mahabir Prasad (married out)",
+     "generation": "2nd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Shyam Metalics and Energy Ltd",
+     "listed": "yes",
+     "chain_stage": "Pellets, sponge iron, ferro alloys, billets, TMT, wire rod, aluminium foil, captive power; stainless (Jamuria)",
+     "state": "Odisha (Sambalpur), West Bengal (Jamuria, Mangalpur)",
+     "ownership_note": ""
+    },
+    {
+     "name": "Shyam SEL and Power Ltd",
+     "listed": "no",
+     "chain_stage": "100% subsidiary; steel and power",
+     "state": "West Bengal",
+     "ownership_note": ""
+    },
+    {
+     "name": "Ramsarup Lohh Udyog Ltd",
+     "listed": "no",
+     "chain_stage": "Subsidiary; TMT and wire",
+     "state": "West Bengal",
+     "ownership_note": ""
+    },
+    {
+     "name": "Damodar Aluminium / SS Alufoils / Gumla Aluminium",
+     "listed": "no",
+     "chain_stage": "Aluminium foil and downstream",
+     "state": "Jharkhand / WB (to verify)",
+     "ownership_note": "Group or associate companies named in AR"
+    }
+   ],
+   "chain_summary": "One of the most integrated chains in the region: iron ore pellets, sponge iron, ferro alloys, billets, long products, plus aluminium foil, stainless and captive power, spread across Odisha and West Bengal.",
+   "splits_disputes": "None found.",
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/08f7bbef-7200-4d63-b9e2-0448e2848832.pdf"
+   ],
+   "certainty": "High (filing)"
+  },
+  {
+   "group": "Maithan Alloys group",
+   "family": "Agarwalla family of Asansol (S.C. Agarwalla line)",
+   "decision_office": "Kolkata / Asansol",
+   "control_summary": "Subhas Chandra Agarwalla (Chairman & MD) controls; sons Subodh (CEO and Executive Director) and Sudhanshu (CFO) [fact]. Prahlad Rai Agarwalla is disclosed as a relative of S.C. Agarwalla. Maithan acquired Impex Metal & Ferro Alloys under insolvency and has merged it (Bobbili unit, Andhra Pradesh).",
+   "people": [
+    {
+     "name": "Subhas Chandra Agarwalla",
+     "role": "Chairman & Managing Director",
+     "relation": "Father of Subodh and Sudhanshu; husband of Sheela Devi",
+     "generation": "1st"
+    },
+    {
+     "name": "Subodh Agarwalla",
+     "role": "Whole-time Director & CEO",
+     "relation": "Son of S.C. Agarwalla",
+     "generation": "2nd"
+    },
+    {
+     "name": "Sudhanshu Agarwalla",
+     "role": "CFO",
+     "relation": "Son of S.C. Agarwalla",
+     "generation": "2nd"
+    },
+    {
+     "name": "Prahlad Rai Agarwalla",
+     "role": "Close family member",
+     "relation": "Relative of S.C. Agarwalla (nature not stated)",
+     "generation": "1st"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Maithan Alloys Ltd",
+     "listed": "yes",
+     "chain_stage": "Ferro alloys (manganese alloys); real-estate segment",
+     "state": "West Bengal (Kalyaneshwari), Meghalaya (Byrnihat), Andhra Pradesh (Bobbili, Visakhapatnam)",
+     "ownership_note": ""
+    },
+    {
+     "name": "Impex Metal & Ferro Alloys Ltd",
+     "listed": "no (merged)",
+     "chain_stage": "Ferro alloys",
+     "state": "Andhra Pradesh",
+     "ownership_note": "Acquired through insolvency, merged"
+    },
+    {
+     "name": "Maithan Ferrous Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Subsidiary",
+     "state": "to verify",
+     "ownership_note": ""
+    },
+    {
+     "name": "Anjaney Ferro Alloys / Anjaney Land Assets, MA Kalyaneshwari Holdings",
+     "listed": "no",
+     "chain_stage": "Group / merged entities",
+     "state": "to verify",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Single-stage ferro-alloy producer selling to steelmakers; surplus cash invested in listed and unlisted equity. No mining or steel making.",
+   "splits_disputes": "No dispute found. Maithan Steel & Power (Binod Kumar Agarwalla) is not disclosed as a related party in the FY26 annual report.",
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/95e8dd4c-36a5-4871-b230-a5306b53a615.pdf",
+    "https://www.careratings.com/upload/CompanyFiles/PR/202512121221_Maithan_Alloys_Limited.pdf"
+   ],
+   "certainty": "High (filing)"
+  },
+  {
+   "group": "Maithan Steel & Power",
+   "family": "Agarwalla family (B.K. Agarwalla line)",
+   "decision_office": "Kolkata / Asansol area",
+   "control_summary": "Unlisted. Promoted by Binod Kumar Agarwalla; run by second generation Madhur Agarwalla and Kaushal Agarwalla [fact, Acuite Nov 2025].",
+   "people": [
+    {
+     "name": "Binod Kumar Agarwalla",
+     "role": "Promoter",
+     "relation": "Father generation",
+     "generation": "1st"
+    },
+    {
+     "name": "Madhur Agarwalla",
+     "role": "Promoter, runs operations",
+     "relation": "Second-generation promoter",
+     "generation": "2nd"
+    },
+    {
+     "name": "Kaushal Agarwalla",
+     "role": "Promoter, runs operations",
+     "relation": "Second-generation promoter",
+     "generation": "2nd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Maithan Steel and Power Ltd",
+     "listed": "no",
+     "chain_stage": "Sponge iron, ferro alloys, captive power (Neturia); billets and TMT (Salanpur)",
+     "state": "West Bengal (Purulia and Paschim Bardhaman districts)",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Semi-integrated long steel: sponge iron to billet to TMT, with ferro alloy and captive power.",
+   "splits_disputes": "None found.",
+   "sources": [
+    "https://www.acuite.in/documents/ratings/revised/28524-RR-20251114.pdf"
+   ],
+   "certainty": "High for people; link to Maithan Alloys unverified"
+  },
+  {
+   "group": "Super Smelters / Sai group",
+   "family": "Agarwal family (Sitaram Agarwal line)",
+   "decision_office": "Kolkata (Shakespeare Sarani)",
+   "control_summary": "Promoted by Sitaram Agarwal, who runs the group with his sons Deepak Kumar Agarwal and Dilipp Agarwal [fact, CRISIL and CARE]. Super Smelters is the flagship; Supershakti Metaliks and Sai Electrocasting were demerged from it in August 2016. Private equity investor in Super Smelters (CRISIL 2022).",
+   "people": [
+    {
+     "name": "Sitaram Agarwal",
+     "role": "Promoter",
+     "relation": "Father of Deepak and Dilipp",
+     "generation": "1st"
+    },
+    {
+     "name": "Deepak Kumar Agarwal",
+     "role": "Director, Supershakti Metaliks",
+     "relation": "Son of Sitaram; brother of Dilipp",
+     "generation": "2nd"
+    },
+    {
+     "name": "Dilipp Agarwal",
+     "role": "Director, Supershakti Metaliks",
+     "relation": "Son of Sitaram; brother of Deepak",
+     "generation": "2nd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Super Smelters Ltd",
+     "listed": "no",
+     "chain_stage": "Pellets (1.2 Mtpa), sponge iron, billets/slabs, ferro alloys, HR and rolled products, 69 MW captive power",
+     "state": "West Bengal (Jamuria)",
+     "ownership_note": "Flagship"
+    },
+    {
+     "name": "Supershakti Metaliks Ltd",
+     "listed": "yes (BSE 541701)",
+     "chain_stage": "Billets and TMT; buys sponge iron from Super Smelters and Giridhan",
+     "state": "West Bengal (Durgapur)",
+     "ownership_note": "Holds ~21% of Giridhan Metal"
+    },
+    {
+     "name": "Giridhan Metal Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "New integrated capacity (sponge iron and others); ~Rs 940 crore capex",
+     "state": "West Bengal (to verify)",
+     "ownership_note": "Funded by group; Supershakti investor and lender"
+    },
+    {
+     "name": "Sai Electrocasting Pvt Ltd; Sai Sponge India Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Steel / sponge iron",
+     "state": "West Bengal",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Pellet to sponge iron to billet to TMT, split across group companies, with inter-company sponge-iron supply to Supershakti and cross-funding of Giridhan.",
+   "splits_disputes": "2016 demerger of Supershakti and Sai Electrocasting out of Super Smelters (restructuring, not a family split).",
+   "sources": [
+    "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/SuperSmeltersLimited_July%2001,%202022_RR_297564.html",
+    "https://www.careratings.com/upload/CompanyFiles/PR/202507140720_Supershakti_Metaliks_Limited.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0a0fb958-58b2-418d-9f15-5ce682589df8.pdf"
+   ],
+   "certainty": "High (rating rationales, filing)"
+  },
+  {
+   "group": "Shakambhari group",
+   "family": "Agarwal family (Deepak Agarwal / Swati Agarwal)",
+   "decision_office": "Kolkata",
+   "control_summary": "Built by acquiring stressed plants: Shakambhari Ispat & Power (ex-Maa Chhinnamastika Steel & Power, taken over Dec 2010), Bravo Sponge Iron (from the Bhalotia group, 2015, by Deepak Agarwal), Eloquent Steel (taken over by Deepak Agarwal and Swati Agarwal, 2017), SPS Steels Rolling Mills (insolvency, FY2020) [fact, CRISIL 2022]. Directors include Deepak Agarwal, Swati Agarwala and Ramabatar Agarwal [Acuite]. Relationships among them are not stated in the sources read.",
+   "people": [
+    {
+     "name": "Deepak (Kumar) Agarwal",
+     "role": "Promoter director",
+     "relation": "Lead promoter",
+     "generation": "1st/2nd"
+    },
+    {
+     "name": "Swati Agarwal(a)",
+     "role": "Director",
+     "relation": "Co-promoter (relationship not stated)",
+     "generation": "?"
+    },
+    {
+     "name": "Ramabatar Agarwal",
+     "role": "Director",
+     "relation": "Promoter family (relationship not stated)",
+     "generation": "?"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Shakambhari Ispat and Power Ltd",
+     "listed": "no (formerly Ess Dee Aluminium name history to verify)",
+     "chain_stage": "Sponge iron, billets, rolling, silico manganese, captive power",
+     "state": "West Bengal (Purulia)",
+     "ownership_note": ""
+    },
+    {
+     "name": "SPS Steels Rolling Mills Ltd",
+     "listed": "no",
+     "chain_stage": "Rolling mill, 'Elegant' brand",
+     "state": "West Bengal",
+     "ownership_note": "Acquired under insolvency"
+    },
+    {
+     "name": "Bravo Sponge Iron Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Sponge iron; pellet backward integration",
+     "state": "Jharkhand (Jamshedpur area)",
+     "ownership_note": "Amalgamated"
+    },
+    {
+     "name": "Eloquent Steel Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Ferro alloys, billets (absorbed Hira Concast and Impex Steel)",
+     "state": "to verify",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Pellet to sponge iron to billet to rolled products, plus ferro alloys and 62 MW captive power, assembled mostly through distressed acquisitions.",
+   "splits_disputes": "CRISIL noted a CBI chargesheet on illegal coal mining that names group companies (allegation, not a finding).",
+   "sources": [
+    "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ShakambhariIspatandPowerLimited_January%2005,%202022_RR_283544.html",
+    "https://www.acuite.in/documents/ratings/revised/28005-RR-20250327.pdf"
+   ],
+   "certainty": "Medium (who is related to whom not disclosed)"
+  },
+  {
+   "group": "Gagan group",
+   "family": "Agarwal family (Vinay Kumar Agarwal line)",
+   "decision_office": "Kolkata",
+   "control_summary": "Gagan Ferrotech is promoted by Vinay Kumar Agarwal and family (directors include Suman Agarwal, Umang Agarwal, Sandeep Agarwal) [fact, Acuite 2025]. It was originally co-promoted by two friends, Deepak Agarwal and Vinay Kumar Agarwal; under a mutual arrangement Deepak Agarwal's entire stake moved to Vinay Kumar and family [fact, CARE 2019]. Gajanan Iron was taken over from the Sarda / Gourisaria promoters in Oct 2017.",
+   "people": [
+    {
+     "name": "Vinay Kumar Agarwal",
+     "role": "Promoter; director across all group entities",
+     "relation": "Head of family",
+     "generation": "1st"
+    },
+    {
+     "name": "Suman Agarwal",
+     "role": "Director",
+     "relation": "Family (relationship not stated)",
+     "generation": "?"
+    },
+    {
+     "name": "Umang Agarwal",
+     "role": "Director, Shakambhari Overseas Trades",
+     "relation": "Family (relationship not stated)",
+     "generation": "?"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Gagan Ferrotech Ltd",
+     "listed": "no",
+     "chain_stage": "Pellets, sponge iron, billets, TMT ('Gagan' brand), 20 MW captive power",
+     "state": "West Bengal (Jamuria)",
+     "ownership_note": "Flagship"
+    },
+    {
+     "name": "Gajanan Iron Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "MS angles, billets",
+     "state": "West Bengal (Jamuria)",
+     "ownership_note": "Taken over 2017"
+    },
+    {
+     "name": "Shakambhari Overseas Trades Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Cast iron",
+     "state": "West Bengal",
+     "ownership_note": "Name only; not the Shakambhari Ispat group per rating agency grouping"
+    },
+    {
+     "name": "Spintech Tubes Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Steel tubes (new, ~2025)",
+     "state": "West Bengal",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Pellet to sponge iron to billet to TMT, angles and tubes, all in West Bengal.",
+   "splits_disputes": "Early promoter separation (Deepak Agarwal exit, before 2019).",
+   "sources": [
+    "https://www.acuite.in/documents/ratings/revised/26914-RR-20250530.pdf",
+    "https://www.careratings.com/upload/CompanyFiles/PR/Gajanan%20Iron%20Private%20limited-12-25-2019.pdf"
+   ],
+   "certainty": "High (rating rationales)"
+  },
+  {
+   "group": "Sree Metaliks group",
+   "family": "Agarwal family (Mahesh Kumar Agarwal line)",
+   "decision_office": "Kolkata / Odisha",
+   "control_summary": "Mahesh Kumar Agarwal (Chairman), wife Nalini Agarwal and son Kaustubh Agarwal run the company; daughters Pearl and Tulina Agarwal are disclosed close family members [fact, SAL Steel FY26 AR; Acuite]. Sree Metaliks bought control of listed S.A.L. Steel (Gujarat) in Sept 2025; Kaustubh is SAL's MD.",
+   "people": [
+    {
+     "name": "Mahesh Kumar Agarwal",
+     "role": "Chairman, Sree Metaliks; director SAL Steel",
+     "relation": "Father of Kaustubh; husband of Nalini",
+     "generation": "1st"
+    },
+    {
+     "name": "Nalini Agarwal",
+     "role": "Director",
+     "relation": "Wife of Mahesh",
+     "generation": "1st"
+    },
+    {
+     "name": "Kaustubh Agarwal",
+     "role": "Managing Director, SAL Steel",
+     "relation": "Son of Mahesh",
+     "generation": "2nd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sree Metaliks Ltd",
+     "listed": "no",
+     "chain_stage": "Captive iron ore mine (Khandbandh), pellets, sponge iron, pig iron, billets, TMT, captive power",
+     "state": "Odisha (Rugudi, Anra, Angul)",
+     "ownership_note": ""
+    },
+    {
+     "name": "S.A.L. Steel Ltd",
+     "listed": "yes (BSE)",
+     "chain_stage": "Sponge iron, ferro alloys",
+     "state": "Gujarat",
+     "ownership_note": "57.5% rising to 70.5% after open offer"
+    }
+   ],
+   "chain_summary": "Mine-to-TMT chain in Odisha (captive ore); Gujarat unit added for western market.",
+   "splits_disputes": "None found.",
+   "sources": [
+    "https://www.acuite.in/documents/ratings/revised/29905-RR-20250701.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/10ecedbf-3f2d-402a-a158-2627828592c4.pdf"
+   ],
+   "certainty": "High"
+  },
+  {
+   "group": "Neo Metaliks (Rupa group)",
+   "family": "Agarwal family of Rupa & Co (P.R., K.B. and G.P. Agarwal)",
+   "decision_office": "Kolkata",
+   "control_summary": "Neo Metaliks is part of the Rupa hosiery group, promoted by P.R. Agarwal, K.B. Agarwal and G.P. Agarwal. Day-to-day management is with Ravi Agarwal (son of K.B. Agarwal), supported by Ramesh Agarwal (son of P.R. Agarwal) and Manish Agarwal (son of G.P. Agarwal) [fact, CARE Dec 2025]. Started in 2003 as a JV of the Madhogaria and Agarwal families; the Madhogarias exited in FY05.",
+   "people": [
+    {
+     "name": "P.R. Agarwal",
+     "role": "Rupa group promoter",
+     "relation": "Father of Ramesh",
+     "generation": "1st"
+    },
+    {
+     "name": "K.B. Agarwal",
+     "role": "Rupa group promoter",
+     "relation": "Father of Ravi",
+     "generation": "1st"
+    },
+    {
+     "name": "G.P. Agarwal",
+     "role": "Rupa group promoter",
+     "relation": "Father of Manish",
+     "generation": "1st"
+    },
+    {
+     "name": "Ravi Agarwal",
+     "role": "Director, runs Neo Metaliks",
+     "relation": "Son of K.B. Agarwal",
+     "generation": "2nd"
+    },
+    {
+     "name": "Ramesh Agarwal",
+     "role": "Supports management",
+     "relation": "Son of P.R. Agarwal",
+     "generation": "2nd"
+    },
+    {
+     "name": "Manish Agarwal",
+     "role": "Supports management",
+     "relation": "Son of G.P. Agarwal",
+     "generation": "2nd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Neo Metaliks Ltd",
+     "listed": "no",
+     "chain_stage": "Pig iron (blast furnaces 188 ktpa + 422 ktpa from July 2025), sinter, 10 MW WHRB power",
+     "state": "West Bengal (Durgapur)",
+     "ownership_note": ""
+    },
+    {
+     "name": "Rupa & Company Ltd",
+     "listed": "yes",
+     "chain_stage": "Hosiery (non-metal flagship)",
+     "state": "West Bengal",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Merchant pig iron with sinter and waste-heat power; no captive ore.",
+   "splits_disputes": "Madhogaria family exit FY05.",
+   "sources": [
+    "https://www.careratings.com/upload/CompanyFiles/PR/202512141237_Neo_Metaliks_Limited.pdf"
+   ],
+   "certainty": "High (rating rationale)"
+  },
+  {
+   "group": "Rashmi group",
+   "family": "Patwari family",
+   "decision_office": "Kolkata",
+   "control_summary": "Promoted by Sajjan Kumar Patwari and family [fact, CRISIL Apr 2025]; group led by Sajjan Kumar Patwari with sons Sunil Kumar, Sanjib Kumar and Sanjay Kumar Patwari [reported/market view]. Orissa Metaliks Pvt Ltd (OMPL) is the ultimate parent of the steel business; assets moved from Rashmi Metaliks to OMPL from FY2016 and by a 2017 demerger.",
+   "people": [
+    {
+     "name": "Sajjan Kumar Patwari",
+     "role": "Founder / chairman",
+     "relation": "Father",
+     "generation": "1st"
+    },
+    {
+     "name": "Sunil Kumar Patwari",
+     "role": "Leads group expansion",
+     "relation": "Son of Sajjan Kumar (reported)",
+     "generation": "2nd"
+    },
+    {
+     "name": "Sanjib Kumar Patwari",
+     "role": "Director",
+     "relation": "Son of Sajjan Kumar (reported)",
+     "generation": "2nd"
+    },
+    {
+     "name": "Sanjay Kumar Patwari",
+     "role": "Director",
+     "relation": "Son of Sajjan Kumar (reported)",
+     "generation": "2nd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Orissa Metaliks Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Ultimate parent; pellets, sponge iron, pig iron, billets, TMT, DI pipes",
+     "state": "West Bengal (Kharagpur)",
+     "ownership_note": "CRISIL AA"
+    },
+    {
+     "name": "Rashmi Metaliks Ltd",
+     "listed": "no",
+     "chain_stage": "Pig iron, DI pipes, steel",
+     "state": "West Bengal (Kharagpur, Jamuria)",
+     "ownership_note": "Holds ~5% of OMPL (reported)"
+    },
+    {
+     "name": "Orissa Alloy Steel Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Wholly owned by OMPL; steel intermediates",
+     "state": "West Bengal (Kharagpur)",
+     "ownership_note": ""
+    },
+    {
+     "name": "Rashmi Cement Ltd",
+     "listed": "no",
+     "chain_stage": "Slag cement (downstream use of slag); group's first company (1991)",
+     "state": "West Bengal",
+     "ownership_note": ""
+    },
+    {
+     "name": "Kalinga Metalics Ltd",
+     "listed": "no",
+     "chain_stage": "Iron ore trading from OMC auctions; railway rakes (90% sales to group)",
+     "state": "Odisha / West Bengal",
+     "ownership_note": ""
+    },
+    {
+     "name": "Rashmi Green Hydrogen Steel Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Seamless pipes (120 ktpa), DI pipes (600 ktpa)",
+     "state": "West Bengal (to verify)",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Ore logistics (Kalinga) to pellets, sinter, LAM coke, sponge and pig iron, billets, wire rod/TMT, DI and seamless pipes, slag cement, captive power and railway sidings. Total capacity over 32 Mtpa across products; ~Rs 28,550 crore revenue FY24.",
+   "splits_disputes": "NGO allegation on rake allocation to Dhamra port (allegation only).",
+   "sources": [
+    "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/OrissaAlloySteelPrivateLimited_April%2007_%202025_RR_366302.html"
+   ],
+   "certainty": "High for group structure; sons' names reported"
+  },
+  {
+   "group": "Rungta Mines group (S.R. Rungta group)",
+   "family": "Rungta family (S.R. Rungta line)",
+   "decision_office": "Kolkata (registered office); Chaibasa, Jharkhand (corporate office)",
+   "control_summary": "Rungta Mines Ltd (founded 1962 by S.R. Rungta) is led by his sons Nandlal Rungta and Mukund Rungta; Nandlal's son Siddharth Rungta leads the Rungta Steel brand [reported/market view]. Rungta Sons Pvt Ltd has the same three as signatories [market view, Tracxn]. Other Rungta companies (Rungta Metals and Araanya Mines: Alok, Ashish and Abhishek Rungta; Rungta Projects: R.S. and N.K. Rungta) appear to be separate branches; no source ties them to Rungta Mines.",
+   "people": [
+    {
+     "name": "S.R. Rungta",
+     "role": "Founder (1962)",
+     "relation": "Father of Nandlal and Mukund",
+     "generation": "1st"
+    },
+    {
+     "name": "Nandlal Rungta",
+     "role": "Director / promoter",
+     "relation": "Son of S.R. Rungta",
+     "generation": "2nd"
+    },
+    {
+     "name": "Mukund Rungta",
+     "role": "Director since 1992",
+     "relation": "Son of S.R. Rungta",
+     "generation": "2nd"
+    },
+    {
+     "name": "Siddharth Rungta",
+     "role": "Director since 2001; leads Rungta Steel",
+     "relation": "Son of Nandlal",
+     "generation": "3rd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Rungta Mines Ltd",
+     "listed": "no",
+     "chain_stage": "Iron ore and manganese mines; pellets, sponge iron, billets, TMT, wire rod, DI pipes",
+     "state": "Odisha (Barbil, Karakhendra, Kamanda, Dhenkanal, Sundargarh), Jharkhand (Chaliyama, Chaibasa)",
+     "ownership_note": "Flagship"
+    },
+    {
+     "name": "Rungta Sons Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Iron ore mines (Oraghat, Chandiposhi)",
+     "state": "Odisha",
+     "ownership_note": "Same signatories (market view)"
+    },
+    {
+     "name": "Mednirai Coal Mining Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Coal block (79.86% subsidiary)",
+     "state": "Jharkhand (to verify)",
+     "ownership_note": ""
+    },
+    {
+     "name": "Mobar India Ltd; C T Mining Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Subsidiaries",
+     "state": "to verify",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Fully integrated from captive iron ore and coal to pellets, sponge iron, billets, long products and DI pipes, across Odisha and Jharkhand.",
+   "splits_disputes": "No split found in sources. Separate Rungta-named groups exist; relationships unresolved.",
+   "sources": [
+    "https://www.gem.wiki/Rungta_Mines_Chaliyama_steel_plant",
+    "https://x.com/TTRDresearch/status/2099356995686162465",
+    "https://www.acuite.in/documents/ratings/revised/29283-RR-20251120.pdf"
+   ],
+   "certainty": "Low to medium (no filing read; press and aggregators only)"
+  },
+  {
+   "group": "Shyam Steel group",
+   "family": "Beriwala family (Shriram and Shyam Sunder lines)",
+   "decision_office": "Kolkata",
+   "control_summary": "Founded 1953 in Howrah by Shriram Beriwala, joined by younger brother Shyam Sunder Beriwala. Ownership is held by two groups in about 58:42: Group A, sons of Shyam Sunder (Lalit, Brijesh, Ravi, Manish) and Group B, sons of the late Shriram (Purushottam, Govind) [reported from company DRHP and notices, via search; documents not opened]. Third generation (cousins Raghav, Keshav, Sarvesh) now leads [market view].",
+   "people": [
+    {
+     "name": "Shriram Beriwala",
+     "role": "Founder (1953)",
+     "relation": "Elder brother of Shyam Sunder",
+     "generation": "1st"
+    },
+    {
+     "name": "Shyam Sunder Beriwala",
+     "role": "Co-founder",
+     "relation": "Younger brother of Shriram",
+     "generation": "1st"
+    },
+    {
+     "name": "Purushottam Beriwala",
+     "role": "Promoter director",
+     "relation": "Son of Shriram",
+     "generation": "2nd"
+    },
+    {
+     "name": "Govind Beriwal",
+     "role": "Promoter",
+     "relation": "Son of Shriram",
+     "generation": "2nd"
+    },
+    {
+     "name": "Lalit Beriwala",
+     "role": "Promoter director",
+     "relation": "Son of Shyam Sunder",
+     "generation": "2nd"
+    },
+    {
+     "name": "Brijesh Beriwala",
+     "role": "Director",
+     "relation": "Son of Shyam Sunder",
+     "generation": "2nd"
+    },
+    {
+     "name": "Ravi Beriwala",
+     "role": "Director",
+     "relation": "Son of Shyam Sunder",
+     "generation": "2nd"
+    },
+    {
+     "name": "Manish Beriwala",
+     "role": "Director",
+     "relation": "Son of Shyam Sunder",
+     "generation": "2nd"
+    },
+    {
+     "name": "Raghav, Keshav and Sarvesh Beriwala",
+     "role": "Next-generation leaders",
+     "relation": "Cousins",
+     "generation": "3rd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Shyam Steel Industries Ltd",
+     "listed": "no (DRHP filed)",
+     "chain_stage": "Sponge iron, billets, TMT, captive power",
+     "state": "West Bengal (Durgapur)",
+     "ownership_note": ""
+    },
+    {
+     "name": "Shyam Steel Manufacturing Ltd",
+     "listed": "no",
+     "chain_stage": "100% subsidiary; TMT, billets, sponge iron, ferro alloys",
+     "state": "West Bengal",
+     "ownership_note": ""
+    },
+    {
+     "name": "Shyam Steel Works Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "80% step-down subsidiary",
+     "state": "West Bengal",
+     "ownership_note": ""
+    },
+    {
+     "name": "Shyam Infra Nirman",
+     "listed": "no",
+     "chain_stage": "Small group company",
+     "state": "West Bengal",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Sponge iron to billet to TMT (brand Shyam Steel), ferro alloys and captive power, all in West Bengal. No captive ore.",
+   "splits_disputes": "Two-branch ownership (58:42) inside one company; no dispute found.",
+   "sources": [
+    "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ShyamSteelIndustriesLimited_February%2018_%202025_RR_360455.html",
+    "https://www.careratings.com/upload/CompanyFiles/PR/Shyam%20Steel%20Industries%20Limited-10-30-2020.pdf",
+    "https://www.axiscapital.co.in/public/contents/Shyam-Steel-Industries-Limited-DRHP-1.pdf",
+    "https://shyamsteel.com/Notices/Shyam%20Steel%20Industries%20Limited%20(MOA%20&%20AOA).pdf"
+   ],
+   "certainty": "Medium (branch split reported from DRHP via search summary; verify in the DRHP)"
+  },
+  {
+   "group": "SRMB group",
+   "family": "Beriwala family (Radha Kishan / Brij Mohan line)",
+   "decision_office": "Kolkata",
+   "control_summary": "SRMB Srijan is run by Brij Mohan Beriwala (CMD; son of the late Radha Kishan Beriwala) with sons Nikunj and Ashish [reported, Acuite and Wikipedia]. Brij Mohan began steel trading in 1970 and set up Steel Rolling Mills of Bengal at Paharpur/Paharang in 1990.",
+   "people": [
+    {
+     "name": "Radha Kishan Beriwala",
+     "role": "Founder (late)",
+     "relation": "Father of Brij Mohan",
+     "generation": "1st"
+    },
+    {
+     "name": "Brij Mohan Beriwala",
+     "role": "Chairman & MD",
+     "relation": "Son of Radha Kishan",
+     "generation": "2nd"
+    },
+    {
+     "name": "Nikunj Beriwala",
+     "role": "Director",
+     "relation": "Son of Brij Mohan",
+     "generation": "3rd"
+    },
+    {
+     "name": "Ashish Beriwala",
+     "role": "Director",
+     "relation": "Son of Brij Mohan",
+     "generation": "3rd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "SRMB Srijan Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Billets, TMT ('SRMB' brand)",
+     "state": "West Bengal (Durgapur)",
+     "ownership_note": ""
+    },
+    {
+     "name": "Bhaskar Steel & Ferro Alloys Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Sponge iron, billets, 12 MW power",
+     "state": "Odisha (Rourkela)",
+     "ownership_note": "Acquired Oct 2010; sold Sept 2021 to the Sethia and Agarwal families of Odisha"
+    },
+    {
+     "name": "Srijan Realty Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Real estate",
+     "state": "West Bengal",
+     "ownership_note": "Outside scope"
+    }
+   ],
+   "chain_summary": "Now mainly a branded TMT maker; backward-integration plant in Odisha was sold in 2021.",
+   "splits_disputes": "Exit from Bhaskar Steel (2021).",
+   "sources": [
+    "https://www.acuite.in/documents/ratings/revised/29430-RR-20231227.pdf",
+    "https://www.acuite.in/documents/ratings/revised/28662-RR-20240624.pdf",
+    "https://en.wikipedia.org/wiki/SRMB_Steel"
+   ],
+   "certainty": "Medium"
+  },
+  {
+   "group": "Electrosteel group",
+   "family": "Kejriwal family",
+   "decision_office": "Kolkata",
+   "control_summary": "Brothers Umang Kejriwal (MD) and Mayank Kejriwal (Joint MD) [fact]. Umang's children Radha Kejriwal Agarwal, Nityangi Kejriwal Jaiswal, Madhav Kejriwal and Priya Sakhi Kejriwal Mehta; Mayank's children Uddhav Kejriwal and Priya Manjari Todi; several sit on the board as whole-time directors. Asha Kejriwal (Umang's wife) is beneficial owner in corporate promoters [fact, SEBI settlement order].",
+   "people": [
+    {
+     "name": "Umang Kejriwal",
+     "role": "Managing Director",
+     "relation": "Brother of Mayank; father of Radha, Nityangi, Madhav, Priya Sakhi",
+     "generation": "2nd"
+    },
+    {
+     "name": "Mayank Kejriwal",
+     "role": "Joint Managing Director",
+     "relation": "Brother of Umang; father of Uddhav and Priya Manjari",
+     "generation": "2nd"
+    },
+    {
+     "name": "Madhav Kejriwal",
+     "role": "Whole-time Director",
+     "relation": "Son of Umang",
+     "generation": "3rd"
+    },
+    {
+     "name": "Nityangi Kejriwal Jaiswal",
+     "role": "Whole-time Director",
+     "relation": "Daughter of Umang",
+     "generation": "3rd"
+    },
+    {
+     "name": "Radha Kejriwal Agarwal",
+     "role": "Director",
+     "relation": "Daughter of Umang",
+     "generation": "3rd"
+    },
+    {
+     "name": "Uddhav Kejriwal",
+     "role": "Whole-time Director",
+     "relation": "Son of Mayank",
+     "generation": "3rd"
+    },
+    {
+     "name": "Priya Manjari Todi",
+     "role": "Director",
+     "relation": "Daughter of Mayank",
+     "generation": "3rd"
+    },
+    {
+     "name": "Asha Kejriwal",
+     "role": "Promoter group / UBO of promoter entities",
+     "relation": "Wife of Umang",
+     "generation": "2nd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Electrosteel Castings Ltd",
+     "listed": "yes",
+     "chain_stage": "Pig iron, coke, sinter, DI pipes, DI fittings, cast iron pipes",
+     "state": "West Bengal (Khardah, Haldia, Bansberia), Andhra Pradesh (Srikalahasthi); other locations to verify",
+     "ownership_note": "Srikalahasthi Pipes merged"
+    },
+    {
+     "name": "Electrosteel Steels Ltd (now ESL Steel, Vedanta)",
+     "listed": "no (delisted)",
+     "chain_stage": "Integrated steel plant",
+     "state": "Jharkhand (Bokaro)",
+     "ownership_note": "Promoted by ECL (45.23% in 2014); lost to Vedanta under insolvency, June 2018"
+    },
+    {
+     "name": "Overseas distribution subsidiaries (Europe, USA, Algeria, others)",
+     "listed": "no",
+     "chain_stage": "Sales",
+     "state": "Overseas",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Pig iron and coke to DI pipe and fittings; the upstream steel plant (ESL) was lost to Vedanta in 2018.",
+   "splits_disputes": "2014 CBI case over a Jharkhand coal block naming ECL and ESL; ESL insolvency and sale to Vedanta (2018); SEBI settlement over insider trading involving family members.",
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/22e0f11b-6f4e-42f5-9121-c0db9a2924b5.pdf",
+    "https://www.sebi.gov.in/sebi_data/attachdocs/feb-2025/1740050136507.pdf",
+    "https://www.business-standard.com/article/companies/vedanta-enters-steel-with-acquisition-of-electrosteel-steels-to-hold-90-118060401085_1.html",
+    "https://www.business-standard.com/article/news-cm/electrosteel-castings-electrosteel-steels-edge-lower-114122200207_1.html"
+   ],
+   "certainty": "High"
+  },
+  {
+   "group": "Usha Martin group",
+   "family": "Jhawar family (Brij Kishore and Basant Kumar branches)",
+   "decision_office": "Kolkata (Rajeev Jhawar side controls)",
+   "control_summary": "Brothers Brij Kishore Jhawar and Basant Kumar Jhawar held equal ~25.5% each under a 2009 shareholders' agreement. The Brij/Rajeev branch now controls management; Rajeev Jhawar is MD and his daughter Shreya Jhawar is in the promoter group. The Basant/Prashant branch (Peterhouse entities) lost board positions (Prashant removed as chairman 2017; Basant voted off 2019) and has been selling in the market [reported; promoter list from FY26 AR].",
+   "people": [
+    {
+     "name": "Brij Kishore Jhawar",
+     "role": "Promoter / former chairman",
+     "relation": "Brother of Basant; father of Rajeev",
+     "generation": "1st"
+    },
+    {
+     "name": "Rajeev Jhawar",
+     "role": "Managing Director",
+     "relation": "Son of Brij Kishore; cousin of Prashant",
+     "generation": "2nd"
+    },
+    {
+     "name": "Shreya Jhawar",
+     "role": "Promoter group; executive",
+     "relation": "Daughter of Rajeev",
+     "generation": "3rd"
+    },
+    {
+     "name": "Basant Kumar Jhawar",
+     "role": "Promoter; voted off board 2019",
+     "relation": "Brother of Brij Kishore; father of Prashant",
+     "generation": "1st"
+    },
+    {
+     "name": "Prashant Jhawar",
+     "role": "Promoter; former chairman (removed 2017)",
+     "relation": "Son of Basant; cousin of Rajeev",
+     "generation": "2nd"
+    },
+    {
+     "name": "Madhushree Goenka, Nidhi Rajgarhia, Stuti, Susmita, Uma Devi, Shanti Devi, Anupama, Apurv, Amisha Jhawar",
+     "role": "Promoter group members",
+     "relation": "Family (relationships not stated in AR)",
+     "generation": "various"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Usha Martin Ltd",
+     "listed": "yes",
+     "chain_stage": "Wire, wire ropes, LRPC strands, cables",
+     "state": "Jharkhand (Ranchi), Tamil Nadu (Chennai), Dadra (Silvassa)",
+     "ownership_note": "Steel plant sold"
+    },
+    {
+     "name": "Usha Siam Steel (Thailand); Brunton Shaw (UK); Brunton Wolf (UAE)",
+     "listed": "no",
+     "chain_stage": "Overseas rope plants",
+     "state": "Overseas",
+     "ownership_note": ""
+    },
+    {
+     "name": "Usha Breco Ltd",
+     "listed": "no",
+     "chain_stage": "Ropeways (associate)",
+     "state": "to verify",
+     "ownership_note": ""
+    },
+    {
+     "name": "Usha Martin Education & Solutions Ltd",
+     "listed": "yes",
+     "chain_stage": "Education (non-metal)",
+     "state": "West Bengal",
+     "ownership_note": ""
+    },
+    {
+     "name": "Tata Steel (former Usha Martin steel plant, Jamshedpur)",
+     "listed": "yes",
+     "chain_stage": "Upstream steel, sold 2019",
+     "state": "Jharkhand",
+     "ownership_note": "Asset transfer, now unrelated"
+    }
+   ],
+   "chain_summary": "Was integrated (iron ore and coal mines, steel, wire rod, wire, rope). After the 2019 sale of the steel business to Tata Steel it is a downstream wire and rope company buying wire rod.",
+   "splits_disputes": "Long-running feud between the two branches (2017 onward): board ouster, NCLT and High Court petitions, allegations of fund diversion; both sides supported the Tata Steel sale. Basant/Prashant side reduced holding to ~22% by Nov 2024 (reported).",
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e2f24421-61a1-46a4-a48a-614d15d8ac47.pdf",
+    "https://www.business-standard.com/article/companies/shareholders-deal-between-families-flouted-usha-martin-s-basant-jhawar-119040101287_1.html",
+    "https://www.business-standard.com/article/companies/tension-mounts-as-usha-martin-removes-prashant-jhawar-as-chairman-117042501343_1.html",
+    "https://www.business-standard.com/article/companies/usha-martin-feud-rajeev-did-not-abide-by-shareholders-pact-says-prashant-118020601908_1.html"
+   ],
+   "certainty": "High"
+  },
+  {
+   "group": "Skipper (S.K. Bansal group)",
+   "family": "Bansal family (Sadhuram Bansal line)",
+   "decision_office": "Kolkata",
+   "control_summary": "Sajan Kumar Bansal (CMD) with sons Sharan, Devesh and Siddharth (all whole-time directors) [fact]. Shares partly held through S.K. Bansal family trusts. The company names the late Sadhuram Bansal as founder; a 1984 Supreme Court record shows Sajan Kumar Bansal as Sadhuram Bansal's son.",
+   "people": [
+    {
+     "name": "Sadhuram Bansal",
+     "role": "Founder (late)",
+     "relation": "Father of Sajan Kumar Bansal",
+     "generation": "1st"
+    },
+    {
+     "name": "Sajan Kumar Bansal",
+     "role": "Chairman & MD",
+     "relation": "Son of Sadhuram; husband of Meera",
+     "generation": "2nd"
+    },
+    {
+     "name": "Sharan Bansal",
+     "role": "Whole-time Director",
+     "relation": "Son of Sajan",
+     "generation": "3rd"
+    },
+    {
+     "name": "Devesh Bansal",
+     "role": "Whole-time Director",
+     "relation": "Son of Sajan",
+     "generation": "3rd"
+    },
+    {
+     "name": "Siddharth Bansal",
+     "role": "Whole-time Director",
+     "relation": "Son of Sajan",
+     "generation": "3rd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Skipper Ltd",
+     "listed": "yes",
+     "chain_stage": "Transmission towers, poles, monopoles; PVC pipes; EPC",
+     "state": "West Bengal (Uluberia, Howrah), Assam (Guwahati), Odisha",
+     "ownership_note": "Skipper-Metzer JV (irrigation)"
+    }
+   ],
+   "chain_summary": "Buys steel (angles, plates) and zinc; does galvanising, fabrication and towers. Fully downstream.",
+   "splits_disputes": "None found.",
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/20deec22-ccc2-4b86-ab32-98840cb2b2a5.pdf",
+    "https://indiankanoon.org/doc/1100200/",
+    "https://www.skipperlimited.com/about-us/our-story/our-founder"
+   ],
+   "certainty": "High"
+  },
+  {
+   "group": "BMW Industries",
+   "family": "Bansal family (Ram Gopal Bansal line)",
+   "decision_office": "Kolkata",
+   "control_summary": "Ram Gopal Bansal (Chairman and Whole-time Director, 16%) with sons Harsh Kumar Bansal and Vivek Kumar Bansal (both MDs) [fact]. All three are directors of Sadhuram Bansal & Sons Ltd [market view, Zauba/MarketScreener; Vivek's directorship also in BMW AR].",
+   "people": [
+    {
+     "name": "Ram Gopal Bansal",
+     "role": "Chairman & Whole-time Director",
+     "relation": "Father of Harsh and Vivek",
+     "generation": "1st/2nd"
+    },
+    {
+     "name": "Harsh Kumar Bansal",
+     "role": "Managing Director",
+     "relation": "Son of Ram Gopal",
+     "generation": "next"
+    },
+    {
+     "name": "Vivek Kumar Bansal",
+     "role": "Managing Director",
+     "relation": "Son of Ram Gopal",
+     "generation": "next"
+    }
+   ],
+   "companies": [
+    {
+     "name": "BMW Industries Ltd",
+     "listed": "yes",
+     "chain_stage": "Steel processing, CR / galvanised, TMT conversion, tubes (much job work for large mills)",
+     "state": "Jharkhand (Jamshedpur, Saraikela), West Bengal (Howrah)",
+     "ownership_note": ""
+    },
+    {
+     "name": "Sadhuram Bansal & Sons Ltd; Bansal Business Pvt Ltd; BMW Iron & Steel Industries",
+     "listed": "no",
+     "chain_stage": "Family companies",
+     "state": "West Bengal",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Downstream conversion and processing, largely toll work for major steelmakers in Jamshedpur.",
+   "splits_disputes": "None found.",
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6f244c3b-d4d5-43c3-b8e1-4c4b95439490.pdf",
+    "https://www.zaubacorp.com/SADHURAM-BANSAL-AND-SONS-LIMITED-U27103WB1988PLC044303"
+   ],
+   "certainty": "High for family; link to Skipper inferred"
+  },
+  {
+   "group": "Jai Balaji group",
+   "family": "Jajodia family (Late Keshar Deo Jajodia line)",
+   "decision_office": "Kolkata",
+   "control_summary": "Sanjiv and Rajiv Jajodia (sons of late Keshar Deo Jajodia) are brothers; Aditya Jajodia (CMD) and Gaurav Jajodia are sons of a third brother [fact, FY26 AR]. Promoter group also includes Aashish, Devendra Prasad, Vedang Jajodia and holding companies (Jai Salasar Balaji Industries, Hariaksh Industries, K.D. Jajodia Steel Industries and others).",
+   "people": [
+    {
+     "name": "Keshar Deo Jajodia",
+     "role": "Founder (late)",
+     "relation": "Father of Sanjiv and Rajiv (and of Aditya/Gaurav's father, inferred)",
+     "generation": "1st"
+    },
+    {
+     "name": "Sanjiv Jajodia",
+     "role": "Whole-time Director",
+     "relation": "Son of Keshar Deo; brother of Rajiv",
+     "generation": "2nd"
+    },
+    {
+     "name": "Rajiv Jajodia",
+     "role": "Director",
+     "relation": "Brother of Sanjiv",
+     "generation": "2nd"
+    },
+    {
+     "name": "Aditya Jajodia",
+     "role": "Chairman & MD",
+     "relation": "Nephew of Sanjiv and Rajiv",
+     "generation": "3rd"
+    },
+    {
+     "name": "Gaurav Jajodia",
+     "role": "Director",
+     "relation": "Nephew of Sanjiv and Rajiv; brother of Aditya (inferred)",
+     "generation": "3rd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Jai Balaji Industries Ltd",
+     "listed": "yes",
+     "chain_stage": "Sponge iron, pig iron, ferro alloys, billets, TMT, DI pipes, captive power (product list to verify)",
+     "state": "West Bengal (Durgapur), Chhattisgarh",
+     "ownership_note": "Jai Balaji Jyoti Steels merged earlier"
+    }
+   ],
+   "chain_summary": "Integrated except ore: sponge and pig iron to ferro alloys, billets, TMT and pipes (product list from general knowledge; verify).",
+   "splits_disputes": "Earlier debt restructuring; none on family.",
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7b86c78e-ab53-4c5c-b20a-67b4561b4b83.pdf"
+   ],
+   "certainty": "High"
+  },
+  {
+   "group": "VISA group",
+   "family": "Saran / Agarwal family",
+   "decision_office": "Kolkata",
+   "control_summary": "Vishambhar Saran (Chairman) and his son Vishal Agarwal (Vice Chairman & MD) [fact]. VISA Steel renamed VISA Chrome after selling or losing the special-steel business.",
+   "people": [
+    {
+     "name": "Vishambhar Saran",
+     "role": "Chairman",
+     "relation": "Father of Vishal",
+     "generation": "1st"
+    },
+    {
+     "name": "Vishal Agarwal",
+     "role": "Vice Chairman & MD",
+     "relation": "Son of Vishambhar Saran",
+     "generation": "2nd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "VISA Chrome Ltd (formerly VISA Steel)",
+     "listed": "yes",
+     "chain_stage": "High-carbon ferro chrome, coke",
+     "state": "Odisha (Kalinganagar, Jajpur)",
+     "ownership_note": ""
+    },
+    {
+     "name": "VISA Steel Holdings Ltd (formerly VISA Ferro Chrome); Kalinganagar Chrome Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Group holding / chrome",
+     "state": "Odisha",
+     "ownership_note": ""
+    },
+    {
+     "name": "VISA Special Steel Ltd",
+     "listed": "no",
+     "chain_stage": "Former special steel unit (Chhattisgarh), divested",
+     "state": "Chhattisgarh",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Ferro chrome and coke; special steel exited.",
+   "splits_disputes": "Long debt stress; none on family.",
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/32a051c4-574c-468e-94b7-900f6dc77f37.pdf"
+   ],
+   "certainty": "High"
+  },
+  {
+   "group": "Ramkrishna Forgings group",
+   "family": "Jalan family",
+   "decision_office": "Kolkata",
+   "control_summary": "Mahabir Prasad Jalan (Chairman Emeritus) is father of Naresh Jalan (MD), who is father of Chaitanya Jalan (WTD) [fact].",
+   "people": [
+    {
+     "name": "Mahabir Prasad Jalan",
+     "role": "Chairman Emeritus",
+     "relation": "Father of Naresh",
+     "generation": "1st"
+    },
+    {
+     "name": "Naresh Jalan",
+     "role": "Managing Director",
+     "relation": "Son of M.P. Jalan",
+     "generation": "2nd"
+    },
+    {
+     "name": "Chaitanya Jalan",
+     "role": "Whole-time Director",
+     "relation": "Son of Naresh",
+     "generation": "3rd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ramkrishna Forgings Ltd",
+     "listed": "yes",
+     "chain_stage": "Forgings, auto and rail components",
+     "state": "Jharkhand (Jamshedpur, Saraikela), West Bengal (Liluah)",
+     "ownership_note": ""
+    },
+    {
+     "name": "Ramkrishna Titagarh Rail Wheels Ltd",
+     "listed": "no",
+     "chain_stage": "Rail wheels JV",
+     "state": "Tamil Nadu (to verify)",
+     "ownership_note": "With Titagarh"
+    },
+    {
+     "name": "ACIL, Multitech Auto, Mal Metalliks",
+     "listed": "no",
+     "chain_stage": "Machining, castings",
+     "state": "various",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Buys steel bars; forging and machining for auto, rail, oil and gas.",
+   "splits_disputes": "None.",
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fb1d65c3-9f41-4dd2-bdcd-bb49fca4e064.pdf"
+   ],
+   "certainty": "High"
+  },
+  {
+   "group": "Patni group (Ankit Metal, Impex Ferro Tech, Rohit Ferro-Tech)",
+   "family": "Patni family",
+   "decision_office": "Kolkata",
+   "control_summary": "Suresh Kumar Patni, Rohit Patni, Ankit Patni and Sarita Patni gave personal guarantees as promoters of Ankit Metal [fact, FY23 AR]. Group companies are in insolvency (Ankit Metal: CIRP petitions; Impex Ferro Tech: CIRP from 2 May 2024; Rohit Ferro-Tech: liquidation). Current boards are led by professionals (Subham Bhagat).",
+   "people": [
+    {
+     "name": "Suresh Kumar Patni",
+     "role": "Promoter / guarantor",
+     "relation": "Head of family",
+     "generation": "1st"
+    },
+    {
+     "name": "Rohit Patni",
+     "role": "Promoter / guarantor",
+     "relation": "Family",
+     "generation": "2nd"
+    },
+    {
+     "name": "Ankit Patni",
+     "role": "Former CMD Ankit Metal",
+     "relation": "Family",
+     "generation": "2nd"
+    },
+    {
+     "name": "Sarita Patni",
+     "role": "Promoter / guarantor",
+     "relation": "Family",
+     "generation": "?"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ankit Metal & Power Ltd",
+     "listed": "yes",
+     "chain_stage": "Sponge iron, billets, TMT, power",
+     "state": "West Bengal (Bankura)",
+     "ownership_note": "Under insolvency process"
+    },
+    {
+     "name": "Impex Ferro Tech Ltd",
+     "listed": "yes",
+     "chain_stage": "Ferro alloys",
+     "state": "West Bengal",
+     "ownership_note": "CIRP"
+    },
+    {
+     "name": "Rohit Ferro-Tech Ltd",
+     "listed": "yes (suspended)",
+     "chain_stage": "Ferro alloys",
+     "state": "West Bengal / Odisha",
+     "ownership_note": "Liquidation"
+    },
+    {
+     "name": "Impex Metal & Ferro Alloys Ltd",
+     "listed": "no (merged into Maithan Alloys)",
+     "chain_stage": "Ferro alloys (Bobbili)",
+     "state": "Andhra Pradesh",
+     "ownership_note": "Lost under insolvency"
+    }
+   ],
+   "chain_summary": "Former ferro-alloy and long-steel group; assets passing to other owners through insolvency.",
+   "splits_disputes": "Insolvency of most companies.",
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f807fe05-0207-4963-bdbe-e916cf3960c2.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/caf508a9-19ca-46f4-bb24-c71f49e434a9.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/95e8dd4c-36a5-4871-b230-a5306b53a615.pdf"
+   ],
+   "certainty": "Medium (current promoter status not checked)"
+  },
+  {
+   "group": "B.C. Jindal group (Jindal India)",
+   "family": "Jindal family (B.C. Jindal line)",
+   "decision_office": "New Delhi; Jindal India run from Kolkata",
+   "control_summary": "B.C. (Bhavi Chand) Jindal was a brother of O.P. Jindal; his son Shyam Sunder Jindal and grandson Bhavesh Jindal control the group through holding companies and trusts [reported, Business Standard 2017; Wikipedia on Devi Sahai Jindal]. The O.P. Jindal sons' groups (JSW, Jindal Steel, Jindal Stainless, Jindal Saw) are separate.",
+   "people": [
+    {
+     "name": "B.C. (Bhavi Chand) Jindal",
+     "role": "Founder",
+     "relation": "Brother of O.P. Jindal",
+     "generation": "1st"
+    },
+    {
+     "name": "Shyam Sunder Jindal",
+     "role": "Promoter",
+     "relation": "Son of B.C. Jindal",
+     "generation": "2nd"
+    },
+    {
+     "name": "Bhavesh Jindal",
+     "role": "Promoter family",
+     "relation": "Grandson of B.C. Jindal",
+     "generation": "3rd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Jindal (India) Ltd",
+     "listed": "no",
+     "chain_stage": "Galvanised and colour-coated sheets, pipes; new coating line",
+     "state": "West Bengal (Howrah area)",
+     "ownership_note": ""
+    },
+    {
+     "name": "Jindal India Power Ltd (ex-Jindal India Thermal Power)",
+     "listed": "no",
+     "chain_stage": "Thermal power",
+     "state": "Odisha (to verify)",
+     "ownership_note": ""
+    },
+    {
+     "name": "Jindal Poly Films Ltd; Jindal Poly Investment & Finance",
+     "listed": "yes",
+     "chain_stage": "Films; holding company",
+     "state": "Maharashtra / Delhi",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Buys HR coil; downstream coating and pipes in West Bengal. Separate thermal power company in Odisha.",
+   "splits_disputes": "ED searches (FEMA) on B.C. Jindal group companies, Sept 2025 (allegation).",
+   "sources": [
+    "https://www.business-standard.com/article/companies/tale-of-incomplete-disclosures-behind-jindals-49-stake-in-jpfl-dutch-arm-117072800486_1.html",
+    "https://en.wikipedia.org/wiki/Devi_Sahai_Jindal",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c5ec1720-4350-4f08-b3ac-71b806be1e94.pdf",
+    "https://www.enforcementdirectorate.gov.in/media/press-release-documents/e2d0a1a3-a053-4f9f-87dc-022e8c578f0b_Press%20Release-Search-%20BC%20Jindal%2024.09.2025.pdf"
+   ],
+   "certainty": "Medium (press)"
+  },
+  {
+   "group": "Tega group",
+   "family": "Mohanka family",
+   "decision_office": "Kolkata",
+   "control_summary": "Madan Mohan Mohanka (Executive Chairman) is father of Mehul Mohanka (MD & Group CEO) [fact].",
+   "people": [
+    {
+     "name": "Madan Mohan Mohanka",
+     "role": "Executive Chairman",
+     "relation": "Father of Mehul",
+     "generation": "1st"
+    },
+    {
+     "name": "Mehul Mohanka",
+     "role": "MD & Group CEO",
+     "relation": "Son of M.M. Mohanka",
+     "generation": "2nd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Tega Industries Ltd",
+     "listed": "yes",
+     "chain_stage": "Mining consumables (mill liners); equipment via McNally Sayaji; Molycop grinding media (with Apollo funds, 2026)",
+     "state": "West Bengal, Gujarat, overseas",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Supplier to metals and mining (consumables, not steel making).",
+   "splits_disputes": "None found.",
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/044b03ab-584b-4944-8346-d1c5e012972c.pdf"
+   ],
+   "certainty": "High (filing)"
+  },
+  {
+   "group": "Himadri group",
+   "family": "Choudhary family",
+   "decision_office": "Kolkata",
+   "control_summary": "Shyam Sundar Choudhary is father of Anurag (Chairman, MD & CEO) and Amit Choudhary [fact].",
+   "people": [
+    {
+     "name": "Shyam Sundar Choudhary",
+     "role": "Promoter director",
+     "relation": "Father of Anurag and Amit",
+     "generation": "1st"
+    },
+    {
+     "name": "Anurag Choudhary",
+     "role": "Chairman, MD & CEO",
+     "relation": "Son of S.S. Choudhary",
+     "generation": "2nd"
+    },
+    {
+     "name": "Amit Choudhary",
+     "role": "Promoter, Executive Director",
+     "relation": "Son of S.S. Choudhary",
+     "generation": "2nd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Himadri Speciality Chemical Ltd",
+     "listed": "yes",
+     "chain_stage": "Coal tar pitch for aluminium smelters, carbon black, battery materials",
+     "state": "West Bengal, Odisha, Andhra Pradesh",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Supplier to metals and mining (consumables, not steel making).",
+   "splits_disputes": "None found.",
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8cbe5c4e-369b-466b-8197-fbebde03cb8c.pdf"
+   ],
+   "certainty": "High (filing)"
+  },
+  {
+   "group": "K.K. Bangur group (Graphite India)",
+   "family": "Bangur family",
+   "decision_office": "Kolkata",
+   "control_summary": "K.K. Bangur (Chairman); son S. Bangur in the company [fact].",
+   "people": [
+    {
+     "name": "K.K. Bangur",
+     "role": "Chairman",
+     "relation": "Father of S. Bangur",
+     "generation": "1st"
+    },
+    {
+     "name": "S. Bangur",
+     "role": "Executive",
+     "relation": "Son of K.K. Bangur",
+     "generation": "2nd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "Graphite India Ltd",
+     "listed": "yes",
+     "chain_stage": "Graphite electrodes for electric arc furnaces",
+     "state": "West Bengal (Durgapur) and others (to verify)",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Supplier to metals and mining (consumables, not steel making).",
+   "splits_disputes": "None found.",
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/05906612-3e23-4372-a823-6772a01ba067.pdf"
+   ],
+   "certainty": "High (filing)"
+  },
+  {
+   "group": "S.K. Bajoria group (IFGL)",
+   "family": "Bajoria family",
+   "decision_office": "Kolkata",
+   "control_summary": "Shishir Bajoria (Executive Chairman) is father of M.P. Bajoria; wife Smita Bajoria [fact].",
+   "people": [
+    {
+     "name": "Shishir K. Bajoria",
+     "role": "Executive Chairman",
+     "relation": "Father of M.P. Bajoria",
+     "generation": "1st"
+    },
+    {
+     "name": "M.P. Bajoria",
+     "role": "Executive Director",
+     "relation": "Son of Shishir",
+     "generation": "2nd"
+    }
+   ],
+   "companies": [
+    {
+     "name": "IFGL Refractories Ltd",
+     "listed": "yes",
+     "chain_stage": "Steel-plant refractories",
+     "state": "Odisha and West Bengal (to verify); UK, Germany subsidiaries",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "Supplier to metals and mining (consumables, not steel making).",
+   "splits_disputes": "None found.",
+   "sources": [
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e40d6334-4c7e-4aa8-8ae4-5cc1ec2bdfc6.pdf"
+   ],
+   "certainty": "High (filing)"
+  },
+  {
+   "group": "AIC group (N N Ispat, AIC Iron, RAIC)",
+   "family": "Adukia family",
+   "decision_office": "Kolkata",
+   "control_summary": "Gyan and Dinesh Adukia as directors (from input list; not re-verified in this pass).",
+   "people": [],
+   "companies": [
+    {
+     "name": "N N Ispat Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Steel",
+     "state": "to verify",
+     "ownership_note": ""
+    },
+    {
+     "name": "AIC Iron Industries Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Steel",
+     "state": "to verify",
+     "ownership_note": ""
+    },
+    {
+     "name": "RAIC Integrated Sponge and Power Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Sponge iron, power",
+     "state": "to verify",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "",
+   "splits_disputes": "",
+   "sources": [],
+   "certainty": "Low (not researched in this pass)"
+  },
+  {
+   "group": "Topworth group",
+   "family": "Atha and Misra families",
+   "decision_office": "Kolkata",
+   "control_summary": "Two families co-own (from input list; not re-verified).",
+   "people": [],
+   "companies": [
+    {
+     "name": "Topworth Steels & Power Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Steel",
+     "state": "to verify",
+     "ownership_note": ""
+    },
+    {
+     "name": "Amalgam Steel Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Steel",
+     "state": "to verify",
+     "ownership_note": ""
+    },
+    {
+     "name": "Narbheram Power and Steel Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Sponge iron, billets",
+     "state": "Odisha",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "",
+   "splits_disputes": "",
+   "sources": [],
+   "certainty": "Low (not researched in this pass)"
+  },
+  {
+   "group": "Berry Alloys",
+   "family": "Vijay Gupta",
+   "decision_office": "Kolkata",
+   "control_summary": "Founder-led (from input list; not re-verified).",
+   "people": [],
+   "companies": [
+    {
+     "name": "Berry Alloys Ltd",
+     "listed": "no",
+     "chain_stage": "Ferro alloys",
+     "state": "to verify",
+     "ownership_note": ""
+    },
+    {
+     "name": "Gajanan Ferro Pvt Ltd",
+     "listed": "no",
+     "chain_stage": "Ferro alloys",
+     "state": "to verify",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "",
+   "splits_disputes": "",
+   "sources": [],
+   "certainty": "Low (not researched in this pass)"
+  },
+  {
+   "group": "Essel Mining (Aditya Birla group)",
+   "family": "Birla family (Kumar Mangalam Birla)",
+   "decision_office": "Kolkata",
+   "control_summary": "Aditya Birla group captive miner; one line only.",
+   "people": [],
+   "companies": [
+    {
+     "name": "Essel Mining & Industries Ltd",
+     "listed": "no",
+     "chain_stage": "Iron ore mining, coal",
+     "state": "Odisha / Jharkhand",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "",
+   "splits_disputes": "",
+   "sources": [],
+   "certainty": "High (one-line)"
+  },
+  {
+   "group": "Lalbaba Engineering",
+   "family": "not verified",
+   "decision_office": "Kolkata",
+   "control_summary": "Promoters not identified.",
+   "people": [],
+   "companies": [
+    {
+     "name": "Lalbaba Engineering Ltd",
+     "listed": "no",
+     "chain_stage": "to verify",
+     "state": "West Bengal",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "",
+   "splits_disputes": "",
+   "sources": [],
+   "certainty": "Low (not researched in this pass)"
+  },
+  {
+   "group": "Coal India / Hindustan Copper / Vesuvius India",
+   "family": "Government of India / Vesuvius plc",
+   "decision_office": "Kolkata",
+   "control_summary": "Coal India (~63%) and Hindustan Copper (~66%) are Government of India PSUs; Vesuvius India is ~56% held by Vesuvius plc (UK). No family promoter.",
+   "people": [],
+   "companies": [
+    {
+     "name": "Coal India Ltd",
+     "listed": "yes",
+     "chain_stage": "Coal mining",
+     "state": "Multiple",
+     "ownership_note": ""
+    },
+    {
+     "name": "Hindustan Copper Ltd",
+     "listed": "yes",
+     "chain_stage": "Copper mining and smelting",
+     "state": "Jharkhand, Rajasthan, MP",
+     "ownership_note": ""
+    },
+    {
+     "name": "Vesuvius India Ltd",
+     "listed": "yes",
+     "chain_stage": "Refractories",
+     "state": "West Bengal",
+     "ownership_note": ""
+    }
+   ],
+   "chain_summary": "",
+   "splits_disputes": "",
+   "sources": [],
+   "certainty": "High (one-line)"
+  }
+ ],
+ "links": [
+  {
+   "from_group": "Manaksia group (pre-2013 single group; now four listed companies)",
+   "to_group": "Manaksia group (pre-2013 single group; now four listed companies)",
+   "type": "split",
+   "description": "2013 court-approved demerger split one listed company into four, each controlled by one family line: Manaksia Ltd and Manaksia Steels (Suresh Kumar and Basudeo Agrawal; Varun), Manaksia Coated Metals (Sushil Kumar Agrawal and sons), Manaksia Aluminium (Sunil Kumar Agrawal and son). Basant Kumar Agrawal (pre-split MD) took Manaksia Industries (reported).",
+   "source": "https://www.bseindia.com/HIS_ANN_RPT/HISTANNR/2014/MANAKSIA_ALLUMINIUM_CO_LTD-539045-MARCH-2014.PDF",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "Manaksia group (pre-2013 single group; now four listed companies)",
+   "to_group": "MSP group",
+   "type": "shared ancestry",
+   "description": "No link found. MSP's Suresh Kumar Agrawal (wife Nisha, son Pranay) is a different person from Manaksia's Suresh Kumar Agrawal (son Varun). No cross-holdings or related-party entries in either FY26 annual report.",
+   "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/099ef7fb-0cc4-4340-b7eb-7ea483a45595.pdf",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "Maithan Alloys group",
+   "to_group": "Maithan Steel & Power",
+   "type": "shared ancestry",
+   "description": "Both Asansol-based Agarwalla families with the same 'Maithan' name. Maithan Steel & Power is not a related party in Maithan Alloys' FY26 annual report. An independent analyst reported it among related parties in earlier years (not checked). Kinship between S.C. Agarwalla and B.K. Agarwalla is not established.",
+   "source": "https://www.drvijaymalik.com/maithan-alloys-limited-equity-research-report-analysis/",
+   "certainty": "inferred"
+  },
+  {
+   "from_group": "Patni group (Ankit Metal, Impex Ferro Tech, Rohit Ferro-Tech)",
+   "to_group": "Maithan Alloys group",
+   "type": "asset transfer",
+   "description": "Impex Metal & Ferro Alloys (Bobbili, Andhra Pradesh) was acquired by Maithan Alloys and merged. The Maithan filing confirms the merger; that Impex Metal belonged to the Patni group comes from the input list.",
+   "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/95e8dd4c-36a5-4871-b230-a5306b53a615.pdf",
+   "certainty": "inferred"
+  },
+  {
+   "from_group": "Shyam Steel group",
+   "to_group": "SRMB group",
+   "type": "shared ancestry",
+   "description": "Both are Beriwala families. A company submission for environmental clearance states that Brij Mohan Beriwala (SRMB) 'has a family background and associated with steel business Shyam Steel Industries'. The exact kinship of Radha Kishan Beriwala to Shriram / Shyam Sunder Beriwala is not stated.",
+   "source": "https://environmentclearance.nic.in/ (SRMB Srijan clearance document)",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Shyam Steel group",
+   "to_group": "Shyam Steel group",
+   "type": "split",
+   "description": "Inside Shyam Steel, ownership is split about 58:42 between Shyam Sunder Beriwala's sons (Group A) and Shriram Beriwala's sons (Group B). Reported from DRHP and notices via search; documents not opened.",
+   "source": "https://www.axiscapital.co.in/public/contents/Shyam-Steel-Industries-Limited-DRHP-1.pdf",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Shyam Metalics group",
+   "to_group": "Shyam Steel group",
+   "type": "shared ancestry",
+   "description": "No link found. Same 'Shyam' brand word, but different surnames (Agarwal vs Beriwala) and no related-party entries.",
+   "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/08f7bbef-7200-4d63-b9e2-0448e2848832.pdf",
+   "certainty": "inferred"
+  },
+  {
+   "from_group": "Skipper (S.K. Bansal group)",
+   "to_group": "BMW Industries",
+   "type": "shared ancestry",
+   "description": "Skipper names the late Sadhuram Bansal as its founder, and a 1984 Supreme Court record shows Sajan Kumar Bansal acting as his son. BMW's Ram Gopal, Harsh and Vivek Bansal are directors of 'Sadhuram Bansal & Sons Ltd'. This points to shared ancestry (possibly Ram Gopal and Sajan as brothers), but no filing states it and neither annual report lists the other as a related party.",
+   "source": "https://indiankanoon.org/doc/1100200/ ; https://www.bseindia.com/xml-data/corpfiling/AttachHis/6f244c3b-d4d5-43c3-b8e1-4c4b95439490.pdf",
+   "certainty": "inferred"
+  },
+  {
+   "from_group": "Super Smelters / Sai group",
+   "to_group": "Super Smelters / Sai group",
+   "type": "split",
+   "description": "Supershakti Metaliks and Sai Electrocasting demerged from Super Smelters in Aug 2016. Supershakti buys sponge iron from SSL and Giridhan, holds ~21% of Giridhan and lends to it.",
+   "source": "https://www.careratings.com/upload/CompanyFiles/PR/202507140720_Supershakti_Metaliks_Limited.pdf",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "Gagan group",
+   "to_group": "Shakambhari group",
+   "type": "shared ancestry",
+   "description": "Possible overlap only. Gagan Ferrotech was co-founded by Deepak Agarwal and Vinay Kumar Agarwal (friends; Deepak exited). Shakambhari's lead promoter is also a Deepak Agarwal, and a Gagan company is called 'Shakambhari Overseas Trades'. No source says they are the same person; the rating agency treats Shakambhari Overseas as part of Gagan, not Shakambhari. Super Smelters also has a Deepak Kumar Agarwal (son of Sitaram). Treat as unresolved name collision.",
+   "source": "https://www.careratings.com/upload/CompanyFiles/PR/Gajanan%20Iron%20Private%20limited-12-25-2019.pdf",
+   "certainty": "inferred"
+  },
+  {
+   "from_group": "Neo Metaliks (Rupa group)",
+   "to_group": "Neo Metaliks (Rupa group)",
+   "type": "shared ancestry",
+   "description": "Neo Metaliks is owned by the Rupa & Co hosiery family (P.R., K.B., G.P. Agarwal), not a separate steel family. Earlier JV with the Madhogaria family (exited FY05).",
+   "source": "https://www.careratings.com/upload/CompanyFiles/PR/202512141237_Neo_Metaliks_Limited.pdf",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "Usha Martin group",
+   "to_group": "Usha Martin group",
+   "type": "dispute",
+   "description": "Brij Kishore/Rajeev branch and Basant Kumar/Prashant branch (brothers, then cousins) held equal ~25.5% under a 2009 shareholders' agreement. Feud since 2017: Prashant removed as chairman (2017), Basant voted off (2019), petitions before High Court and NCLT. Basant/Prashant side selling down via Peterhouse entities.",
+   "source": "https://www.business-standard.com/article/companies/shareholders-deal-between-families-flouted-usha-martin-s-basant-jhawar-119040101287_1.html",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Usha Martin group",
+   "to_group": "Tata Steel (outside list)",
+   "type": "asset transfer",
+   "description": "Usha Martin's steel business (Jamshedpur) sold to Tata Steel (via Tata Sponge Iron) in 2019. Both family branches voted for it.",
+   "source": "https://www.business-standard.com/article/companies/basant-prashant-jhawar-to-vote-in-favour-of-usha-martin-sale-to-tata-steel-118102900315_1.html",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "Electrosteel group",
+   "to_group": "Vedanta (outside list)",
+   "type": "asset transfer",
+   "description": "Electrosteel Steels (Bokaro), promoted by Electrosteel Castings (45.23% stake in 2014), went through insolvency. Vedanta took ~90% in June 2018 for about Rs 5,320 crore; now ESL Steel.",
+   "source": "https://www.business-standard.com/article/companies/vedanta-enters-steel-with-acquisition-of-electrosteel-steels-to-hold-90-118060401085_1.html",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "B.C. Jindal group (Jindal India)",
+   "to_group": "O.P. Jindal family (outside list)",
+   "type": "shared ancestry",
+   "description": "B.C. Jindal was a brother of O.P. Jindal. Separate groups since the founding generation; no cross-holding known.",
+   "source": "https://www.business-standard.com/article/companies/tale-of-incomplete-disclosures-behind-jindals-49-stake-in-jpfl-dutch-arm-117072800486_1.html",
+   "certainty": "reported"
+  },
+  {
+   "from_group": "SRMB group",
+   "to_group": "Sethia and Agarwal families of Odisha (outside list)",
+   "type": "asset transfer",
+   "description": "SRMB sold Bhaskar Steel & Ferro Alloys (Rourkela) in Sept 2021.",
+   "source": "https://www.acuite.in/documents/ratings/revised/29430-RR-20231227.pdf",
+   "certainty": "verified"
+  },
+  {
+   "from_group": "Rashmi group",
+   "to_group": "Rashmi group",
+   "type": "asset transfer",
+   "description": "Rashmi Metaliks sold assets to Orissa Metaliks from FY2016 and demerged units into it in Jan 2017. OMPL is now the ultimate parent.",
+   "source": "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/OrissaAlloySteelPrivateLimited_April%2007_%202025_RR_366302.html",
+   "certainty": "verified"
+  }
+ ]
+}

@@ -1,0 +1,1644 @@
+[
+ {
+  "name": "Coal India Ltd",
+  "exchange": "both",
+  "segment": "Coal mining (central PSU, Maharatna)",
+  "revenue_inr_cr": 168400,
+  "revenue_year": "FY26 (Mar 2026)",
+  "reg_office": "3rd Floor, Core-2, Premises 04-MAR, Plot AF-III, Action Area 1A, New Town (Rajarhat), Kolkata, West Bengal",
+  "decision_office": "Kolkata, West Bengal (registered and corporate office)",
+  "plants": [
+   {
+    "site": "Eastern Coalfields, Sanctoria/Raniganj",
+    "state": "West Bengal / Jharkhand",
+    "what": "coal mines (subsidiary ECL)"
+   },
+   {
+    "site": "Bharat Coking Coal, Dhanbad",
+    "state": "Jharkhand",
+    "what": "coking coal (BCCL)"
+   },
+   {
+    "site": "Central Coalfields, Ranchi",
+    "state": "Jharkhand",
+    "what": "coal"
+   },
+   {
+    "site": "Mahanadi Coalfields, Sambalpur",
+    "state": "Odisha",
+    "what": "coal"
+   },
+   {
+    "site": "South Eastern Coalfields, Bilaspur",
+    "state": "Chhattisgarh",
+    "what": "coal"
+   },
+   {
+    "site": "Northern Coalfields, Singrauli",
+    "state": "Madhya Pradesh",
+    "what": "coal"
+   },
+   {
+    "site": "Western Coalfields, Nagpur",
+    "state": "Maharashtra",
+    "what": "coal"
+   }
+  ],
+  "promoter_group": "Government of India (Ministry of Coal)",
+  "promoters": [
+   {
+    "name": "President of India through Ministry of Coal",
+    "role": "majority shareholder (~63%)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Eastern Coalfields Ltd",
+    "role_in_chain": "subsidiary, HQ Sanctoria WB",
+    "listed": "no"
+   },
+   {
+    "name": "Bharat Coking Coal Ltd",
+    "role_in_chain": "subsidiary, HQ Dhanbad",
+    "listed": "yes (listed 2026, to confirm)"
+   },
+   {
+    "name": "Central Mine Planning & Design Institute",
+    "role_in_chain": "subsidiary, Ranchi",
+    "listed": "no"
+   },
+   {
+    "name": "MCL, SECL, NCL, WCL, CCL",
+    "role_in_chain": "subsidiaries",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/COALINDIA/consolidated/",
+   "https://www.screener.in/company/COALINDIA/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0a545232-5986-454c-b936-70e14712b84e.pdf",
+   "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_153328_27042026204724_iXBRL_WEB.html",
+   "https://www.angelone.in/news/stocks/coal-india-fy26-results-profit-at-rs-31070-cr-dividend-declared"
+  ],
+  "certainty": "verified",
+  "notes": "Revenue basis differs across sources (one gives FY25 restated 1,43,369 cr). FY26 revenue from operations ~1,68,400 cr per NSE filing summary. Chairman name not re-verified; date-stamp before use. BCCL listing status to confirm.",
+  "category": "core",
+  "bse_code": "533278",
+  "nse_code": "COALINDIA",
+  "revenue_basis": "consolidated sales (screener; standalone 1,577 cr is holding-company only)",
+  "verification_note": "Revenue and BSE code confirmed on screener; registered office read from Annual Report 2026. Changed: reg_office: Coal Bhawan, New Town (Rajarhat), Kolkata, West Bengal -> 3rd Floor, Core-2, Premises 04-MAR, Plot AF-III, Action Area 1A, New Town (Rajarhat), Kolkata, West Bengal; decision_office: Kolkata, West Bengal -> Kolkata, West Bengal (registered and corporate office) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Hindustan Copper Ltd",
+  "exchange": "both",
+  "segment": "Copper mining and smelting (central PSU)",
+  "revenue_inr_cr": 3078,
+  "revenue_year": "FY26",
+  "reg_office": "Tamra Bhavan, 1 Ashutosh Chowdhury Avenue, Kolkata, West Bengal",
+  "decision_office": "Kolkata, West Bengal (registered and corporate office)",
+  "plants": [
+   {
+    "site": "Khetri Copper Complex",
+    "state": "Rajasthan",
+    "what": "mines, concentrator, smelter"
+   },
+   {
+    "site": "Indian Copper Complex, Ghatsila",
+    "state": "Jharkhand",
+    "what": "mines, concentrator"
+   },
+   {
+    "site": "Malanjkhand Copper Project",
+    "state": "Madhya Pradesh",
+    "what": "open-pit/underground mine"
+   },
+   {
+    "site": "Taloja Copper Project",
+    "state": "Maharashtra",
+    "what": "continuous cast copper rod"
+   },
+   {
+    "site": "Gujarat Copper Project, Jhagadia",
+    "state": "Gujarat",
+    "what": "smelter (idle)"
+   }
+  ],
+  "promoter_group": "Government of India (Ministry of Mines)",
+  "promoters": [
+   {
+    "name": "President of India through Ministry of Mines",
+    "role": "majority shareholder (~66%)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Khanij Bidesh India Ltd (KABIL)",
+    "role_in_chain": "JV for overseas critical minerals (with NALCO, MECL)",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/HINDCOPPER/consolidated/",
+   "https://www.screener.in/company/HINDCOPPER/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4606eebf-eb1e-4196-960b-8b3433a0d2f6.pdf",
+   "https://psuwatch.com/amp/story/newsupdates/hindustan-copper-nearly-doubles-pat-to-rs-92067-cr-in-fy26-q4-net-surges-133-on-strong-volumes",
+   "https://www.freepressjournal.in/business/hindustan-copper-q4-profit-jumps-133-to-444-crore-revenue-surges-to-1156-crore"
+  ],
+  "certainty": "verified",
+  "notes": "FY25 2,071 cr; FY26 3,078 cr. Office and plants from prior knowledge, not re-opened this session.",
+  "category": "core",
+  "bse_code": "513599",
+  "nse_code": "HINDCOPPER",
+  "revenue_basis": "consolidated sales (same as standalone)",
+  "verification_note": "Revenue confirmed (FY25 2,071; TTM 3,955). Office read from Annual Report 2026. Changed: decision_office: Kolkata, West Bengal -> Kolkata, West Bengal (registered and corporate office) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Shyam Metalics and Energy Ltd",
+  "exchange": "both",
+  "segment": "Integrated steel (pellet, DRI, billets, TMT/structurals), ferro alloys, aluminium foil, stainless",
+  "revenue_inr_cr": 18552,
+  "revenue_year": "FY26",
+  "reg_office": "P-19 (Plate D-403), Taratala Road, CPT Colony, Kolkata 700088, West Bengal",
+  "decision_office": "Kolkata, West Bengal (corporate office: SS Chambers, 5 CR Avenue, Kolkata 700072)",
+  "plants": [
+   {
+    "site": "Pandloi / Rengali, Sambalpur",
+    "state": "Odisha",
+    "what": "pellet, DRI, SMS, ferro alloys, power"
+   },
+   {
+    "site": "Jamuria, Paschim Bardhaman",
+    "state": "West Bengal",
+    "what": "DRI, billets, TMT, ferro alloys, power"
+   },
+   {
+    "site": "Mangalpur, Raniganj",
+    "state": "West Bengal",
+    "what": "steel, ferro alloys (ex-Shyam SEL)"
+   },
+   {
+    "site": "Kharagpur / Pakuria",
+    "state": "West Bengal",
+    "what": "structurals, aluminium foil, stainless (to verify)"
+   }
+  ],
+  "promoter_group": "Shyam group (Agarwal family)",
+  "promoters": [
+   {
+    "name": "Mahabir Prasad Agarwal",
+    "role": "Chairman"
+   },
+   {
+    "name": "Brij Bhushan Agarwal",
+    "role": "Vice Chairman & MD"
+   },
+   {
+    "name": "Sanjay Kumar Agarwal",
+    "role": "Joint MD"
+   },
+   {
+    "name": "Deepak Agarwal",
+    "role": "Whole-time Director"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Shyam SEL and Power Ltd",
+    "role_in_chain": "subsidiary (steel, aluminium foil), merged/held 100%",
+    "listed": "no"
+   },
+   {
+    "name": "Ramsarup Lohh Udyog Ltd",
+    "role_in_chain": "subsidiary, TMT/wire (WB)",
+    "listed": "no"
+   },
+   {
+    "name": "SMEL Steel Structurals Ltd",
+    "role_in_chain": "downstream structurals",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/SHYAMMETL/consolidated/",
+   "https://www.screener.in/company/SHYAMMETL/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/08f7bbef-7200-4d63-b9e2-0448e2848832.pdf",
+   "https://scanx.trade/stock-market-news/companies/shyam-metalics-energy-posts-strong-q4-results-approves-2-700-crore-expansion-plan/40031398",
+   "https://nsearchives.nseindia.com/corporate/SHYAMMETL_07082026105846_SmelAnnualReportFY202526.pdf"
+  ],
+  "certainty": "verified",
+  "notes": "FY25 ~15,138-15,159 cr. Board approved ~2,700 cr capex (FY26). Not to be confused with Shyam Steel Industries (Beriwala family, unlisted) or Shyam Century Ferrous (Century Ply group).",
+  "category": "core",
+  "bse_code": "543299",
+  "nse_code": "SHYAMMETL",
+  "revenue_basis": "consolidated sales (standalone 6,993)",
+  "verification_note": "Registered office has moved from Trinity Tower, 83 Topsia Road to Taratala Road (Annual Report 2026). Revenue confirmed. Changed: reg_office: Trinity Tower, 83 Topsia Road, Kolkata, West Bengal -> P-19 (Plate D-403), Taratala Road, CPT Colony, Kolkata 700088, West Bengal; decision_office: Kolkata, West Bengal -> Kolkata, West Bengal (corporate office: SS Chambers, 5 CR Avenue, Kolkata 700072) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Jai Balaji Industries Ltd",
+  "exchange": "both",
+  "segment": "Integrated secondary steel: sponge iron, pig iron, ferro alloys, billets, TMT, DI pipes",
+  "revenue_inr_cr": 5784,
+  "revenue_year": "FY26",
+  "reg_office": "5 Bentinck Street, 1st Floor, Kolkata 700001, West Bengal",
+  "decision_office": "Kolkata, West Bengal (corporate office 5C Hemanta Basu Sarani, Kolkata 700001; address read from scanned page)",
+  "plants": [
+   {
+    "site": "Durgapur (Units I-III, Banskopa, Mangalpur)",
+    "state": "West Bengal",
+    "what": "DRI, blast furnace, SMS, ferro alloys, DI pipe, TMT"
+   },
+   {
+    "site": "Raniganj / Durgapur area",
+    "state": "West Bengal",
+    "what": "sponge iron, ferro alloys"
+   }
+  ],
+  "promoter_group": "Jai Balaji group (Jajodia family)",
+  "promoters": [
+   {
+    "name": "Aditya Jajodia",
+    "role": "Chairman & MD"
+   },
+   {
+    "name": "Sanjiv Jajodia",
+    "role": "promoter director (to verify)"
+   },
+   {
+    "name": "Gourav Jajodia",
+    "role": "promoter director (to verify)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Jai Balaji Jyoti Steels Ltd",
+    "role_in_chain": "sister steel unit (merged earlier)",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/JAIBALAJI/consolidated/",
+   "https://www.screener.in/company/JAIBALAJI/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7b86c78e-ab53-4c5c-b20a-67b4561b4b83.pdf",
+   "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Jai-Balaji-Industries-FY26-Revenue-Falls-89percent-Profit-Down-767percent/6a1abc4dde28c5c0a9121a8a",
+   "https://www.investywise.com/?p=113373"
+  ],
+  "certainty": "verified",
+  "notes": "FY25 6,351 cr; FY26 5,784 cr (-8.9%), PAT down ~77%. Company stopped consolidated reporting after closure of subsidiaries/JVs. All plants believed to be in WB (verify).",
+  "category": "core",
+  "bse_code": "532976",
+  "nse_code": "JAIBALAJI",
+  "revenue_basis": "standalone sales (screener consolidated series ends FY25 at 6,351)",
+  "verification_note": "Revenue confirmed; FY26 is down from FY25 6,351. Changed: reg_office: 5 Bentinck Street, Kolkata, West Bengal -> 5 Bentinck Street, 1st Floor, Kolkata 700001, West Bengal; decision_office: Kolkata, West Bengal -> Kolkata, West Bengal (corporate office 5C Hemanta Basu Sarani, Kolkata 700001; address read from scanned page) Checked 23 Nov 2026."
+ },
+ {
+  "name": "MSP Steel & Power Ltd",
+  "exchange": "both",
+  "segment": "Integrated steel (pellet, DRI, blast furnace, billets, TMT, structurals), captive power",
+  "revenue_inr_cr": 2843,
+  "revenue_year": "FY26",
+  "reg_office": "South City Business Park, 10th Floor, 770 Anandapur, EM Bypass, Kolkata 700107, West Bengal",
+  "decision_office": "Kolkata, West Bengal (registered and corporate office)",
+  "plants": [
+   {
+    "site": "Jamgaon, Raigarh",
+    "state": "Chhattisgarh",
+    "what": "pellet, DRI, mini blast furnace, SMS, rolling, power"
+   }
+  ],
+  "promoter_group": "MSP group (Agrawal family)",
+  "promoters": [
+   {
+    "name": "Suresh Kumar Agrawal",
+    "role": "Non-executive Chairman"
+   },
+   {
+    "name": "Saket Agrawal",
+    "role": "Joint MD"
+   },
+   {
+    "name": "Puran Mal Agrawal",
+    "role": "founder promoter"
+   },
+   {
+    "name": "Manish Agrawal",
+    "role": "promoter"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "MSP Metallics Ltd",
+    "role_in_chain": "group pellet/steel company",
+    "listed": "no"
+   },
+   {
+    "name": "MSP Cement Ltd",
+    "role_in_chain": "group company",
+    "listed": "no"
+   },
+   {
+    "name": "MSP Sponge Iron / MSP Power / MSP Energy",
+    "role_in_chain": "group companies",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/MSPL/consolidated/",
+   "https://www.screener.in/company/MSPL/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/099ef7fb-0cc4-4340-b7eb-7ea483a45595.pdf",
+   "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_165094_30052026210904_iXBRL_WEB.html",
+   "https://scanx.trade/stock-market-news/companies/msp-steel-board-to-consider-q4fy26-results-on-may-30/41438306",
+   "https://gem.wiki/MSP_Steel_%26_Power_Raigarh_plant"
+  ],
+  "certainty": "verified",
+  "notes": "Missing from your expected list. Decision office Kolkata but all capacity in Chhattisgarh; returned to profit FY26 (PAT ~34 cr) and approved ~500 cr expansion; Chhattisgarh HC stayed a public hearing for expansion.",
+  "category": "core",
+  "bse_code": "532650",
+  "nse_code": "MSPL",
+  "revenue_basis": "consolidated sales (same as standalone)",
+  "verification_note": "Confirmed. Changed: reg_office: South City Business Park, 770 Anandapur, EM Bypass, Kolkata, West Bengal -> South City Business Park, 10th Floor, 770 Anandapur, EM Bypass, Kolkata 700107, West Bengal; decision_office: Kolkata, West Bengal -> Kolkata, West Bengal (registered and corporate office) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Electrosteel Castings Ltd",
+  "exchange": "both",
+  "segment": "Ductile iron pipes and fittings, pig iron, coke, cast iron",
+  "revenue_inr_cr": 5918,
+  "revenue_year": "FY26",
+  "reg_office": "Rathod Colony, Rajgangpur, Sundergarh, Odisha 770017",
+  "decision_office": "Kolkata, West Bengal (corporate office G.K. Tower, 19 Camac Street, Kolkata 700017)",
+  "plants": [
+   {
+    "site": "Khardah, North 24 Parganas",
+    "state": "West Bengal",
+    "what": "Unit 1: DI pipes, CI pipes"
+   },
+   {
+    "site": "Srikalahasthi, Tirupati district",
+    "state": "Andhra Pradesh",
+    "what": "Unit 2: integrated DI pipe works"
+   },
+   {
+    "site": "Kashberia, Haldia, Purba Medinipur",
+    "state": "West Bengal",
+    "what": "Unit 3"
+   },
+   {
+    "site": "Elavur, Gummidipoondi, Tiruvallur",
+    "state": "Tamil Nadu",
+    "what": "Unit 4"
+   },
+   {
+    "site": "Chak Bansberia, Hooghly",
+    "state": "West Bengal",
+    "what": "Unit 5"
+   },
+   {
+    "site": "Aradigunta, Punganuru, Chittoor",
+    "state": "Andhra Pradesh",
+    "what": "Unit 6"
+   }
+  ],
+  "promoter_group": "Electrosteel group (Kejriwal family)",
+  "promoters": [
+   {
+    "name": "Umang Kejriwal",
+    "role": "Managing Director"
+   },
+   {
+    "name": "Mayank Kejriwal",
+    "role": "Joint MD"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Srikalahasthi Pipes Ltd",
+    "role_in_chain": "downstream DI pipe, merged",
+    "listed": "no (merged)"
+   },
+   {
+    "name": "Electrosteel Europe / USA / Algeria",
+    "role_in_chain": "overseas distribution subsidiaries",
+    "listed": "no"
+   },
+   {
+    "name": "Electrosteel Steels Ltd",
+    "role_in_chain": "former upstream steel plant, now Vedanta-owned",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/ELECTCAST/consolidated/",
+   "https://www.screener.in/company/ELECTCAST/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/22e0f11b-6f4e-42f5-9121-c0db9a2924b5.pdf",
+   "https://quartr.com/events/electrosteel-castings-ltd-500128-q4-25-26_FO6gOwJe",
+   "https://www.investywise.com/?p=88126",
+   "https://www.electrosteel.com/document/Transcript-of-Investors-Concall-held-on-18-May-2026.pdf"
+  ],
+  "certainty": "verified",
+  "notes": "FY25 7,320 cr; FY26 5,918 cr (~-19%) on water-project (Jal Jeevan Mission) slowdown. Registered office believed to be Odisha while decision office is Kolkata: verify.",
+  "category": "core",
+  "bse_code": "500128",
+  "nse_code": "ELECTCAST",
+  "revenue_basis": "consolidated sales (standalone 5,033)",
+  "verification_note": "Registered office in Odisha confirmed; decisions from Kolkata corporate office. Six plants per Annual Report 2026. Changed: reg_office: Rathod Colony, Rajgangpur, Sundargarh, Odisha (to verify) -> Rathod Colony, Rajgangpur, Sundergarh, Odisha 770017; decision_office: G.K. Tower, 19 Camac Street, Kolkata, West Bengal -> Kolkata, West Bengal (corporate office G.K. Tower, 19 Camac Street, Kolkata 700017) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Usha Martin Ltd",
+  "exchange": "both",
+  "segment": "Wire ropes, specialty wire, LRPC strand, conveyor cords",
+  "revenue_inr_cr": 3691,
+  "revenue_year": "FY26",
+  "reg_office": "2A Shakespeare Sarani, Kolkata 700071, West Bengal",
+  "decision_office": "Kolkata, West Bengal (registered and corporate office)",
+  "plants": [
+   {
+    "site": "Tatisilwai, Ranchi",
+    "state": "Jharkhand",
+    "what": "wire ropes, wire"
+   },
+   {
+    "site": "Hoshiarpur",
+    "state": "Punjab",
+    "what": "wire, strand"
+   },
+   {
+    "site": "Silvassa",
+    "state": "Dadra and Nagar Haveli",
+    "what": "wire ropes"
+   },
+   {
+    "site": "Overseas: Bangkok (Thailand), Dubai (UAE), Worksop (UK)",
+    "state": "overseas",
+    "what": "wire ropes"
+   }
+  ],
+  "promoter_group": "Usha Martin group (Jhawar family)",
+  "promoters": [
+   {
+    "name": "Rajeev Jhawar",
+    "role": "Managing Director"
+   },
+   {
+    "name": "Brij Kishore Jhawar",
+    "role": "promoter / former chairman"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Usha Siam Steel Industries (Thailand)",
+    "role_in_chain": "downstream subsidiary",
+    "listed": "no"
+   },
+   {
+    "name": "Brunton Shaw UK / Brunton Wolf Wire Ropes (UAE)",
+    "role_in_chain": "downstream subsidiaries",
+    "listed": "no"
+   },
+   {
+    "name": "Usha Breco Ltd",
+    "role_in_chain": "ropeways, associate",
+    "listed": "no"
+   },
+   {
+    "name": "Tata Steel (ex-Usha Martin steel plant)",
+    "role_in_chain": "upstream steel sold in 2019",
+    "listed": "yes (unrelated now)"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/USHAMART/consolidated/",
+   "https://www.screener.in/company/USHAMART/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e2f24421-61a1-46a4-a48a-614d15d8ac47.pdf",
+   "https://scanx.trade/stock-market-news/companies/usha-martin-limited-reports-strong-fy26-financial-performance-with-375-dividend-recommendation/39089091",
+   "https://quartr.com/events/usha-martin-limited-517146-q4-25-26_F4MjkRQK"
+  ],
+  "certainty": "verified",
+  "notes": "FY25 3,474 cr; FY26 3,691 cr; debt-free. Long-running family dispute (Prashant Jhawar side) in courts.",
+  "category": "core",
+  "bse_code": "517146",
+  "nse_code": "USHAMART",
+  "revenue_basis": "consolidated sales (standalone 2,312)",
+  "verification_note": "Confirmed. BRSR: 3 national plants, 4 international (incl. subsidiaries). Changed: reg_office: 2A Shakespeare Sarani (Mangal Kalash), Kolkata, West Bengal -> 2A Shakespeare Sarani, Kolkata 700071, West Bengal; decision_office: Kolkata, West Bengal -> Kolkata, West Bengal (registered and corporate office) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Ramkrishna Forgings Ltd",
+  "exchange": "both",
+  "segment": "Forgings (auto, rail), rail wheels, castings",
+  "revenue_inr_cr": 4238,
+  "revenue_year": "FY26",
+  "reg_office": "23 Circus Avenue, Kolkata 700017, West Bengal",
+  "decision_office": "Kolkata, West Bengal (registered and corporate office)",
+  "plants": [
+   {
+    "site": "Gamaria and Adityapur Industrial Area, Jamshedpur",
+    "state": "Jharkhand",
+    "what": "Plants I, III, IV: forgings"
+   },
+   {
+    "site": "Liluah, Howrah",
+    "state": "West Bengal",
+    "what": "Plant II"
+   },
+   {
+    "site": "Baliguma/Kolabira, Dugni and Bholadih, Saraikela-Kharsawan",
+    "state": "Jharkhand",
+    "what": "Plants V to VIII"
+   }
+  ],
+  "promoter_group": "Ramkrishna group (Jalan family)",
+  "promoters": [
+   {
+    "name": "Mahabir Prasad Jalan",
+    "role": "Chairman"
+   },
+   {
+    "name": "Naresh Jalan",
+    "role": "Managing Director"
+   },
+   {
+    "name": "Chaitanya Jalan",
+    "role": "Whole-time Director"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Ramkrishna Titagarh Rail Wheels Ltd",
+    "role_in_chain": "JV, downstream rail wheels",
+    "listed": "no"
+   },
+   {
+    "name": "ACIL Ltd",
+    "role_in_chain": "subsidiary, auto components",
+    "listed": "no"
+   },
+   {
+    "name": "Multitech Auto / Mal Metalliks",
+    "role_in_chain": "subsidiaries, machining/castings",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/RKFORGE/consolidated/",
+   "https://www.screener.in/company/RKFORGE/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fb1d65c3-9f41-4dd2-bdcd-bb49fca4e064.pdf",
+   "https://www.investywise.com/?p=101362",
+   "https://www.freepressjournal.in/business/ramkrishna-forgings-q1-consolidated-net-profit-rises-to-4688-crore"
+  ],
+  "certainty": "verified",
+  "notes": "4,238 cr read from NSE filing summary (4,23,807.73 lakh); period not explicitly labelled in the result; verify. Most capacity in Jharkhand.",
+  "category": "core",
+  "bse_code": "532527",
+  "nse_code": "RKFORGE",
+  "revenue_basis": "consolidated sales (standalone 3,755)",
+  "verification_note": "Plant list replaced from Annual Report 2026: no Kolkata plant other than Liluah, Howrah. Changed: reg_office: 23 Circus Avenue, Kolkata, West Bengal -> 23 Circus Avenue, Kolkata 700017, West Bengal; decision_office: Kolkata, West Bengal -> Kolkata, West Bengal (registered and corporate office) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Skipper Ltd",
+  "exchange": "both",
+  "segment": "Transmission and telecom towers, steel structurals and tubes, EPC; polymer pipes",
+  "revenue_inr_cr": 5553,
+  "revenue_year": "FY26",
+  "reg_office": "3A Loudon Street, 1st Floor, Kolkata 700017, West Bengal",
+  "decision_office": "Kolkata, West Bengal (corporate office Tirumala, 22 East Topsia Road, 11th Floor, Kolkata 700046)",
+  "plants": [
+   {
+    "site": "Jangalpur, Howrah",
+    "state": "West Bengal",
+    "what": "towers, poles, BCTL unit"
+   },
+   {
+    "site": "Uluberia, Howrah",
+    "state": "West Bengal",
+    "what": "engineering products"
+   },
+   {
+    "site": "Bagnan, Howrah",
+    "state": "West Bengal",
+    "what": "per BRSR"
+   },
+   {
+    "site": "Palashbari, Kamrup Rural (Guwahati Units 1 and 2)",
+    "state": "Assam",
+    "what": "engineering/polymer"
+   }
+  ],
+  "promoter_group": "Skipper group (Bansal family)",
+  "promoters": [
+   {
+    "name": "Sajan Kumar Bansal",
+    "role": "Managing Director"
+   },
+   {
+    "name": "Sharan Bansal",
+    "role": "Whole-time Director"
+   },
+   {
+    "name": "Devesh Bansal",
+    "role": "Whole-time Director"
+   },
+   {
+    "name": "Siddharth Bansal",
+    "role": "Whole-time Director"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/SKIPPER/consolidated/",
+   "https://www.screener.in/company/SKIPPER/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/20deec22-ccc2-4b86-ab32-98840cb2b2a5.pdf",
+   "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Skipper-Ltd-Hits-Record-FY26-Revenue-of-indian-rupee5553-Cr-Profit-Surges-42percent/69f9a55bd87e3288bea8d9d3",
+   "https://themachinemaker.com/news/skipper-limited-delivers-record-breaking-fy26-performance/"
+  ],
+  "certainty": "verified",
+  "notes": "FY25 4,625 cr; FY26 5,553 cr; engineering products 4,359 cr. Order book 8,502 cr.",
+  "category": "core",
+  "bse_code": "538562",
+  "nse_code": "SKIPPER",
+  "revenue_basis": "consolidated sales (same as standalone)",
+  "verification_note": "BRSR: 5 plants at Jangalpur, Uluberia, Bagnan (Howrah) and Guwahati (2). Changed: reg_office: 3A Loudon Street, Kolkata, West Bengal -> 3A Loudon Street, 1st Floor, Kolkata 700017, West Bengal; decision_office: Kolkata, West Bengal -> Kolkata, West Bengal (corporate office Tirumala, 22 East Topsia Road, 11th Floor, Kolkata 700046) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Maithan Alloys Ltd",
+  "exchange": "both",
+  "segment": "Ferro alloys (ferro manganese, silico manganese, ferro silicon)",
+  "revenue_inr_cr": 2171,
+  "revenue_year": "FY26",
+  "reg_office": "Ideal Centre, 4th Floor, 9 AJC Bose Road, Kolkata 700017, West Bengal",
+  "decision_office": "Kolkata, West Bengal (registered and corporate office)",
+  "plants": [
+   {
+    "site": "Kalyaneshwari, Paschim Bardhaman",
+    "state": "West Bengal",
+    "what": "ferro alloys"
+   },
+   {
+    "site": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "what": "ferro alloys"
+   },
+   {
+    "site": "Bobbili",
+    "state": "Andhra Pradesh",
+    "what": "ferro alloys (ex-Impex unit, inferred)"
+   }
+  ],
+  "promoter_group": "Maithan group (Agarwalla family)",
+  "promoters": [
+   {
+    "name": "Subhas Chandra Agarwalla",
+    "role": "Chairman & MD"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Impex Metal & Ferro Alloys Ltd",
+    "role_in_chain": "acquired under insolvency, merged",
+    "listed": "no"
+   },
+   {
+    "name": "Anjaney Alloys Ltd",
+    "role_in_chain": "merged earlier",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/MAITHANALL/consolidated/",
+   "https://www.screener.in/company/MAITHANALL/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/95e8dd4c-36a5-4871-b230-a5306b53a615.pdf",
+   "https://www.maithanalloys.com/basic-stock-information/",
+   "https://anandrathi.com/stocks/maithan-alloys/financial-results/200556",
+   "https://univest.in/blogs/maithan-alloys-q4-fy26-results"
+  ],
+  "certainty": "verified",
+  "notes": "Standalone revised 2,189 cr after Impex merger. Large treasury income inflates PAT (~441 cr).",
+  "category": "core",
+  "bse_code": "590078",
+  "nse_code": "MAITHANALL",
+  "revenue_basis": "consolidated sales (standalone 2,187)",
+  "verification_note": "Byrnihat (Meghalaya) unit assets sold by agreement of 3 Oct 2025 (Annual Report 2026). Works now Kalyaneshwari, Visakhapatnam, Bobbili. Changed: revenue_inr_cr: 2173 -> 2171; reg_office: Ideal Centre, 9 AJC Bose Road, Kolkata, West Bengal -> Ideal Centre, 4th Floor, 9 AJC Bose Road, Kolkata 700017, West Bengal; decision_office: Kolkata, West Bengal -> Kolkata, West Bengal (registered and corporate office) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Manaksia Steels Ltd",
+  "exchange": "both",
+  "segment": "Cold rolled and coated steel (galvanised/colour coated)",
+  "revenue_inr_cr": 1131,
+  "revenue_year": "FY26",
+  "reg_office": "Turner Morrison Building, 6 Lyons Range, 1st Floor, Kolkata 700001, West Bengal",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Birsinghapur, Barjora, Bankura",
+    "state": "West Bengal",
+    "what": "manufacturing unit"
+   },
+   {
+    "site": "Bhuniaraichak, Haldia, Purba Medinipur",
+    "state": "West Bengal",
+    "what": "manufacturing unit"
+   }
+  ],
+  "promoter_group": "Manaksia group (Agrawal family)",
+  "promoters": [
+   {
+    "name": "Varun Agrawal",
+    "role": "Managing Director (to verify)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Manaksia Ltd",
+    "role_in_chain": "group company",
+    "listed": "yes"
+   },
+   {
+    "name": "Manaksia Coated Metals & Industries",
+    "role_in_chain": "group company",
+    "listed": "yes"
+   },
+   {
+    "name": "Manaksia Aluminium Co",
+    "role_in_chain": "group company",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/MANAKSTEEL/consolidated/",
+   "https://www.screener.in/company/MANAKSTEEL/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/574984b6-57e0-4511-b363-c5bb35f73045.pdf",
+   "https://insights.dsij.in/dsijarticledetail/manaksia-steels-share-price-locked-in-5-upper-circuit-after-fy26-results-revenue-jumps-78-yoy-id021-57314",
+   "https://www.sahi.com/news/manaksia-steels-net-profit-surges-247-to-22-6-crore-approves-800-crore-expansion-4296-PE1_COR"
+  ],
+  "certainty": "verified",
+  "notes": "FY25 634 cr; FY26 1,131 cr (+78%); board approved ~800 cr expansion. Plant location not confirmed this session.",
+  "category": "core",
+  "bse_code": "539044",
+  "nse_code": "MANAKSTEEL",
+  "revenue_basis": "consolidated sales (standalone 1,053)",
+  "verification_note": "Plants per Annual Report 2026. Changed: reg_office: Kolkata, West Bengal (to verify) -> Turner Morrison Building, 6 Lyons Range, 1st Floor, Kolkata 700001, West Bengal Checked 23 Nov 2026."
+ },
+ {
+  "name": "Manaksia Coated Metals & Industries Ltd",
+  "exchange": "both",
+  "segment": "Galvanised and colour coated steel sheets, mostly exports",
+  "revenue_inr_cr": 884,
+  "revenue_year": "FY26",
+  "reg_office": "Bikaner Building, 3rd Floor, 8/1 Lal Bazar Street, Kolkata 700001, West Bengal",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Bollaram, Sangareddy",
+    "state": "Telangana",
+    "what": "coated steel"
+   },
+   {
+    "site": "Mandideep, Raisen (Bhopal)",
+    "state": "Madhya Pradesh",
+    "what": "coated steel"
+   },
+   {
+    "site": "EPIP, Amingaon, Guwahati",
+    "state": "Assam",
+    "what": "coated steel"
+   },
+   {
+    "site": "Chandrani, Anjar, Kutch",
+    "state": "Gujarat",
+    "what": "coated steel"
+   }
+  ],
+  "promoter_group": "Manaksia group (Agrawal family)",
+  "promoters": [
+   {
+    "name": "Sushil Kumar Agrawal",
+    "role": "promoter / MD (to verify)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Manaksia Steels Ltd",
+    "role_in_chain": "sister, upstream CR/coated",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/MANAKCOAT/consolidated/",
+   "https://www.screener.in/company/MANAKCOAT/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3e1855ce-f42b-402f-9c1c-c6060517efc4.pdf",
+   "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Manaksia-Metals-Reports-Record-FY26-Revenue-Up-135percent-PAT-Jumps-164percent/6a01c1d7707d23e8444475f4",
+   "https://theprint.in/ani-press-releases/manaksia-coated-metals-industries-reports-rs790-cr-total-income-rs15-cr-net-profit-in-fy25/2626979"
+  ],
+  "certainty": "verified",
+  "notes": "FY25 790 cr; FY26 ~896 cr, exports ~68%. Some outlets call it 'Manaksia Metals': possible rename, verify.",
+  "category": "core",
+  "bse_code": "539046",
+  "nse_code": "MANAKCOAT",
+  "revenue_basis": "consolidated sales (same as standalone)",
+  "verification_note": "No Kalyani plant: plants are outside West Bengal per Annual Report 2026. Changed: revenue_inr_cr: 896 -> 884; reg_office: Kolkata, West Bengal -> Bikaner Building, 3rd Floor, 8/1 Lal Bazar Street, Kolkata 700001, West Bengal Checked 23 Nov 2026."
+ },
+ {
+  "name": "Manaksia Ltd",
+  "exchange": "both",
+  "segment": "Metal packaging (crown caps, tins), metal and steel trading; overseas manufacturing",
+  "revenue_inr_cr": 784,
+  "revenue_year": "FY26",
+  "reg_office": "Turner Morrison Building, 6 Lyons Range, 2nd Floor, Kolkata 700001, West Bengal",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Overseas units (Nigeria/Ghana, to verify)",
+    "state": "overseas",
+    "what": "metal packaging, steel products"
+   }
+  ],
+  "promoter_group": "Manaksia group (Agrawal family)",
+  "promoters": [
+   {
+    "name": "Suresh Kumar Agrawal",
+    "role": "Managing Director (to verify)"
+   },
+   {
+    "name": "Basudeo Agrawal",
+    "role": "patriarch / promoter (to verify)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Manaksia Steels",
+    "role_in_chain": "sister",
+    "listed": "yes"
+   },
+   {
+    "name": "Manaksia Aluminium",
+    "role_in_chain": "sister",
+    "listed": "yes"
+   },
+   {
+    "name": "Manaksia Coated Metals",
+    "role_in_chain": "sister",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/MANAKSIA/consolidated/",
+   "https://www.screener.in/company/MANAKSIA/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/020ddc3d-2b45-4e23-9037-28c831de7f4f.pdf",
+   "https://stockanalysis.com/quote/nse/MANAKSIA/revenue/",
+   "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Manaksia-Ltd-Posts-FY26-Results-Revenue-Up-726percent-Profit-Down-895percent/6a19c2c16ec823f1f292aa16"
+  ],
+  "certainty": "verified",
+  "notes": "Doubtful fit: largely packaging and trading. FY26 figure derived from reported +7.26% growth; confirm.",
+  "category": "core",
+  "bse_code": "532932",
+  "nse_code": "MANAKSIA",
+  "revenue_basis": "consolidated sales (standalone 173)",
+  "verification_note": "FY26 now an actual, not an estimate. Annual Report: the company is a trading company with no operative plant; operations sit in overseas subsidiaries (not checked). Changed: reg_office: Kolkata, West Bengal -> Turner Morrison Building, 6 Lyons Range, 2nd Floor, Kolkata 700001, West Bengal Checked 23 Nov 2026."
+ },
+ {
+  "name": "Manaksia Aluminium Company Ltd",
+  "exchange": "both",
+  "segment": "Aluminium rolled products (sheets, coils, foil stock)",
+  "revenue_inr_cr": 564,
+  "revenue_year": "FY26",
+  "reg_office": "Bikaner Building, 3rd Floor, 8/1 Lal Bazar Street, Kolkata 700001, West Bengal",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Bhuniraichak, Sutahata, Haldia",
+    "state": "West Bengal",
+    "what": "aluminium rolling"
+   },
+   {
+    "site": "Birsinghapur, Barjora, Bankura",
+    "state": "West Bengal",
+    "what": "aluminium"
+   }
+  ],
+  "promoter_group": "Manaksia group (Agrawal family)",
+  "promoters": [
+   {
+    "name": "Sunil Kumar Agrawal",
+    "role": "Chairman (to verify)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Manaksia Ltd / Steels / Coated Metals",
+    "role_in_chain": "sisters",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/MANAKALUCO/consolidated/",
+   "https://www.screener.in/company/MANAKALUCO/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/92641cf5-9971-474d-9464-6ba1e9f8ee20.pdf",
+   "https://www.alcircle.com/news/manaksia-aluminium-reports-25-rise-in-fy26-profit-as-revenue-exceeds-5-6b-and-cash-flow-strengthens-118373"
+  ],
+  "certainty": "verified",
+  "notes": "Total revenue (may include other income); FY25 510 cr. Borderline above 500 cr.",
+  "category": "core",
+  "bse_code": "539045",
+  "nse_code": "MANAKALUCO",
+  "revenue_basis": "sales (screener; consolidated from FY26)",
+  "verification_note": "Plants per Annual Report 2026. Changed: revenue_inr_cr: 565 -> 564; reg_office: Kolkata, West Bengal -> Bikaner Building, 3rd Floor, 8/1 Lal Bazar Street, Kolkata 700001, West Bengal Checked 23 Nov 2026."
+ },
+ {
+  "name": "BMW Industries Ltd",
+  "exchange": "BSE",
+  "segment": "Steel processing (CR, galvanising, TMT conversion, mostly for Tata Steel), tubes",
+  "revenue_inr_cr": 665,
+  "revenue_year": "FY26",
+  "reg_office": "119 Park Street, White House, 3rd Floor, Kolkata 700016, West Bengal",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Jamshedpur",
+    "state": "Jharkhand",
+    "what": "rolling, galvanising, conversion"
+   },
+   {
+    "site": "Bokaro",
+    "state": "Jharkhand",
+    "what": "new CR/galvanising complex (expansion)"
+   },
+   {
+    "site": "Other units (to verify)",
+    "state": "West Bengal / Jharkhand",
+    "what": "processing"
+   }
+  ],
+  "promoter_group": "BMW group (Bansal family)",
+  "promoters": [
+   {
+    "name": "Ram Gopal Bansal",
+    "role": "Chairman"
+   },
+   {
+    "name": "Harsh Kumar Bansal",
+    "role": "Managing Director"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/542669/consolidated/",
+   "https://www.screener.in/company/542669/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6f244c3b-d4d5-43c3-b8e1-4c4b95439490.pdf",
+   "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/BMW-Industries-FY26-Revenue-Hits-indian-rupee665-Cr-Profit-indian-rupee81-Cr-Amid-Bokaro-Plant-Growth/69fb9902d27867b982d8b874"
+  ],
+  "certainty": "verified",
+  "notes": "Listed on BSE (and CSE); NSE listing not confirmed. Heavy Tata Steel dependence.",
+  "category": "core",
+  "bse_code": "542669",
+  "nse_code": null,
+  "revenue_basis": "consolidated sales (standalone 664)",
+  "verification_note": "BSE only confirmed. Annual Report says plants are across West Bengal and Jharkhand; site list not extracted. Changed: reg_office: 119 Park Street, Kolkata, West Bengal -> 119 Park Street, White House, 3rd Floor, Kolkata 700016, West Bengal Checked 23 Nov 2026."
+ },
+ {
+  "name": "VISA Chrome Ltd (formerly VISA Steel Ltd)",
+  "exchange": "both",
+  "segment": "Ferro chrome (special steel unit divested)",
+  "revenue_inr_cr": 562,
+  "revenue_year": "FY26",
+  "reg_office": "VISA House, 11 Ekamra Kanan, Nayapalli, Bhubaneswar 751015, Odisha",
+  "decision_office": "Kolkata, West Bengal (corporate office VISA House, 8/10 Alipore Road, Kolkata 700027)",
+  "plants": [
+   {
+    "site": "Kalinganagar Industrial Complex, Jajpur",
+    "state": "Odisha",
+    "what": "ferro chrome, power"
+   }
+  ],
+  "promoter_group": "VISA group (Saran / Agarwal family)",
+  "promoters": [
+   {
+    "name": "Vishambhar Saran",
+    "role": "Executive Chairman & CEO"
+   },
+   {
+    "name": "Vishal Agarwal",
+    "role": "Vice Chairman & MD (to verify)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "VISA Infra Ltd",
+    "role_in_chain": "promoter entity (interest waiver FY26)",
+    "listed": "no"
+   },
+   {
+    "name": "VISA Special Steel Ltd",
+    "role_in_chain": "former special steel unit, divested",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/VISACHROME/consolidated/",
+   "https://www.screener.in/company/VISACHROME/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/32a051c4-574c-468e-94b7-900f6dc77f37.pdf",
+   "https://tradebrains.in/?p=143236",
+   "https://www.thecompanycheck.com/company/visa-chrome-ltd/L51109OR1996PLC004601"
+  ],
+  "certainty": "verified",
+  "notes": "Doubtful: registered office Odisha; decision office Kolkata from prior knowledge. FY26 PAT ~1,050 cr is a one-off debt-settlement gain (ACRE). Revenue borderline.",
+  "category": "core",
+  "bse_code": "532721",
+  "nse_code": "VISACHROME",
+  "revenue_basis": "sales (consolidated same as standalone)",
+  "verification_note": "Rename confirmed. Plant: Kalinganagar Industrial Complex, Jakhapura, Jajpur, Odisha. Changed: reg_office: Bhubaneswar, Odisha (CIN ...OR1996...) -> VISA House, 11 Ekamra Kanan, Nayapalli, Bhubaneswar 751015, Odisha; decision_office: VISA House, Kolkata, West Bengal (to verify) -> Kolkata, West Bengal (corporate office VISA House, 8/10 Alipore Road, Kolkata 700027) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Ankit Metal & Power Ltd",
+  "exchange": "both",
+  "segment": "Sponge iron, billets, TMT, captive power",
+  "revenue_inr_cr": 818,
+  "revenue_year": "TTM (latest annual filed on screener is FY23: 854)",
+  "reg_office": "35 Chittaranjan Avenue, Kolkata 700012, West Bengal",
+  "decision_office": "Kolkata, West Bengal (company in insolvency proceedings)",
+  "plants": [
+   {
+    "site": "Jorehira, Chhatna, Bankura",
+    "state": "West Bengal",
+    "what": "DRI 1.05 lakh tpa, billets, rolling, 8.5 MW WHRB power"
+   }
+  ],
+  "promoter_group": "Patni family (Impex / Rohit Ferro-Tech group), to verify",
+  "promoters": [
+   {
+    "name": "Subham Bhagat",
+    "role": "Chairman & MD (listed)"
+   },
+   {
+    "name": "Ankit Patni",
+    "role": "former CMD 2015-21"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Impex Ferro Tech Ltd",
+    "role_in_chain": "group ferro alloys, small",
+    "listed": "yes"
+   },
+   {
+    "name": "Rohit Ferro-Tech Ltd",
+    "role_in_chain": "group ferro alloys, in liquidation",
+    "listed": "yes (suspended)"
+   },
+   {
+    "name": "Impex Metal & Ferro Alloys Ltd",
+    "role_in_chain": "now merged into Maithan Alloys",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/ANKITMETAL/consolidated/",
+   "https://www.screener.in/company/ANKITMETAL/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f807fe05-0207-4963-bdbe-e916cf3960c2.pdf",
+   "https://stockanalysis.com/quote/nse/ANKITMETAL/company",
+   "https://bseindia.com/xml-data/corpfiling/AttachHis/99f08aa8-0930-472f-ac95-deab05730c0c.pdf",
+   "https://ibbi.gov.in/claims/pub-process/L27101WB2002PLC094979"
+  ],
+  "certainty": "verified",
+  "notes": "Under corporate insolvency resolution (filings dated May 2024 / Feb 2025); loss-making. Revenue period unclear; treat as borderline.",
+  "category": "core",
+  "bse_code": "532870",
+  "nse_code": "ANKITMETAL",
+  "revenue_basis": "standalone sales, trailing twelve months",
+  "verification_note": "No FY26 annual figure available; latest annual report on BSE is 2023. Insolvency (IBC) proceedings noted in that report. Changed: reg_office: 35 Chittaranjan Avenue, Kolkata, West Bengal -> 35 Chittaranjan Avenue, Kolkata 700012, West Bengal; decision_office: Kolkata, West Bengal (company under insolvency resolution) -> Kolkata, West Bengal (company in insolvency proceedings) Checked 23 Nov 2026."
+ },
+ {
+  "category": "adjacent",
+  "name": "Tega Industries Ltd",
+  "exchange": "both",
+  "segment": "Mining consumables: mill liners, screens, wear products (mineral processing)",
+  "revenue_inr_cr": 1692,
+  "revenue_year": "FY26",
+  "reg_office": "Godrej Waterside, Tower-II, Office 807, 8th Floor, Block DP-5, Salt Lake Sector V, Kolkata 700091, West Bengal",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Samali, Howrah",
+    "state": "West Bengal",
+    "what": "rubber/composite liners"
+   },
+   {
+    "site": "Kalyani",
+    "state": "West Bengal",
+    "what": "wear products"
+   },
+   {
+    "site": "Dahej",
+    "state": "Gujarat",
+    "what": "mill liners"
+   },
+   {
+    "site": "Chile, South Africa, Australia, Canada",
+    "state": "overseas",
+    "what": "liners, McNally Sayaji equipment in India"
+   },
+   {
+    "site": "Vadodara",
+    "state": "Gujarat",
+    "what": "crushers, screens, material handling (per Annual Report)"
+   },
+   {
+    "site": "Bengaluru",
+    "state": "Karnataka",
+    "what": "thickeners, pumps, filter press (per Annual Report)"
+   }
+  ],
+  "promoter_group": "Tega group (Mohanka family)",
+  "promoters": [
+   {
+    "name": "Madan Mohan Mohanka",
+    "role": "Executive Chairman"
+   },
+   {
+    "name": "Mehul Mohanka",
+    "role": "MD & Group CEO"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "McNally Sayaji Engineering Ltd",
+    "role_in_chain": "subsidiary, crushing/grinding equipment",
+    "listed": "no"
+   },
+   {
+    "name": "Molycop (acquired with Apollo funds, closed 1 June 2026)",
+    "role_in_chain": "grinding media, global",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/TEGA/consolidated/",
+   "https://www.screener.in/company/TEGA/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/044b03ab-584b-4944-8346-d1c5e012972c.pdf",
+   "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Tega-Industries-FY26-Revenue-Up-325percent-to-indian-rupee1692-Cr-Profit-Falls-289percent/6a1953086ec823f1f2911783",
+   "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Tega-Industries-FY26-Revenue-at-indian-rupee1773-Cr-Completes-Molycop-Acquisition/6a26b8ca76afea9b8587a777"
+  ],
+  "certainty": "verified",
+  "notes": "Another figure of 1,774 cr also reported. Molycop deal will multiply revenue from FY27.",
+  "bse_code": "543413",
+  "nse_code": "TEGA",
+  "revenue_basis": "consolidated sales (standalone 789)",
+  "verification_note": "Screener TTM consolidated sales is 6,908 cr against FY26 1,692: implies a large acquisition consolidated after March 2026 (not checked). Annual Report also lists Vadodara and Bengaluru plants. Changed: reg_office: Godrej Waterside, Salt Lake Sector V, Kolkata, West Bengal -> Godrej Waterside, Tower-II, Office 807, 8th Floor, Block DP-5, Salt Lake Sector V, Kolkata 700091, West Bengal Checked 23 Nov 2026."
+ },
+ {
+  "category": "adjacent",
+  "name": "Graphite India Ltd",
+  "exchange": "both",
+  "segment": "Graphite electrodes for electric arc furnace steel",
+  "revenue_inr_cr": 2852,
+  "revenue_year": "FY26",
+  "reg_office": "31 Chowringhee Road, Kolkata 700016, West Bengal",
+  "decision_office": "Kolkata, West Bengal (registered and corporate office)",
+  "plants": [
+   {
+    "site": "Durgapur, Paschim Bardhaman",
+    "state": "West Bengal",
+    "what": "graphite electrodes"
+   },
+   {
+    "site": "Satpur, Ambad and Igatpuri, Nashik",
+    "state": "Maharashtra",
+    "what": "electrodes, impervious graphite equipment, R&D"
+   },
+   {
+    "site": "Barauni, Begusarai",
+    "state": "Bihar",
+    "what": "calcined petroleum coke"
+   },
+   {
+    "site": "Titilagarh, Bolangir",
+    "state": "Odisha",
+    "what": "Powmex Steels (high speed steel)"
+   },
+   {
+    "site": "Mysore; Nandurbar; Dharashiv",
+    "state": "Karnataka / Maharashtra",
+    "what": "power units"
+   },
+   {
+    "site": "Germany",
+    "state": "overseas",
+    "what": "subsidiary (not checked)"
+   }
+  ],
+  "promoter_group": "K.K. Bangur group",
+  "promoters": [
+   {
+    "name": "K.K. Bangur",
+    "role": "Chairman"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Graphite Cova GmbH",
+    "role_in_chain": "overseas subsidiary",
+    "listed": "no"
+   },
+   {
+    "name": "Carbon Finance Ltd",
+    "role_in_chain": "group holding",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/GRAPHITE/consolidated/",
+   "https://www.screener.in/company/GRAPHITE/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/05906612-3e23-4372-a823-6772a01ba067.pdf",
+   "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Graphite-India-FY26-Revenue-Up-16percent-Profit-Declines-41percent-On-Charges/6a1801840c0232fe81a8d4ee",
+   "https://quartr.com/events/graphite-india-limited-509488-q4-25-26_FVCXWbzX"
+  ],
+  "certainty": "verified",
+  "notes": "Standalone 2,812 cr; FY25 consolidated 2,560 cr.",
+  "bse_code": "509488",
+  "nse_code": "GRAPHITE",
+  "revenue_basis": "consolidated sales (standalone 2,812)",
+  "verification_note": "No Bengaluru plant in Annual Report 2026 list; overseas German unit not checked. Changed: reg_office: 31 Chowringhee Road, Kolkata, West Bengal -> 31 Chowringhee Road, Kolkata 700016, West Bengal; decision_office: Kolkata, West Bengal -> Kolkata, West Bengal (registered and corporate office) Checked 23 Nov 2026."
+ },
+ {
+  "category": "adjacent",
+  "name": "Himadri Speciality Chemical Ltd",
+  "exchange": "both",
+  "segment": "Coal-tar pitch (binder for aluminium smelter anodes and graphite electrodes), carbon black, battery anode materials",
+  "revenue_inr_cr": 4661,
+  "revenue_year": "FY26",
+  "reg_office": "23A Netaji Subhas Road, 8th Floor, Suite 15, Kolkata 700001, West Bengal",
+  "decision_office": "Kolkata, West Bengal (corporate office Ruby House, 8 India Exchange Place, 2nd Floor, Kolkata 700001)",
+  "plants": [
+   {
+    "site": "Mahistikry, Hooghly",
+    "state": "West Bengal",
+    "what": "coal tar distillation, carbon black, anode material"
+   },
+   {
+    "site": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "what": "coal tar distillation"
+   },
+   {
+    "site": "Korba",
+    "state": "Chhattisgarh",
+    "what": "coal tar distillation"
+   },
+   {
+    "site": "Other units (Hooghly, Odisha, to verify)",
+    "state": "various",
+    "what": ""
+   }
+  ],
+  "promoter_group": "Himadri group (Choudhary family)",
+  "promoters": [
+   {
+    "name": "Anurag Choudhary",
+    "role": "Chairman, MD & CEO"
+   },
+   {
+    "name": "Shyam Sundar Choudhary",
+    "role": "promoter director (to verify)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Sicona Battery Technologies (Australia)",
+    "role_in_chain": "investee, battery materials",
+    "listed": "no"
+   },
+   {
+    "name": "Birla Tyres",
+    "role_in_chain": "acquired 2025",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/HSCL/consolidated/",
+   "https://www.screener.in/company/HSCL/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8cbe5c4e-369b-466b-8197-fbebde03cb8c.pdf",
+   "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_152468_23042026210216_iXBRL_WEB.html",
+   "https://quartr.com/events/himadri-speciality-chemical-limited-500184-q4-25-26_FVS5lT4E"
+  ],
+  "certainty": "verified",
+  "notes": "Doubtful fit: only the pitch line is a metal-specific input; carbon black (tyres) is a large share.",
+  "bse_code": "500184",
+  "nse_code": "HSCL",
+  "revenue_basis": "consolidated sales (standalone 4,405)",
+  "verification_note": "BRSR: 7 national plants, 1 international; site list not extracted. Changed: reg_office: Kolkata, West Bengal -> 23A Netaji Subhas Road, 8th Floor, Suite 15, Kolkata 700001, West Bengal; decision_office: Kolkata, West Bengal -> Kolkata, West Bengal (corporate office Ruby House, 8 India Exchange Place, 2nd Floor, Kolkata 700001) Checked 23 Nov 2026."
+ },
+ {
+  "category": "adjacent",
+  "name": "IFGL Refractories Ltd",
+  "exchange": "both",
+  "segment": "Steel flow-control refractories, ceramics",
+  "revenue_inr_cr": 1894,
+  "revenue_year": "FY26",
+  "reg_office": "Sector B, Kalunga Industrial Estate, Kalunga, Sundergarh, Odisha 770031",
+  "decision_office": "Kolkata, West Bengal (head and corporate office McLeod House, 3 Netaji Subhas Road, Kolkata 700001)",
+  "plants": [
+   {
+    "site": "Kalunga",
+    "state": "Odisha",
+    "what": "refractories"
+   },
+   {
+    "site": "Kandla SEZ",
+    "state": "Gujarat",
+    "what": "refractories"
+   },
+   {
+    "site": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "what": "refractories"
+   },
+   {
+    "site": "UK (Monocon), USA (El Ceramics), China, Germany (Hofmann)",
+    "state": "overseas",
+    "what": "refractories, ceramics"
+   }
+  ],
+  "promoter_group": "S.K. Bajoria group",
+  "promoters": [
+   {
+    "name": "Shishir K. Bajoria",
+    "role": "Chairman"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Monocon International Refractories (UK)",
+    "role_in_chain": "subsidiary",
+    "listed": "no"
+   },
+   {
+    "name": "Hofmann Ceramic (Germany)",
+    "role_in_chain": "subsidiary",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/IFGLEXPOR/consolidated/",
+   "https://www.screener.in/company/IFGLEXPOR/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e40d6334-4c7e-4aa8-8ae4-5cc1ec2bdfc6.pdf",
+   "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/IFGL-Refractories-FY26-Revenue-Rises-14percent-to-indian-rupee1904-Cr-Dividend-Declared/6a26cd3376afea9b8587cbbd"
+  ],
+  "certainty": "verified",
+  "notes": "FY25 1,653 cr. Registered office Odisha, decision office Kolkata (prior knowledge). Plans ~650 cr capex.",
+  "bse_code": "540774",
+  "nse_code": "IFGLEXPOR",
+  "revenue_basis": "consolidated sales (standalone 1,109)",
+  "verification_note": "Registered office in Odisha confirmed. Changed: reg_office: Kalunga Industrial Estate, Rourkela, Odisha (to verify) -> Sector B, Kalunga Industrial Estate, Kalunga, Sundergarh, Odisha 770031; decision_office: McLeod House, 3 Netaji Subhas Road, Kolkata, West Bengal -> Kolkata, West Bengal (head and corporate office McLeod House, 3 Netaji Subhas Road, Kolkata 700001) Checked 23 Nov 2026."
+ },
+ {
+  "category": "adjacent",
+  "name": "Vesuvius India Ltd",
+  "exchange": "both",
+  "segment": "Refractories and flow-control systems for steel; foundry products",
+  "revenue_inr_cr": 2104,
+  "revenue_year": "CY2025 (Jan-Dec)",
+  "reg_office": "P-104 Taratala Road, Kolkata 700088, West Bengal",
+  "decision_office": "Kolkata, West Bengal (parent: Vesuvius plc, London)",
+  "plants": [
+   {
+    "site": "Taratala, Kolkata",
+    "state": "West Bengal",
+    "what": "refractories"
+   },
+   {
+    "site": "Autonagar and Parawada (Anakapalli), Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "what": "refractories, flow control"
+   },
+   {
+    "site": "GIDC Mehsana",
+    "state": "Gujarat",
+    "what": "refractories"
+   }
+  ],
+  "promoter_group": "Vesuvius plc (UK multinational)",
+  "promoters": [
+   {
+    "name": "Vesuvius plc via Vesuvius Holdings",
+    "role": "promoter, ~56%"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Foseco India Ltd",
+    "role_in_chain": "group company, foundry consumables (Pune)",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.screener.in/company/VESUVIUS/consolidated/",
+   "https://www.screener.in/company/VESUVIUS/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/670ef31b-772a-44ca-ba72-ca14f25d94bd.pdf",
+   "https://nsearchives.nseindia.com/corporate/VESUVIUS_26022026204917_Boardmeetingoutcome_26022026.pdf",
+   "https://stockanalysis.com/quote/bom/520113/revenue/"
+  ],
+  "certainty": "verified",
+  "notes": "Foreign-controlled; promoter is not an Indian family. Calendar-year accounts.",
+  "bse_code": "520113",
+  "nse_code": "VESUVIUS",
+  "revenue_basis": "standalone sales (no consolidated)",
+  "verification_note": "Annual Report 2025: 4 plants at 3 locations. Changed: reg_office: P-104 Taratala Road, Kolkata, West Bengal -> P-104 Taratala Road, Kolkata 700088, West Bengal; decision_office: Kolkata, West Bengal (parent decisions: Vesuvius plc, London) -> Kolkata, West Bengal (parent: Vesuvius plc, London) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Beekay Steel Industries Ltd",
+  "new": true,
+  "exchange": "both",
+  "bse_code": "539018",
+  "nse_code": "BEEKAY",
+  "segment": "TMT bars, hot rolled sections, bright bars, structurals",
+  "revenue_inr_cr": 1175,
+  "revenue_year": "FY26",
+  "revenue_basis": "consolidated sales (same as standalone)",
+  "reg_office": "Lansdowne Towers, 4th Floor, 2/1A Sarat Bose Road, Kolkata 700020, West Bengal",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [],
+  "promoter_group": null,
+  "promoters": [],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/BEEKAY/consolidated/",
+   "https://www.screener.in/company/BEEKAY/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4d2fa4ed-02ec-4a27-a637-bfde4301e3d9.pdf"
+  ],
+  "certainty": "verified",
+  "verification_note": "Missing from draft. Revenue from screener; office from Annual Report 2026. Plant sites not extracted. Checked 23 Nov 2026.",
+  "category": "core"
+ },
+ {
+  "name": "KIC Metaliks Ltd",
+  "new": true,
+  "exchange": "BSE",
+  "bse_code": "513693",
+  "nse_code": null,
+  "segment": "Pig iron and allied products",
+  "revenue_inr_cr": 783,
+  "revenue_year": "FY26",
+  "revenue_basis": "standalone sales (consolidated series stops at FY22)",
+  "reg_office": "Om Tower, 3rd Floor, Room 304, 32 J.L. Nehru Road, Kolkata 700071, West Bengal",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Raturia, Angadpur, Durgapur",
+    "state": "West Bengal",
+    "what": "pig iron"
+   }
+  ],
+  "promoter_group": null,
+  "promoters": [],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/513693/consolidated/",
+   "https://www.screener.in/company/513693/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/892ffaf4-7e12-42a8-bb14-087cf35e2f0e.pdf"
+  ],
+  "certainty": "verified",
+  "verification_note": "Missing from draft. FY25 717, FY24 854. Checked 23 Nov 2026.",
+  "category": "core"
+ },
+ {
+  "name": "Supershakti Metaliks Ltd",
+  "new": true,
+  "exchange": "BSE (SME platform)",
+  "bse_code": null,
+  "nse_code": null,
+  "segment": "Iron and steel (Sai group, sister of Super Smelters)",
+  "revenue_inr_cr": 705,
+  "revenue_year": "FY26",
+  "revenue_basis": "sales (screener)",
+  "reg_office": "Premlata, 39 Shakespeare Sarani, 2nd Floor, Kolkata 700017, West Bengal",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Kanjilal Avenue, Durgapur",
+    "state": "West Bengal",
+    "what": "steel works"
+   }
+  ],
+  "promoter_group": null,
+  "promoters": [],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/541701/consolidated/",
+   "https://www.screener.in/company/541701/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0a0fb958-58b2-418d-9f15-5ce682589df8.pdf"
+  ],
+  "certainty": "verified",
+  "verification_note": "Missing from draft. Listed on BSE SME (screener page id 541701). FY25 737. Checked 23 Nov 2026.",
+  "category": "core"
+ },
+ {
+  "name": "Cosmic CRF Ltd",
+  "new": true,
+  "exchange": "BSE (SME platform)",
+  "bse_code": null,
+  "nse_code": null,
+  "segment": "Cold-rolled formed sections, railway components, sheet piles (metal products; borderline)",
+  "revenue_inr_cr": 717,
+  "revenue_year": "FY26",
+  "revenue_basis": "consolidated sales (standalone 334)",
+  "reg_office": "Cosmic Tower, 2nd Floor, 19 Monohar Pukur Road, Kolkata 700029, West Bengal",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Ajabnagar, Singur, Hooghly",
+    "state": "West Bengal",
+    "what": "cold-rolled forming works"
+   }
+  ],
+  "promoter_group": null,
+  "promoters": [],
+  "group_companies": [],
+  "sources": [
+   "https://www.screener.in/company/543928/consolidated/",
+   "https://www.screener.in/company/543928/",
+   "https://www.bseindia.com/xml-data/corpfiling/AttachHis/77d0ffb9-db72-44d7-9a98-dda4c4cd4387.pdf"
+  ],
+  "certainty": "verified",
+  "verification_note": "Missing from draft. Above 500 cr only on consolidated basis; standalone 334. Checked 23 Nov 2026.",
+  "category": "core"
+ },
+ {
+  "near_miss": [
+   {
+    "name": "MSTC Ltd",
+    "segment": "e-auction of coal, minerals, scrap (central PSU, Kolkata)",
+    "revenue_inr_cr": 370,
+    "revenue_year": "FY26",
+    "decision_office": "Kolkata, West Bengal",
+    "promoter_group": "Government of India (Ministry of Steel)",
+    "note": "Exiting trading vertical; ferro scrap subsidiary divested earlier. Adjacent at best.",
+    "sources": [
+     "https://www.screener.in/company/MSTCLTD/consolidated/",
+     "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ddac6df6-cf07-42db-a0b3-4647a8d87b85.pdf"
+    ],
+    "revenue_basis": "consolidated sales",
+    "bse_code": "542597",
+    "nse_code": "MSTCLTD",
+    "certainty": "verified",
+    "verification_note": "Revenue confirmed on screener; registered office Plot CF-18/2, Street 175, Action Area IC, New Town, Kolkata 700156."
+   },
+   {
+    "name": "Century Extrusions Ltd",
+    "segment": "Aluminium extrusions",
+    "revenue_inr_cr": 479,
+    "revenue_year": "FY26",
+    "decision_office": "Kolkata, West Bengal (plant Kharagpur, WB)",
+    "promoter_group": "Jhunjhunwala family (to verify)",
+    "note": "Just under threshold; growing ~11% a year.",
+    "sources": [
+     "https://www.screener.in/company/CENTEXT/",
+     "https://www.bseindia.com/xml-data/corpfiling/AttachHis/15914c18-3e48-498c-ad99-86f4fedee915.pdf"
+    ],
+    "revenue_basis": "standalone sales; TTM 573",
+    "bse_code": "500083",
+    "nse_code": "CENTEXT",
+    "certainty": "verified",
+    "reg_office": "113 Park Street, N Block, 2nd Floor, Kolkata 700016, West Bengal",
+    "verification_note": "FY26 479 cr confirmed but trailing twelve months is 573 cr: crosses 500 cr on TTM basis; consider promoting."
+   }
+  ],
+  "excluded_other": [
+   {
+    "name": "Bharat Coking Coal Ltd",
+    "reason": "HQ Dhanbad, Jharkhand"
+   },
+   {
+    "name": "Orissa Minerals Development Co",
+    "reason": "revenue well below 300 cr; office Kolkata/Bhubaneswar"
+   },
+   {
+    "name": "Impex Ferro Tech, Shyam Century Ferrous, Rohit Ferro-Tech",
+    "reason": "revenue below 300 cr or suspended"
+   },
+   {
+    "name": "Texmaco Rail, Jupiter Wagons, Titagarh Rail",
+    "reason": "Kolkata HQ with steel foundries but primarily rolling stock"
+   },
+   {
+    "name": "Exide Industries, PCBL",
+    "reason": "Kolkata HQ; lead smelting captive / carbon black not metal-specific"
+   },
+   {
+    "name": "Rashmi Metaliks, Shyam Steel, Super Smelters, SRMB, B.S. Sponge",
+    "reason": "Kolkata-based but not listed as of Nov 2026 (B.S. Sponge filed draft IPO papers Oct 2026)"
+   },
+   {
+    "name": "Gallantt Ispat Ltd",
+    "reason": "FY26 sales 4,419 cr but registered office GIDA Sahjanwa, Gorakhpur, Uttar Pradesh (Annual Report 2026)"
+   },
+   {
+    "name": "Caliber Mining and Logistics Ltd",
+    "reason": "FY26 1,678 cr; registered office Chandrapur, corporate office Nagpur (Annual Report 2026)"
+   },
+   {
+    "name": "Super Iron Foundry Ltd",
+    "reason": "Kolkata-area foundry, FY26 consolidated 256 cr: below threshold"
+   },
+   {
+    "name": "Behari Lal Engineering Ltd",
+    "reason": "FY26 533 cr (screener, BSE 544870); head office location not confirmed; check"
+   }
+  ]
+ }
+]

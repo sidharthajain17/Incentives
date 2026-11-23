@@ -1,5 +1,17 @@
 # Changelog
 
+## 23 Nov 2026 (later) — Head-office map: West Bengal first
+
+- **Method changed at Sid's direction.** Companies are now placed by **decision office** (corporate or head office), not by plant. The list starts from every BSE/NSE listed company in metals and mining, then adds unlisted companies, with a revenue floor of ₹500 crore. Every promoter group is mapped: family members by generation, links between families, splits and disputes, and each group's chain from mine to finished product, by state.
+- **New output:** `outputs/metals-mining-hq-map.html`, with a clickable India map on the left and the state panel on the right (Companies, Families, Family links, Value chain), and `outputs/metals-mining-hq-west-bengal.xlsx`. State boundaries follow the official map of India.
+- **West Bengal done:** 45 companies (26 listed, 19 unlisted), 33 promoter groups and 15 family links.
+  - Listed companies are checked against screener.in and BSE annual reports.
+  - Unlisted companies are checked against India Ratings, CRISIL, CARE and Acuité releases; six remain "reported".
+  - No marriage links across families could be sourced from filings.
+- **Data kept for later states:** `outputs/data/metals-mining-hq/` holds the source JSON, the map paths and the build script.
+- **New network environment:** "Incentives research" lets sessions reach BSE, Screener, the rating agencies, the company registry (MCA) and the Ministry of Steel site. NSE blocks automated access; ICRA could not be reached.
+- **Version 1 (`metals-mining-market-map-2026`) is superseded** by this head-office map. It is kept for its plant-site layer.
+
 ## 23 Nov 2026 — Metals and mining market map, version 1
 
 - **New library output: `outputs/metals-mining-market-map-2026.html` and `.xlsx`.** It maps 62 companies (23 Tier A, 39 Tier B) and 165 plant and mine site clusters across 20 states and union territories. Coverage runs from mining (coal, lignite, iron ore, manganese, bauxite, mineral sands) through primary metals (steel, aluminium, copper, zinc), specialty, stainless and ferro-alloys, rare earths and critical minerals, to downstream products (pipes, forgings, castings, wire, coated steel).

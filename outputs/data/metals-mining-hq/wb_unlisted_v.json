@@ -1,0 +1,995 @@
+[
+ {
+  "name": "Rashmi Metaliks Limited (Rashmi Group; ultimate parent Orissa Metaliks Pvt Ltd)",
+  "segment": "Integrated steel: pellets, sponge iron, pig iron, billets, TMT, ductile iron (DI) pipes",
+  "revenue_inr_cr": 31691,
+  "revenue_year": "FY25 (FY24 28,550; 9MFY26 about 30,000)",
+  "reg_office": "Kolkata, West Bengal (CIN U27109WB2004PLC097737)",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Kharagpur (Gokulpur/Shyamraipur), Paschim Medinipur",
+    "state": "West Bengal",
+    "what": "Integrated steel complex: pellets, sponge iron, pig iron, billets, TMT, DI pipes (expanding)"
+   },
+   {
+    "site": "Jhargram",
+    "state": "West Bengal",
+    "what": "Sponge iron"
+   },
+   {
+    "site": "Odisha (site not confirmed)",
+    "state": "Odisha",
+    "what": "Orissa Alloy Steel / Orissa Steel and Power units"
+   }
+  ],
+  "promoter_group": "Rashmi Group (Patwari family)",
+  "promoters": [
+   {
+    "name": "Sajjan Kumar Patwari",
+    "role": "Founder / chairman (per company material)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Orissa Metaliks Pvt Ltd",
+    "role_in_chain": "Ultimate parent; steel (CRISIL AA/Stable, Apr 2026)",
+    "listed": "no"
+   },
+   {
+    "name": "Orissa Alloy Steel Pvt Ltd",
+    "role_in_chain": "Wholly owned subsidiary of OMPL; steel intermediates",
+    "listed": "no"
+   },
+   {
+    "name": "Rashmi Cement Ltd",
+    "role_in_chain": "Downstream: slag cement",
+    "listed": "no"
+   },
+   {
+    "name": "Kalinga Metalics",
+    "role_in_chain": "Steel intermediates",
+    "listed": "no"
+   },
+   {
+    "name": "Rashmi Metallurgical Industry (formerly Orissa Metallurgical Industry)",
+    "role_in_chain": "Steel intermediates",
+    "listed": "no"
+   },
+   {
+    "name": "Rashmi Green Hydrogen Steel",
+    "role_in_chain": "New green steel venture",
+    "listed": "no"
+   },
+   {
+    "name": "Orissa Steel and Power",
+    "role_in_chain": "Steel/power",
+    "listed": "no"
+   },
+   {
+    "name": "Rashmi Ispat Ltd / Rashmi Sponge Iron & Power Industries Pvt Ltd",
+    "role_in_chain": "Small sponge iron units (Acuite rated); link to group not confirmed",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/OrissaMetaliksPrivateLimited_April%2016_%202026_RR_393835.html",
+   "https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/RashmiMetaliksLimited_April%2004_%202025_RR_366449.html",
+   "https://crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/OrissaAlloySteelPrivateLimited_April%2007_%202025_RR_366302.html",
+   "https://www.tofler.in/rashmi-metaliks-limited/company/U27109WB2004PLC097737"
+  ],
+  "certainty": "verified",
+  "notes": "Group figure is CRISIL combined view of 8 entities. DI pipes ~14% of 9MFY25 sales. Largest private steel group in eastern India per CRISIL. Plant site list for Odisha entities not confirmed. Rating documents read via search snippets only (agency sites blocked in this session).",
+  "revenue_basis": "Rashmi group consolidated operating income, CRISIL combined view (Orissa Metaliks rationale, 16 Apr 2026)",
+  "exchange": "unlisted",
+  "verification_note": "Draft 33,000 was an estimate; CRISIL now reports FY25 actual 31,691. Group based in Kolkata, promoted by Sajjan Kumar Patwari and family. Plant sites still not confirmed in rationale. Changed: revenue_inr_cr: 33000 -> 31691; revenue_year: FY25 (CRISIL estimate, group consolidated); FY24 actual 28,550 (group); Rashmi Metaliks standalone FY25 ~9,330 (Tofler, aggregator) -> FY25 (FY24 28,550; 9MFY26 about 30,000) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Rungta Mines Limited",
+  "segment": "Iron ore and manganese ore mining; DRI/sponge iron, pig iron, steel, value-added products",
+  "revenue_inr_cr": 14769,
+  "revenue_year": "FY25 (FY24 13,404)",
+  "reg_office": "Kolkata, West Bengal (registered office per India Ratings)",
+  "decision_office": "Kolkata, West Bengal (operating HQ 'Rungta House', Chaibasa, Jharkhand also used)",
+  "plants": [
+   {
+    "site": "Four plant locations (Barbil/Karakhendra, Keonjhar belt and others)",
+    "state": "Odisha",
+    "what": "pellets 11.75 mtpa, sponge iron 5.38 mtpa, billets 3.83 mtpa, TMT 1.92 mtpa, wire rod 0.63 mtpa, DI pipe 0.5 mtpa (commissioned FY25), captive power 372 MW across five locations"
+   },
+   {
+    "site": "One plant location",
+    "state": "Jharkhand",
+    "what": "part of the five-location footprint"
+   }
+  ],
+  "promoter_group": "Rungta family",
+  "promoters": [
+   {
+    "name": "Mukund Rungta",
+    "role": "Director (since 1992)"
+   },
+   {
+    "name": "Siddharth Rungta",
+    "role": "Director (since 2001)"
+   },
+   {
+    "name": "Nandlal Rungta",
+    "role": "Director"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Mobar India Ltd",
+    "role_in_chain": "Subsidiary (99.99%)",
+    "listed": "no"
+   },
+   {
+    "name": "Mednirai Coal Mining Pvt Ltd",
+    "role_in_chain": "Subsidiary (79.86%); coal block",
+    "listed": "no"
+   },
+   {
+    "name": "C T Mining Pvt Ltd",
+    "role_in_chain": "Subsidiary (68.2%); mining",
+    "listed": "no"
+   },
+   {
+    "name": "Rungta Sons Pvt Ltd",
+    "role_in_chain": "Separate Rungta company, Kolkata; iron ore mines Oraghat/Chandiposhi (Odisha); relationship inferred",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.indiaratings.co.in/pressrelease/81516",
+   "https://www.tofler.in/rungta-mines-limited/company/U26911WB1962PLC025691",
+   "https://www.gem.wiki/Rungta_Mines_Karakhendra_steel_plant",
+   "https://ibm.gov.in/writereaddata/files/174221077667d806d8eb320MCDR_Inspection_Kamanda_Rungta_04092024.pdf"
+  ],
+  "certainty": "verified",
+  "notes": "India Ratings IND AA-/Stable; value-added products FY25 INR 72.5 bn. Revenue figure taken from search snippet of India Ratings release (site blocked); worth a re-check. Not the Ramgarh (Jharkhand) Rungta group (Rungta Metals, Rungta Industries) which is separate and small.",
+  "revenue_basis": "net revenue, India Ratings 18 Feb 2026",
+  "exchange": "unlisted",
+  "verification_note": "14,769 cr claim confirmed (INR 147.69 bn). Five plant locations: Odisha 4, Jharkhand 1 (site names not given). Five virgin iron ore mines due Mar 2026 to Oct 2027; Parasi gold mine pending. Changed: revenue_year: FY25 (India Ratings; FY24 13,404) -> FY25 (FY24 13,404); reg_office: Kolkata, West Bengal (8A Express Tower, 42A Shakespeare Sarani; CIN U26911WB1962PLC025691) -> Kolkata, West Bengal (registered office per India Ratings) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Shyam Steel Industries Limited",
+  "segment": "Secondary/integrated steel: sponge iron, billets, TMT (Shyam Steel brand), structurals",
+  "revenue_inr_cr": 7875,
+  "revenue_year": "FY26 (FY25 7,096)",
+  "reg_office": "Kolkata, West Bengal (CIN U27100WB2002PLC094339)",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Durgapur",
+    "state": "West Bengal",
+    "what": "SSIL units"
+   },
+   {
+    "site": "Raniganj",
+    "state": "West Bengal",
+    "what": "Shyam Steel Manufacturing (ex-Sova Ispat, acquired 2011)"
+   },
+   {
+    "site": "Purulia",
+    "state": "West Bengal",
+    "what": "Shyam Steel Works, greenfield integrated TMT plant, operations from Dec 2024"
+   }
+  ],
+  "promoter_group": "Shyam Steel group (Beriwala family)",
+  "promoters": [
+   {
+    "name": "Lalit Beriwala",
+    "role": "Director"
+   },
+   {
+    "name": "Purushottam Beriwala",
+    "role": "Director"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Shyam Steel Manufacturing Ltd",
+    "role_in_chain": "100% subsidiary; steel",
+    "listed": "no"
+   },
+   {
+    "name": "Shyam Steel Works Pvt Ltd",
+    "role_in_chain": "80% step-down subsidiary",
+    "listed": "no"
+   },
+   {
+    "name": "Shyam Infra Nirman",
+    "role_in_chain": "Group company; small",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/ShyamSteelIndustriesLimited_June%2017_%202026_RR_395793.html",
+   "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ShyamSteelIndustriesLimited_June%2017_%202026_RR_395793.html",
+   "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/ShyamSteelIndustriesLimited_February%2018_%202025_RR_360455.html",
+   "https://gem.wiki/Shyam_Steel_Durgapur_plant",
+   "https://businessindia.co/magazine/corporate-report/shyam-steels-third-generation-leadership-drives-aggressive-expansion-and-diversification"
+  ],
+  "certainty": "verified",
+  "notes": "CRISIL AA-/Stable/A1+. >80% revenue from east India. Not to be confused with Shyam Metalics and Energy (listed, different promoters). Plant list varies by source.",
+  "revenue_basis": "group revenue, CRISIL 17 Jun 2026 (FY25 consolidated operating income 7,095.93)",
+  "exchange": "unlisted",
+  "verification_note": "Updated to FY26. Plant list replaced with CRISIL list; Mejia, Bamunara/Angadpur and Howrah from draft are not in the rationale. Changed: revenue_inr_cr: 7096 -> 7875; revenue_year: FY25 (CRISIL, consolidated; FY24 6,490) -> FY26 (FY25 7,096) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Shakambhari Ispat and Power Limited (Shakambhari Group; erstwhile Ess Dee Aluminium)",
+  "segment": "Integrated steel: sponge iron, blast furnace iron, billets, rolled products, structurals, ferro alloys; aluminium foil",
+  "revenue_inr_cr": 6098,
+  "revenue_year": "FY25 (FY24 5,545)",
+  "reg_office": "Kolkata, West Bengal (Kolkata based per Acuité)",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Durgapur",
+    "state": "West Bengal",
+    "what": "SPS Steels Rolling Mills: sponge iron, billets, rolling, ferro alloys, 10 MW CPP"
+   },
+   {
+    "site": "Purulia",
+    "state": "West Bengal",
+    "what": "SPS unit"
+   },
+   {
+    "site": "Rukni, Purulia",
+    "state": "West Bengal",
+    "what": "ex-BSIPL: sponge iron, billet, pellets, 23.9 MW CPP (amalgamated)"
+   }
+  ],
+  "promoter_group": "Shakambhari Group (Agarwal family)",
+  "promoters": [
+   {
+    "name": "Deepak Kumar Agarwal",
+    "role": "Director"
+   },
+   {
+    "name": "Ramabatar Agarwal",
+    "role": "Director"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "SPS Steels Rolling Mills Ltd",
+    "role_in_chain": "Steel, acquired via NCLT FY19; consolidated",
+    "listed": "no (verify: earlier BSE history)"
+   },
+   {
+    "name": "Eloquent Steel Pvt Ltd",
+    "role_in_chain": "Steel; consolidated",
+    "listed": "no"
+   },
+   {
+    "name": "Bravo Sponge Iron Pvt Ltd",
+    "role_in_chain": "Sponge iron; amalgamated",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.acuite.in/documents/ratings/revised/29977-RR-20250904.pdf",
+   "https://www.acuite.in/documents/ratings/revised/28085-RR-20250904.pdf",
+   "https://www.tofler.in/shakambhari-ispat-and-power-limited/company/U27109WB2001PLC093869",
+   "https://www.gem.wiki/Shakambhari_Ispat_and_Power_Purulia_steel_plant"
+  ],
+  "certainty": "verified",
+  "notes": "Group capacity (older): 705 kt sponge, 820 kt billet, 98.75 ktpa ferro alloys, 597 kt rolled, 62 MW captive. CRISIL (2023) flagged a CBI chargesheet on illegal coal mining naming SPS and group firms: diligence point.",
+  "revenue_basis": "group operating income, Acuité 4 Sep 2025",
+  "exchange": "unlisted",
+  "verification_note": "Revenue confirmed. Directors: Deepak Kumar Agarwal, Ashok Kumar Sharma, Priyanka Goenka and others. Changed: revenue_year: FY25 (Acuite, consolidated incl. SPS and Eloquent; FY24 5,545) -> FY25 (FY24 5,545); reg_office: Kolkata, West Bengal (Diamond Prestige, 41A AJC Bose Road) -> Kolkata, West Bengal (Kolkata based per Acuité) Checked 23 Nov 2026."
+ },
+ {
+  "name": "SPS Steels Rolling Mills Limited",
+  "segment": "Sponge iron, billets, TMT, structurals",
+  "revenue_inr_cr": null,
+  "revenue_year": "Standalone not found; consolidated in Shakambhari group (FY25 6,098)",
+  "reg_office": "Kolkata, West Bengal (Acuité)",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Durgapur",
+    "state": "West Bengal",
+    "what": "sponge iron, billets, rolling mill"
+   },
+   {
+    "site": "Purulia",
+    "state": "West Bengal",
+    "what": "manufacturing unit"
+   }
+  ],
+  "promoter_group": "Shakambhari Group (founded 1981 by Bipin Vohra; acquired via NCLT FY19)",
+  "promoters": [],
+  "group_companies": [
+   {
+    "name": "Shakambhari Ispat and Power Ltd",
+    "role_in_chain": "Group flagship",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.acuite.in/documents/ratings/revised/29977-RR-20250904.pdf",
+   "https://www.acuite.in/documents/ratings/revised/28085-RR-20250904.pdf",
+   "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/SPSSteelsRollingMillsLimited_March%2031,%202023_RR_315511.html"
+  ],
+  "certainty": "verified",
+  "notes": "Acuite A-/Stable (Sep 2025). Treat as part of Shakambhari entry; listed here because it was on the expected list.",
+  "revenue_basis": null,
+  "exchange": "unlisted",
+  "verification_note": "Part of Shakambhari group consolidation; no standalone revenue in Acuité release. Changed: reg_office: Kolkata, West Bengal -> Kolkata, West Bengal (Acuité) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Super Smelters Limited (Sai Group)",
+  "segment": "Pellets, sponge iron, billets, TMT",
+  "revenue_inr_cr": 3109,
+  "revenue_year": "FY26 (FY25 3,504)",
+  "reg_office": "Kolkata, West Bengal (CIN U27109WB1995PLC072223)",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Jamuria, Paschim Bardhaman",
+    "state": "West Bengal",
+    "what": "pellets 1.8 mtpa, sponge iron 0.66 mtpa, billets/slabs 0.6 mtpa, ferro alloys, HRC, ERW pipes, TMT; 88 MW CPP"
+   }
+  ],
+  "promoter_group": "Sai Group (Agarwal family)",
+  "promoters": [
+   {
+    "name": "Sita Ram Agarwal",
+    "role": "Promoter"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Supershakti Metaliks Ltd",
+    "role_in_chain": "Downstream: billets 135 ktpa, rolled 162 ktpa at Durgapur; buys sponge iron from SSL",
+    "listed": "yes (BSE 541701)"
+   }
+  ],
+  "sources": [
+   "https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/SuperSmeltersLimited_November%2016_%202026_RR_410130.html",
+   "https://crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/SuperSmeltersLimited_July%2001,%202022_RR_297564.html",
+   "https://www.icra.in/Rating/ShowRationalReportFilePdf/28765",
+   "https://www.tofler.in/super-smelters-ltd/company/U27109WB1995PLC072223",
+   "https://www.careratings.com/upload/CompanyFiles/PR/202507140720_Supershakti_Metaliks_Limited.pdf"
+  ],
+  "certainty": "verified",
+  "notes": "No current (2025-26) rating rationale found; latest CRISIL A-/Stable (Jul 2022). FY25 figure is aggregator only.",
+  "revenue_basis": "operating income, CRISIL 16 Nov 2026 (manufacturing revenue FY26 3,093)",
+  "exchange": "unlisted",
+  "verification_note": "Latest revenue now FY26 3,109 (down; FY25 included one-off trading 286 cr). Promoter Sitaram Agarwal with sons Dilipp and Deepak Agarwal. Capex 1,584 cr under way. Changed: revenue_inr_cr: 3503 -> 3109; revenue_year: FY25 (Tofler, aggregator); FY22 ~2,800 per CRISIL -> FY26 (FY25 3,504) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Gagan Ferrotech Limited (Gagan Group)",
+  "segment": "Sponge iron, billets, TMT bars and wires",
+  "revenue_inr_cr": 2934,
+  "revenue_year": "FY26 provisional (Acuite, group); FY24 1,981",
+  "reg_office": "Kolkata, West Bengal (CIN U51109WB1993PLC058238)",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Jamuria, Paschim Bardhaman",
+    "state": "West Bengal",
+    "what": "Sponge iron 264 ktpa, billets 353 ktpa, TMT/wire 336 ktpa"
+   }
+  ],
+  "promoter_group": "Gagan Group (Agarwal family)",
+  "promoters": [
+   {
+    "name": "Vinay Kumar Agarwal",
+    "role": "Director"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Gajanan Iron Pvt Ltd",
+    "role_in_chain": "Steel; consolidated",
+    "listed": "no"
+   },
+   {
+    "name": "Shakambhari Overseas Trades Pvt Ltd",
+    "role_in_chain": "Cast iron (Kolkata, 1996); not the Shakambhari Ispat group",
+    "listed": "no"
+   },
+   {
+    "name": "Spintech Tubes Pvt Ltd",
+    "role_in_chain": "Downstream: steel tubes",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.acuite.in/documents/ratings/revised/26914-RR-20250530.pdf",
+   "https://connect.acuite.in/fcompany-details/GAGAN_FERROTECH_LIMITED/28th_Aug_26"
+  ],
+  "certainty": "reported",
+  "notes": "Acuite A+/Stable. Despite the name, no ferro alloy output found.",
+  "revenue_basis": null,
+  "exchange": "unlisted",
+  "verification_note": "FY26 2,934 could not be read (Acuité Connect page blocked). Acuité 30 May 2025 (read): group FY24 1,981, 9MFY25 1,831; plant Jamuria; rating withdrawn in that release. Checked 23 Nov 2026."
+ },
+ {
+  "name": "N N Ispat Private Limited / AIC Iron Industries / RAIC Integrated Sponge and Power (AIC Group)",
+  "segment": "Sponge iron, billets, silico manganese, TMT and rolled products",
+  "revenue_inr_cr": 2679,
+  "revenue_year": "FY25 estimate (Acuite, consolidated; FY24 2,258)",
+  "reg_office": "Kolkata, West Bengal (25 Ganesh Chandra Avenue; CIN U27109WB2004PTC099963)",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Purulia",
+    "state": "West Bengal",
+    "what": "Sponge iron (RAIC); billets/TMT (site per Acuite; confirm)"
+   }
+  ],
+  "promoter_group": "AIC Group (Adukia family)",
+  "promoters": [
+   {
+    "name": "Gyan Adukia",
+    "role": "Director"
+   },
+   {
+    "name": "Dinesh Adukia",
+    "role": "Director"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "AIC Iron Industries Pvt Ltd",
+    "role_in_chain": "Steel; now rated standalone (Jan 2026)",
+    "listed": "no"
+   },
+   {
+    "name": "RAIC Integrated Sponge and Power Pvt Ltd",
+    "role_in_chain": "Upstream: sponge iron, power",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://connect.acuite.in/company-details/36651",
+   "https://connect.acuite.in/fcompany-details/AIC_IRON_INDUSTRIES_PRIVATE_LIMITED/8th_Jan_26",
+   "https://www.infomerics.com/admin/uploads/pr-nn-ispat-11ju23.pdf",
+   "https://www.tofler.in/n-n-ispat-private-limited/company/U27109WB2004PTC099963"
+  ],
+  "certainty": "reported",
+  "notes": "Different from N.N. Ispat of Bhilai (Chhattisgarh). Plant sites need confirmation.",
+  "revenue_basis": null,
+  "exchange": "unlisted",
+  "verification_note": "Not re-verified: Acuité Connect blocked; latest CARE release is 2023. Checked 23 Nov 2026."
+ },
+ {
+  "name": "Berry Alloys Limited",
+  "segment": "Ferro alloys (mainly silico manganese; low-carbon alloys via AOD)",
+  "revenue_inr_cr": 2435,
+  "revenue_year": "FY25 (ICRA, consolidated; FY24 2,055; FY26 est ~2,800)",
+  "reg_office": "not confirmed",
+  "decision_office": "Kolkata, West Bengal (promoter Vijay Gupta is Kolkata-based per CRISIL 2022)",
+  "plants": [
+   {
+    "site": "Bobbili",
+    "state": "Andhra Pradesh",
+    "what": "ferro alloys, mainly silico-manganese"
+   }
+  ],
+  "promoter_group": "Vijay Gupta (Kolkata)",
+  "promoters": [
+   {
+    "name": "Vijay Gupta",
+    "role": "Founder (2006)"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Gajanan Ferro Pvt Ltd",
+    "role_in_chain": "Subsidiary; ferro alloys",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/BerryAlloysLimited_June%2023,%202022_RR_296532.html",
+   "https://www.icra.in/Rating/GetRationalReportFilePdf?id=134538",
+   "https://www.icra.in/Rating/GetRationalReportFilePdf?id=140093"
+  ],
+  "certainty": "reported",
+  "notes": "ICRA upgraded to A+ (Stable)/A1 Dec 2025. Plant location and registered office unconfirmed: check before treating as a West Bengal investor.",
+  "revenue_basis": null,
+  "exchange": "unlisted",
+  "verification_note": "Plant location resolved: Bobbili, Andhra Pradesh (CRISIL Jun 2022). Revenue 2,435 (ICRA) not re-read: ICRA site not reachable; CRISIL 2022 showed FY21 527. Registered office still not confirmed. Changed: decision_office: Kolkata, West Bengal (promoter Kolkata-based per ICRA) -> Kolkata, West Bengal (promoter Vijay Gupta is Kolkata-based per CRISIL 2022) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Maithan Steel and Power Limited",
+  "segment": "Semi-integrated steel: TMT (Maithan TMT 600)",
+  "revenue_inr_cr": 1874,
+  "revenue_year": "FY25 (FY24 1,646)",
+  "reg_office": "West Bengal (city not confirmed)",
+  "decision_office": "West Bengal (Kolkata inferred)",
+  "plants": [
+   {
+    "site": "Neturia, Purulia",
+    "state": "West Bengal",
+    "what": "sponge iron, ferro alloy (30,000 tpa), 20 MW captive power"
+   },
+   {
+    "site": "Salanpur, Paschim Bardhaman",
+    "state": "West Bengal",
+    "what": "billets and TMT bars"
+   }
+  ],
+  "promoter_group": "Binod Kumar Agarwalla",
+  "promoters": [
+   {
+    "name": "Binod Kumar Agarwalla",
+    "role": "Promoter"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.acuite.in/documents/ratings/revised/28524-RR-20251205.pdf",
+   "https://www.acuite.in/documents/ratings/revised/28524-RR-20251114.pdf"
+  ],
+  "certainty": "verified",
+  "notes": "Acuite AA-/Stable (Nov 2025). Separate from Maithan Alloys (listed); any family link not confirmed.",
+  "revenue_basis": "operating income, Acuité 14 Nov and 5 Dec 2025",
+  "exchange": "unlisted",
+  "verification_note": "Plants resolved. Promoter Binod Kumar Agarwalla; run by Madhur and Kaushal Agarwalla. Registered office city not stated (West Bengal based). Changed: revenue_year: FY25 (Acuite; FY24 1,646) -> FY25 (FY24 1,646) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Essel Mining & Industries Limited (Aditya Birla Group)",
+  "segment": "Iron ore mining; coal (via EMMRL, sold to Hindalco 2025); ferro-molybdenum/vanadium, alloy powders",
+  "revenue_inr_cr": 3123,
+  "revenue_year": "FY25 (FY24 2,343; 9MFY26 3,784 unaudited)",
+  "reg_office": "Kolkata, West Bengal (Industry House, 10 Camac Street; CIN U51109WB1950PLC018728)",
+  "decision_office": "Unresolved: registered office Kolkata (West Bengal CIN); CARE release names no office; Aditya Birla group strategy sits in Mumbai (inferred)",
+  "plants": [
+   {
+    "site": "Odisha",
+    "state": "Odisha",
+    "what": "iron ore mines; beneficiation and pelletisation 1 mtpa each"
+   },
+   {
+    "site": "Not stated",
+    "state": "not stated",
+    "what": "noble ferro alloys 6,000 tpa; solar 81 MW and wind 75 MW"
+   },
+   {
+    "site": "Coal mining via Bhubaneswari Coal Mining and Rajmahal Coal Mining",
+    "state": "Odisha / Jharkhand (inferred)",
+    "what": "contract coal mining and MDO"
+   }
+  ],
+  "promoter_group": "Aditya Birla Group",
+  "promoters": [],
+  "group_companies": [
+   {
+    "name": "EMIL Mines and Mineral Resources Ltd (EMMRL)",
+    "role_in_chain": "Coal block holder; acquired 100% by Hindalco (2025)",
+    "listed": "no"
+   },
+   {
+    "name": "Hindalco Industries Ltd",
+    "role_in_chain": "Group aluminium/copper major",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.careratings.com/upload/CompanyFiles/PR/202607130712_Essel_Mining_and_Industries_Limited.pdf",
+   "https://www.adityabirla.com/Businesses/Profile/essel-mining-and-industries-limited",
+   "https://www.tofler.in/essel-mining-and-industries-ltd/company/U51109WB1950PLC018728",
+   "https://www.business-standard.com/industry/news/hindalco-emmrl-coal-block-acquisition-aluminium-smelting-q4-results-125052001167_1.html",
+   "https://www.esselmining.com/docs/EMIL-Sustainability-Report-FY2025.pdf"
+  ],
+  "certainty": "verified",
+  "notes": "FY25 pre-tax loss ~37 cr per aggregator. Decision office arguably Mumbai (group); include with care.",
+  "revenue_basis": "total operating income, CARE Jul 2026",
+  "exchange": "unlisted",
+  "verification_note": "Revenue corrected 3,092 -> 3,123 (CARE). FY26 likely above 4,500 on 9M run-rate (inferred). Decision office still not provable from rating source. Changed: revenue_inr_cr: 3092 -> 3123; revenue_year: FY25 (consolidated revenue from operations, aggregator; FY24 2,293) -> FY25 (FY24 2,343; 9MFY26 3,784 unaudited); decision_office: Kolkata, West Bengal (registered/operating HQ); group strategy in Mumbai -> Unresolved: registered office Kolkata (West Bengal CIN); CARE release names no office; Aditya Birla group strategy sits in Mumbai (inferred) Checked 23 Nov 2026."
+ },
+ {
+  "name": "SRMB Srijan Private Limited",
+  "segment": "Integrated secondary steel: billets, TMT (SRMB brand)",
+  "revenue_inr_cr": 2530,
+  "revenue_year": "FY24 (Acuite; FY23 2,587); FY25 ~2,460 per Tracxn (aggregator)",
+  "reg_office": "Kolkata, West Bengal (CIN U74994WB2001PTC093969)",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Durgapur",
+    "state": "West Bengal",
+    "what": "Melting, continuous billet casting, hot charging, TMT rolling"
+   }
+  ],
+  "promoter_group": "SRMB Group (Beriwala family)",
+  "promoters": [
+   {
+    "name": "Brij Mohan Beriwala",
+    "role": "Chairman"
+   },
+   {
+    "name": "Late Radha Kishan Beriwala",
+    "role": "Founder"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Bhaskar Steel & Ferro Alloys Pvt Ltd",
+    "role_in_chain": "Upstream/parallel: integrated plant at Rourkela, Odisha making billets from iron ore",
+    "listed": "no"
+   },
+   {
+    "name": "Srijan Realty Pvt Ltd",
+    "role_in_chain": "Real estate (outside scope)",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.acuite.in/documents/ratings/revised/28662-RR-20241227.pdf",
+   "https://connect.acuite.in/fcompany-details/SRMB_SRIJAN_PRIVATE_LIMITED/23rd_Mar_26",
+   "https://srmbsteel.com/about",
+   "https://en.wikipedia.org/wiki/SRMB_Steel"
+  ],
+  "certainty": "reported",
+  "notes": "Acuite AA- (Stable) reaffirmed Mar 2026; income moderated on lower prices, volumes up. Family link to Shyam Steel Beriwalas not established.",
+  "revenue_basis": null,
+  "exchange": "unlisted",
+  "verification_note": "Not re-verified: Acuité Connect blocked and cited PDF now returns 404; CARE release is 2019. Checked 23 Nov 2026."
+ },
+ {
+  "name": "Topworth Steels & Power Pvt Ltd (Atha and Misra groups; Topworth group)",
+  "segment": "Iron ore mining, pellets, sponge iron, billets, pipes; captive power",
+  "revenue_inr_cr": null,
+  "revenue_year": "Topworth consolidated not found; Atha group (Narbheram + Amalgam Steel) FY24 1,945 per Acuite",
+  "reg_office": "not confirmed",
+  "decision_office": "Kolkata, West Bengal (promoters Kolkata-based per ICRA)",
+  "plants": [
+   {
+    "site": "Odisha (Narbheram, Amalgam)",
+    "state": "Odisha",
+    "what": "Sponge iron, billets, pellets; iron ore mines approved for 4.2 mtpa"
+   },
+   {
+    "site": "Topworth units (site not confirmed; Maharashtra believed)",
+    "state": "not confirmed",
+    "what": "Steel and pipes; 35 MW captive power under construction (Rs 610 cr)"
+   }
+  ],
+  "promoter_group": "Atha Group and Misra Group (Kolkata)",
+  "promoters": [
+   {
+    "name": "Vishal Atha",
+    "role": "Director, Narbheram Power and Steel"
+   },
+   {
+    "name": "Gaurav Atha",
+    "role": "Director, Narbheram Power and Steel"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "Amalgam Steel Pvt Ltd",
+    "role_in_chain": "Steel; consolidated with Topworth by ICRA",
+    "listed": "no"
+   },
+   {
+    "name": "Amalgam Steel & Power",
+    "role_in_chain": "Steel/power",
+    "listed": "no"
+   },
+   {
+    "name": "Crest Steel and Power",
+    "role_in_chain": "Steel/power",
+    "listed": "no"
+   },
+   {
+    "name": "Narbheram Power and Steel Pvt Ltd",
+    "role_in_chain": "Sponge iron, billets (Odisha); Acuite rating withdrawn Apr 2026 after BB+ INC",
+    "listed": "no"
+   }
+  ],
+  "sources": [
+   "https://www.indiaratings.co.in/pressrelease/86635",
+   "https://www.icra.in/Rating/ShowRationalReportFilePdfViewer/146283",
+   "https://www.icra.in/Rating/GetRationalReportFilePdf?id=139247",
+   "https://www.acuite.in/documents/ratings/revised/27983-RR-20240828.pdf",
+   "https://www.acuite.in/documents/ratings/revised/27983-RR-20251113.pdf"
+  ],
+  "certainty": "reported",
+  "notes": "ICRA BBB+ (Stable) Oct 2026; FY25 subdued on low spreads; debt/OPBDITA 3.7x FY25 to 3.0x FY26. Group revenue clearly above 500 cr but exact Topworth figure missing.",
+  "revenue_basis": null,
+  "exchange": "unlisted",
+  "verification_note": "Topworth's own figure still missing (ICRA unreachable; CARE last 2016). Atha group entity Narbheram Power & Steel (India Ratings 6 Nov 2026): FY26 1,714 cr, FY25 1,344 cr, consolidates 50.001% of Amalgam Steel (Jamshedpur); unit at Dhenkanal, Odisha; Keonjhar iron ore mine. Checked 23 Nov 2026."
+ },
+ {
+  "name": "Jindal (India) Limited (B.C. Jindal Group)",
+  "segment": "Flat steel products: galvanised, galvalume, colour-coated, CRCA, pipes",
+  "revenue_inr_cr": 5637,
+  "revenue_year": "FY25 (FY24 5,359; 1HFY26 3,025)",
+  "reg_office": "Howrah, West Bengal (CIN U51109WB1991PLC092393)",
+  "decision_office": "Not confirmed: plants and registered office (CIN) in West Bengal; India Ratings names no office; B.C. Jindal group HQ is Delhi (inferred)",
+  "plants": [
+   {
+    "site": "Jangalpur and Ranihati, Howrah",
+    "state": "West Bengal",
+    "what": "pipes 568 ktpa, GC sheets 108 ktpa, galvalume 486 ktpa, colour-coated 408 ktpa, aluminium foil 20 ktpa, crash barriers 36 ktpa"
+   }
+  ],
+  "promoter_group": "B.C. Jindal Group",
+  "promoters": [],
+  "group_companies": [
+   {
+    "name": "Jindal Poly Film / Jindal Poly Investment (B.C. Jindal group)",
+    "role_in_chain": "Other group businesses (not metals)",
+    "listed": "yes"
+   }
+  ],
+  "sources": [
+   "https://www.indiaratings.co.in/pressrelease/81524",
+   "https://theprint.in/economy/jil-commissions-rs-1100cr-advanced-metal-coating-line-in-bengal/2847974",
+   "https://www.outlookbusiness.com/corporate/steel-product-maker-jindal-india-completes-1500-crore-expansion-in-bengal",
+   "https://www.tofler.in/jindal-india-limited/company/U51109WB1991PLC092393"
+  ],
+  "certainty": "verified",
+  "notes": "Almost certainly >500 cr (Rs 1,500 cr capex, 1 MTPA coating) but no audited revenue found. Decision office may be Delhi: verify.",
+  "revenue_basis": "revenue, India Ratings 18 Feb 2026",
+  "exchange": "unlisted",
+  "verification_note": "Revenue resolved (5,637 cr). Decision office remains inferred. Changed: revenue_inr_cr: None -> 5637; revenue_year: Company figure not found; B.C. Jindal Group turnover >18,000 cr (press) -> FY25 (FY24 5,359; 1HFY26 3,025); decision_office: Kolkata/Howrah, West Bengal (inferred; group HQ is Delhi) -> Not confirmed: plants and registered office (CIN) in West Bengal; India Ratings names no office; B.C. Jindal group HQ is Delhi (inferred) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Sree Metaliks Limited",
+  "segment": "Integrated steel: iron ore mining, sponge iron, pig iron, billets, TMT",
+  "revenue_inr_cr": 2516,
+  "revenue_year": "FY25 provisional (FY24 2,060)",
+  "reg_office": "Kolkata, West Bengal (8/1 New Tangra Road; CIN U26939WB1995PLC075633)",
+  "decision_office": "Unclear: Acuité calls it 'Odisha based'; registered office Kolkata per CIN (WB). Flag before treating as a Kolkata decision-maker",
+  "plants": [
+   {
+    "site": "Rugudi, Anra and Angul",
+    "state": "Odisha",
+    "what": "integrated steel: sponge iron, billets, pig iron, pellets, TMT"
+   },
+   {
+    "site": "Khandbandh, Keonjhar",
+    "state": "Odisha",
+    "what": "iron ore mine"
+   }
+  ],
+  "promoter_group": "Agarwal family",
+  "promoters": [
+   {
+    "name": "Mahesh Kumar Agarwal",
+    "role": "Manages SAL Steel"
+   },
+   {
+    "name": "Kaustubh Agarwal",
+    "role": "Manages SAL Steel"
+   }
+  ],
+  "group_companies": [
+   {
+    "name": "SAL Steel Ltd",
+    "role_in_chain": "Acquired Sep 2025 (57.5% rising to 70.5%); sponge iron/ferro alloys, Gujarat",
+    "listed": "yes (BSE)"
+   }
+  ],
+  "sources": [
+   "https://www.acuite.in/documents/ratings/revised/29905-RR-20250701.pdf",
+   "https://connect.acuite.in/fcompany-details/SREE_METALIKS_LIMITED/31st_Mar_26",
+   "https://connect.acuite.in/fcompany-details/S_A_L_Steel_Limited/27th_Mar_26",
+   "https://www.thecompanycheck.com/company/sree-metaliks-ltd/U26939WB1995PLC075633"
+  ],
+  "certainty": "verified",
+  "notes": "Acuite A- (Mar 2026). Revenue approximate; pull exact FY25 from Acuite PR.",
+  "revenue_basis": "operating income, Acuité 1 Jul 2025",
+  "exchange": "unlisted",
+  "verification_note": "Revenue corrected from approx 1,500 to 2,516. Managed by Mahesh Agarwal. Changed: revenue_inr_cr: 1500 -> 2516; revenue_year: Approx. (crossed 1,500 cr in 2018-22; FY25 +22% per aggregator; exact figure not found) -> FY25 provisional (FY24 2,060); decision_office: Kolkata, West Bengal -> Unclear: Acuité calls it 'Odisha based'; registered office Kolkata per CIN (WB). Flag before treating as a Kolkata decision-maker Checked 23 Nov 2026."
+ },
+ {
+  "name": "Neo Metaliks Limited",
+  "segment": "Pig iron (foundry grade)",
+  "revenue_inr_cr": 754,
+  "revenue_year": "FY25 (FY24 921; H1FY26 303)",
+  "reg_office": "Kolkata, West Bengal (CIN U27109WB2003PLC097231)",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Durgapur",
+    "state": "West Bengal",
+    "what": "pig iron 188,000 tpa, new blast furnace from Jul 2025, 10 MW WHRB, sinter 300,000 tpa"
+   }
+  ],
+  "promoter_group": "Agarwal family (Kolkata)",
+  "promoters": [
+   {
+    "name": "Ravi Agarwal",
+    "role": "Manages operations (CRISIL 2018)"
+   },
+   {
+    "name": "Manish Agarwal",
+    "role": "Manages operations (CRISIL 2018)"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.careratings.com/upload/CompanyFiles/PR/202512141237_Neo_Metaliks_Limited.pdf",
+   "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/Neo_Metaliks_Limited_April_03_2018_RR.html"
+  ],
+  "certainty": "verified",
+  "notes": "CARE downgraded to BBB/Stable (Dec 2025); ICRA expects net losses. Promoter names dated (2018).",
+  "revenue_basis": "total operating income, CARE 31 Dec 2025",
+  "exchange": "unlisted",
+  "verification_note": "Year resolved as FY25 (declined from FY24). Rupa group; Ravi Agarwal oversees management. Changed: revenue_year: Latest year in CARE Dec 2025 release (likely FY25; year not visible in snippet) -> FY25 (FY24 921; H1FY26 303) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Lalbaba Engineering Limited",
+  "segment": "Cold-finished seamless tubes, precision forgings, rail systems",
+  "revenue_inr_cr": 771,
+  "revenue_year": "FY25 (FY24 598)",
+  "reg_office": "East Midnapore, West Bengal (CIN U30204WB2006PLC110060)",
+  "decision_office": "Kolkata / Howrah, West Bengal",
+  "plants": [
+   {
+    "site": "Howrah",
+    "state": "West Bengal",
+    "what": "R&D and manufacturing"
+   },
+   {
+    "site": "Haldia",
+    "state": "West Bengal",
+    "what": "Cold-finished seamless pipe expansion under PLI specialty steel"
+   }
+  ],
+  "promoter_group": "Lalbaba group (promoters not verified)",
+  "promoters": [],
+  "group_companies": [],
+  "sources": [
+   "https://www.careratings.com/upload/CompanyFiles/PR/202607120733_Lalbaba_Engineering_Limited.pdf",
+   "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791355329958.PDF",
+   "https://www.tube-tradefair.com/en/Media_News/News/Industry_News/Lalbaba_Engineering_advances_seamless_pipe_expansion_under_India%E2%80%99s_specialty_steel_incentive_scheme",
+   "https://www.tofler.in/lalbaba-engineering-limited/company/U30204WB2006PLC110060"
+  ],
+  "certainty": "verified",
+  "notes": "DRHP filed (SEBI Oct 2026): will drop out once listed. PLI specialty steel beneficiary: useful precedent for incentives work.",
+  "revenue_basis": "consolidated total operating income, CARE Jul 2026",
+  "exchange": "unlisted",
+  "verification_note": "Replaced annualised FY26 estimate with FY25 actual. Incorporated in Kolkata by the Dhanuka family. Plants not re-checked. Changed: revenue_inr_cr: 772 -> 771; revenue_year: FY26 annualised (IPO tracker); FY24 ~600 -> FY25 (FY24 598) Checked 23 Nov 2026."
+ },
+ {
+  "name": "Rungta Sons Private Limited",
+  "new": true,
+  "exchange": "unlisted",
+  "segment": "Iron ore mining (Odisha); manganese ore and ferro alloys since Jan 2024; steel since Sep 2025",
+  "revenue_inr_cr": 10579,
+  "revenue_year": "FY25 (FY24 8,919)",
+  "revenue_basis": "consolidated net revenue, India Ratings 28 Jul 2026",
+  "reg_office": "Kolkata, West Bengal (India Ratings)",
+  "decision_office": "Kolkata, West Bengal",
+  "plants": [
+   {
+    "site": "Iron ore mines",
+    "state": "Odisha",
+    "what": "iron ore; new coal, limestone, glauconite and iron ore mines due over 3 to 7 years"
+   },
+   {
+    "site": "Acquired ferro alloy and steel units",
+    "state": "not stated",
+    "what": "ferro alloys, steel"
+   }
+  ],
+  "promoter_group": "Rungta family (Nandlal Rungta)",
+  "promoters": [
+   {
+    "name": "Nandlal Rungta",
+    "role": "third-generation promoter, heads company"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.indiaratings.co.in/pressrelease/84637"
+  ],
+  "certainty": "verified",
+  "verification_note": "Missing from draft as a standalone entry (was only a group company under Rungta Mines). IND AA+/Stable. EBITDA margin about 42%. Checked 23 Nov 2026."
+ },
+ {
+  "name": "Bengal Energy Limited",
+  "new": true,
+  "exchange": "unlisted",
+  "segment": "Low-ash metallurgical coke, pig iron, ferro alloys, pellets; sponge iron and CPP project",
+  "revenue_inr_cr": 3799,
+  "revenue_year": "FY26 provisional (FY25 3,581)",
+  "revenue_basis": "total operating income, CARE Oct 2026",
+  "reg_office": null,
+  "decision_office": "Kolkata, West Bengal (promoter Om Prakash Jalan of Kolkata, per CARE)",
+  "plants": [
+   {
+    "site": "Midnapore",
+    "state": "West Bengal",
+    "what": "LAM coke 600,000 tpa, pig iron 425,000 tpa, ferro alloys 53,460 tpa, 48 MW captive power"
+   }
+  ],
+  "promoter_group": "Jalan family",
+  "promoters": [
+   {
+    "name": "Om Prakash Jalan",
+    "role": "Promoter, Chairman-cum-MD"
+   },
+   {
+    "name": "Navin Maheshwari",
+    "role": "Promoter"
+   }
+  ],
+  "group_companies": [],
+  "sources": [
+   "https://www.careratings.com/upload/CompanyFiles/PR/202610131001_Bengal_Energy_Limited.pdf"
+  ],
+  "certainty": "verified",
+  "verification_note": "Missing from draft. Registered office not stated in CARE release. Checked 23 Nov 2026."
+ },
+ {
+  "near_miss": [
+   {
+    "name": "Gajanan Ferro Pvt Ltd",
+    "segment": "Ferro alloys",
+    "revenue_inr_cr": 388,
+    "revenue_year": "FY26 estimate (ICRA)",
+    "decision_office": "Kolkata (subsidiary of Berry Alloys)",
+    "certainty": "verified",
+    "sources": [
+     "https://www.icra.in/Rating/GetRationalReportFilePdf?id=140093"
+    ]
+   },
+   {
+    "name": "MB Sponge and Power Ltd",
+    "segment": "Sponge iron, Bankura",
+    "revenue_inr_cr": 295,
+    "revenue_year": "FY25 (CRISIL)",
+    "decision_office": "West Bengal (Kolkata inferred)",
+    "certainty": "verified",
+    "notes": "Just under 300 cr",
+    "sources": [
+     "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/MBSpongeandPowerLimited_February%2006_%202026_RR_388656.html"
+    ]
+   },
+   {
+    "name": "EMTA Coal Ltd",
+    "segment": "Coal mining (Tara open cast) / mine developer",
+    "revenue_inr_cr": 250,
+    "revenue_year": "Range 200-300 cr (Tofler, aggregator)",
+    "decision_office": "Kolkata",
+    "certainty": "reported",
+    "notes": "Below band but relevant coal MDO",
+    "sources": [
+     "https://www.tofler.in/emta-coal-limited/company/U10100WB2010PLC143956"
+    ]
+   },
+   {
+    "name": "AMPL Resources Pvt Ltd (erstwhile Ambey Mining)",
+    "segment": "Coal mine developer-operator via JVs (Gangaramchak, Transdamodar)",
+    "revenue_inr_cr": null,
+    "revenue_year": "not found",
+    "decision_office": "Kolkata",
+    "certainty": "inferred",
+    "sources": [
+     "https://www.acuite.in/documents/ratings/revised/27890-RR-20250424.pdf"
+    ]
+   }
+  ],
+  "not_found": [
+   {
+    "name": "HP Ispat (Dollar TMT)",
+    "note": "No rating release found on CARE, India Ratings or CRISIL search; ICRA and Acuité Connect unreachable."
+   },
+   {
+    "name": "Serajuddin & Co",
+    "note": "No rating release found on CARE, India Ratings or CRISIL search."
+   },
+   {
+    "name": "B.S. Sponge",
+    "note": "No rating release found; draft says draft IPO papers filed Oct 2026 (not re-checked)."
+   },
+   {
+    "name": "Concast Maxx brand owner",
+    "note": "Not identified. CARE has Concast Bengal Industries (last release 2014); India Ratings 'Concast' hits are Jharkhand companies (Swati Concast, Giridih; Vananchal Concast)."
+   }
+  ]
+ }
+]

@@ -1,0 +1,114 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Metals Mining Head Office Map</title>
+<style>
+:root{--bg:#f6f5f1;--card:#fff;--ink:#1c2330;--muted:#5d6675;--line:#dcd9d0;--accent:#2f6f8f;--accent2:#d8e8f0;--queue:#cfdde5;--land:#eeece6;--a:#1f3a5f;--warn:#9a4a1a;--ok:#2e7d4f}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#13161b;--card:#1b1f26;--ink:#e6e8ec;--muted:#9aa3b2;--line:#333a46;--accent:#5fa8c8;--accent2:#24404e;--queue:#2c4552;--land:#20252d;--a:#8db4e6;--warn:#e09a6a;--ok:#7cc79a}}
+:root[data-theme="dark"]{--bg:#13161b;--card:#1b1f26;--ink:#e6e8ec;--muted:#9aa3b2;--line:#333a46;--accent:#5fa8c8;--accent2:#24404e;--queue:#2c4552;--land:#20252d;--a:#8db4e6;--warn:#e09a6a;--ok:#7cc79a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:14.5px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+header{max-width:1400px;margin:0 auto;padding:20px 16px 6px}h1{font-size:24px;margin:0}.m{color:var(--muted);font-size:12.5px}
+.box{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:8px;padding:10px 16px;margin:12px 0}.box ul{margin:4px 0;padding-left:18px}.box li{margin:3px 0}
+.wrap{max-width:1400px;margin:0 auto;padding:0 16px 48px;display:grid;grid-template-columns:minmax(300px,460px) minmax(0,1fr);gap:18px;align-items:start}
+@media(max-width:900px){.wrap{grid-template-columns:1fr}}
+.mapcard{position:sticky;top:10px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px}
+@media(max-width:900px){.mapcard{position:static}}
+svg.map{width:100%;height:auto;display:block}
+svg.map path{stroke:var(--card);stroke-width:.7;fill:var(--land);transition:fill .15s}
+svg.map path.q{fill:var(--queue)}svg.map path.on{fill:var(--accent);cursor:pointer}svg.map path.on:hover{opacity:.85}
+svg.map path.sel{stroke:var(--ink);stroke-width:1.6}svg.map path.q{cursor:pointer}
+.legend{display:flex;gap:12px;flex-wrap:wrap;font-size:12px;color:var(--muted);margin-top:6px}.sw{display:inline-block;width:11px;height:11px;border-radius:2px;vertical-align:-1px;margin-right:4px}
+.panel{min-width:0;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;min-height:600px}
+.panel h2{margin:0 0 2px;font-size:20px}.kpis{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0}
+.kpi{border:1px solid var(--line);border-radius:8px;padding:6px 12px;min-width:110px}.kpi b{display:block;font-size:18px}.kpi span{font-size:11.5px;color:var(--muted)}
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin:12px 0 10px;flex-wrap:wrap}
+.tabs button{font:inherit;background:none;border:none;border-bottom:2px solid transparent;padding:7px 12px;color:var(--muted);cursor:pointer}
+.tabs button.act{color:var(--ink);border-color:var(--accent);font-weight:600}
+.scroll{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:12.8px}td{max-width:260px}th,td{padding:6px 8px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{font-size:11.5px;color:var(--muted);font-weight:600;position:sticky;top:0;background:var(--card)}
+.tag{font-size:10.5px;border:1px solid var(--line);border-radius:10px;padding:0 6px;white-space:nowrap;color:var(--muted)}
+.tag.verified{border-color:var(--ok);color:var(--ok)}.tag.inferred{border-color:var(--warn);color:var(--warn)}
+.pill{font-size:10.5px;background:var(--accent2);border-radius:4px;padding:1px 6px;white-space:nowrap}
+.ctrl{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px}.ctrl input,.ctrl select{font:inherit;font-size:13px;padding:5px 9px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink)}
+.fam{border:1px solid var(--line);border-radius:8px;margin:8px 0}.fam>summary{padding:9px 12px;cursor:pointer;list-style:none}.fam>summary::-webkit-details-marker{display:none}
+.fam>summary b{font-size:14.5px}.fam .body{padding:0 12px 12px}
+.gens{display:flex;gap:10px;overflow-x:auto;padding:6px 0}.gen{min-width:170px;flex:1}.gen h5{margin:0 0 4px;font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+.person{border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:6px;padding:5px 8px;margin:4px 0;font-size:12.5px}.person i{color:var(--muted);font-style:normal;font-size:11.5px;display:block}
+.chain{display:flex;flex-wrap:wrap;gap:4px;align-items:center;margin:6px 0}.chain .st{border:1px solid var(--line);border-radius:6px;padding:3px 8px;font-size:12px;background:var(--bg)}.chain .ar{color:var(--muted)}
+.empty{color:var(--muted);padding:30px 0;text-align:center}
+.netwrap{border:1px solid var(--line);border-radius:8px;padding:6px}svg.net text{fill:var(--ink);font-size:10px}svg.net line{stroke-width:2}
+.lk{display:inline-block;width:18px;height:3px;vertical-align:middle;margin-right:4px}
+.vc td.c{text-align:center;font-size:11.5px}.vc td.c span{background:var(--accent2);border-radius:4px;padding:1px 5px;display:inline-block;margin:1px}
+a{color:var(--accent)}
+</style></head><body>
+<header><h1>Metals and mining: head-office map of India</h1>
+<div class="m">Prepared {{DATE}} · Companies are placed by <b>decision office</b> (corporate / head office); registered office shown where different · Revenue floor ₹500 crore · Listed (BSE/NSE) first, then unlisted</div>
+<!--TAKEAWAYS-->
+</header>
+<div class="wrap">
+ <div class="mapcard"><svg class="map" viewBox="0 0 560 640" id="map" role="img" aria-label="Map of India by state"></svg>
+  <div class="legend"><span><i class="sw" style="background:var(--accent)"></i>Mapped (click)</span><span><i class="sw" style="background:var(--queue)"></i>Queued</span><span><i class="sw" style="background:var(--land)"></i>Not in scope yet</span></div>
+  <div class="m" style="margin-top:6px">Boundaries per official map of India; state outlines simplified for display.</div></div>
+ <div class="panel" id="panel"></div>
+</div>
+<script>
+const P=/*PATHS*/, D=/*DATA*/, Q=/*QUEUE*/;
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=n=>n==null?"—":"₹"+Number(n).toLocaleString("en-IN")+" cr";
+const tag=c=>{const full=String(c||"inferred");let w=full.toLowerCase();w=w.startsWith("high")||w.startsWith("verif")?"verified":w.startsWith("medium")||w.startsWith("report")?"reported":w.startsWith("low")||w.startsWith("infer")?"inferred":w.split(" ")[0];return `<span class="tag ${w}" title="${esc(full)}">${esc(w)}</span>`};
+const svg=document.getElementById("map");let sel=null;
+for(const [nm,v] of Object.entries(P)){const p=document.createElementNS("http://www.w3.org/2000/svg","path");p.setAttribute("d",v.d);
+ p.classList.add(D[nm]?"on":Q.includes(nm)?"q":"x");const t=document.createElementNS("http://www.w3.org/2000/svg","title");
+ t.textContent=nm+(D[nm]?` — ${D[nm].companies.length} companies`:Q.includes(nm)?" — queued":"");p.appendChild(t);
+ p.addEventListener("click",()=>show(nm,p));svg.appendChild(p);}
+function office(o){if(!o)return"—";return typeof o==="string"?o:[o.address,o.city,o.state].filter(Boolean).join(", ")}
+function plantsTxt(pl){if(!pl||!pl.length)return"—";return [...new Set(pl.map(x=>x.state).filter(Boolean))].join(", ")}
+function show(nm,el){if(sel)sel.classList.remove("sel");if(el){el.classList.add("sel");sel=el}
+ const pn=document.getElementById("panel");const d=D[nm];
+ if(!d){pn.innerHTML=`<h2>${esc(nm)}</h2><div class="empty">${Q.includes(nm)?"Queued: this state will be mapped after sign-off on West Bengal.":"No metals and mining head offices mapped for this state yet."}</div>`;return}
+ const L=d.companies.filter(c=>c.kind==="Listed"),U=d.companies.filter(c=>c.kind==="Unlisted");
+ const tot=d.companies.reduce((a,c)=>a+(c.revenue_inr_cr||0),0);
+ pn.innerHTML=`<h2>${esc(nm)}</h2><div class="m">Metals and mining companies whose decisions are made from this state</div>
+ <div class="kpis"><div class="kpi"><b>${L.length}</b><span>Listed companies</span></div><div class="kpi"><b>${U.length}</b><span>Unlisted companies</span></div>
+ <div class="kpi"><b>${d.groups.length}</b><span>Promoter groups mapped</span></div><div class="kpi"><b>${d.links.length}</b><span>Links between families</span></div></div>
+ <div class="tabs">${["Companies","Families","Family links","Value chain"].map((t,i)=>`<button data-t="${i}" class="${i?"":"act"}">${t}</button>`).join("")}</div><div id="tab"></div>`;
+ pn.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>{pn.querySelectorAll(".tabs button").forEach(x=>x.classList.remove("act"));b.classList.add("act");render(d,+b.dataset.t)});
+ render(d,0)}
+function render(d,t){const T=document.getElementById("tab");
+ if(t===0){T.innerHTML=`<div class="ctrl"><input id="fq" placeholder="Search company, family, segment…"><select id="fk"><option value="">Listed and unlisted</option><option>Listed</option><option>Unlisted</option></select></div>
+ <div class="scroll"><table><thead><tr><th>Company</th><th>Segment</th><th>Revenue</th><th>Decision office</th><th>Registered office</th><th>Plants in</th><th>Promoter group</th><th>Certainty</th></tr></thead><tbody id="cb"></tbody></table></div>
+ <div class="m" style="margin-top:6px">Revenue: latest full year, consolidated where available. "Adjacent" = metal-specific inputs (electrodes, refractories, pitch, mining consumables).</div>`;
+ const draw=()=>{const q=document.getElementById("fq").value.toLowerCase(),k=document.getElementById("fk").value;
+  document.getElementById("cb").innerHTML=d.companies.filter(c=>(!k||c.kind===k)&&JSON.stringify(c).toLowerCase().includes(q)).map(c=>{
+   const ro=c.reg_short||office(c.reg_office),dov=c.dec_short||office(c.decision_office);
+   return `<tr><td style="min-width:150px"><b>${esc(c.name_short||c.name)}</b><br><span class="pill">${c.kind}${c.exchange?" · "+esc(c.exchange):""}</span>${c.category==="adjacent"?' <span class="pill">Adjacent</span>':""}${c.new?' <span class="pill">New</span>':""}</td>
+   <td>${esc(c.segment)}</td><td style="white-space:nowrap">${fmt(c.revenue_inr_cr)}<br><span class="m" title="${esc(c.revenue_year||"")}">${esc(String(c.revenue_year||"").slice(0,28))}</span></td>
+   <td title="${esc(office(c.decision_office))}">${esc(dov)}</td><td title="${esc(office(c.reg_office))}">${ro===dov?'<span class="m">Same</span>':esc(ro)}</td><td>${esc(plantsTxt(c.plants))}</td><td>${esc(c.promoter_group)}</td><td>${tag(c.certainty)}</td></tr>`}).join("")};
+  document.getElementById("fq").oninput=draw;document.getElementById("fk").onchange=draw;draw();return}
+ if(t===1){if(!d.groups.length){T.innerHTML='<div class="empty">Family mapping in progress.</div>';return}
+  T.innerHTML=d.groups.map(g=>{const gens={};(g.people||[]).forEach(p=>{const k=p.generation||"Other";(gens[k]=gens[k]||[]).push(p)});
+   const gk=Object.keys(gens).sort();
+   return `<details class="fam"><summary><b>${esc(g.family||g.group)}</b> <span class="m">· ${esc(g.group)} · ${(g.companies||[]).length} companies · decision office ${esc(g.decision_office||"")}</span> ${tag(g.certainty)}</summary><div class="body">
+   <p>${esc(g.control_summary)}</p>
+   ${gk.length?`<div class="gens">${gk.map(k=>`<div class="gen"><h5>${esc(isNaN(k)?k:"Generation "+k)}</h5>${gens[k].map(p=>`<div class="person"><b>${esc(p.name)}</b><i>${esc(p.role||"")}${p.relation?" · "+esc(p.relation):""}</i></div>`).join("")}</div>`).join("")}</div>`:""}
+   ${g.chain_summary?`<p><b>Upstream to downstream:</b> ${esc(g.chain_summary)}</p>`:""}
+   ${(g.companies||[]).length?`<div class="scroll"><table><thead><tr><th>Group company</th><th>Stage in chain</th><th>State</th><th>Listed</th><th>Note</th></tr></thead><tbody>${g.companies.map(c=>`<tr><td>${esc(c.name)}</td><td>${esc(c.chain_stage)}</td><td>${esc(c.state)}</td><td>${esc(c.listed)}</td><td>${esc(c.ownership_note||"")}</td></tr>`).join("")}</tbody></table></div>`:""}
+   ${g.splits_disputes?`<p><b>Splits, disputes, transfers:</b> ${esc(g.splits_disputes)}</p>`:""}
+   ${(g.sources||[]).length?`<div class="m">Sources: ${g.sources.slice(0,6).map((s,i)=>`<a href="${esc(s)}" target="_blank" rel="noopener">[${i+1}]</a>`).join(" ")}</div>`:""}
+   </div></details>`}).join("");return}
+ if(t===2){if(!d.links.length){T.innerHTML='<div class="empty">No inter-family links mapped yet.</div>';return}
+  const names=[...new Set(d.links.flatMap(l=>[l.from_short,l.to_short]))];const n=names.length,R=Math.min(210,60+n*9),W=2*R+260,H=2*R+80,cx=W/2,cy=H/2;
+  const pos={};names.forEach((nm,i)=>{const a=-Math.PI/2+2*Math.PI*i/n;pos[nm]=[cx+R*Math.cos(a),cy+R*Math.sin(a),a]});
+  const col={marriage:"#c0507a","shared ancestry":"#2f6f8f",split:"#8a6d1f","cross-holding":"#5b7f3a","asset transfer":"#7a5bb5",dispute:"#b3441e"};
+  const types=[...new Set(d.links.map(l=>l.type))];
+  T.innerHTML=`<div class="netwrap scroll"><svg class="net" viewBox="0 0 ${W} ${H}" style="min-width:520px;width:100%">
+   ${d.links.map(l=>{const a=pos[l.from_short],b=pos[l.to_short];if(l.from_short===l.to_short)return `<circle cx="${a[0]}" cy="${a[1]}" r="11" fill="none" stroke="${col[l.type]||"#888"}" stroke-width="2"><title>${esc(l.type+": "+l.description)}</title></circle>`;return `<line x1="${a[0]}" y1="${a[1]}" x2="${b[0]}" y2="${b[1]}" stroke="${col[l.type]||"#888"}" ${l.certainty&&!l.certainty.startsWith("verif")?'stroke-dasharray="4 3"':""}><title>${esc(l.type+": "+l.description)}</title></line>`}).join("")}
+   ${names.map(nm=>{const [x,y,a]=pos[nm],right=Math.cos(a)>=0;return `<circle cx="${x}" cy="${y}" r="5" fill="var(--accent)"/><text x="${x+(right?8:-8)}" y="${y+3}" text-anchor="${right?"start":"end"}">${esc(nm)}</text>`}).join("")}
+  </svg><div class="legend">${types.map(t=>`<span><i class="lk" style="background:${col[t]||"#888"}"></i>${esc(t)}</span>`).join("")}<span>Dashed = reported / inferred</span></div></div>
+  <div class="scroll" style="margin-top:10px"><table><thead><tr><th>From</th><th>To</th><th>Type</th><th>What</th><th>Certainty</th></tr></thead><tbody>
+  ${d.links.map(l=>`<tr><td>${esc(l.from_short)}</td><td>${esc(l.to_short)}</td><td>${esc(l.type)}</td><td>${esc(l.description)}${l.source?` <a href="${esc(l.source)}" target="_blank" rel="noopener">source</a>`:""}</td><td>${tag(l.certainty)}</td></tr>`).join("")}</tbody></table></div>${(d.checked||[]).length?`<p class="m" style="margin-top:10px"><b>Checked, no link found:</b> ${d.checked.map(l=>esc(l.from_short+" ↔ "+l.to_short)).join("; ")}</p>`:""}<p class="m">Ring around a node = split or dispute within the same family.</p>`;return}
+ if(t===3){const ST=[["Mining","mining|mine|ore|coal|collier"],["Pellets / beneficiation","pellet|benefic"],["Sponge / pig iron","sponge|dri|pig iron|hot metal|blast"],["Steel making","steel mak|billet|melt|sms|integrated steel|ingot"],["Rolling: long & flat","tmt|rolling|rebar|wire rod|flat|cold roll|hot roll|structural"],["Ferro-alloys","ferro|silico|alloy"],["Downstream products","pipe|tube|wire|rope|coat|galvan|forg|cast|tower|foil|sheet|packag"],["Power","power|captive"]];
+  const rows=d.groups.filter(g=>(g.companies||[]).length).map(g=>{const cells=ST.map(([nm,re])=>{const r=new RegExp(re,"i");const hit=g.companies.filter(c=>r.test(c.chain_stage||""));return [...new Set(hit.map(c=>c.state_short||c.state||"?"))]});return {g,cells}});
+  if(!rows.length){T.innerHTML='<div class="empty">Value chain mapping in progress.</div>';return}
+  T.innerHTML=`<div class="m">Where each family group operates along the chain, and in which state. Read left to right: mine to finished product.</div><div class="scroll vc"><table><thead><tr><th>Group</th>${ST.map(s=>`<th>${s[0]}</th>`).join("")}</tr></thead><tbody>
+  ${rows.map(r=>`<tr><td><b>${esc(r.g.family||r.g.group)}</b></td>${r.cells.map(c=>`<td class="c">${c.length?c.map(s=>`<span>${esc(s)}</span>`).join(""):'<span style="background:none;color:var(--line)">–</span>'}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`}}
+show("West Bengal",[...svg.querySelectorAll("path")].find(p=>p.querySelector("title").textContent.startsWith("West Bengal")));
+</script></body></html>
