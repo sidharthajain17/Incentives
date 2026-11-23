@@ -79,6 +79,7 @@ function show(nm,el){if(sel)sel.classList.remove("sel");if(el){el.classList.add(
  pn.innerHTML=`<h2>${esc(nm)}</h2><div class="m">Metals and mining companies whose decisions are made from this state</div>
  <div class="kpis"><div class="kpi"><b>${L.length}</b><span>Listed companies</span></div><div class="kpi"><b>${U.length}</b><span>Unlisted companies</span></div>
  <div class="kpi"><b>${d.groups.length}</b><span>Promoter groups mapped</span></div><div class="kpi"><b>${d.links.length}</b><span>Links between families</span></div></div>
+ ${d.takeaways?`<div class="box"><b>Key takeaways: ${esc(nm)}</b>${d.takeaways}</div>`:""}
  <div class="tabs">${["Companies","Families","Family links","Value chain"].map((t,i)=>`<button data-t="${i}" class="${i?"":"act"}">${t}</button>`).join("")}</div><div id="tab"></div>`;
  pn.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>{pn.querySelectorAll(".tabs button").forEach(x=>x.classList.remove("act"));b.classList.add("act");render(d,+b.dataset.t)});
  render(d,0)}

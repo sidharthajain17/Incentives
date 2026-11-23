@@ -9,10 +9,11 @@ def load(name):
     p = os.path.join(S, name)
     return json.load(open(p)) if os.path.exists(p) else None
 
-STATES = {"West Bengal": "wb"}  # extended as states are signed off
+STATES = {"West Bengal": "wb", "Maharashtra": "mh"}  # extended as states are added
 QUEUE = ["Maharashtra", "Delhi", "Chhattisgarh", "Odisha", "Telangana", "Gujarat", "Jharkhand", "Karnataka", "Rajasthan", "Punjab", "Haryana", "Uttar Pradesh", "Tamil Nadu", "Andhra Pradesh", "Madhya Pradesh"]
 data = {}
 for st, code in STATES.items():
+    if not os.path.exists(os.path.join(S, f"{code}_listed_v.json")): continue
     L = load(f"{code}_listed_v.json") or load(f"{code}_listed.json") or []
     U = load(f"{code}_unlisted_v.json") or load(f"{code}_unlisted.json") or []
     F = load(f"{code}_families.json") or {"groups": [], "links": []}
@@ -79,21 +80,13 @@ for st, code in STATES.items():
         keys = {tuple(tok(c["name"])[:1]) for c in g.get("companies", []) if tok(c["name"])}
         return sum((c.get("revenue_inr_cr") or 0) for c in cos if tuple(tok(c["name"])[:1]) in keys)
     F["groups"].sort(key=lambda g: -gsize(g))
-    data[st] = {"companies": cos, "groups": F.get("groups", []), "links": F.get("links", []), "checked": F.get("checked", [])}
+    data[st] = {"companies": cos, "groups": F.get("groups", []), "links": F.get("links", []), "checked": F.get("checked", []), "takeaways": open(os.path.join(S, f"{code}_takeaways.html")).read() if os.path.exists(os.path.join(S, f"{code}_takeaways.html")) else ""}
 
-TK = """<div class="box"><b>Key takeaways: West Bengal (Kolkata)</b><ul>
-<li><b>45 metals and mining companies above ₹500 crore make their decisions from Kolkata:</b> 26 listed and 19 unlisted. Almost all of them have both registered and decision office in Kolkata. Three listed companies are registered in Odisha but run from Kolkata (Electrosteel Castings, IFGL Refractories, VISA Chrome). <span class="tag verified">verified</span></li>
-<li><b>Unlisted companies outweigh listed private ones.</b> Unlisted companies together report about ₹1.03 lakh crore of revenue, against about ₹74,000 crore for the listed private companies (excluding Coal India). The largest private group in Kolkata, Rashmi (about ₹31,700 crore, FY25), is unlisted, as are Rungta Mines and Rungta Sons. A listed-only view would miss the biggest relationships. <span class="tag verified">verified</span> (rating reports)</li>
-<li><b>Kolkata decides, but most plants are elsewhere.</b> Of 113 plant locations, 49 are in West Bengal. The rest sit mainly in Odisha, Jharkhand and Andhra Pradesh. A Kolkata relationship therefore drives work across the eastern mineral belt. <span class="tag">interpretation</span></li>
-<li><b>Ownership is family-held, often split between branches.</b> Manaksia became four listed companies, one for each family line (2013). The two branches of the Jhawar family behind Usha Martin have been in dispute since 2017. The Beriwala family has two separate steel brands (Shyam Steel and SRMB). The Bansal families behind Skipper and BMW Industries likely share a common ancestor. Jindal (India) belongs to the B.C. Jindal branch, B.C. Jindal being O.P. Jindal's brother. <span class="tag verified">verified</span> / <span class="tag inferred">inferred</span> as tagged</li>
-<li><b>The same surname does not mean the same family.</b> Five separate Agarwal steel groups were identified. MSP Steel and Manaksia each have a different "Suresh Kumar Agrawal". It is worth mapping each company to the right branch before any outreach. <span class="tag verified">verified</span></li>
-<li><b>Marriage links come from the daughters' married surnames.</b> Promoter-group filings list daughters under their married names. For example, Umang Kejriwal's daughters appear as Kejriwal Agarwal, Kejriwal Jaiswal and Kejriwal Mehta; Mayank Kejriwal's daughter as Todi; a Shyam Metalics daughter as Jhunjhunwala; and Rupa family daughters as Patodia and Patwari. The filings do not say which family each married into, so these are shown as clues on each family card. The one sourced cross-family marriage touches this map only indirectly: Puja Bangur of the Shree Cement branch married Agnivesh Agarwal, son of Vedanta's Anil Agarwal, in 2013. It does not involve the Graphite India branch. <span class="tag">reported</span> / <span class="tag verified">verified</span> as tagged</li>
-<li><b>Two names can mislead.</b> Cosmic CRF's promoter Aditya Vikram Birla, son of Ravi Kumar Birla, is not connected to the Aditya Birla Group. Jindal (India) belongs to the B.C. Jindal line (B.C. Jindal being O.P. Jindal's brother), not to JSW or Jindal Steel. <span class="tag verified">verified</span> / <span class="tag">reported</span></li>
-</ul></div>"""
+
 page = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "hq_template.html")).read()
 page = (page.replace("/*PATHS*/", json.dumps(paths))
             .replace("/*DATA*/", json.dumps(data, ensure_ascii=False))
-            .replace("/*QUEUE*/", json.dumps(QUEUE))
-            .replace("{{DATE}}", "23 Nov 2026").replace("<!--TAKEAWAYS-->", TK))
+            .replace("/*QUEUE*/", json.dumps([q for q in QUEUE if q not in data]))
+            .replace("{{DATE}}", "23 Nov 2026").replace("<!--TAKEAWAYS-->", ""))
 open(OUT, "w").write(page)
 print("ok", {k: (len(v["companies"]), len(v["groups"]), len(v["links"])) for k, v in data.items()})
