@@ -1,5 +1,13 @@
 # Changelog
 
+## 23 Nov 2026 — Metals and mining market map, version 1
+
+- **New library output: `outputs/metals-mining-market-map-2026.html` and `.xlsx`.** It maps 62 companies (23 Tier A, 39 Tier B) and 165 plant and mine site clusters across 20 states and union territories. Coverage runs from mining (coal, lignite, iron ore, manganese, bauxite, mineral sands) through primary metals (steel, aluminium, copper, zinc), specialty, stainless and ferro-alloys, rare earths and critical minerals, to downstream products (pipes, forgings, castings, wire, coated steel).
+- **Design agreed with Sid:** tiers set by revenue (Tier A above ₹10,000 crore; Tier B ₹1,000 to 10,000 crore); every ownership type covered (private Indian, central and state public sector, MNC and joint venture, unlisted); all metals and mining states; delivered as an HTML map plus an Excel file.
+- **Each company has three locations:** registered office, decision office and plant sites. Announced expansions are logged as market view, so they can later be linked to the state policy each would fall under.
+- **Certainty:** every row is inferred, compiled from public disclosures up to mid-2026, and is to be checked against FY26 annual reports. Restructurings are tagged evolving: the Vedanta demerger, the Jindal Steel renaming, the Vizag Steel revival and the Thoothukudi copper closure. Mid-sized Tier B units are deliberately under-counted.
+- The Excel file carries blank coverage-planning columns. These are for Sid's local copy only; no client or engagement data enters the repository.
+
 ## 13 Nov 2026 (later) — Gujarat decode verified against the Government Resolutions
 
 - **Primary documents obtained and committed.** Sid downloaded the policy document and the two Government Resolutions of 8 September 2026 and supplied them directly. They are held at `states/gujarat/source-documents/`. The Large, Mega and Ultra Mega scheme Resolution and the taluka classification Resolution have both been read in full; the 44-page policy document is held but not yet read.

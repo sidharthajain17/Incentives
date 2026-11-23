@@ -12,7 +12,7 @@ Rules: see CLAUDE.md. Claude maintains everything here.
 | Central ministries | Not started |
 | Regional schemes | Not started |
 | States | **Gujarat decoded.** Industrial policy 2026 (full tier), state profile, source register. State sectoral policies not yet decoded |
-| Sectors | Not started |
+| Sectors | **Metals and mining market map v1** (23 Nov 2026): 62 companies, 165 sites, tiered, with registered office, decision office and plant states. Inferred, verification pending. `outputs/metals-mining-market-map-2026.html` / `.xlsx`. Sector incentive map not started |
 | Deals database | Not started |
 | Plays (the brain) | Three candidate plays drafted inside the Gujarat decode, not yet written into `plays/` |
 | Watch list | Entries identified in the Gujarat decode, not yet written into `watch/pipeline.md` |
